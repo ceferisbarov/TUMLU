@@ -10,4 +10,5 @@ todo.md
 data/*/*
 !data/*/dev/
 !data/*/test/
+!data/*/outputs/
 !data/*/create_json.py

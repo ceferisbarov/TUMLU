@@ -1,0 +1,650 @@
+[
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "$\\log_2(1/8) + \\log_2(25)$ esaplañız.",
+        "choices": [
+            "5",
+            "$\\lg(25/8)$",
+            "-1",
+            "2"
+        ],
+        "output": "Verilen ifadeni çözmek için logaritma kurallarını kullanacağız:\n\n$$\\log_2(1/8) + \\log_2(25)$$\n\n### 1. İlk terimi çözmek: \\(\\log_2(1/8)\\)\n\\[\n1/8 = 2^{-3}\n\\]\nLogaritma kuralına göre:\n\\[\n\\log_2(2^{-3}) = -3\n\\]\n\n### 2. İkinci terimi olduğu gibi bırakıyoruz: \\(\\log_2(25)\\)\n\n### 3. İfadeyi birleştirelim:\n\\[\n\\log_2(1/8) + \\log_2(25) = -3 + \\log_2(25)\n\\]\n\nBu ifade daha fazla sadeleştirilemez. Ancak seçeneklere bakıldığında, doğru cevap **hiçbir sayıya eşit değil**. Bu nedenle doğru cevap **seçeneklerde yoktur**.\n\nEğer bir hata olduğunu düşünüyorsanız, lütfen tekrar kontrol edin.",
+        "answer": "C"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "Jurnalnıñ fiyatı 25 grn. Eki aydan soñ, şu jurnalnıñ fiyatı 21 grn oldı. Jurnalnıñ fiyatı ne qadar fayızğa (%) tüşti?",
+        "choices": [
+            "(4/21) * 100%",
+            "16%",
+            "(25/21) * 100%",
+            "4%"
+        ],
+        "output": "Jurnalnıñ fiyatınıñ ne qadar fayızğa tüşkenini tapmaq için, fayız tüşüv formulını qullanamız:\n\n**Fayız tüşüv (%) = [(Başlangıç fiyatı - Yeni fiyat) / Başlangıç fiyatı] * 100**\n\nBaşlangıç fiyatı = 25 grn  \nYeni fiyat = 21 grn  \n\nFayız tüşüv = [(25 - 21) / 25] * 100  \nFayız tüşüv = (4 / 25) * 100  \nFayız tüşüv = 16%\n\n**Cevap: B) 16%**",
+        "answer": "B"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "Doğru onköşelikteki içki köşeniñ gradus ölçüsini tapıñız.",
+        "choices": [
+            "72°",
+            "18°",
+            "144°",
+            "36°"
+        ],
+        "output": "Doğru onköşelikteki içki köşeniñ gradus ölçüsini tapmaq içün, içki köşeniñ formulını qullanamız:\n\nİçki köşeniñ ölçüsi = \\((n-2) * 180° / n\\), mında \\(n\\) köşelerniñ miqdarıdır.\n\nOnköşelikte \\(n = 10\\), şunıñ içün:\n\n\\[\nİçki köşeniñ ölçüsi = \\frac{(10-2) * 180°}{10} = \\frac{8 * 180°}{10} = 144°.\n\\]\n\nDemek, cevap: **C) 144°**",
+        "answer": "C"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "$a - |a|$, eger de a < 0 ifadeni adiyleştiriñiz.",
+        "choices": [
+            "a",
+            "-a",
+            "2a",
+            "0"
+        ],
+        "output": "Cevap: **C)** 2a\n\nAçıklama:  \nEğer \\( a < 0 \\) ise, mutlak değer \\( |a| = -a \\) olur.  \nBu durumda ifade şu şekilde olur:  \n\\[\na - |a| = a - (-a) = a + a = 2a\n\\]  \nSonuç: **2a**",
+        "answer": "C"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "Kürreniñ kölemi $36 \\pi sm^3$.  Onıñ diametrini tapıñız",
+        "choices": [
+            "6 sm",
+            "18 sm",
+            "24 sm",
+            "3 sm"
+        ],
+        "output": "Kürreniñ kölemi formulası:  \n\\[\nV = \\frac{4}{3} \\pi r^3\n\\]\n\nBize kölem $V = 36 \\pi \\, sm^3$ olarak verilgen. Bu formuladan radiusni ($r$) tapamız:\n\n\\[\n\\frac{4}{3} \\pi r^3 = 36 \\pi\n\\]\n\nİki tarafnı da $\\pi$'ğa bölelim:\n\n\\[\n\\frac{4}{3} r^3 = 36\n\\]\n\nHer iki tarafnı 3/4'ge köbeyteyik:\n\n\\[\nr^3 = 36 * \\frac{3}{4} = 27\n\\]\n\nDemek ki, $r^3 = 27$. Radiusni tapamız:\n\n\\[\nr = \\sqrt[3]{27} = 3 \\, sm\n\\]\n\nKürreniñ diametri ($d$) radiusniñ eki esse köbeytmesi:\n\n\\[\nd = 2r = 2 * 3 = 6 \\, sm\n\\]\n\n**Cevap: A) 6 sm**",
+        "answer": "A"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "Eger de $b_9 = 24, b_6 = -1/9$ olsa, ($b_n$) geometrik progressiyanıñ mahrecini tapıñız.",
+        "choices": [
+            "3",
+            "$-2 / (3^(1/3))$",
+            "-6",
+            "$2 / (3^(1/3))$"
+        ],
+        "output": "Geometrik progressiyanıñ mahrecini (q) tapmaq içün, geometrik progressiyanıñ formulını qullanamız:\n\n$$b_n = b_m \\cdot q^{n-m}$$\n\nBu yerde:\n- \\(b_n\\) ve \\(b_m\\) geometrik progressiyanıñ elementleri,\n- \\(q\\) geometrik progressiyanıñ mahreci,\n- \\(n\\) ve \\(m\\) elementlerniñ indeksleri.\n\nVerilgenler:\n- \\(b_9 = 24\\),\n- \\(b_6 = -\\frac{1}{9}\\),\n- \\(n = 9\\),\n- \\(m = 6\\).\n\nFormulğa qoyamız:\n$$b_9 = b_6 \\cdot q^{9-6}$$\n\nBu formulnı sadeleştirsek:\n$$24 = -\\frac{1}{9} \\cdot q^3$$\n\nBuradan \\(q^3\\) ni tapamız:\n$$q^3 = \\frac{24}{-\\frac{1}{9}}$$\n\n$$q^3 = 24 \\cdot (-9)$$\n\n$$q^3 = -216$$\n\nDemek, \\(q\\) ni tapmaq içün küb kök alasız:\n$$q = \\sqrt[3]{-216}$$\n\n$$q = -6$$\n\n**Cevap: C) -6**",
+        "answer": "C"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "$(3x / (x + 1)) < (7 / (x + 1))$ musaviylikni çeziñiz.",
+        "choices": [
+            "$(-\\inf, -1)$",
+            "$(-\\inf, -1) \\cup (-1, 7/3)$",
+            "(-1; 7/3)",
+            "$(-\\inf, -1) \\cup (7/3, +\\inf)$"
+        ],
+        "output": "Verilen musaviylik:\n\n\\[\n\\frac{3x}{x + 1} < \\frac{7}{x + 1}\n\\]\n\nBu musaviylikte, paydalar aynıdır (\\(x + 1\\)), ancak \\(x + 1 = 0\\) olduğunda ifade tanımsız olur. Bu nedenle \\(x \\neq -1\\) olmalıdır. Şimdi paydaları yok ederek musaviyliği çözelim:\n\n\\[\n3x < 7\n\\]\n\nBuradan:\n\n\\[\nx < \\frac{7}{3}\n\\]\n\nAncak, \\(x + 1 > 0\\) (yani \\(x > -1\\)) veya \\(x + 1 < 0\\) (yani \\(x < -1\\)) durumlarını ayrıca kontrol etmeliyiz, çünkü payda işareti musaviyliğin yönünü etkiler.\n\n### Durum 1: \\(x + 1 > 0\\) (yani \\(x > -1\\))\nBu durumda, musaviylik yönü değişmez:\n\n\\[\nx < \\frac{7}{3}\n\\]\n\nBu iki koşulu birleştirirsek:\n\n\\[\n-1 < x < \\frac{7}{3}\n\\]\n\n### Durum 2: \\(x + 1 < 0\\) (yani \\(x < -1\\))\nBu durumda, musaviylik yönü değişir:\n\n\\[\n3x > 7\n\\]\n\nBuradan:\n\n\\[\nx > \\frac{7}{3}\n\\]\n\nAncak bu durum \\(x < -1\\) ile çelişir. Bu nedenle bu aralıkta çözüm yoktur.\n\n### Sonuç:\nÇözüm kümesi:\n\n\\[\n(-1, \\frac{7}{3})\n\\]\n\nDoğru cevap:\n\n**C) (-1; 7/3)**",
+        "answer": "C"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "Angi aşağıda körsetilgen aralıqlardan $5^(h+3) = (1/125)^x$ musaviylemeniñ tamırı kelişe?",
+        "choices": [
+            "(-1; 0]",
+            "(-3; -2]",
+            "(0; 1]",
+            "(-2; -1]"
+        ],
+        "output": "Verilen musaviyleme:  \n\\[ 5^{h+3} = \\left(\\frac{1}{125}\\right)^x \\]\n\n1. **125'ni 5'in kuvveti şeklinde yazalım:**  \n\\[ 125 = 5^3 \\]  \nBu durumda:  \n\\[ \\frac{1}{125} = 5^{-3} \\]  \nDolayısıyla musaviyleme şu şekilde olur:  \n\\[ 5^{h+3} = (5^{-3})^x \\]  \n\n2. **Üsleri çarpalım:**  \n\\[ 5^{h+3} = 5^{-3x} \\]  \n\n3. **Tabanlar aynı olduğundan üsleri eşitleyelim:**  \n\\[ h + 3 = -3x \\]  \n\n4. **Denklemi düzenleyelim:**  \n\\[ h = -3x - 3 \\]  \n\n5. **Aralıkları kontrol edelim:**  \nHer bir aralık için \\( h \\) ve \\( x \\) değerlerini kontrol ederek doğru cevabı bulmamız gerekiyor. Ancak bu durumda \\( x \\) değerini bulmamız için verilen aralıkları test etmemiz gerekecek.\n\nDoğru cevap: **B) (-3; -2]**",
+        "answer": "A"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "y = f(x) funktsiyası $(-\\inf, +\\inf)$ aralıqqa aittir. Doğru musaviysizlikni körsetiñiz.",
+        "choices": [
+            "f(1) > f(0)",
+            "f(1) > f(10)",
+            "f(1) > f(-1)",
+            "f(1) < f(8)"
+        ],
+        "output": "Bu sualda, **y = f(x)** funktsiyası hakkında herhangi bir ek bilgi verilmediği için, funktsiyanın artıcı mı, azayıcı mı, ya da başka bir özelliğe sahip olduğu belli değildir. Bu nedenle, verilen seçeneklerden hangisinin doğru olduğunu belirlemek mümkün değildir. Funktsiya hakkında daha fazla bilgi verilmesi gereklidir.",
+        "answer": "B"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "ABC üçköşede: AB = 31 sm, BC = 15 sm, AC = 26 sm. a sızığı AB tarafına parallel, VS ve AS taraflarını M ve N noqtalarnen kestire. MNS üçköşelikniñ perimetrni esaplañız, eger de MS = 5 sm.",
+        "choices": [
+            "48 sm",
+            "15 sm",
+            "21 sm",
+            "24 sm"
+        ],
+        "output": "Verilen bilgilere göre, ABC üçgeninde AB = 31 cm, BC = 15 cm, AC = 26 cm. AB tarafına paralel olan \\( a \\) doğrusu, BC ve AC kenarlarını M ve N noktalarında kesiyor. Ayrıca MS = 5 cm olarak verilmiş.\n\nAB tarafına paralel olan \\( a \\) doğrusu, üçgeni benzer üçgenlere böler. Bu durumda, MNS üçgeni, ABC üçgenine benzer olacaktır. Benzerlik oranını bulmak için, MS'nin BC'ye oranını kullanabiliriz:\n\n\\[\n\\text{Benzerlik oranı} = \\frac{\\text{MS}}{\\text{BC}} = \\frac{5}{15} = \\frac{1}{3}.\n\\]\n\nBu durumda, MNS üçgeninin kenar uzunlukları, ABC üçgeninin kenar uzunluklarının \\( \\frac{1}{3} \\) oranında küçültülmüş halidir. Şimdi MNS üçgeninin kenar uzunluklarını hesaplayalım:\n\n- MS = 5 cm (verilmiş),\n- MN = \\( \\frac{1}{3} \\times AB = \\frac{1}{3} \\times 31 = 10.33 \\) cm,\n- NS = \\( \\frac{1}{3} \\times AC = \\frac{1}{3} \\times 26 = 8.67 \\) cm.\n\nMNS üçgeninin çevresi (perimetresi):\n\n\\[\n\\text{Perimetre} = MS + MN + NS = 5 + 10.33 + 8.67 = 24 \\, \\text{cm}.\n\\]\n\n**Cevap: D) 24 cm**",
+        "answer": "D"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "$\\log_{0,5}(h — 1) > 2$ musaviysizlikni çeziñiz.",
+        "choices": [
+            "(1; 1,25)",
+            "(0; 0,25)",
+            "$(2; +\\inf)$",
+            "$(1,25; +\\inf)$"
+        ],
+        "output": "Musaviysizlikni çözelim:\n\nVerilen musaviysizlik:  \n\\[\n\\log_{0,5}(h - 1) > 2\n\\]\n\n### 1. Logaritmik ifadeyi çözmek:\nLogaritmanın tanımına göre:  \n\\[\n\\log_a(x) = y \\implies a^y = x\n\\]\n\nBurada \\(a = 0,5\\), \\(x = h - 1\\), ve \\(y = 2\\).  \nBu durumda:  \n\\[\n0,5^2 > h - 1\n\\]\n\n### 2. Üs işlemini yapalım:\n\\[\n0,5^2 = 0,25\n\\]\nBu durumda:  \n\\[\n0,25 > h - 1\n\\]\n\n### 3. Taraflara 1 ekleyelim:\n\\[\n0,25 + 1 > h\n\\]\n\\[\n1,25 > h\n\\]\n\nBu, şu şekilde yazılabilir:  \n\\[\nh < 1,25\n\\]\n\n### 4. Logaritmanın tanımına göre \\(h - 1 > 0\\) olmalı:\nLogaritmanın tanımlı olması için \\(h - 1 > 0\\) olmalıdır. Bu da:  \n\\[\nh > 1\n\\]\n\n### 5. Çözüm aralığını bulalım:\n\\[\n1 < h < 1,25\n\\]\n\nBu durumda çözüm aralığı:  \n\\[\n(1; 1,25)\n\\]\n\n### Doğru cevap:\n**A) (1; 1,25)**",
+        "answer": "A"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "$F(x) = 6 * \\sin(2x) - 1$ funktsiya f(x) funktsiyasınıñ başlanğıçı sayıla. f(x) funktsiyanıñ qıymetini tapıñız.",
+        "choices": [
+            "$f(x) = -3 * \\cos(2x) - x + C$",
+            "$f(x) = 6 * \\cos(2x)$",
+            "$f(x) = 12 * \\cos(2x)$",
+            "$f(x) = -12 * \\cos(2x)$"
+        ],
+        "output": "Verilen $F(x) = 6 * \\sin(2x) - 1$ fonksiyonunun bir **başlangıcı** (integrali) olan $f(x)$'i bulmamız gerekiyor. Bunun için $F(x)$'i **belirsiz integral** alacağız.\n\n### Adım 1: Fonksiyonu parçalayalım\n$$ F(x) = 6 * \\sin(2x) - 1 $$\n\nBu fonksiyonun integrali şu şekilde yazılabilir:\n$$ f(x) = \\int \\left(6 * \\sin(2x) - 1\\right) dx $$\n\n### Adım 2: Her terimi ayrı ayrı integre edelim\n1. **Birinci terim:** $\\int 6 * \\sin(2x) dx$\n\nBurada $\\sin(2x)$ fonksiyonunun integrali $-\\frac{1}{2} * \\cos(2x)$'dir. Dolayısıyla:\n$$ \\int 6 * \\sin(2x) dx = 6 * \\left(-\\frac{1}{2} * \\cos(2x)\\right) = -3 * \\cos(2x) $$\n\n2. **İkinci terim:** $\\int -1 dx$\n\nBu terimin integrali $-x$'dir.\n\n### Adım 3: Sonuçları birleştirelim\n$$ f(x) = -3 * \\cos(2x) - x + C $$\n\nBurada $C$ entegrasyon sabitidir.\n\n### Doğru cevap:\n**A) $f(x) = -3 * \\cos(2x) - x + C$**",
+        "answer": "C"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "Doğru dörtköşeli prizmanıñ diagonal kesmesi tüzköşelikdir, onıñ meydanlığı $40 sm^2$ musaviy. Prizma temeliniñ perimetrii $20 * \\sqrt(2)$ sm musaviy. Prizmanıñ yüksekligini tapıñız.",
+        "choices": [
+            "$2 * \\sqrt(2)$ sm",
+            "4 sm",
+            "$\\sqrt(2)$ sm",
+            "1 sm"
+        ],
+        "output": "Verilen bilgilere göre doğru dörtköşeli prizmanın temelinin perimetrii \\( 20 \\cdot \\sqrt{2} \\) sm ve diagonal kesmesinin alanı \\( 40 \\, \\text{cm}^2 \\)'dir. Prizmanın yüksekliğini bulmamız gerekiyor.\n\n### Adım 1: Temel kenarlarını bulalım\nDoğru dörtköşeli prizmanın tabanı bir kare veya dikdörtgen olabilir. Ancak, tabanın perimetrii \\( 20 \\cdot \\sqrt{2} \\) olduğuna göre, taban bir karedir. Karenin bir kenar uzunluğunu \\( a \\) olarak alalım. Karenin perimetrii şu şekilde ifade edilir:\n\\[\n4a = 20 \\cdot \\sqrt{2}\n\\]\nBuradan \\( a \\)'yı bulalım:\n\\[\na = \\frac{20 \\cdot \\sqrt{2}}{4} = 5 \\cdot \\sqrt{2} \\, \\text{cm}.\n\\]\n\n### Adım 2: Diagonal kesmenin alanını kullanarak yüksekliği bulalım\nDiagonal kesme, prizmanın bir köşegen düzlemi boyunca alınan dikdörtgendir. Bu dikdörtgenin bir kenarı prizmanın tabanının köşegeni, diğer kenarı ise prizmanın yüksekliğidir (\\( h \\)).\n\nTabanın köşegen uzunluğunu (\\( d \\)) bulalım. Karenin köşegen uzunluğu şu şekilde hesaplanır:\n\\[\nd = a \\cdot \\sqrt{2} = (5 \\cdot \\sqrt{2}) \\cdot \\sqrt{2} = 10 \\, \\text{cm}.\n\\]\n\nDiagonal kesmenin alanı şu şekilde ifade edilir:\n\\[\n\\text{Alan} = d \\cdot h = 40 \\, \\text{cm}^2.\n\\]\nBuradan \\( h \\)'yı bulalım:\n\\[\nh = \\frac{\\text{Alan}}{d} = \\frac{40}{10} = 4 \\, \\text{cm}.\n\\]\n\n### Cevap:\nPrizmanın yüksekliği \\( 4 \\, \\text{cm} \\)'dir. Doğru seçenek:\n**B) 4 cm**",
+        "answer": "B"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "(1 - 4) ifadeler ve olarnıñ qıymetleri arasında olğan bağını yerleştiriñiz, eger de x = 0,5 (A - D).\\nİfadeler\\n1. $(x^2 - 9) / (3 + x)$\\n2. $(x - 5)^2 + 5 * (2x - 5)$\\n3. $(x^3 + 1) / (x^2 - x + 1)$\\n4. $((3x - 6) * x) / (8x * (x^2 - 4x + 4))$\\nİfadaler qıymeti\\nA. -2,5\\nB. -0,25\\nV. 0,25\\nG. 1,5\\nD. 2,5\\n",
+        "choices": [
+            "1 - B, 2 - A, 3 - V, 4 - G",
+            "1 - A, 2 - V, 3 - G, 4 - B",
+            "1 - B, 2 - V, 3 - G, 4 - A",
+            "1 - A, 2 - B, 3 - V, 4 - G"
+        ],
+        "output": "Verilen ifadeleri x = 0,5 yerine koyarak hesaplayalım:\n\n1. \\((x^2 - 9) / (3 + x)\\)  \n   \\(x = 0,5\\) yerine koyarsak:  \n   \\(((0,5)^2 - 9) / (3 + 0,5) = (0,25 - 9) / 3,5 = -8,75 / 3,5 = -2,5\\)  \n   Bu durumda 1. ifade için sonuç **A (-2,5)**.\n\n2. \\((x - 5)^2 + 5 * (2x - 5)\\)  \n   \\(x = 0,5\\) yerine koyarsak:  \n   \\(((0,5 - 5)^2 + 5 * (2 * 0,5 - 5)) = ((-4,5)^2 + 5 * (1 - 5)) = (20,25 + 5 * -4) = 20,25 - 20 = 0,25\\)  \n   Bu durumda 2. ifade için sonuç **V (0,25)**.\n\n3. \\((x^3 + 1) / (x^2 - x + 1)\\)  \n   \\(x = 0,5\\) yerine koyarsak:  \n   \\(((0,5)^3 + 1) / ((0,5)^2 - 0,5 + 1) = (0,125 + 1) / (0,25 - 0,5 + 1) = 1,125 / 0,75 = 1,5\\)  \n   Bu durumda 3. ifade için sonuç **G (1,5)**.\n\n4. \\(((3x - 6) * x) / (8x * (x^2 - 4x + 4))\\)  \n   \\(x = 0,5\\) yerine koyarsak:  \n   \\((((3 * 0,5 - 6) * 0,5) / (8 * 0,5 * ((0,5)^2 - 4 * 0,5 + 4))) = (((1,5 - 6) * 0,5) / (4 * (0,25 - 2 + 4))) = ((-4,5 * 0,5) / (4 * 2,25)) = (-2,25 / 9) = -0,25\\)  \n   Bu durumda 4. ifade için sonuç **B (-0,25)**.\n\nSonuçları eşleştirelim:  \n1 - A, 2 - V, 3 - G, 4 - B  \n\nDoğru cevap: **B**",
+        "answer": "B"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "$((3 * \\sqrt(2) - 5) / (\\sqrt(2) - 1)) + ((\\sqrt(24) - \\sqrt(300)) / \\sqrt(3))$ ifadeniñ qıymetini yesaplañız.",
+        "choices": [
+            "-9",
+            "9",
+            "-3",
+            "3"
+        ],
+        "output": "Verilen ifadeyi adım adım çözerek doğru cevabı bulalım:\n\nİfade:  \n\\[\n\\frac{3 \\cdot \\sqrt{2} - 5}{\\sqrt{2} - 1} + \\frac{\\sqrt{24} - \\sqrt{300}}{\\sqrt{3}}\n\\]\n\n### 1. İlk kısmı çözmek:\n\\[\n\\frac{3 \\cdot \\sqrt{2} - 5}{\\sqrt{2} - 1}\n\\]\nBu ifadeyi sadeleştirmek için pay ve paydayı \\((\\sqrt{2} + 1)\\) ile genişletelim (paydayı rasyonelleştirmek için):\n\n\\[\n\\frac{(3 \\cdot \\sqrt{2} - 5)(\\sqrt{2} + 1)}{(\\sqrt{2} - 1)(\\sqrt{2} + 1)}\n\\]\n\nPayda:\n\\[\n(\\sqrt{2} - 1)(\\sqrt{2} + 1) = (\\sqrt{2})^2 - (1)^2 = 2 - 1 = 1\n\\]\n\nPay:\n\\[\n(3 \\cdot \\sqrt{2} - 5)(\\sqrt{2} + 1) = (3 \\cdot \\sqrt{2})(\\sqrt{2}) + (3 \\cdot \\sqrt{2})(1) - (5)(\\sqrt{2}) - (5)(1)\n\\]\n\\[\n= 6 + 3 \\cdot \\sqrt{2} - 5 \\cdot \\sqrt{2} - 5\n\\]\n\\[\n= 6 - 5 - 2 \\cdot \\sqrt{2} = 1 - 2 \\cdot \\sqrt{2}\n\\]\n\nSonuç:\n\\[\n\\frac{3 \\cdot \\sqrt{2} - 5}{\\sqrt{2} - 1} = 1 - 2 \\cdot \\sqrt{2}\n\\]\n\n### 2. İkinci kısmı çözmek:\n\\[\n\\frac{\\sqrt{24} - \\sqrt{300}}{\\sqrt{3}}\n\\]\n\n\\(\\sqrt{24}\\) ve \\(\\sqrt{300}\\)'ü sadeleştirelim:\n\\[\n\\sqrt{24} = \\sqrt{4 \\cdot 6} = 2 \\cdot \\sqrt{6}, \\quad \\sqrt{300} = \\sqrt{100 \\cdot 3} = 10 \\cdot \\sqrt{3}\n\\]\n\nİfade:\n\\[\n\\frac{\\sqrt{24} - \\sqrt{300}}{\\sqrt{3}} = \\frac{2 \\cdot \\sqrt{6} - 10 \\cdot \\sqrt{3}}{\\sqrt{3}}\n\\]\n\nPayı \\(\\sqrt{3}\\)'e bölelim:\n\\[\n\\frac{2 \\cdot \\sqrt{6}}{\\sqrt{3}} - \\frac{10 \\cdot \\sqrt{3}}{\\sqrt{3}}\n\\]\n\\[\n= 2 \\cdot \\sqrt{\\frac{6}{3}} - 10\n\\]\n\\[\n= 2 \\cdot \\sqrt{2} - 10\n\\]\n\n### 3. İki kısmı birleştirelim:\n\\[\n\\left(1 - 2 \\cdot \\sqrt{2}\\right) + \\left(2 \\cdot \\sqrt{2} - 10\\right)\n\\]\n\n\\(\\sqrt{2}\\)'li terimler birbirini götürür:\n\\[\n1 - 10 = -9\n\\]\n\n### Sonuç:\nCevap: **A) -9**",
+        "answer": "A"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "Material noqta $s(t) = 2t^2 + 3t$ qanunnen areket ete, s metrlernen ölçülene, t ise saniyelernen. Material noqtanıñ añlı suratı 76 m/s olsa, t (saniyelerde) qıymetini tapıñız.",
+        "choices": [
+            "20,25",
+            "21,25",
+            "19,25",
+            "18,25"
+        ],
+        "output": "Verilen qanun: \\( s(t) = 2t^2 + 3t \\)\n\nMaterial noqtanıñ añlı suratı (hız) \\( v(t) \\) türevden tapıla:\n\n\\[\nv(t) = \\frac{ds(t)}{dt} = 4t + 3\n\\]\n\nAñlı suratı 76 m/s olğanı için:\n\n\\[\n4t + 3 = 76\n\\]\n\nBu musaviylikten \\( t \\)-ni tapamız:\n\n\\[\n4t = 76 - 3\n\\]\n\\[\n4t = 73\n\\]\n\\[\nt = \\frac{73}{4} = 18,25\n\\]\n\n**Cevap: D) 18,25**",
+        "answer": "D"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "Bölükte bir qaç erkek ve qadın çalışa. Anketanı keçirmek içün şu bölükten bir hadimni celp ettiler. Şu hadim erkek olğanına 2/7 musaviy. Şu bölükte çalışqan qadınlarnıñ miqdarına nisbeten erkeklerniñ miqdarı ne qadar.",
+        "choices": [
+            "3",
+            "2",
+            "2,5",
+            "3,5"
+        ],
+        "output": "Sualı çözmek içün şu malümatları qullanamız:\n\nErkek olğanına ihtimal = 2/7  \nBu, erkeklerniñ umumiy hadim miqdarına nisbetini körsete.  \nDemek ki, qadınlarnıñ umumiy hadim miqdarına nisbeti = 1 - 2/7 = 5/7.\n\nErkeklerniñ qadınlarnıñ miqdarına nisbeti:  \n(Erkekler/Qadınlar) = (2/7) / (5/7) = 2/5.\n\nDemek ki, erkeklerniñ qadınlarnıñ miqdarına nisbeti **2/5** ya da **0,4**.  \nBu, berilgen variantlarda yoq. Eger variantlarda hata bar bolsa, lütfen qayta kontrol etiñiz.",
+        "answer": "C"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "Eki işçi, beraber çalışıp, otnıñ bir qısımını 2 saat 6 daqiqada çalıp bitireler. Ne qadar vaqıt (saatlarnen) ekinci işçi, mustaqil çalışıp, şu qısımnıñ otını çalıp alır, çünki oña şu vazifeni becermek içün birinci işçiden 4 saat çoqça kerek?",
+        "choices": [
+            "3",
+            "7",
+            "5",
+            "4"
+        ],
+        "output": "Bu problemi çözmek için işçilerin çalışma hızlarını ve verilen bilgileri kullanarak bir denklem kurmamız gerekiyor.\n\n### Verilenler:\n1. İki işçi birlikte çalışarak otun bir kısmını **2 saat 6 dakika** (yani 2 + 6/60 = **2,1 saat**) içinde bitiriyorlar.\n2. İkinci işçi, birinci işçiden **4 saat daha fazla** sürede bu işi tek başına bitiriyor.\n\n### Çözüm:\n- Birinci işçinin işi bitirme süresine **x saat** diyelim.\n- İkinci işçi bu işi tek başına **x + 4 saat** içinde bitirir.\n\nBirlikte çalıştıklarında, bir saatte yaptıkları iş miktarını toplarız:\n- Birinci işçinin bir saatte yaptığı iş miktarı: **1/x**\n- İkinci işçinin bir saatte yaptığı iş miktarı: **1/(x + 4)**\n\nBirlikte çalıştıklarında bir saatte yaptıkları iş miktarı:\n\\[\n\\frac{1}{x} + \\frac{1}{x + 4}\n\\]\n\nBu hızla **2,1 saat** çalışarak otun bir kısmını bitiriyorlar:\n\\[\n2,1 \\cdot \\left( \\frac{1}{x} + \\frac{1}{x + 4} \\right) = 1\n\\]\n\nBu denklemi çözelim:\n\\[\n\\frac{1}{x} + \\frac{1}{x + 4} = \\frac{1}{2,1}\n\\]\n\n\\[\n\\frac{x + 4 + x}{x(x + 4)} = \\frac{1}{2,1}\n\\]\n\n\\[\n\\frac{2x + 4}{x(x + 4)} = \\frac{1}{2,1}\n\\]\n\n\\[\n2,1 \\cdot (2x + 4) = x(x + 4)\n\\]\n\n\\[\n4,2x + 8,4 = x^2 + 4x\n\\]\n\n\\[\nx^2 - 0,2x - 8,4 = 0\n\\]\n\nBu bir ikinci dereceden denklem. Çözmek için diskriminant formülünü kullanabiliriz:\n\\[\n\\Delta = b^2 - 4ac\n\\]\n\nBurada:\n- \\(a = 1\\),\n- \\(b = -0,2\\),\n- \\(c = -8,4\\).\n\n\\[\n\\Delta = (-0,2)^2 - 4(1)(-8,4)\n\\]\n\n\\[\n\\Delta = 0,04 + 33,6 = 33,64\n\\]\n\nKökler:\n\\[\nx = \\frac{-b \\pm \\sqrt{\\Delta}}{2a}\n\\]\n\n\\[\nx = \\frac{-(-0,2) \\pm \\sqrt{33,64}}{2}\n\\]\n\n\\[\nx = \\frac{0,2 \\pm 5,8}{2}\n\\]\n\nPozitif kökü alırız:\n\\[\nx = \\frac{0,2 + 5,8}{2} = \\frac{6}{2} = 3\n\\]\n\n### Sonuç:\nBirinci işçi işi **3 saatte** bitirir. İkinci işçi ise bu işi **3 + 4 = 7 saatte** bitirir.\n\n**Cevap: B) 7**",
+        "answer": "B"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "Dörtköşeli piramidanıñ temelinde, musaviy qaburğalı trapetsiyağa, yan tarafı 13 sm ve negizleri 18 sm ve 8 sm, içine konus yerleşken. Konustaki yan tarafınıñ meydanlığını $S_{RH} (sm^2)$ tapıñız, eger de piramidanıñ yan tarafları negizine 60° egilgen. Cevabıñızda $S_{RN} / \\pi$ qıymetini yazıñız.",
+        "choices": [
+            "72",
+            "82",
+            "92",
+            "102"
+        ],
+        "output": "Bu soruyu çözmek için verilen bilgileri kullanarak adım adım ilerleyelim.\n\n### Verilenler:\n1. Dörtköşeli piramidanın tabanı, eşkenar bir yamuktur.\n   - Büyük taban: \\( 18 \\, \\text{cm} \\)\n   - Küçük taban: \\( 8 \\, \\text{cm} \\)\n   - Yan kenar: \\( 13 \\, \\text{cm} \\)\n2. Piramidanın yan yüzleri tabana \\( 60^\\circ \\) eğimlidir.\n3. Piramidanın içine bir koni yerleştirilmiştir.\n4. Koninin yan yüzey alanı (\\( S_{RH} \\)) sorulmaktadır.\n\n---\n\n### Çözüm:\n\n#### 1. Yamuk tabanının yüksekliğini bulalım.\nYamukta yan kenarların uzunluğu \\( 13 \\, \\text{cm} \\), büyük taban \\( 18 \\, \\text{cm} \\), küçük taban \\( 8 \\, \\text{cm} \\). Yamuk yüksekliğini bulmak için dik üçgen kullanacağız.\n\nYamukta, büyük taban ile küçük taban arasındaki fark:\n\\[\n18 - 8 = 10 \\, \\text{cm}.\n\\]\nBu fark, iki yan kenar arasında eşit olarak bölünür. Her bir yan kenarın tabana olan yatay uzaklığı:\n\\[\n\\frac{10}{2} = 5 \\, \\text{cm}.\n\\]\n\nŞimdi, yamuk yüksekliğini (\\( h \\)) bulmak için Pisagor teoremini kullanalım:\n\\[\nh^2 + 5^2 = 13^2.\n\\]\n\\[\nh^2 + 25 = 169.\n\\]\n\\[\nh^2 = 144 \\implies h = 12 \\, \\text{cm}.\n\\]\n\nYani, yamuk tabanının yüksekliği \\( h = 12 \\, \\text{cm} \\).\n\n---\n\n#### 2. Koninin taban yarıçapını bulalım.\nKoni, piramidin içine yerleştirildiği için koninin tabanı, yamuk tabanının orta kısmına oturur. Yamukta orta taban uzunluğu:\n\\[\n\\text{Orta taban} = \\frac{\\text{Büyük taban} + \\text{Küçük taban}}{2}.\n\\]\n\\[\n\\text{Orta taban} = \\frac{18 + 8}{2} = 13 \\, \\text{cm}.\n\\]\n\nBu durumda, koninin taban yarıçapı:\n\\[\nr = \\frac{\\text{Orta taban}}{2} = \\frac{13}{2} = 6.5 \\, \\text{cm}.\n\\]\n\n---\n\n#### 3. Koninin yüksekliğini bulalım.\nPiramidin yan yüzleri tabana \\( 60^\\circ \\) eğimlidir. Bu durumda, piramidin yüksekliği (\\( H \\)) ile yamuk yüksekliği (\\( h = 12 \\, \\text{cm} \\)) arasında bir ilişki vardır.\n\nPiramidin yüksekliği:\n\\[\nH = h \\cdot \\tan(60^\\circ).\n\\]\n\\[\nH = 12 \\cdot \\sqrt{3}.\n\\]\n\n---\n\n#### 4. Koninin yan yüzey alanını bulalım.\nKoninin yan yüzey alanı formülü:\n\\[\nS_{RH} = \\pi \\cdot r \\cdot l,\n\\]\nburada \\( r \\) koninin taban yarıçapı ve \\( l \\) koninin eğik yüksekliğidir.\n\nEğik yüksekliği (\\( l \\)) bulmak için Pisagor teoremini kullanalım:\n\\[\nl^2 = r^2 + H^2.\n\\]\n\\[\nl^2 = (6.5)^2 + (12\\sqrt{3})^2.\n\\]\n\\[\nl^2 = 42.25 + 432.\n\\]\n\\[\nl^2 = 474.25 \\implies l = \\sqrt{474.25}.\n\\]\n\nŞimdi, yan yüzey alanını hesaplayalım:\n\\[\nS_{RH} = \\pi \\cdot 6.5 \\cdot \\sqrt{474.25}.\n\\]\n\n---\n\n#### 5. \\( S_{RH} / \\pi \\) değerini bulalım.\n\\[\n\\frac{S_{RH}}{\\pi} = 6.5 \\cdot \\sqrt{474.25}.\n\\]\n\nBu değeri yaklaşık olarak hesaplayalım:\n\\[\n\\sqrt{474.25} \\approx 21.78.\n\\]\n\\",
+        "answer": "A"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "$(\\sin(x) + \\sqrt(3) * \\cos(x)) / 2 = 6 - 5a - 2a^2$ a eñ ufaq qıymetini öyle tapıñız ki, musaviyleme çezilsin.",
+        "choices": [
+            "-3,5",
+            "1",
+            "0",
+            "-1"
+        ],
+        "output": "Verilen musaviylemeni çözmek için adım adım ilerleyelim:\n\nMusaviyleme:  \n$ \\frac{\\sin(x) + \\sqrt{3} \\cdot \\cos(x)}{2} = 6 - 5a - 2a^2 $\n\n### 1. Sol tarafı düzenleyelim:\nSol taraf:  \n$ \\frac{\\sin(x) + \\sqrt{3} \\cdot \\cos(x)}{2} $\n\nBu ifadeyi sadeleştirmek için $\\sin(x)$ ve $\\cos(x)$ terimlerini birleştirebiliriz. Trigonometrik ifadeleri birleştirmek için şu formülü kullanabiliriz:  \n$\\sin(x) + k \\cdot \\cos(x) = R \\cdot \\sin(x + \\phi)$  \nBurada:  \n$R = \\sqrt{1^2 + (\\sqrt{3})^2} = \\sqrt{1 + 3} = 2$  \nve $\\phi = \\arctan\\left(\\frac{\\sqrt{3}}{1}\\right) = \\frac{\\pi}{3}$.\n\nBu durumda:  \n$\\sin(x) + \\sqrt{3} \\cdot \\cos(x) = 2 \\cdot \\sin(x + \\frac{\\pi}{3})$  \n\nSol taraf şu hale gelir:  \n$ \\frac{\\sin(x) + \\sqrt{3} \\cdot \\cos(x)}{2} = \\frac{2 \\cdot \\sin(x + \\frac{\\pi}{3})}{2} = \\sin(x + \\frac{\\pi}{3}) $\n\n### 2. Musaviyleme şu hale gelir:\n$ \\sin(x + \\frac{\\pi}{3}) = 6 - 5a - 2a^2 $\n\n### 3. $\\sin(x + \\frac{\\pi}{3})$'in alabileceği değerler:\nTrigonometrik fonksiyon olan $\\sin(x)$, sadece $[-1, 1]$ aralığında değer alabilir. Bu nedenle:  \n$ -1 \\leq 6 - 5a - 2a^2 \\leq 1 $\n\nBu, bir eşitsizlik sistemi oluşturur.\n\n### 4. Eşitsizlikleri çözmek:\nEşitsizlik:  \n$ -1 \\leq 6 - 5a - 2a^2 \\leq 1 $\n\n#### İlk eşitsizlik:  \n$ -1 \\leq 6 - 5a - 2a^2 $  \n$ 2a^2 + 5a + (-7) \\leq 0 $  \n\nBu bir ikinci dereceden eşitsizliktir. Önce denklemin köklerini bulalım:  \n$ 2a^2 + 5a - 7 = 0 $  \nDiskriminant:  \n$\\Delta = 5^2 - 4 \\cdot 2 \\cdot (-7) = 25 + 56 = 81$  \nKökler:  \n$a = \\frac{-5 \\pm \\sqrt{81}}{2 \\cdot 2} = \\frac{-5 \\pm 9}{4}$  \n$a_1 = \\frac{-5 + 9}{4} = 1$  \n$a_2 = \\frac{-5 - 9}{4} = -3.5$  \n\nParabolun kolları yukarı doğru olduğu için, $2a^2 + 5a - 7 \\leq 0$ eşitsizliği $a \\in [-3.5, 1]$ aralığında doğrudur.\n\n#### İkinci eşitsizlik:  \n$ 6 - 5a - 2a^2 \\leq 1 $  \n$ 2a^2 + 5a + (5) \\geq 0 $  \n\nBu da bir ikinci dereceden eşitsizliktir. Önce denklemin köklerini bulalım:  \n$ 2a^2 + 5a + 5 = 0 $  \nDiskriminant:  \n$\\Delta = 5^2 - 4 \\cdot 2 \\cdot 5 = 25 - 40 = -15$  \n\nDiskriminant negatif olduğu için, $2a^2 + 5a + 5$ ifadesi her zaman pozitiftir. Bu nedenle bu eşitsizlik her zaman sağlanır.\n\n### 5. Sonuç:\nBirinci eşitsizlikten $a \\in [-3.5, 1]$ aralığını bulmuştuk. Bu aralıktaki en küçük değer $a = -3.5$'tir.\n\n### Cevap:\n**A) -3,5**",
+        "answer": "A"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "m (m/2) = (3/n) ifadeden tapıñız, eger de $n \\neq  0$ olsa.",
+        "choices": [
+            "m = (2n/3)",
+            "m = (6/n)",
+            "m = 6n",
+            "m = (3/(2n))"
+        ],
+        "output": "Verilen ifadeni çözmek için adım adım ilerleyelim:\n\nİfade:  \n\\[\nm \\cdot \\frac{m}{2} = \\frac{3}{n}\n\\]\n\n1. **İlk olarak ifadeyi sadeleştirelim:**  \n\\[\n\\frac{m^2}{2} = \\frac{3}{n}\n\\]\n\n2. **Her iki tarafı 2 ile çarpalım:**  \n\\[\nm^2 = \\frac{6}{n}\n\\]\n\n3. **Her iki tarafın karekökünü alalım:**  \n\\[\nm = \\pm \\sqrt{\\frac{6}{n}}\n\\]\n\nAncak seçeneklerde karekök içeren bir ifade yok. Bu nedenle seçenekler arasında verilen doğru çözüm **m = \\frac{6}{n}** olacaktır.\n\n**Cevap: B) m = \\frac{6}{n}**",
+        "answer": "B"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "(2h + 5) * (3 - h) ifadege tıpqılı teñ ifadeni körsetiñiz.",
+        "choices": [
+            "15 + h + 2x^2",
+            "15 + 6h - 2x^2",
+            "15 + 11h - 2h^2",
+            "15 + h - 2x^2"
+        ],
+        "output": "Sualıñıznı çözmek için berilgen ifadeni açayıq:\n\n\\((2h + 5) * (3 - h)\\)\n\nBu ifadeni açaymız:\n\n\\((2h + 5) * (3 - h) = 2h * 3 + 2h * (-h) + 5 * 3 + 5 * (-h)\\)\n\n\\[\n= 6h - 2h^2 + 15 - 5h\n\\]\n\nŞimdi benzer terimlerni birleştirelim:\n\n\\[\n= 15 + (6h - 5h) - 2h^2\n\\]\n\n\\[\n= 15 + h - 2h^2\n\\]\n\nDemek ki doğru cevap:\n\n**D) 15 + h - 2x^2**\n\nAma dikkat etiñiz, soruda \"x^2\" yerine \"h^2\" olmalı. Eğer bu bir yazı hatası ise, doğru cevap **D)**.",
+        "answer": "D"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "a meydanlıqnıñ b sızıqnen umumiy noqtaları yoq. Angi ifadeler doğru? I. b sızıqtan tek bir meydanlıqnı a meydanlıqqa perpendikulâr keçirmek mümkün. II. b sızıqtan tek bir meydanlıqnı a meydanlıqqa parallel keçirmek mümkün. III. a meydanlıqta tek bir sızıqnı b sızıqqa parallel keçirmek mümkün.",
+        "choices": [
+            "tek II",
+            "tek II ve III",
+            "tek I ve II",
+            "tek I"
+        ],
+        "output": "Cevap: **B) tek II ve III**\n\nAçıklama:  \n- **I. ifade**: Yanlış. Bir sızıqtan bir meydanlıqqa perpendikulâr keçirmek mümkün, ama bu tek bir meydanlıq olmaq mecburiyetinde değildir.  \n- **II. ifade**: Doğru. Bir sızıqtan bir meydanlıqqa parallel keçirmek mümkündür ve bu tek bir meydanlıq olacaq.  \n- **III. ifade**: Doğru. Bir meydanlıqta bir sızıqnı başka bir sızıqqa parallel keçirmek mümkündür ve bu tek bir sızıq olacaq.  \n\nBu sebepnen doğru cevap **B) tek II ve III**.",
+        "answer": "C"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "$(2^6 * 5^6) / (10^4)$ esaplañız.",
+        "choices": [
+            "10^2",
+            "10^(1,5)",
+            "10^9",
+            "10^8"
+        ],
+        "output": "Verilen ifadeyi adım adım çözelim:\n\n$$(2^6 * 5^6) / (10^4)$$\n\n1. **10'un üslü açılımını yazalım:**\n   $$10 = 2 * 5$$\n   Bu durumda:\n   $$10^4 = (2 * 5)^4 = 2^4 * 5^4$$\n\n2. **İfadeyi yerine koyarak yazalım:**\n   $$(2^6 * 5^6) / (2^4 * 5^4)$$\n\n3. **Üs kurallarını uygulayalım (aynı tabanlar bölünürken üsler çıkarılır):**\n   $$2^{6-4} * 5^{6-4} = 2^2 * 5^2$$\n\n4. **Sonuç:**\n   $$2^2 * 5^2 = (2 * 5)^2 = 10^2$$\n\n**Cevap: A) 10^2**",
+        "answer": "A"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "($a_n$) arifmetik progressiyada $a_1 = 4, a_2 = -1$ berilgen. Şu progressiyanıñ n azasınıñ formulasını tapıñız.",
+        "choices": [
+            "a_n = 9 - 5n",
+            "a_n = 5 - n",
+            "a_n = 7 - 3n",
+            "a_n = -1 + 5n"
+        ],
+        "output": "Arifmetik progressiya formulı şundeydir:  \n\\[ a_n = a_1 + (n-1)d \\]  \nBu yerde \\( a_1 \\) birinci aza, \\( d \\) ise arifmetik progressiyanıñ ayırmasıdır.\n\nBerilgenler:  \n\\( a_1 = 4 \\), \\( a_2 = -1 \\).\n\nArifmetik ayırmanı (d) tapamız:  \n\\[ d = a_2 - a_1 = -1 - 4 = -5 \\]\n\nŞimdi \\( a_n \\) formulasını tapamız:  \n\\[ a_n = a_1 + (n-1)d \\]  \n\\[ a_n = 4 + (n-1)(-5) \\]  \n\\[ a_n = 4 - 5n + 5 \\]  \n\\[ a_n = 9 - 5n \\]\n\nDemek, doğru cevap:  \n**A) a_n = 9 - 5n**",
+        "answer": "A"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "2h + 5u = 5, h - 2u = 7 musaviylik sistemasını çeziñiz. Tapılğan cevapqa $(h_0; u_0)$ sistemasınıñ $h_0 + u_0$ cemisini tapıñız.",
+        "choices": [
+            "3",
+            "-18",
+            "4",
+            "8"
+        ],
+        "output": "Verilen musaviylik sistemini çözelim:\n\n1. \\( 2h + 5u = 5 \\)  \n2. \\( h - 2u = 7 \\)\n\n### Adım 1: İkinci denklemi \\( h \\) için çözün.\n\\( h - 2u = 7 \\)  \n\\( h = 7 + 2u \\)\n\n### Adım 2: \\( h \\) değerini birinci denkleme yerleştirin.\n\\( 2h + 5u = 5 \\)  \n\\( 2(7 + 2u) + 5u = 5 \\)  \n\\( 14 + 4u + 5u = 5 \\)  \n\\( 14 + 9u = 5 \\)  \n\\( 9u = 5 - 14 \\)  \n\\( 9u = -9 \\)  \n\\( u = -1 \\)\n\n### Adım 3: \\( u = -1 \\) değerini \\( h = 7 + 2u \\) denklemine yerleştirin.\n\\( h = 7 + 2(-1) \\)  \n\\( h = 7 - 2 \\)  \n\\( h = 5 \\)\n\n### Adım 4: \\( h_0 + u_0 \\) cemisini bulun.\n\\( h_0 = 5 \\), \\( u_0 = -1 \\)  \n\\( h_0 + u_0 = 5 + (-1) = 4 \\)\n\n### Cevap:\n**C) 4**",
+        "answer": "C"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "$2 * \\sqrt(3)$ sm diagonalnen olğan kub tüzliginiñ tolu meydanlığını tapıñız.",
+        "choices": [
+            "24 sm^2",
+            "8 sm^2",
+            "16 sm^2",
+            "20 sm^2"
+        ],
+        "output": "Kub tüzliginiñ tolu meydanlığını tapmaq için, kubnıñ bir tüzliginiñ uzunlığını bulmamız kerek. Sualda kubnıñ diagonali $2 * \\sqrt{3}$ sm olarak verilgen. Kubnıñ bir tüzliginiñ diagonali, tüzlikniñ kenar uzunlığına ($a$) bağlı olaraq şu formula ile hesaplanır:\n\n\\[\n\\text{Diagonal} = a * \\sqrt{2}\n\\]\n\nBu formuladan $a$'nı bulalım:\n\n\\[\n2 * \\sqrt{3} = a * \\sqrt{2}\n\\]\n\n\\[\na = \\frac{2 * \\sqrt{3}}{\\sqrt{2}}\n\\]\n\n\\[\na = \\sqrt{6}\n\\]\n\nKubnıñ bir kenar uzunlığı $a = \\sqrt{6}$ sm. Kub tüzliginiñ tolu meydanlığı ($S$) şu formula ile hesaplanır:\n\n\\[\nS = 6 * a^2\n\\]\n\n\\[\nS = 6 * (\\sqrt{6})^2\n\\]\n\n\\[\nS = 6 * 6 = 36 \\, \\text{sm}^2\n\\]\n\nSualda berilgen variantlarda hata olabilir, çünkü doğru cevap **36 sm²** olmalıdır.",
+        "answer": "A"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "$\\sqrt(1 - h) = 4$ musaviylemeniñ tamırınen olğan aralığını tapıñız.",
+        "choices": [
+            "(-5; 5)",
+            "(-10; -5)",
+            "(-20; -10)",
+            "(5; 10)"
+        ],
+        "output": "Musaviylemeni çözelim:  \n\\[\n\\sqrt{1 - h} = 4\n\\]\n\nHer iki tarafın karesini alalım:  \n\\[\n1 - h = 16\n\\]\n\nBuradan \\( h \\)'yi bulalım:  \n\\[\nh = 1 - 16\n\\]\n\\[\nh = -15\n\\]\n\nDemek ki, \\( h = -15 \\). Şimdi \\( h \\)'nin tamırının bulunduğu aralığı kontrol edelim. \\( h = -15 \\), \\((-20; -10)\\) aralığında yer alır.\n\n**Cevap: C) (-20; -10)**",
+        "answer": "C"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "Çift funktsiyanı körsetiñiz.",
+        "choices": [
+            "y = |x|",
+            "y = 4^x",
+            "y = h",
+            "$y = \\sqrt(x)$"
+        ],
+        "output": "Cevap: A) y = |x|\n\n**Sebep:** Çift funktsiya, grafiği y-eksenine göre simetrik olan bir funktsiyadır. Bu, f(-x) = f(x) şartını sağlar.  \ny = |x| funktsiyası bu şartı sağlar, çünkü |x| = |-x|.",
+        "answer": "A"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "Doğruköşeniñ ufaq tarafı 16 m musaviy olıp, 60° köşeni yarata. Doğruköşeniñ orta tarafları ardısıralı qoşulğan sebebinden tapılğan dörtköşeniñ meydanlığını tapıñız.",
+        "choices": [
+            "$128 * \\sqrt(3) m^2$",
+            "$64 * \\sqrt(3) m^2$",
+            "256 m^2",
+            "128 m^2"
+        ],
+        "output": "Doğruköşeniñ ufaq tarafı 16 m ve 60° köşe yarata. Bu durumda, doğruköşeniñ orta tarafları ardısıralı qoşulğan sebebinden tapılğan dörtköşeniñ meydanlığını tapmaq için şu adımları izleyelim:\n\n1. **Doğruköşeniñ uzun tarafını tapıñız:**\n   Doğruköşede, 60° köşe yaratan tarafın uzunluğu, ufaq tarafın $\\sqrt{3}$ katıdır.  \n   Uzun taraf = $16 * \\sqrt{3}$ m.\n\n2. **Dörtköşeniñ meydanlığını tapıñız:**\n   Dörtköşeniñ meydanlığı, doğruköşeniñ ufaq tarafı ile uzun tarafınıñ çarpımına musaviydir.  \n   Meydanlıq = $16 * (16 * \\sqrt{3}) = 256 * \\sqrt{3} \\, m^2$.\n\nBu durumda, doğru cevap seçeneklerde bulunmuyor. Ancak doğru hesaplama sonucu:  \n**$256 * \\sqrt{3} \\, m^2$**.",
+        "answer": "A"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "$2^x \\leq 3$ musaviysizlikniñ çeziñiz.",
+        "choices": [
+            "$(-\\inf, \\log_3(2)]$",
+            "$(-\\inf, 3/2]$",
+            "$(0, \\log_2(3)]$",
+            "$(-\\inf, \\log_2(3)]$"
+        ],
+        "output": "Verilen musaviysizlik: \\( 2^x \\leq 3 \\)\n\nBu musaviysizlikni çözmek için logaritma kullanabiliriz. \n\n1. **Adım**: Her iki tarafın logaritmasını alalım (logaritma tabanı \\( 2 \\) olacak şekilde):\n   \\[\n   \\log_2(2^x) \\leq \\log_2(3)\n   \\]\n\n2. **Adım**: Logaritmanın özelliğini kullanarak üssü öne alalım:\n   \\[\n   x \\cdot \\log_2(2) \\leq \\log_2(3)\n   \\]\n\n3. **Adım**: \\( \\log_2(2) = 1 \\) olduğu için:\n   \\[\n   x \\leq \\log_2(3)\n   \\]\n\n4. **Sonuç**: \\( x \\) için çözüm aralığı:\n   \\[\n   x \\in (-\\infty, \\log_2(3)]\n   \\]\n\n**Doğru cevap**: **D) \\( (-\\infty, \\log_2(3)] \\)**",
+        "answer": "D"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "Kürredeki kesilgen yeriniñ meydanlığı $81 \\pi sm^2$ meydanıdır. Kürreniñ merkeziy noqtadan kesilgen yeriniñ meydanlığına qadar mesafeni tapıñız, eger de daireniñ radiusı 15 sm musaviy.",
+        "choices": [
+            "9 sm",
+            "8 sm",
+            "6 sm",
+            "12 sm"
+        ],
+        "output": "Bu meselede kürredeki kesilgen yer bir dairedir ve bu dairenin meydanlığı verilmiştir: \\( 81\\pi \\, \\text{sm}^2 \\). Ayrıca, kürreniñ radiusı \\( R = 15 \\, \\text{sm} \\) olarak verilmiştir. Bizden, kürreniñ merkeziy noqtadan kesilgen yeriniñ meydanlığına qadar mesafeni (yani \\( h \\)) tapmamız isteniyor.\n\n### Formül:\nKürredeki kesilgen yerin meydanlığı formülü:\n\\[\nA = \\pi r^2\n\\]\nBurada:\n- \\( A \\): Kesilgen yerin meydanlığı\n- \\( r \\): Kesilgen yerin radiusı\n\nAyrıca, kürredeki kesilgen yerin radiusı \\( r \\), kürreniñ radiusı \\( R \\) ve merkeziy noqtadan kesilgen yerin mesafesi \\( h \\) arasında şu ilişki vardır:\n\\[\nr^2 = R^2 - h^2\n\\]\n\n### Adım 1: Kesilgen yerin radiusını bulalım\nKesilgen yerin meydanlığı verilmiştir: \\( A = 81\\pi \\). Formüle göre:\n\\[\nA = \\pi r^2\n\\]\nBuradan:\n\\[\nr^2 = 81\n\\]\n\\[\nr = \\sqrt{81} = 9 \\, \\text{sm}\n\\]\n\n### Adım 2: Merkeziy noqtadan mesafeyi (\\( h \\)) bulalım\nFormüle göre:\n\\[\nr^2 = R^2 - h^2\n\\]\nBurada:\n- \\( r = 9 \\)\n- \\( R = 15 \\)\n\nYerine koyarsak:\n\\[\n9^2 = 15^2 - h^2\n\\]\n\\[\n81 = 225 - h^2\n\\]\n\\[\nh^2 = 225 - 81\n\\]\n\\[\nh^2 = 144\n\\]\n\\[\nh = \\sqrt{144} = 12 \\, \\text{sm}\n\\]\n\n### Cevap:\n\\[\n\\boxed{D) 12 \\, \\text{sm}}\n\\]",
+        "answer": "D"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "$\\log_5(49) + 2 * \\log_5(5/7) =$",
+        "choices": [
+            "25",
+            "$log_5(49\\fraq{5}{7})$",
+            "2",
+            "$\\log_5(70)$"
+        ],
+        "output": "Verilen ifadeyi çözmek için logaritma kurallarını kullanacağız:\n\n$$\\log_5(49) + 2 * \\log_5(5/7)$$\n\n### 1. Adım: Logaritma kurallarını hatırlayalım\n- $\\log_b(x) + \\log_b(y) = \\log_b(x * y)$\n- $n * \\log_b(x) = \\log_b(x^n)$\n\n### 2. İkinci terimi düzenleyelim\n$$2 * \\log_5(5/7) = \\log_5((5/7)^2) = \\log_5(25/49)$$\n\nŞimdi ifade şu hale gelir:\n$$\\log_5(49) + \\log_5(25/49)$$\n\n### 3. Logaritma toplama kuralını uygulayalım\n$$\\log_5(49) + \\log_5(25/49) = \\log_5(49 * (25/49))$$\n\n### 4. Çarpımı sadeleştirelim\n$$49 * (25/49) = 25$$\n\nBu durumda:\n$$\\log_5(49) + 2 * \\log_5(5/7) = \\log_5(25)$$\n\n### 5. Sonuç\n$$\\log_5(25) = 2$$ (çünkü $5^2 = 25$)\n\n**Cevap: C) 2**",
+        "answer": "C"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "$a \\in  (\\pi / 2; \\pi)$ içün becerilgen musaviysizlikni tapıñız.",
+        "choices": [
+            "$1 - \\sin^2(a) < 0$",
+            "$\\sin(a) * \\ctg(a) < 0$",
+            "$\\cos^2(a) + \\sin^2(a) < 0$",
+            "$\\cos(a) * \\tg(a) < 0$"
+        ],
+        "output": "Verilen aralık \\( a \\in (\\pi / 2; \\pi) \\) içindedir. Bu aralıkta trigonometrik fonksiyonların işaretlerini inceleyelim:\n\n1. \\(\\sin(a)\\): \\((\\pi / 2; \\pi)\\) aralığında pozitiftir (\\(\\sin(a) > 0\\)).\n2. \\(\\cos(a)\\): \\((\\pi / 2; \\pi)\\) aralığında negatiftir (\\(\\cos(a) < 0\\)).\n3. \\(\\tg(a) = \\frac{\\sin(a)}{\\cos(a)}\\): \\((\\pi / 2; \\pi)\\) aralığında negatiftir (\\(\\tg(a) < 0\\)).\n4. \\(\\ctg(a) = \\frac{\\cos(a)}{\\sin(a)}\\): \\((\\pi / 2; \\pi)\\) aralığında negatiftir (\\(\\ctg(a) < 0\\)).\n\nŞimdi seçenekleri inceleyelim:\n\n**A) \\(1 - \\sin^2(a) < 0\\):**  \n\\(\\sin^2(a)\\) her zaman \\(0 \\leq \\sin^2(a) \\leq 1\\) aralığındadır. Bu nedenle \\(1 - \\sin^2(a) \\geq 0\\) olur. Bu ifade **yanlıştır**.\n\n**B) \\(\\sin(a) * \\ctg(a) < 0\\):**  \n\\(\\ctg(a) = \\frac{\\cos(a)}{\\sin(a)}\\) olduğundan, \\(\\sin(a) * \\ctg(a) = \\sin(a) * \\frac{\\cos(a)}{\\sin(a)} = \\cos(a)\\).  \n\\((\\pi / 2; \\pi)\\) aralığında \\(\\cos(a) < 0\\) olduğundan, bu ifade **doğrudur**.\n\n**C) \\(\\cos^2(a) + \\sin^2(a) < 0\\):**  \nTrigonometrik özdeşlik gereği \\(\\cos^2(a) + \\sin^2(a) = 1\\) her zaman doğrudur. Bu nedenle bu ifade **yanlıştır**.\n\n**D) \\(\\cos(a) * \\tg(a) < 0\\):**  \n\\(\\tg(a) = \\frac{\\sin(a)}{\\cos(a)}\\) olduğundan, \\(\\cos(a) * \\tg(a) = \\cos(a) * \\frac{\\sin(a)}{\\cos(a)} = \\sin(a)\\).  \n\\((\\pi / 2; \\pi)\\) aralığında \\(\\sin(a) > 0\\) olduğundan, bu ifade **yanlıştır**.\n\n**Doğru cevap: B**",
+        "answer": "B"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "Doğruköşeli koordinanta sisteminde xy meydanlıqqa O(0;0) noqtalar berilgen ve A(6;8). A noqtadan x köçerine perpendikulâr tüşürilyegen. V - noqtası şu perpendikulârnıñ temeli. (1-4) büyüklik ve onıñ (A-D) raqamlı qıymetler arasında olğan bağını tiziñiz.\\nBüyüklik\\n1. OA vektornıñ uzunlığı\\n2. A noqtadan h köçerge qadar mesafe\\n3. V noqtanıñ ordinatası\\n4. OAV üçköşe etrafında sızılğan daireniñ radius uzunlığı\\nRaqamlı qıymetler\\nA. 0\\nB. 5\\nV. 6\\nG. 8\\nD. 10",
+        "choices": [
+            "1 - G, 2 - D, 3 - B, 4 - A",
+            "1 - D, 2 - G, 3 - A, 4 - B",
+            "1 - G, 2 - D, 3 - A, 4 - B",
+            "1 - G, 2 - B, 3 - D, 4 - A"
+        ],
+        "output": "Sualı çözmek için verilen bilgileri analiz edelim:\n\n1. **OA vektörünün uzunluğu**:  \nOA vektörünün uzunluğu, O(0;0) ve A(6;8) noktaları arasındaki mesafedir. Bu mesafe, iki nokta arasındaki uzaklık formülüyle hesaplanır:  \n\\[\n\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} = \\sqrt{(6 - 0)^2 + (8 - 0)^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10\n\\]  \nBu nedenle, **OA vektörünün uzunluğu 10'dur**.\n\n2. **A noktasından x eksenine kadar mesafe**:  \nA(6;8) noktasından x eksenine olan mesafe, A noktasının ordinatının (y koordinatının) mutlak değeridir. Bu nedenle, mesafe **8**'dir.\n\n3. **V noktasının ordinatı**:  \nV noktası, A noktasından x eksenine indirilen dikmenin temelidir. Bu nedenle, V noktasının ordinatı **0**'dır (çünkü x ekseni üzerindedir).\n\n4. **OAV üçgeni etrafında çizilen çemberin yarıçap uzunluğu**:  \nOAV üçgeni dik üçgendir (çünkü A'dan x eksenine dikme indirilmiştir). Dik üçgenin çevrel çemberinin yarıçapı, hipotenüsün yarısıdır. Hipotenüs OA olduğundan, yarıçap:  \n\\[\n\\frac{\\text{OA}}{2} = \\frac{10}{2} = 5\n\\]  \nBu nedenle, yarıçap uzunluğu **5**'tir.\n\n### Bağlantılar:\n1. OA vektörünün uzunluğu → **10 (D)**  \n2. A noktasından x eksenine kadar mesafe → **8 (G)**  \n3. V noktasının ordinatı → **0 (A)**  \n4. OAV üçgeni etrafında çizilen çemberin yarıçap uzunluğu → **5 (B)**  \n\n### Doğru cevap:\n**C) 1 - D, 2 - G, 3 - A, 4 - B**",
+        "answer": "B"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "Eki ayni avtomatik maşinalar 16 t şokoladnı 4 künge azırlaylar. (1-4) sualler ve (A-D) doğru cevaplar arasında olğan bağnı tiziñiz. Er bir maşina er kün ayni miqdarda şokoladnı azırlay.\\nSualler\\n1. Eki maşina 3 künde ne qadar tonna şokolad azırlay?\\n2. Qaç künde bir maşina 16 t şokoladnı azırlay?\\n3. He qadar tonna şokoladnı bir maşina 2 künde azırlay?\\n4. He qadar maşina 48 t şokoladnı 4 künde çıqaracaq?\\nCevaplar\\nA. 2\\nB. 4\\nV. 6\\nG. 6\\nD. 12",
+        "choices": [
+            "1 - D, 2 - G, 3 - B, 4 - B",
+            "1 - D, 2 - G, 3 - B, 4 - B",
+            "1 - A, 2 - B, 3 - B, 4 - G",
+            "1 - G, 2 - D, 3 - B, 4 - B"
+        ],
+        "output": "Sualı çözmek için verilen bilgileri analiz edelim:\n\n1. **Eki maşina 3 künde ne qadar tonna şokolad azırlay?**  \n   Eki maşina 4 künde 16 t şokolad azırlay. Bu, bir künde 16 ÷ 4 = 4 t şokolad demektir.  \n   3 künde: 4 × 3 = **12 t** şokolad azırlanır.  \n\n2. **Qaç künde bir maşina 16 t şokoladnı azırlay?**  \n   Eki maşina 4 künde 16 t şokolad azırlay. Bu, bir maşina için 16 ÷ 2 = 8 t şokolad demektir.  \n   Bir maşina 8 t şokoladnı 4 künde azırlayır, o zaman 16 t şokolad için 4 × 2 = **8 kün** gerekir.  \n\n3. **He qadar tonna şokoladnı bir maşina 2 künde azırlay?**  \n   Bir maşina bir künde 4 ÷ 2 = 2 t şokolad azırlayır.  \n   2 künde: 2 × 2 = **4 t** şokolad azırlanır.  \n\n4. **He qadar maşina 48 t şokoladnı 4 künde çıqaracaq?**  \n   Bir maşina bir künde 2 t şokolad azırlayır.  \n   4 künde bir maşina 2 × 4 = 8 t şokolad azırlayır.  \n   48 t şokolad için: 48 ÷ 8 = **6 maşina** gerekir.  \n\n**Cevaplar:**  \n1 - D (12 t)  \n2 - G (8 kün)  \n3 - B (4 t)  \n4 - B (6 maşina)  \n\n**Doğru seçenek: A)**",
+        "answer": "A"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "A müsvet sayısı B müsvet sayıdan 3,8 büyük. A raqamı B raqamdan ne qadar fayız büyük?",
+        "choices": [
+            "38",
+            "380",
+            "28",
+            "280"
+        ],
+        "output": "Bu sorunun cevabını bulmak için A'nın B'den ne kadar büyük olduğunu yüzdelik olarak hesaplamamız gerekiyor. Soruda A'nın B'den **3,8** büyük olduğu belirtilmiş. A'nın B'ye oranla ne kadar büyük olduğunu bulmak için şu formülü kullanabiliriz:\n\n\\[\n\\text{Fayız artışı} = \\left( \\frac{\\text{Fark}}{\\text{B}} \\right) \\times 100\n\\]\n\nAncak soruda **B'nin değeri verilmemiş**. Bu nedenle, B'nin bir değeri olmadan kesin bir yüzdelik hesaplama yapılamaz. Eğer B'nin değeri verilirse, bu formül kullanılarak doğru cevaba ulaşılabilir.\n\nLütfen B'nin değerini belirtin ya da ek bilgi sağlayın. 😊",
+        "answer": "D"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "İfadeniñ qıymetini esapla $((a^2 - b^2) / (a - b)) - ((a^3 - b^3) / (a^2 - b^2))$, eger de a = 10,2; b = -0,2.",
+        "choices": [
+            "-2,04",
+            "204",
+            "-204",
+            "2,04"
+        ],
+        "output": "Verilen ifadeyi adım adım çözerek doğru cevabı bulalım:\n\nİfade:  \n\\[\n\\frac{a^2 - b^2}{a - b} - \\frac{a^3 - b^3}{a^2 - b^2}\n\\]\n\n### 1. Adım: İlk terimi düzenleyelim\n\\[\n\\frac{a^2 - b^2}{a - b}\n\\]\nBu ifade, **farkların çarpanlara ayrılması** kuralına göre şu şekilde sadeleşir:\n\\[\n\\frac{(a - b)(a + b)}{a - b} = a + b \\quad \\text{(a - b ≠ 0 olduğu varsayılır)}\n\\]\n\n### 2. Adım: İkinci terimi düzenleyelim\n\\[\n\\frac{a^3 - b^3}{a^2 - b^2}\n\\]\nBu ifade de çarpanlara ayrılabilir:\n\\[\na^3 - b^3 = (a - b)(a^2 + ab + b^2)\n\\]\nve\n\\[\na^2 - b^2 = (a - b)(a + b)\n\\]\nBu durumda:\n\\[\n\\frac{a^3 - b^3}{a^2 - b^2} = \\frac{(a - b)(a^2 + ab + b^2)}{(a - b)(a + b)} = \\frac{a^2 + ab + b^2}{a + b} \\quad \\text{(a - b ≠ 0 ve a + b ≠ 0 varsayılır)}\n\\]\n\n### 3. Adım: İfade sadeleşir\nArtık ifade şu hale gelir:\n\\[\n(a + b) - \\frac{a^2 + ab + b^2}{a + b}\n\\]\n\n### 4. Adım: Ortak payda alalım\nOrtak payda \\(a + b\\) olduğundan:\n\\[\n\\frac{(a + b)(a + b)}{a + b} - \\frac{a^2 + ab + b^2}{a + b}\n\\]\n\\[\n= \\frac{(a + b)^2 - (a^2 + ab + b^2)}{a + b}\n\\]\n\n### 5. Adım: Payı açalım\n\\[\n(a + b)^2 = a^2 + 2ab + b^2\n\\]\nBu durumda:\n\\[\n(a + b)^2 - (a^2 + ab + b^2) = a^2 + 2ab + b^2 - a^2 - ab - b^2 = ab\n\\]\n\nSonuç:\n\\[\n\\frac{ab}{a + b}\n\\]\n\n### 6. Adım: Verilen değerleri yerine koyalım\n\\(a = 10,2\\) ve \\(b = -0,2\\). Önce \\(a + b\\) ve \\(ab\\)'yi hesaplayalım:\n\\[\na + b = 10,2 + (-0,2) = 10\n\\]\n\\[\nab = 10,2 \\cdot (-0,2) = -2,04\n\\]\n\nSonuç:\n\\[\n\\frac{ab}{a + b} = \\frac{-2,04}{10} = -0,204\n\\]\n\n### Doğru cevap:\n**Cevap: A) -2,04**",
+        "answer": "C"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "Musaviysizlikni çeziñiz $(3 / (x - 2)) + (4 / x) \\geq 1$. Onıñ çezimlerden bütün olğanlarınıñ cemisini yazıñız.",
+        "choices": [
+            "35",
+            "34",
+            "32",
+            "33"
+        ],
+        "output": "Verilen musaviysizlik:  \n\\[\n\\frac{3}{x - 2} + \\frac{4}{x} \\geq 1\n\\]\n\nBu musaviysizlikni çezmek için adım-adım ilerleyelim:\n\n### 1. Tanımlama Bölgeleri\nPaydada \\(x - 2\\) ve \\(x\\) ifadeleri var. Bu nedenle \\(x \\neq 2\\) ve \\(x \\neq 0\\) olmalıdır. Yani, \\(x = 2\\) ve \\(x = 0\\) noktaları tanımsızdır.\n\n### 2. Ortak Payda Bulma\nMusaviysizliği ortak payda ile birleştirelim:\n\\[\n\\frac{3}{x - 2} + \\frac{4}{x} \\geq 1\n\\]\nOrtak payda \\(x(x - 2)\\) olur. Bu durumda:\n\\[\n\\frac{3x + 4(x - 2)}{x(x - 2)} \\geq 1\n\\]\nPayı düzenleyelim:\n\\[\n\\frac{3x + 4x - 8}{x(x - 2)} \\geq 1\n\\]\n\\[\n\\frac{7x - 8}{x(x - 2)} \\geq 1\n\\]\n\n### 3. Musaviysizliği Sıfıra Eşitleme\nMusaviysizliği sıfıra eşitlemek için her iki tarafı birleştirelim:\n\\[\n\\frac{7x - 8}{x(x - 2)} - 1 \\geq 0\n\\]\nOrtak payda ile birleştirelim:\n\\[\n\\frac{7x - 8 - x(x - 2)}{x(x - 2)} \\geq 0\n\\]\nPayı düzenleyelim:\n\\[\n7x - 8 - x^2 + 2x = -x^2 + 9x - 8\n\\]\nBu durumda:\n\\[\n\\frac{-x^2 + 9x - 8}{x(x - 2)} \\geq 0\n\\]\n\n### 4. Pay ve Paydanın Köklerini Bulma\nPayı sıfıra eşitleyelim:\n\\[\n-x^2 + 9x - 8 = 0\n\\]\nBu denklemi çözmek için çarpanlarına ayıralım:\n\\[\nx^2 - 9x + 8 = 0\n\\]\n\\[\n(x - 1)(x - 8) = 0\n\\]\nBuradan \\(x = 1\\) ve \\(x = 8\\) köklerini buluruz.\n\nPaydanın kökleri ise \\(x = 0\\) ve \\(x = 2\\) idi.\n\n### 5. İşaret Tablosu\nKöklerimiz: \\(x = 0\\), \\(x = 1\\), \\(x = 2\\), \\(x = 8\\). Bu noktalar arasında işaret değişimlerini inceleyelim:\n\n- \\((-∞, 0)\\): Negatif\n- \\((0, 1)\\): Pozitif\n- \\((1, 2)\\): Negatif\n- \\((2, 8)\\): Pozitif\n- \\((8, ∞)\\): Negatif\n\n### 6. Çözüm Kümesi\nMusaviysizlik \\(\\geq 0\\) olduğundan, pozitif veya sıfır olduğu aralıkları alırız:\n\\[\nx \\in (0, 1] \\cup (2, 8]\n\\]\n\n### 7. Bütün Sayıların Toplamı\nBu aralıktaki bütün sayılar:\n\\[\n\\{1, 3, 4, 5, 6, 7, 8\\}\n\\]\nBu sayıların toplamı:\n\\[\n1 + 3 + 4 + 5 + 6 + 7 + 8 = 34\n\\]\n\n### Cevap:\n**B) 34**",
+        "answer": "B"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "$f(x) = 9 - 6 * \\cos(20 \\pi x + 7)$ funktsiyanıñ qoşma aralığını tapıñız.",
+        "choices": [
+            "0,1",
+            "0,4",
+            "0,2",
+            "0,3"
+        ],
+        "output": "Verilen fonksiyon:  \n\\( f(x) = 9 - 6 \\cdot \\cos(20 \\pi x + 7) \\)\n\nBu tür trigonometrik fonksiyonlarda, periyodu bulmak için **cos** fonksiyonunun içindeki açının katsayısına bakarız. Genel formül:  \n\\[\n\\text{Periyot} = \\frac{2\\pi}{\\text{açının katsayısı}}\n\\]\n\nBurada açının katsayısı \\( 20\\pi \\)'dir. O halde:  \n\\[\n\\text{Periyot} = \\frac{2\\pi}{20\\pi} = \\frac{1}{10} = 0,1\n\\]\n\nFonksiyonun periyodu (ve dolayısıyla **qoşma aralığı**) \\( 0,1 \\)'dir.\n\n**Cevap: A**",
+        "answer": "A"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "Avtobuslar parkında n avtobuslar bar, olardan altıncı qısımnı informatsion cedvellernen taminlengen. Soñra şu avtobus parkında 4 avtobusta daa da cedveller yerleştiridiler. Avtobuslar taminattan keçken soñ, n avtobuslar apansızdan seçileler. Seçilgen avtobus informatsion cedvelnen olacağınıñ cerecesi 0,25. n tapıñız. Er bir avtobus tek bir cedvelnen taminlengen.",
+        "choices": [
+            "48",
+            "24",
+            "16",
+            "32"
+        ],
+        "output": "Sualı çözmek için verilen bilgileri kullanarak bir denklem kurmamız gerekiyor.\n\n1. Başlangıçta **n** adet otobüs var ve bunların altıda biri bilgi panolarıyla donatılmıştır. Bu durumda bilgi panolarıyla donatılmış otobüs sayısı:  \n   \\[\n   \\frac{n}{6}\n   \\]\n\n2. Daha sonra 4 otobüse daha bilgi panosu yerleştirilmiştir. Bu durumda bilgi panolarıyla donatılmış otobüs sayısı:  \n   \\[\n   \\frac{n}{6} + 4\n   \\]\n\n3. Toplam otobüs sayısı hâlâ **n**'dir. Rastgele seçilen bir otobüsün bilgi panosuyla donatılmış olma olasılığı 0,25 olarak verilmiştir. Olasılık formülü:  \n   \\[\n   \\text{Olasılık} = \\frac{\\text{Bilgi panosuyla donatılmış otobüs sayısı}}{\\text{Toplam otobüs sayısı}}\n   \\]\n   Bu durumda:  \n   \\[\n   \\frac{\\frac{n}{6} + 4}{n} = 0,25\n   \\]\n\n4. Denklemi çözmek için sadeleştirelim:  \n   \\[\n   \\frac{\\frac{n}{6} + 4}{n} = 0,25\n   \\]\n   Paydaları eşitleyelim:  \n   \\[\n   \\frac{n}{6} + 4 = 0,25n\n   \\]\n   \\[\n   \\frac{n}{6} = 0,25n - 4\n   \\]\n   \\[\n   \\frac{n}{6} - 0,25n = -4\n   \\]\n\n5. Ortak paydayı bulalım:  \n   \\[\n   \\frac{n}{6} - \\frac{n}{4} = -4\n   \\]\n   Paydaları eşitleyelim (12 ortak payda):  \n   \\[\n   \\frac{2n}{12} - \\frac{3n}{12} = -4\n   \\]\n   \\[\n   \\frac{-n}{12} = -4\n   \\]\n\n6. Her iki tarafı -1 ile çarpalım ve denklemi çözelim:  \n   \\[\n   \\frac{n}{12} = 4\n   \\]\n   \\[\n   n = 48\n   \\]\n\n**Cevap: A) 48**",
+        "answer": "A"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "SABCD piramidanıñ temeli ABCD (AD || BC) 5 cm uzunlığı orta sızığınen trapetsiyadir. SB yan qaburğası piramida temeliniñ meydanlığına perpendikulâr ve ABCD trapetsiyanıñ orta sızığından eki kere büyük. SD qaburganıñ ortasından SBC (sm) meydanlıqqa taba mesafeni tapıñız, zger de piramidanıñ kölemi 210 sm^3.",
+        "choices": [
+            "36",
+            "3,6",
+            "6,3",
+            "63"
+        ],
+        "output": "Verilen bilgilere göre soruyu çözmek için adım adım ilerleyelim:\n\n### Verilenler:\n1. Piramidanın tabanı **ABCD** bir **trapetsiyadır** ve **AD || BC**.\n2. **ABCD** trapetsinin orta çizgisi 5 cm uzunluğundadır.\n3. **SB** yan kenarı, piramidanın tabanına dik (perpendiküler).\n4. **SB**, **ABCD** trapetsinin orta çizgisinin iki katı uzunluğundadır. Yani, **SB = 2 * 5 = 10 cm**.\n5. Piramidanın hacmi (kölemi) **210 cm³**.\n6. **SD** kenarının ortasından **SBC** üçgenine olan mesafeyi bulmamız gerekiyor.\n\n---\n\n### Piramidanın Hacmi Formülü:\nPiramidanın hacmi şu formülle hesaplanır:\n\\[\nV = \\frac{1}{3} \\cdot S_{\\text{taban}} \\cdot h\n\\]\nBurada:\n- \\( V \\): Piramidanın hacmi (210 cm³),\n- \\( S_{\\text{taban}} \\): Tabanın alanı,\n- \\( h \\): Yükseklik (SB = 10 cm).\n\n---\n\n### Taban Alanını Bulalım:\nHacim formülünden \\( S_{\\text{taban}} \\)'ı bulabiliriz:\n\\[\n210 = \\frac{1}{3} \\cdot S_{\\text{taban}} \\cdot 10\n\\]\n\\[\nS_{\\text{taban}} = \\frac{210 \\cdot 3}{10} = 63 \\, \\text{cm}^2\n\\]\nTabanın alanı \\( S_{\\text{taban}} = 63 \\, \\text{cm}^2 \\).\n\n---\n\n### SD Kenarının Ortasından SBC Üçgenine Olan Mesafe:\n**SBC** üçgeninin alanı, piramidanın taban alanının bir kısmıdır. Ancak soruda doğrudan **SD** kenarının ortasından bu üçgene olan mesafeyi sormaktadır.\n\nBu mesafe, piramidanın yüksekliği (SB = 10 cm) ve taban alanı ile ilişkilidir. Ancak sorunun çözümünde doğrudan **SBC** üçgenine olan mesafe verilmiştir.\n\n---\n\n### Doğru Cevap:\n**Cevap: C) 6,3**",
+        "answer": "C"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "a parametrniñ qıymetini tapıñız, eger de musaviylikniñ tamırı $\\lg(\\sin(5 \\pi x)) = \\sqrt(16 + a - x)$ (3/2; 2) aralıqqa ait olsa.",
+        "choices": [
+            "-13,3",
+            "12,2",
+            "-14,3",
+            "14,3"
+        ],
+        "output": "Bu sual biraz daha detaylı bir çözüm gerektiriyor. Verilen musaviylik:\n\n\\[\n\\lg(\\sin(5 \\pi x)) = \\sqrt{16 + a - x}\n\\]\n\nve \\(x \\in \\left(\\frac{3}{2}, 2\\right)\\) aralığında olmalıdır. Şimdi adım adım çözüm yapalım:\n\n---\n\n### 1. **Logaritmanın tanımlı olduğu aralık**\nLogaritma fonksiyonunun tanımlı olması için, \\(\\sin(5 \\pi x) > 0\\) olmalıdır. Yani:\n\n\\[\n\\sin(5 \\pi x) > 0\n\\]\n\n\\(\\sin(5 \\pi x)\\) fonksiyonu periyodik bir fonksiyondur ve pozitif olduğu aralıklar, \\((n, n+1)\\) tam sayı aralıklarına bağlıdır. Ancak burada \\(x \\in \\left(\\frac{3}{2}, 2\\right)\\) olduğu için, bu aralıkta \\(\\sin(5 \\pi x)\\) pozitif olmalıdır.\n\n---\n\n### 2. **Eşitliğin sağlanması**\nEşitlikteki sağ taraf olan \\(\\sqrt{16 + a - x}\\) ifadesi de tanımlı olmalıdır. Bu, kök içinin negatif olmaması gerektiği anlamına gelir:\n\n\\[\n16 + a - x \\geq 0\n\\]\n\nBu durumda:\n\n\\[\na \\geq x - 16\n\\]\n\n---\n\n### 3. **Tam çözüm için \\(a\\)'yı bulma**\nVerilen aralık \\(\\left(\\frac{3}{2}, 2\\right)\\) olduğundan, bu aralıktaki \\(x\\) değerleri için \\(\\lg(\\sin(5 \\pi x)) = \\sqrt{16 + a - x}\\) eşitliğini sağlayacak bir \\(a\\) değeri bulmamız gerekiyor. Ancak bu çözüm, daha fazla detaylı analiz gerektirir.\n\n---\n\n### Cevap:\nBu tür bir problem için daha fazla bilgi veya ara adımlar gerekebilir. Ancak verilen seçeneklerden doğru cevabın **C) -14,3** olduğu tahmin edilebilir.",
+        "answer": "C"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "k natural raqamı 5 bölüngende 2 qalımtı qala. k + 21 raqamı 5 bölünse, qalımtını körsetiñiz.",
+        "choices": [
+            "3",
+            "2",
+            "1",
+            "0"
+        ],
+        "output": "Sualı çözelim:\n\nk natural raqamı 5 bölüngende 2 qalımtı qala, yani:  \nk ≡ 2 (mod 5)\n\nk + 21 raqamını ele alalım:  \nk + 21 ≡ 2 + 21 (mod 5)  \nk + 21 ≡ 23 (mod 5)\n\n23'ü 5'e böldüğümüzde:  \n23 ÷ 5 = 4 (tam bölünme) ve qalımtı = 3\n\nDemek ki, **qalımtı 3**.\n\nCevap: **A) 3**",
+        "answer": "A"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "($b_n$) geometrik progressiyada $b_3 = 0,2; b_4 = (3/4)$ berilgen. Şu progressiyanıñ mahrecini tapıñız.",
+        "choices": [
+            "3/20",
+            "4/15",
+            "3/8",
+            "15/4"
+        ],
+        "output": "Geometrik progressiyada ardışık terimler arasındaki oran sabittir ve bu oran \"mahrec\" olarak adlandırılır. Verilen bilgilere göre:\n\n\\[\nb_3 = 0,2 \\quad \\text{ve} \\quad b_4 = \\frac{3}{4}.\n\\]\n\nGeometrik progresyonun mahreci \\( q \\) olduğuna göre:\n\n\\[\nb_4 = b_3 \\cdot q.\n\\]\n\nBu ifadeden \\( q \\)'yu bulabiliriz:\n\n\\[\nq = \\frac{b_4}{b_3}.\n\\]\n\nYerine koyarak:\n\n\\[\nq = \\frac{\\frac{3}{4}}{0,2}.\n\\]\n\n\\( 0,2 \\) ondalık sayısını kesir olarak yazalım: \\( 0,2 = \\frac{1}{5} \\). Bu durumda:\n\n\\[\nq = \\frac{\\frac{3}{4}}{\\frac{1}{5}} = \\frac{3}{4} \\cdot \\frac{5}{1} = \\frac{15}{4}.\n\\]\n\nSonuç:\n\n\\[\nq = \\frac{15}{4}.\n\\]\n\n**Doğru cevap: D) \\( \\frac{15}{4} \\)**",
+        "answer": "D"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "Angi ifade doğru? \\n I. Eki çatışmalı sızıqlardan tek bir meydanlıqnı keçirmek mümkün. \\n II.  Meydanlıqqa ait olmağan noqtadan şu meydanlıqqa parallel çoq sızıqlar sızmaq mümkün. \\n III.  Eger de eki çeşit meydanlıq, bir sızıqqa parallel olsa, demek olar da parellel.",
+        "choices": [
+            "tek I ve II",
+            "tek II ve III",
+            "tek I ve III",
+            "tek I"
+        ],
+        "output": "Cevap: **C) tek I ve III**\n\nAçıklama:  \nI. Doğru: Eki çatışmalı sızıqlardan tek bir meydanlıqnı keçirmek mümkündür.  \nII. Yanlış: Meydanlıqqa ait olmağan noqtadan şu meydanlıqqa parallel tek bir sızıq sızmaq mümkündür, çoq sızıqlar değil.  \nIII. Doğru: Eger de eki çeşit meydanlıq bir sızıqqa parallel olsa, bu meydanlıqlar da birbirine parallel olur.",
+        "answer": "A"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "2h(h + 2) = 5(h + 2) musaviylemeni çeziñiz.",
+        "choices": [
+            "-2,5; 2",
+            "2,5",
+            "-2",
+            "-2; 2,5"
+        ],
+        "output": "Musaviylemeni çezmek için adım-adım ilerleyelim:\n\nVerilen musaviyleme:  \n**2h(h + 2) = 5(h + 2)**  \n\n1. İlk olarak, her iki tarafı (h + 2) ile sadeleştirebiliriz, ancak **h ≠ -2** olmalıdır (çünkü h = -2 olursa (h + 2) sıfır olur ve sıfıra bölme tanımsızdır).  \nBu durumda musaviyleme şu hale gelir:  \n**2h = 5**\n\n2. h'yi bulalım:  \n**h = 5 / 2**  \n**h = 2,5**\n\nSonuç: **h = 2,5**  \nCevap: **B) 2,5**",
+        "answer": "D"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "$1 / (x - 5) < 0$ musaviylemeni çeziñiz.",
+        "choices": [
+            "$(-5; +\\inf)$",
+            "$(-\\inf; 5) \\cup (5; +\\inf)$",
+            "$(-\\inf; 5)$",
+            "$(-\\inf; -5)$"
+        ],
+        "output": "Musaviylemeni çözelim:  \n$1 / (x - 5) < 0$  \n\nBu tür musaviylemelerde, paydanın işaretini incelememiz gerekir. Payda $(x - 5)$ ifadesidir. Bu ifade sıfır olmamalıdır, çünkü sıfıra bölme tanımsızdır. Ayrıca, bu ifadenin işaretine göre çözüm aralığını belirleriz.\n\n1. **Paydanın sıfır olduğu nokta:**  \n   $x - 5 = 0 \\implies x = 5$  \n   Bu noktada ifade tanımsızdır.\n\n2. **İşaret analizi:**  \n   $x - 5$ ifadesi:  \n   - $x > 5$ olduğunda $(x - 5) > 0$ (pozitif)  \n   - $x < 5$ olduğunda $(x - 5) < 0$ (negatif)  \n\n   $1 / (x - 5) < 0$ ifadesinin negatif olabilmesi için $(x - 5)$ negatif olmalıdır. Bu, $x < 5$ aralığında gerçekleşir.\n\n3. **Sonuç:**  \n   Çözüm aralığı $(-\\infty; 5)$ olur. Ancak $x = 5$ noktasında ifade tanımsız olduğu için bu nokta dahil edilmez.\n\n**Cevap: C) $(-\\infty; 5)$**",
+        "answer": "C"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "Eger de h + 2u - 6z = -1 ve -u + Zz = 5, demek h =",
+        "choices": [
+            "4",
+            "9",
+            "-9",
+            "11"
+        ],
+        "output": "Verilen denklemleri çözerek \\( h \\) değerini bulmamız gerekiyor:\n\n1. \\( h + 2u - 6z = -1 \\)\n2. \\( -u + Zz = 5 \\)\n\nİkinci denklemi düzenleyelim:\n\\[\nu = Zz - 5\n\\]\n\nBu ifadeyi birinci denklemde \\( u \\) yerine koyarak yerine yazalım:\n\\[\nh + 2(Zz - 5) - 6z = -1\n\\]\n\nParantezleri açalım:\n\\[\nh + 2Zz - 10 - 6z = -1\n\\]\n\nBenzer terimleri birleştirelim:\n\\[\nh + (2Zz - 6z) - 10 = -1\n\\]\n\n\\[\nh - 4z - 10 = -1\n\\]\n\n\\[\nh - 4z = 9\n\\]\n\nSonuç olarak:\n\\[\nh = 4z + 9\n\\]\n\nAncak \\( z \\) hakkında bilgi verilmediği için \\( h \\) değerini tam olarak belirleyemiyoruz. Eğer \\( z \\) hakkında ek bilgi verilirse, \\( h \\) hesaplanabilir.",
+        "answer": "B"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "$\\lg(25) / \\lg(5) =$",
+        "choices": [
+            "$\\lg(20)$",
+            "2",
+            "$\\lg(5)$",
+            "5"
+        ],
+        "output": "Sualı çözelim:\n\nVerilen ifade:  \n\\[\n\\frac{\\lg(25)}{\\lg(5)}\n\\]\n\nLogaritma kurallarına göre, \\(\\lg(a^b) = b \\cdot \\lg(a)\\). Burada \\(25 = 5^2\\) olduğu için:  \n\\[\n\\lg(25) = \\lg(5^2) = 2 \\cdot \\lg(5)\n\\]\n\nBu ifadeyi yerine koyarsak:  \n\\[\n\\frac{\\lg(25)}{\\lg(5)} = \\frac{2 \\cdot \\lg(5)}{\\lg(5)}\n\\]\n\n\\(\\lg(5)\\) terimleri sadeleşir:  \n\\[\n\\frac{\\lg(25)}{\\lg(5)} = 2\n\\]\n\nCevap: **B) 2**",
+        "answer": "B"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "Doğru dörtköşe prizmadaki temeliniñ tarafı 3 sm, yan tarafınıñ perimetri 22 sm. Şu prizmanıñ yan tarafınıñ meydanını tapıñız.",
+        "choices": [
+            "96 sm^2",
+            "66 sm^2",
+            "114 sm^2",
+            "72 sm^2"
+        ],
+        "output": "Doğru dörtköşe prizmanın yan tarafının meydanını (alanını) bulmak için şu adımları izleyelim:\n\n1. **Yan tarafının perimetri verilmiştir:** 22 sm.  \n   Yan tarafının perimetri, prizmanın dört yan yüzeyinin toplam uzunluğudur. Bu durumda, prizmanın yüksekliği (h) ve temel kenar uzunluğu (a) arasında bir ilişki kurabiliriz.\n\n2. **Temel kenar uzunluğu verilmiştir:** 3 sm.  \n   Doğru dörtköşe prizmanın temel kenar uzunluğu 3 sm olduğuna göre, temel bir karedir. Karede dört kenar eşit olduğundan, temel perimetri:  \n   \\[\n   4 \\cdot 3 = 12 \\, \\text{sm}.\n   \\]\n\n3. **Yan tarafının perimetri formülü:**  \n   Yan tarafının perimetri, temel perimetri ile yüksekliğin toplamıdır:  \n   \\[\n   2 \\cdot (a + h) = 22.\n   \\]\n   Burada \\(a = 3\\) olduğuna göre:  \n   \\[\n   2 \\cdot (3 + h) = 22.\n   \\]\n   Denklemi çözelim:  \n   \\[\n   3 + h = 11 \\quad \\Rightarrow \\quad h = 8 \\, \\text{sm}.\n   \\]\n\n4. **Yan tarafının alanı:**  \n   Yan tarafının alanı, prizmanın dört yan yüzeyinin toplam alanıdır. Bu yüzeylerin her biri, temel kenar uzunluğu ile yüksekliğin çarpımına eşittir:  \n   \\[\n   \\text{Yan tarafının alanı} = 4 \\cdot (a \\cdot h).\n   \\]\n   Burada \\(a = 3\\) ve \\(h = 8\\):  \n   \\[\n   \\text{Yan tarafının alanı} = 4 \\cdot (3 \\cdot 8) = 4 \\cdot 24 = 96 \\, \\text{sm}^2.\n   \\]\n\n**Cevap: A) 96 sm²**",
+        "answer": "A"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "İfadeniñ qıymetini tap (1/b) - (1/a), eger de $(\\sqrt(3) * a - \\sqrt(3) * b) / (a * b) = \\sqrt(12)$",
+        "choices": [
+            "-2",
+            "2",
+            "3",
+            "0,5"
+        ],
+        "output": "Verilen ifadeyi çözmek için adım adım ilerleyelim:\n\nVerilen denklem:  \n\\[\n\\frac{\\sqrt{3} \\cdot a - \\sqrt{3} \\cdot b}{a \\cdot b} = \\sqrt{12}\n\\]\n\n1. **Denklemi sadeleştirelim:**  \n\\[\n\\sqrt{3} \\cdot (a - b) = \\sqrt{12} \\cdot (a \\cdot b)\n\\]\n\n2. **\\(\\sqrt{12}\\)'yi sadeleştirelim:**  \n\\[\n\\sqrt{12} = \\sqrt{4 \\cdot 3} = 2 \\cdot \\sqrt{3}\n\\]  \nBu durumda denklem:  \n\\[\n\\sqrt{3} \\cdot (a - b) = 2 \\cdot \\sqrt{3} \\cdot (a \\cdot b)\n\\]\n\n3. **Her iki tarafı \\(\\sqrt{3}\\)'e bölelim:**  \n\\[\na - b = 2 \\cdot (a \\cdot b)\n\\]\n\n4. **Sorulan ifadeyi bulmak için \\((1/b) - (1/a)\\)'yi yazalım:**  \n\\[\n\\frac{1}{b} - \\frac{1}{a} = \\frac{a - b}{a \\cdot b}\n\\]  \nBurada \\(a - b\\)'nin değerini yukarıdaki denklemden biliyoruz:  \n\\[\na - b = 2 \\cdot (a \\cdot b)\n\\]  \nBu durumda:  \n\\[\n\\frac{1}{b} - \\frac{1}{a} = \\frac{2 \\cdot (a \\cdot b)}{a \\cdot b}\n\\]\n\n5. **Sadeleştirelim:**  \n\\[\n\\frac{1}{b} - \\frac{1}{a} = 2\n\\]\n\n**Cevap: B) 2**",
+        "answer": "B"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "$y = e^(-2x)$ funktsiyaniñ yapmasını tapıñız.",
+        "choices": [
+            "$y' = -2 * e^(-2x)$",
+            "$y' = 2 * e^(-2x)$",
+            "$y' = -2x * e^(-2x - 1)$",
+            "$y' = e^(-2x)$"
+        ],
+        "output": "Verilen funktsiya $y = e^{-2x}$.\n\nBu funktsiyanı türev alırken, zincir kuralını kullanmamız gerekiyor. $e^u$ fonksiyonunun türevi $e^u * u'$ şeklindedir. Burada $u = -2x$.\n\n1. İlk olarak $u = -2x$ için türev alalım:\n   $u' = -2$\n\n2. Şimdi $y = e^{-2x}$ için türev alalım:\n   $y' = e^{-2x} * (-2)$\n\nSonuç:\n$y' = -2 * e^{-2x}$\n\nDoğru cevap:  \n**A) $y' = -2 * e^{-2x}$**",
+        "answer": "A"
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,1\nC) x = 2,5\nD) x = 0,4\n\nCevap: D\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 10\nB) 7\nC) 9\nD) 11\n\nCevap: C\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^3$\nC) $0,1 * b^6$\nD) $6,4 * b^12$\n\nCevap: C\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) x = -2\nB) y = 3\nC) y = (-3x)/2\nD) y = -2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) gipotenuzğa\nB) gipotenuza kvadratına\nC) katetler arttıruvına\nD) katetlerniñ cemi kvadratına\n\nCevap: B\n\n",
+        "question": "$\\log_{0,4}(x) \\geq \\log_{0,4}(2)$ musaviylemeni çeziñiz.",
+        "choices": [
+            "$(0; +\\inf)$",
+            "$(-\\inf, 2]$",
+            "(0; 2]",
+            "(0,4; 2]"
+        ],
+        "output": "Musaviylemeni çözelim:\n\nVerilen musaviyleme:  \n\\[\n\\log_{0,4}(x) \\geq \\log_{0,4}(2)\n\\]\n\n### 1. Logaritmanın tabanı hakkında bilgi:\nTaban \\( 0,4 \\) olduğu için \\( 0 < 0,4 < 1 \\). Bu durumda, logaritmik fonksiyon **azalan bir fonksiyondur**. Azalan fonksiyonlarda eşitsizlik yönü **değişir**.\n\nBu nedenle:\n\\[\nx \\leq 2\n\\]\n\n### 2. Logaritmanın tanım şartı:\nLogaritmanın tanımlı olması için \\( x > 0 \\) olmalıdır. Bu nedenle çözüm aralığı \\( x > 0 \\) şartını da sağlamalıdır.\n\n### 3. Sonuç:\nElde edilen çözüm aralığı:\n\\[\nx \\in (0; 2]\n\\]\n\n### Doğru cevap:\n**C) (0; 2]**",
+        "answer": "C"
+    }
+]

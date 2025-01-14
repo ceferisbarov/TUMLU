@@ -1,0 +1,1202 @@
+[
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Yer po‘stining o‘rtacha qalinligi qancha?",
+        "choices": [
+            "50  kilometr",
+            "80  kilometr",
+            "40  kilometr",
+            "35  kilometr"
+        ],
+        "output": "Javob: **C) 40 kilometr** \n\nYer po'stining o'rtacha qalinligi taxminan 40 kilometrni tashkil etadi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Kril- bu …",
+        "choices": [
+            "yotqiziqlarda yashaydigan organizmlar",
+            "mayda baliqlar",
+            "planktonlarning bir turi",
+            "kichik pingvin turi"
+        ],
+        "output": "Javob: C) planktonlarning bir turi \n\nKril - planktonlarning bir turi bo'lib, okeanlarda keng tarqalgan.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Dunyodagi eng uzun vodiy muzligi Alyaskada joylashgan bo‘lib, uning uzunligi … kilometrni tashkil etadi.",
+        "choices": [
+            "242",
+            "145",
+            "127",
+            "218"
+        ],
+        "output": "Javob: A) 242 \n\nDunyodagi eng uzun vodiy muzligi Alyaskadagi **Malaspina** muzligi boʻlib, uzunligi 242 kilometrni tashkil etadi.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "O‘rta Osiyo qaysi soat mintaqalarida joylashgan?",
+        "choices": [
+            "5 - va  6 - soat mintaqalari",
+            "5 - soat mintaqasi",
+            "4 - va  5 - soat mintaqalari",
+            "3 - va  4 - soat mintaqalari"
+        ],
+        "output": "Javob: **A) 5 - va  6 - soat mintaqalari**\n\nO'rta Osiyo davlatlari, jumladan O'zbekiston, Qozog'istonning janubiy qismi, Qirg'iziston, Tojikiston va Turkmaniston asosan 5-soat mintaqasida joylashgan.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Sirdaryo sohillarida o‘lkaning balandlik qanchani tashkil etadi?",
+        "choices": [
+            "250  metr",
+            "350  metr",
+            "300  metr",
+            "200  metr"
+        ],
+        "output": "Javob: **C) 300 metr** \n\nSirdaryo sohillarida O'zbekistonning balandligi o'rtacha 300 metrni tashkil etadi.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "O‘rmoniarni barpo etish va yog‘och boyliklaridan oqilona foydalanish ishlari bilan … shug‘ullanadi.",
+        "choices": [
+            "maxsus o‘rmon xo‘jaliklari",
+            "Qishloq va suv xo‘jaligi vazirligi",
+            "mahalliy davlat hokimiyati organlari",
+            "Davlat o‘rmon qo‘mitasi"
+        ],
+        "output": "Javob: **A) maxsus o‘rmon xo‘jaliklari** \n\nMaxsus o‘rmon xo‘jaliklari o‘rmonlarni barpo etish, ulardan oqilona foydalanish va o‘rmon resurslarini himoya qilish bilan shug‘ullanadi.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Toshkent iqtisodiy- geografik rayoni toza ichimlik suvi bilan qanday darajada ta’minlangan?",
+        "choices": [
+            "juda yaxshi",
+            "yaxshi",
+            "qisman",
+            "o‘rtacha"
+        ],
+        "output": "Javob: **C) qisman**\n\nToshkent iqtisodiy-geografik rayoni ichimlik suv bilan to'liq ta'minlanmagan.  \n\n* **Suv manbalari:** Toshkentning asosiy ichimlik suv manbalari Chirchiq daryosi va Chorsu suv ombori hisoblanadi. \n* **Aholi zichligi:** Toshkentning zich aholisi va tez o'suvchi sanoati suv ehtiyojini oshirmoqda.\n* **Suvning sifatini buzish:**  Suv manbalarining bir qismi sanoat va qishloq xo'jaligi faoliyati natijasida ifloslanmoqda.\n\nShu sababli Toshkent iqtisodiy-geografik rayoni ichimlik suv bilan qisman ta'minlangan deb aytish mumkin.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Quyidagilardan qaysi biri sanoat rayoni hisoblanmaydi?",
+        "choices": [
+            "Angren- Olmaliq",
+            "Toshkent- Yangiyo‘l",
+            "Bekobod",
+            "Toshkent- Chirchiq"
+        ],
+        "output": "Javob: **D) Toshkent- Chirchiq**\n\nAngren- Olmaliq, Toshkent- Yangiyo‘l va Bekobod sanoat markazlari sifatida taninishadi. Toshkent- Chirchiq esa asosan qishloq xo‘jaligi va bog‘dorchilik bilan shug‘ullanadi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Sanoatning eng eski, ikkinchi tomondan, doimo yangilanayotgan va o‘sayotgan tarmog‘i- bu …",
+        "choices": [
+            "to‘qimachilik",
+            "oziq- ovqat",
+            "trikotaj",
+            "charm- poyabzal"
+        ],
+        "output": "Javob: **A) to‘qimachilik**\n\nTo'qimachilik sanoati eng qadimgi sanoat tarmoqlaridan biri hisoblanadi. U odamzod tarixining boshlanishidan beri mavjud bo'lib, davrlar o'tishi bilan o'zgargan va rivojlangan.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Hozirgi kunda Yevropa qit’asida barcha ko‘rsatkichlarga ko‘ra ustun bo‘lib turgan davlat- bu …",
+        "choices": [
+            "Germaniya",
+            "Rossiya",
+            "Buyuk Britaniya",
+            "Fransiya"
+        ],
+        "output": "Javob: **A) Germaniya** \n\nHozirgi kunda Germaniya Yevropada iqtisodiyot, texnologiya, sanoat va boshqa ko'plab ko'rsatkichlarga ko'ra ustunlik qiladi.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Janubiy- sharqiy Osiyo mintaqasining umumiy maydoni qancha?",
+        "choices": [
+            "4.5  million kvadrat kilometr",
+            "4.2  million kvadrat kilometr",
+            "4.7  million kvadrat kilometr",
+            "4  million kvadrat kilometr"
+        ],
+        "output": "To'g'ri javobni aniqlash uchun qo'shimcha ma'lumotlar kerak. Janubiy-sharqiy Osiyo mintaqasining chegaralari aniq belgilangan emas va turli manbalarda farq qilishi mumkin. \n\nShunday ekan, sizning bergan variantlardan biri to'g'ri bo'lishi mumkin. \n\n**Ammo, eng aniq javobni topish uchun:**\n\n* **Manba:**  Janubiy-sharqiy Osiyo mintaqasining chegaralarini qanday aniqlaydigan manbani ko'rib chiqing.\n* **Aniqlik:**  Manbada mintaqa maydoni haqida aniq ma'lumotlar borligini tekshiring.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "“Melioratsiya” so‘zining ma’nosi nima?",
+        "choices": [
+            "lotincha, “yaxshilash”",
+            "yunoncha, “to‘g‘rilash”",
+            "fransuzcha, “barpo etish”",
+            "inglizcha, “qayta tiklash”"
+        ],
+        "output": "Javob: A) lotincha, “yaxshilash” \n\n\nMelioratsiya so'zi lotincha \"meliorare\" fe'lidan kelib chiqqan bo'lib, \"yaxshilash\" ma'nosini bildiradi. Bu termin asosan yerni yaxshilash, uning unumdorligini oshirish, sug'orish, drenaj va boshqa chora-tadbirlar orqali qilingan ishlarni anglatadi.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Atrof- muhit monitoringi masalasi qachon vujudga keldi?",
+        "choices": [
+            "1986 - yili",
+            "1996 - yili",
+            "1972 - yili",
+            "1960 - yil"
+        ],
+        "output": "Javob: **C) 1972 - yili**\n\nAtrof-muhit monitoringi masalasi 1972-yilda BMTning Stokholmda bo'lib o'tgan Birinchi Jahon atrof-muhit konferensiyasidan keyin vujudga keldi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Oʻrta Osiyoning taqir tuproqlari tarkibida chirindi miqdori qanchani tashkil qiladi?",
+        "choices": [
+            "1–1,5%",
+            "0,3–0,7%",
+            "0,7–1,2%",
+            "1,2–1,7%"
+        ],
+        "output": "Javob: **C) 0,7–1,2%**\n\nOʻrta Osiyoning taqir tuproqlari tarkibida chirindi miqdori odatda 0,7% dan 1,2% gacha boʻladi.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Skandinaviya yarim oroli qirg‘oqlarini yuvadigan dengizni toping?",
+        "choices": [
+            "Sargasso",
+            "Kara",
+            "Labrador",
+            "Norvegiya"
+        ],
+        "output": "Javob: D) Norvegiya \n\n\nSkandinaviya yarim oroli qirg‘oqlarini yuvadigan dengiz **Norvegiya dengizi**dir.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Qaysi shahar Turon iqlimida joylashgan?",
+        "choices": [
+            "G‘ulja",
+            "Dushanbe",
+            "G‘azali",
+            "Ostona"
+        ],
+        "output": "Javob: **B) Dushanbe**\n\nDushanbe, Tojikistonning poytaxti boʻlib, Turon iqlim mintaqasida joylashgan.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Putorana tog‘lari qaysi o‘lkada joylashgan?",
+        "choices": [
+            "G‘arbiy Sibir",
+            "Sharqiy Sibir",
+            "Markaziy Osiyo",
+            "O‘rta Osiyo"
+        ],
+        "output": "Javob: **A) G‘arbiy Sibir** \n\nPutorana tog'lari Rossiyaning G'arbiy Sibir hududida joylashgan.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Qaysi orolning sharqiy qismi Okeaniya tarkibiga kiradi?",
+        "choices": [
+            "Yangi Gvineya",
+            "Kalimantan",
+            "Sulavesi",
+            "Yava"
+        ],
+        "output": "Javob: A) Yangi Gvineya \n\nYangi Gvineya oroli ikki qismga bo'linadi:\n\n* **G'arbiy Yangi Gvineya** - Indoneziya tarkibida.\n* **Sharqiy Yangi Gvineya** - Papua Yangi Gvineya davlati tarkibida, Okeaniya mintaqasiga kiradi.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Yuqorida issiq havo soviganda bug‘ mayda suv tomchilariga aylanib, nimani hosil qiladi?",
+        "choices": [
+            "do‘l",
+            "shudring",
+            "bulut",
+            "qirov"
+        ],
+        "output": "Javob: **C) bulut** \n\nYuqorida issiq havo soviganda bug' mayda suv tomchilariga aylanib, bulutlarni hosil qiladi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Braziliya yassi tog‘ligining janubiy qismi qaysi iqlim mintaqasida joylashgan?",
+        "choices": [
+            "subtropik",
+            "subekvatorial",
+            "mo‘tadil",
+            "tropik"
+        ],
+        "output": "Javob: **A) subtropik** \n\nBraziliya yassi tog‘ligining janubiy qismi subtropik iqlim mintaqasida joylashgan.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Transantarktida zanjirli tizma tog‘lari qaysi tog‘ning davomi hisoblanadi?",
+        "choices": [
+            "Kap",
+            "And",
+            "Avstraliya Alpi",
+            "Drakon"
+        ],
+        "output": "Javob: **B) And** \n\nTransantarktida zanjirli tizma tog'lari Janubiy Amerikaning And tog'larining davomi hisoblanadi.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Qayerda harorat kunduz tush paytida +30 °C, kechasi +23 °C ni tashkil etadi?",
+        "choices": [
+            "Antarktida",
+            "Avstraliya",
+            "Tinch okeani",
+            "Okeaniya"
+        ],
+        "output": "Javob: **B) Avstraliya**\n\nAvstraliya, xususan ichki qismida, kunduz va kechasi temperatura farqi juda katta bo'ladi.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Bir davlatga tegishli stansiyalarni toping?",
+        "choices": [
+            "Dyumon-Dyurvill, Xalli",
+            "Keysi, Mouson",
+            "Mirniy, Belgrano II",
+            "Maytri, Signyu"
+        ],
+        "output": "Javob: **C) Mirniy, Belgrano II**\n\nMirniy va Belgrano II Antarktida qit'asidagi Rossiya va Argentina stansiyalari hisoblanadi.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Qaysi mamlakat janubida pivo ishlab chiqarishda qo‘llaniladigan xmelni yetishtirish rivojlangan?",
+        "choices": [
+            "Buyuk Britaniya",
+            "Germaniya",
+            "Italiya",
+            "Fransiya"
+        ],
+        "output": "Javob: **B) Germaniya**\n\nGermaniya xmel yetishtirishda jahonda oldinchilik qiladi va pivo ishlab chiqarishda xmelning yuqori sifatli navlarini ishlab chiqaradi.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Deyarli barcha vulqon o‘choqlari qaysi qatlamga tog‘ri keladi?",
+        "choices": [
+            "yadro",
+            "yer po‘sti",
+            "astenosfera",
+            "mantiya"
+        ],
+        "output": "Javob: **B) yer po'sti**\n\nDeyarli barcha vulqon o'choqlari yer po'stida joylashgan. Yer po'sti tektonik plastinkalardan iborat bo'lib, ular harakatlanadi va bu harakatlar vulqon faoliyatiga sabab bo'ladi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Quyoshdan Yerga kelayotgan issiqlikning 70%ini qaysi obyekt yutadi?",
+        "choices": [
+            "materiklar",
+            "geografik qobiq",
+            "cho‘llar",
+            "okean"
+        ],
+        "output": "Javob: **D) okean** \n\nOkeanlar Yer sirtidan eng katta qismini egallaydi va Quyoshdan kelayotgan issiqlikning katta qismini yutadi.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Qaysi tog‘ yonbag‘irlarida kondorlar yashaydi?",
+        "choices": [
+            "Himolay",
+            "Karpat",
+            "Atlas",
+            "And"
+        ],
+        "output": "Javob: D) And \n\nKondorlar asosan Janubiy Amerikaning And tog'larida yashaydi.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Tayanch rivojlangan mamlakatlar guruhini belgilang?1)Rossiya 2)Brazilya 3)Xitoy 4)Ispaniya 5)Meksika 6)Hindiston 7)Indoneziya",
+        "choices": [
+            "2,3,5,6",
+            "1,3,6,7",
+            "2,3,4,6",
+            "1,2,3,6"
+        ],
+        "output": "Javob: **B) 1,3,6,7**\n\nTayanch rivojlangan mamlakatlar deb, iqtisodiyotining rivojlangan darajasi, sanoatlashganligi, yuqori darajadagi hayot darajasi va boshqa ko'rsatkichlariga ko'ra tan olinishi mumkin bo'lgan mamlakatlarga aytiladi. \n\n* **Rossiya** - dunyodagi eng yirik mamlakatlardan biri, katta miqdordagi tabiiy boyliklarga ega va rivojlangan sanoat sohasiga ega.\n* **Xitoy** - so'nggi o'n yilliklarda juda tez rivojlanib kelayotgan mamlakat, dunyodagi ikkinchi yirik iqtisodiyotga ega.\n* **Hindiston** - tez rivojlanayotgan iqtisodiyotga ega, yirik aholi punktlaridan biri.\n* **Indoneziya** - Janubi-Sharqiy Osiyoning eng yirik mamlakatlaridan biri, tez rivojlanayotgan iqtisodiyotga ega.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Fernan Magellan sayohati qaysi shahardan boshlangan?",
+        "choices": [
+            "Palos",
+            "Lissabon",
+            "Sanluka",
+            "Kronshtat"
+        ],
+        "output": "Javob: **A) Palos** \n\nFernan Magellanning jahon sayohati 1519-yilda Ispaniyaning Palos shahridan boshlangan.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Afrika materigining qaysi tabiiy geografik oʻlkasida qimmatbaho mebellar ishlanadigan qizil daraxt oʻsadi?",
+        "choices": [
+            "Janubiy Afrika",
+            "Sharqiy Afrika",
+            "Markaziy Afrika",
+            "Shimoliy Afrika"
+        ],
+        "output": "Javob: **A) Janubiy Afrika**\n\nQizil daraxt Janubiy Afrika, xususan, Zimbabve, Zambiya va Mozambik kabi mamlakatlarda o'sadi va qimmatbaho mebellar ishlab chiqarishda ishlatiladi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Tinch okeanidagi Tonga choʻkmasiga exolotdan yuborilgan tovush toʻlqini qancha vaqtda yetib boradi?",
+        "choices": [
+            "7,34 s",
+            "6,69 s",
+            "6,52 s",
+            "7,25 s"
+        ],
+        "output": "Bu savolga javob berish uchun Tonga choʻkmasining Tinch okeanidagi joylashuvini va exolotdan tovush toʻlqinining tezligini bilishimiz kerak. \n\n**Tovush tezligi suvda:**\n\n* Suvdagi tovush tezligi temperatura va tuzlilikdan oʻzgaradi, lekin oʻrtacha 1500 metr/soniya deb hisoblanadi.\n\n**Masofa:**\n\n* Tonga choʻkmasining Tinch okeanidagi aniq joylashuvini bilmasdan, masofani aniqlash mumkin emas.\n\n**Hisoblash:**\n\n* Agar masofa (d) metrlarda berilgan boʻlsa, tovush toʻlqinining yetish vaqti (t) quyidagi formula bilan hisoblanadi:\n\n**t = d / 1500**\n\n**Natija:**\n\n* Tonga choʻkmasining Tinch okeanidagi aniq joylashuvini bilmasdan, tovush toʻlqinining yetish vaqtini aniqlash mumkin emas.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Tibet tog‘i markazi, Taklamakon va Gobi cho‘llarida qancha yog‘in tushadi?",
+        "choices": [
+            "50 mm",
+            "250 mm",
+            "150 mm",
+            "100 mm"
+        ],
+        "output": "Javob: **A) 50 mm**\n\nTibet tog'i markazi, Taklamakon va Gobi cho'llarida juda kam yog'in tushadi. Yillik yog'in miqdori o'rtacha 50 mm dan kam bo'ladi.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Kabisa yilida 1 yil necha kunga teng bo‘ladi?",
+        "choices": [
+            "366",
+            "354",
+            "365",
+            "368"
+        ],
+        "output": "Javob: A) 366",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Sayyoramizdagi eng yirik Geotizim nima?",
+        "choices": [
+            "suvlik",
+            "quruqlik",
+            "Geografik qobiq",
+            "Dunyo okeani"
+        ],
+        "output": "Javob: **D) Dunyo okeani** \n\nSayyoramizdagi eng yirik geotizim Dunyo okeanidir. U Yer yuzasining taxminan 71% ni egallaydi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Qadimdan yer yuzini nechta yirik muhitga ajratishgan?",
+        "choices": [
+            "5 ta",
+            "4 ta",
+            "2 ta",
+            "3 ta"
+        ],
+        "output": "Javob: **D) 3 ta**\n\nQadimdan yer yuzini **3 ta** yirik muhitga ajratishgan:\n\n* **Quruqlik**\n* **Suv**\n* **Havo**",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "2016-yil hisobi bo‘yicha qaysi mintaqa yuqori darajada urbanizatsiyalashgan?",
+        "choices": [
+            "Yevropa",
+            "Avstraliya va Okeaniya",
+            "Lotin Amerka",
+            "Osiyo"
+        ],
+        "output": "Javob: **A) Yevropa**\n\nYevropa mintaqasi 2016-yilda eng yuqori darajada urbanizatsiyalashgan mintaqa bo'lgan.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Kimning fikricha 200 mln yil avval yer yuzida Pangeya materigi va Pantalassa okeani bo‘lgan?",
+        "choices": [
+            "Laplas",
+            "Vegener",
+            "Kant",
+            "Dekart"
+        ],
+        "output": "Javob: **B) Vegener**\n\nAlfred Vegener tektonik plitalar nazariyasining asoschisi bo'lib, u 200 million yil oldin Yer yuzida Pangeya materigi va uni o'rab turgan Pantalassa okeani mavjud bo'lganini taklif qilgan.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Yer relyefining eng yirik shakllariga nimalar kiradi?",
+        "choices": [
+            "eng yirik tog‘ar va tekisliklar",
+            "baland tog‘lar va chuqur cho‘kmalar",
+            "materik va okeanlar",
+            "tog‘lar va tekisliklar"
+        ],
+        "output": "Javob: **C) materik va okeanlar**\n\nYer relyefining eng yirik shakllari materiklar va okeanlardir. \n\n\n* **Materiklar** - quruqlikning yirik qismlari.\n* **Okeanlar** - suvning yirik qismlari. \n\nBoshqa variantlardagi javoblar yer relyefining kichik shakllarini ifodalaydi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Gazli shahri haqida xato ma’lumotni toping.",
+        "choices": [
+            "Hozirgi kunda shaharda 50 ga yaqin sanoat korxonasi ishlab turibdi",
+            "Gazliga Navoiydan elektr quvvati va Amudaryodan quvur orqali suv olib kelingan",
+            "Gazli joylashgan hududning iqlimi keskin kontinental, vaqti-vaqti bilan kuchli shamol bo‘lib, chang ko‘tariladi, ayrim vaqtlarda qum ko‘chadi",
+            "Gazli shahri gaz koni negizida barpo etilgan"
+        ],
+        "output": "Javob: **A) Hozirgi kunda shaharda 50 ga yaqin sanoat korxonasi ishlab turibdi**\n\nBu ma'lumot **xato**. Gazli shahri asosan gaz sanoati bilan bog'liq bo'lganiga qaramay, 50 ga yaqin sanoat korxonasi emas.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "O‘zbekiston Respublikasida Sirdaryo viloyatining salmog‘ini to‘g‘ri belgilang.1) hududi, 2) aholi soni, 3) yalpi ichki mahsulot, 4) sanoat mahsuloti, 5) qishloq xo‘jaligi mahsuloti, 6) donli ekinzor ekin maydoni, 7) paxta ekin maydonia) 2,0 %, b) 2,5 %, c) 2,7 %, d) 3,1 %, e) 4,2 %, f) 9,3 %, g) 9,6 %",
+        "choices": [
+            "1-d, 2-c, 3-b, 4-e, 5-a, 6-g, 7-f",
+            "1-d, 2-b, 3-a, 4-c, 5-e, 6-f, 7-g",
+            "1-a, 2-b, 3-c, 4-d, 5-e, 6-f, 7-g",
+            "1-b, 2-a, 3-d, 4-c, 5-f, 6-e, 7-g"
+        ],
+        "output": "Afsuski, men real vaqtli ma'lumotlarga kirish huquqiga ega emasman. Bu ma'lumotlar O'zbekiston Respublikasi Davlat Statistika Komiteti kabi rasmiy manbalardan topilishi mumkin. \n\nSizning so'rovingizga javob berish uchun Sirdaryo viloyati haqidagi statistik ma'lumotlarni topishingiz kerak.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Qizilqumning shimolida yanvarning o‘rtacha harorati janubiga nisbatan qanchaga farq qiladi?",
+        "choices": [
+            "2-6°C",
+            "5-10°C",
+            "10-15°C",
+            "4-8°C"
+        ],
+        "output": "Javob: **D) 4-8°C**\n\nQizilqumning shimolida yanvarning o'rtacha harorati janubiga nisbatan 4-8°C gacha farq qiladi.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "O‘zbekiston hududining tekislik qismi qaysi hududlarini o‘z ichiga oladi?",
+        "choices": [
+            "Janubi-sharqiy va sharqiy",
+            "Shimoli-sharqiy va sharqiy",
+            "Janubi-g‘arbiy va g‘arbiy",
+            "Shimoli-g‘arbiy va g‘arbiy"
+        ],
+        "output": "Javob: **B) Shimoli-sharqiy va sharqiy** \n\nO'zbekiston hududining tekislik qismi asosan shimoli-sharqiy va sharqiy hududlarni o'z ichiga oladi. Bu yerlarda Turon tekisligi joylashgan.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "O‘zbekistonda ishlatiladigan suvning taqsimlanishini to‘g‘ri belgilang.1) Sug‘orish, 2) Sanoat, 3) Xo‘jalik – ichimlik, 4) Baliq xo‘jaligia) 90,1 %, b) 6,2 %, c) 2,2 %, d) 1,5 %",
+        "choices": [
+            "1-d, 2-c, 3-b, 4-a",
+            "1-a, 2-c, 3-b, 4-d",
+            "1-a, 2-d, 3-c, 4-b",
+            "1-a, 2-b, 3-c, 4-d"
+        ],
+        "output": "Javob: **B) 1-a, 2-c, 3-b, 4-d**\n\nO'zbekistonda suvning taqsimlanishi quyidagicha:\n\n* **Sug'orish:** 90,1%\n* **Sanoat:** 6,2%\n* **Xo'jalik – ichimlik:** 2,2%\n* **Baliq xo'jaligi:** 1,5%",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "O‘rta Osiyodagi yirik ko‘llarni toping.1) Orol dengizi; 2) Kaspiy dengizi; 3) Issiqko‘l; 4) Sariqamish ko‘li; 5) Balxash ko‘li; 6) Qorako‘l; 7) Sarez ko‘li",
+        "choices": [
+            "1, 3, 4, 7",
+            "1, 2, 4, 5",
+            "1, 2, 5, 6",
+            "1, 3, 5, 6"
+        ],
+        "output": "Javob: **C) 1, 2, 5, 6**\n\nO'rta Osiyodagi yirik ko'llar:\n\n* **1) Orol dengizi:**  \n* **2) Kaspiy dengizi:** (geografik jihatdan ko'l hisoblansa-da, dengiz deb ataladi)\n* **5) Balxash ko'li:** \n* **6) Qorako'l:** \n\n\nIssiqko'l (3) va Sariqamish ko'li (4) O'rta Osiyoda emas. Sarez ko'li (7) esa Pomir tog'larida joylashgan.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "22°30′va 37°30′uzunlikdagi meridianlar orasi nechanchi mintaqa bo‘ladi?",
+        "choices": [
+            "Birinchi",
+            "Uchinchi",
+            "Ikkinchi",
+            "To‘rtinchi"
+        ],
+        "output": "Javob: **C) Ikkinchi**\n\n22°30′ va 37°30′ uzunlikdagi meridianlar orasi 15° ga teng.  \n\nHar bir geografik uzunlik mintaqasi 15° li bo'lgani uchun, bu meridianlar orasidagi farq 15° ga teng bo'lgan ikkinchi mintaqaga to'g'ri keladi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "O‘zbekiston qovunlari xush bo‘y va shirinligi bilan qadimdan mashhur. Mamlakatimizning qaysi hududlarida qovun ko‘plab yetishtiriladi?1) Qoraqalpog‘iston Respublikasi, 2) Toshkent viloyatida, 3) Samarqand viloyatida, 4) Buxoro viloyatida, 5) Zarafshon, 6) Jizzax viloyatida, 7) Farg‘ona vodiysida, 8) Sirdaryo viloyatida, 9) Xorazm viloyatida, 10) Surxondaryo viloyatida",
+        "choices": [
+            "1, 2, 5, 7",
+            "1, 3, 6, 8, 9",
+            "1, 4, 8, 9",
+            "1, 3, 6, 9"
+        ],
+        "output": "Javob: **B) 1, 3, 6, 8, 9**\n\nO'zbekistonda qovun ko'plab yetishtiriladigan hududlar:\n\n* **1) Qoraqalpog'iston Respublikasi:** Quruq iqlimini sevuvchi qovunlar uchun mos.\n* **3) Samarqand viloyati:**  Qovun yetishtirishda mashhur.\n* **6) Jizzax viloyati:**  Qovun yetishtirishda yetakchi viloyatlar qatorida.\n* **8) Sirdaryo viloyati:**  Qovun yetishtirish uchun qulay sharoitlarga ega.\n* **9) Xorazm viloyati:**  Qovun yetishtirishda mashhur.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Antarktida hududida qanday iqlim mintaqalari ajratilgan?",
+        "choices": [
+            "antarktika",
+            "antarktika, subantarktika",
+            "antarktika, subantarktika, mo‘tadil",
+            "antarktika, arktika"
+        ],
+        "output": "Javob: **B) antarktika, subantarktika** \n\nAntarktida hududida asosan ikki iqlim mintaqasi ajratiladi:\n\n* **Antarktika:** Bu mintaqa Antarktida qit'asining ichki qismiga to'g'ri keladi va juda quruq va sovuq iqlimga ega. \n* **Subantarktika:** Bu mintaqa Antarktida qit'asining chetlarida joylashgan bo'lib, nisbatan iliq va nam iqlimga ega.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Quyidagi qaysi geologik davrlar 45 mln yildan davom etgan?",
+        "choices": [
+            "devon, yura",
+            "silur, toshkoʻmir",
+            "perm, trias",
+            "devon, kembriy"
+        ],
+        "output": "Javob: **C) perm, trias**\n\nPerm va trias davrlari birgalikda Mezozoy erasi deb ataladigan davrning bir qismidir va ularning umumiy davomiyligi taxminan 45 million yilni tashkil etadi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Yer yuzidagi biror nuqtaning boshqa nuqtadan tik balandligiga nima deyiladi?",
+        "choices": [
+            "Balandlik shkalasi",
+            "nisbiy balandlik",
+            "Mutloq balandlik",
+            "Bergshtrix"
+        ],
+        "output": "Javob: **C) Mutloq balandlik**\n\nMutloq balandlik - bu bir nuqtaning dengiz sathidan nisbatan balandligi.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Quyidagi berilgan kashfiyotlar kimga tegishli ekanligi to‘g‘ri ko‘rsatilgan javobni aniqlang.1) 1498-yilda Hindistonga dengiz yo‘lini ochgan; 2) 1642-1643-yillarda Hind okeanini birinchi bo‘lib g‘arbdan sharqqa suzib o‘tgan; 3) 1771-1775-yillarda Hind okeani chuqurligini aniqlagan;a) X.Kolumb, b) J.Kuk, c) F.Magellan, d) V.da Gama, e) A.Tasman.",
+        "choices": [
+            "1-d, 2-e, 3-b",
+            "1-a, 2-c, 3-d",
+            "1-a, 2-c, 3-b",
+            "1-d, 2-b, 3-e"
+        ],
+        "output": "Javob: **A) 1-d, 2-e, 3-b**\n\n* **1) 1498-yilda Hindistonga dengiz yo‘lini ochgan:**  **d) V.da Gama**\n* **2) 1642-1643-yillarda Hind okeanini birinchi bo‘lib g‘arbdan sharqqa suzib o‘tgan:** **e) A.Tasman**\n* **3) 1771-1775-yillarda Hind okeani chuqurligini aniqlagan:** **b) J.Kuk**",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Odam bosh qismini qancha masofadan ko‘rish mumkin?",
+        "choices": [
+            "3 kmdan",
+            "2 kmdan",
+            "400 mdan",
+            "150 mdan"
+        ],
+        "output": "Javob: **D) 150 mdan**\n\nOdam bosh qismini ko'rish masofasi odatda 150 metr atrofida bo'ladi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "1818 -yilda yuz bergan voqeani toping?",
+        "choices": [
+            "Buxoroda zilzila bo‘lgan",
+            "Gumbolt Janubiy Amerikaga sayohatini boshlagan",
+            "Antarktida kashf etilgan",
+            "Stenli tug‘ilgan"
+        ],
+        "output": "Javob: **B) Gumbolt Janubiy Amerikaga sayohatini boshlagan** \n\nAleksandr fon Gumbolt 1818 yilda Janubiy Amerikaga sayohatini boshlagan.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Qaysi ma’lumot to‘gri?",
+        "choices": [
+            "magniy-og‘ir metal",
+            "germaniy-qiyin eriydigan metal",
+            "titan-yengil metal",
+            "molibden-nodir metal"
+        ],
+        "output": "Javob: **C) titan-yengil metal** \n\nTitanning asosiy xususiyatlaridan biri uning yengilligi. \n\n\n* Magniy ham yengil metallar guruhiga kiradi.\n* Germaniy yarimo‘tkazgich sifatida ishlatiladi va erish harorati nisbatan yuqori.\n* Molibden ham nodir metallar guruhiga kiradi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Rossiya energetikasida IES(1), GES(2), AES(3) ulushini aniqlang?a – 65; b – 34; c – 43; d – 16; e – 18.",
+        "choices": [
+            "1 – b; 2 – c; 3 - a",
+            "1 – c; 2 – b; 3 – a",
+            "1 – d; 2 – b; 3 - c",
+            "1 – a; 2 – d; 3 - e"
+        ],
+        "output": "Javob: **A) 1 – b; 2 – c; 3 - a**\n\nRossiya energetikasida:\n\n* **IES (Ittifoqlashgan Energetika Sistemasi)** ulushi **34%** ni tashkil etadi.\n* **GES (Gidravlik Elektr Stansiyalari)** ulushi **43%** ni tashkil etadi.\n* **AES (Atom Elektr Stansiyalari)** ulushi **65%** ni tashkil etadi.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Tinch okeaniga tegishli oqimlarni toping?1.Shimoliy passat2.Somali3.Gvineya4.G‘arbiy Avstraliya5.Sharqiy Avstraliya6.Janubiy passat",
+        "choices": [
+            "1, 3, 5",
+            "2, 4, 6",
+            "1, 5, 6",
+            "2, 3, 4"
+        ],
+        "output": "Javob: **C) 1, 5, 6**\n\nTinch okeaniga tegishli oqimlar:\n\n* **Shimoliy passat:** Tropiklarda, sharqqa qarab oqadi.\n* **Sharqiy Avstraliya:** Janubiy yarim sharda, sharqqa qarab oqadi.\n* **Janubiy passat:** Tropiklarda, sharqqa qarab oqadi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Lotinchada iz, yo‘l deb ayting?",
+        "choices": [
+            "perigeliy",
+            "galaktika",
+            "orbita",
+            "eon"
+        ],
+        "output": "Javob: C) orbita \n\n\"Orbita\" lotinchadan kelib chiqqan soʻz boʻlib, \"yoʻl\", \"iz\" maʼnosini bildiradi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "“Miroqi” davolash maskani qaysi viloyatda joylashgan?",
+        "choices": [
+            "Qashqadaryo",
+            "Farg‘ona",
+            "Buxoro",
+            "Toshkent"
+        ],
+        "output": "Javob: **A) Qashqadaryo** \n\n\"Miroqi\" davolash maskani Qashqadaryo viloyatining Miroqi tumanida joylashgan.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Avstraliyada qanday iqlim tipi hukumronlik qiladi?",
+        "choices": [
+            "subekvatorial",
+            "nam tropik",
+            "quruq tropik",
+            "mo‘tadil"
+        ],
+        "output": "Javob: **B) nam tropik**\n\nAvstraliyaning katta qismi nam tropik iqlim zonasida joylashgan. \n\nAmmo, Avstraliya juda katta mamlakat bo'lgani uchun, boshqa iqlim tiplari ham uchraydi:\n\n* **Shimoliy qismida:** Tropik savanna va quruq iqlim\n* **Janubiy qismida:** Mo'tadil iqlim\n* **G'arbiy qismida:** Quruq cho'l iqlim",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Quyidagilardan dunyodagi eng katta yarimorolni belgilang?",
+        "choices": [
+            "Hindixitoy",
+            "Arabiston",
+            "Hindiston",
+            "Malakka"
+        ],
+        "output": "Javob: **A) Hindixitoy** \n\nHindixitoy yarimoroloni dunyodagi eng katta yarimoroldir.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Yer ekvatorining uzunligi qanchaga teng?",
+        "choices": [
+            "40000 km",
+            "40 km",
+            "4000 km",
+            "400 km"
+        ],
+        "output": "Javob: A) 40000 km \n\nYer ekvatorining uzunligi taxminan 40 075 kilometrga teng.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Qaysi havo massalari yana quruqlik va dengiz havo massasiga bo‘linadi?",
+        "choices": [
+            "Suptropik va Tropik",
+            "Mo‘tadil va Suptropik",
+            "Mo‘tadil va Tropik",
+            "Mo‘tadil va Ekvatorial"
+        ],
+        "output": "Javob: **B) Mo‘tadil va Suptropik**\n\nMo'tadil va suptropik havo massalari yana quruqlik va dengiz havo massalariga bo'linadi. \n\n* **Mo'tadil quruqlik havo massasi:** Qishda sovuq va quruq, yozda iliq va quruq.\n* **Mo'tadil dengiz havo massasi:** Yili davomida nisbatan iliq va nam.\n* **Suptropik quruqlik havo massasi:** Yozda juda issiq va quruq, qishda iliq.\n* **Suptropik dengiz havo massasi:** Yili davomida iliq va nam.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Amerikani kim va qachon rasman kashf etdi?",
+        "choices": [
+            "1519-yili F.Magellan",
+            "1492-yili X.Kolumb",
+            "1501-yili A.Vespuchchi",
+            "1821-yili M.Lazarev"
+        ],
+        "output": "Javob: **B) 1492-yili X.Kolumb** \n\nXristofor Kolumb 1492-yilda Amerikaga ilk bor qadam qo‘ygan.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Eng unumdor tuproq turi qayerlarda ko‘p tarqalgan?",
+        "choices": [
+            "chalacho‘llarda",
+            "tog‘larda",
+            "dashtlarda",
+            "cho‘llarda"
+        ],
+        "output": "Javob: **C) dashtlarda** \n\nDashtlarda eng unumdor tuproq turi bo'lgan **chernozem** ko'p tarqalgan.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Hozir dunyo okeani sohillarida nechta port- shahar mavjud?",
+        "choices": [
+            "2900 ta",
+            "2500 ta",
+            "2000 ta",
+            "2700 ta"
+        ],
+        "output": "To'g'ri javobni aniqlash qiyin, chunki \"port-shahar\"ning aniq ta'rifi yo'q va bu raqam doimo o'zgarib boradi. \n\nAmmo, jahon bo'ylab **2000 dan ortiq** port-shahar mavjudligi taxmin qilinadi.\n\nShunday qilib, eng yaqin javob **C) 2000 ta** bo'ladi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Afrikaning ekvatorial o‘rmonlari qanday ataladi?",
+        "choices": [
+            "gileya",
+            "skreb",
+            "pampa",
+            "selva"
+        ],
+        "output": "Javob: **D) selva** \n\nAfrikaning ekvatorial o'rmonlari **selva** deb ataladi.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Antarktidaning qadimgi geologik tarixida issiq, mo‘tadil iqlimlar va qalin daraxtlar o‘sgan davr qaysi?",
+        "choices": [
+            "ordovik",
+            "devon",
+            "kembriy",
+            "toshko‘mir"
+        ],
+        "output": "Javob: **D) toshko‘mir**\n\nAntarktida toshko‘mir davrida (taxminan 359-299 million yil oldin) issiq va nam iqlimga ega bo‘lgan. Bu davrda Antarktida bugungi kabi qutb mintaqasi emas edi, balki qalin o‘rmonlar bilan qoplangan edi.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Niagara- dunyodagi eng maftunkor sharshara. Bu yerga har yili qancha sayyoh tashrif buyuradi?",
+        "choices": [
+            "15 million",
+            "8 million",
+            "10 million",
+            "20 million"
+        ],
+        "output": "Javob: **A) 15 million**\n\nNiagara sharsharasi har yili taxminan 15 million sayyohni jalb qiladi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Sharqiy Yevropa tabiiy- geografik o‘lkasining “Ko‘llar mamlakati” qaysi javobda ko‘rsatilgan?",
+        "choices": [
+            "Belorussiya va Rossiya",
+            "Shvetsiya va Finlyandiya",
+            "Rossiya va Finlyandiya",
+            "Finlyandiya va Kareliya"
+        ],
+        "output": "Javob: **B) Shvetsiya va Finlyandiya** \n\nShvetsiya va Finlyandiya ko'p sonli ko'llarga ega bo'lganligi sababli \"Ko'llar mamlakati\" deb ataladi.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Ustyurt o‘lkasining eng baland joyi (292 metr)- bu …",
+        "choices": [
+            "Qorabovur qirlari",
+            "Shimoliy Ustyurt ko‘tarilmasi",
+            "Kassarma ko‘tarilmasi",
+            "Qo‘ng‘irot qirliklari"
+        ],
+        "output": "Javob: **B) Shimoliy Ustyurt ko‘tarilmasi**",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Sovuq havo massalarining turib qolishi natijasida Ustyurt o‘lkasida havo harorati qanchagacha pasayishi mumkin?",
+        "choices": [
+            "-42^^o C",
+            "-38^^o C",
+            "-35^^o C",
+            "-40^^o C"
+        ],
+        "output": "Javob: **D) -40^^o C**\n\nUstyurt o‘lkasida sovuq havo massalarining turib qolishi natijasida havo harorati -40°C gacha pasayishi mumkin.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "O‘zbekistondagi barcha kanop zavodlari qaysi aksiya-dorlik birlashmasiga uyushgan?",
+        "choices": [
+            "“Toshkent kanop sanoat sotish”",
+            "“O‘zyengilsanoat”",
+            "“Kanopsanoat”",
+            "“O‘zbekiston kanop savdo”"
+        ],
+        "output": "Javob: **C) “Kanopsanoat”** \n\n\nO'zbekistondagi barcha kanop zavodlari \"Kanopsanoat\" aksiya-dorlik birlashmasiga uyushgan.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Qashqadaryo iqtisodiy- geografik rayonida mevazorlar, sabzavot va poliz ekin maydonlari asosan qaysi hududda joylashgan?",
+        "choices": [
+            "Janubiy- G‘arbiy Hisor vodiysi",
+            "Qarshi vohasi",
+            "Kitob- Shahrisabz botig‘i",
+            "Nishon vohasi"
+        ],
+        "output": "Javob: **B) Qarshi vohasi** \n\nQashqadaryo iqtisodiy-geografik rayonida mevazorlar, sabzavot va poliz ekin maydonlari asosan **Qarshi vohasi**da joylashgan.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Rossiya Federatsiyasining Dzerjinsk, Novomoskovsk, Nevinnomisk va Kemerovo shaharlarida kimyo sanoatining qanday tarmog‘i shakllangan?",
+        "choices": [
+            "kaliy o‘g‘itlari",
+            "o‘simlik zararkunandalariga qarshi ximikatlar ishlab chiqarish",
+            "azotli o‘g‘itlar ishlab chiqarish",
+            "organik sintez mahsulotlari"
+        ],
+        "output": "Javob: **C) azotli o‘g‘itlar ishlab chiqarish**\n\nDzerjinsk, Novomoskovsk, Nevinnomisk va Kemerovo shaharlari Rossiyada azotli o‘g‘itlar ishlab chiqarishining yirik markazlari sifatida tanilishadi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "AQSh Konstutsiyasi qachon qabul qilingan?",
+        "choices": [
+            "1785- yili",
+            "1774- yili",
+            "1779- yili",
+            "1787- yili"
+        ],
+        "output": "Javob: D) 1787- yili",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "O‘rta Osiyodagi yagona alyuminiy zavodi qaysi shaharda joylashgan?",
+        "choices": [
+            "Qarag‘anda",
+            "Xo‘jand",
+            "Bishkek",
+            "Regar"
+        ],
+        "output": "Javob: **B) Xo‘jand** \n\nO'rta Osiyodagi yagona alyuminiy zavodi O'zbekistonning Xo'jand shahrida joylashgan.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Quyidagi berilgan kashfiyotlar kimga tegishli ekanligi to‘g‘ri ko‘rsatilgan javobni aniqlang.1) 1498-yilda Hindistonga dengiz yo‘lini ochgan;2) 1642-1643-yillarda Hind okeanini birinchi bo‘lib g‘arbdan sharqqa suzib o‘tgan;3) 1771-1775-yillarda Hind okeani chuqurligini aniqlagan;a) X.Kolumb,b) J.Kuk,c) F.Magellan,d) V.da Gama,e) A.Tasman.",
+        "choices": [
+            "1-d, 2-b, 3-e",
+            "1-a, 2-c, 3-b",
+            "1-a, 2-c, 3-d",
+            "1-d, 2-e, 3-b"
+        ],
+        "output": "To'g'ri javob: **D) 1-d, 2-e, 3-b**\n\n* **1-d) V.da Gama:** 1498-yilda Hindistonga dengiz yo'lini ochgan.\n* **2-e) A.Tasman:** 1642-1643-yillarda Hind okeanini birinchi bo'lib g'arbdan sharqqa suzib o'tgan.\n* **3-b) J.Kuk:** 1771-1775-yillarda Hind okeani chuqurligini aniqlagan.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Tug‘ilish bilan o‘lim juda yuqori bo‘lib, orasidagi tafovut, ya'ni aholi tabiiy ko‘payishi minimal darajada saqlanadi. Bunday demografik vaziyat \"an'anaviy turg‘unlik\" deb ataladi? Bu demografik o‘tishning nechanchi bosqichi uchun xos?",
+        "choices": [
+            "3",
+            "1",
+            "2",
+            "4"
+        ],
+        "output": "Javob: **B) 1**\n\nTug'ilish va o'lim darajalarining yuqori bo'lishi, ular orasidagi farqning kichik bo'lishi demografik o'tishning **birinchi bosqichi**ga xosdir. Bu bosqichda tibbiy xizmatlarning rivojlanmaganligi, sanitariya sharoitlarining yomonligi va boshqa omillar tufayli tug'ilish va o'lim darajalari yuqori bo'ladi.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Yer po‘stining kontinental tipi yosh tog‘larda qancha?",
+        "choices": [
+            "55-70",
+            "60-70",
+            "80",
+            "40"
+        ],
+        "output": "Javob: **B) 60-70** \n\nYer po'stining kontinental tipi yosh tog'larda 60-70 million yil davomida hosil bo'ladi.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Mamlakatimizdagi birinchi GES qachon qurildi?",
+        "choices": [
+            "1923 y Zarafshonda",
+            "1926 Bo‘zsuv kanalida",
+            "1956 y Sangzorda",
+            "1967 y Sirdaryoda"
+        ],
+        "output": "Javob: **A) 1923 y Zarafshonda** \n\nO'zbekistondagi birinchi GES 1923 yilda Zarafshon daryosida qurilgan.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Botirboy, Seversev kabi kichik muzliklar qaysi okrugda uchraydi?",
+        "choices": [
+            "O‘rta Zarafshon",
+            "Qashqadaryo",
+            "Mirzacho‘l",
+            "Chirchiq-Ohangaron"
+        ],
+        "output": "Javob: **C) Mirzacho‘l** \n\nBotirboy va Seversev kabi kichik muzliklar Mirzacho‘l okrugida,  Hisor tog'larida joylashgan.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Ekin maydonlarining kattaligiga ko‘ra 1 va 2 o‘rindagi davlatlarni toping?",
+        "choices": [
+            "AQSH, Xitoy",
+            "Xitoy, Hindiston",
+            "AQSH, Hindiston",
+            "Hindiston, Xitoy"
+        ],
+        "output": "Javob: **A) AQSH, Xitoy** \n\nAQSH va Xitoy dunyodagi ekin maydonlari bo'yicha birinchi va ikkinchi o'rinlarda.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Sariqamish ko‘li tomon yo‘nalgan Amudaryoning eng qadimiy o‘zanlarini toping?",
+        "choices": [
+            "Qoratov, Jumirtov, Barlitov",
+            "Ko‘xnadaryo,Daryoliq, Davdan",
+            "Shertonboy, Kindiksoy, Qorako‘lsoy",
+            "Zangibobo, Quyanchiq, Qoratov"
+        ],
+        "output": "Javob: **A) Qoratov, Jumirtov, Barlitov** \n\nAmudaryoning Sariqamish ko'liga qarab oqadigan eng qadimiy o'zanlari Qoratov, Jumirtov va Barlitov hisoblanadi.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Quyidagilarning qaysi biri masshtabsiz shartli belgilar bilan tasvirlanadi?1.sanoat 2.madaniy binolar 3.ko‘llar 4.korxonalar 5.zavodlar 6.ekin dalalari 7.elektrostansiya 8.konlar 9.adirlar",
+        "choices": [
+            "2,3,5,6,8,9",
+            "1,2,4,5,7,8",
+            "3,4,5,7,8,9",
+            "1,3,5,7,8,9"
+        ],
+        "output": "Javob: **A) 2,3,5,6,8,9**\n\nMasshtabsiz shartli belgilar ob'ektlarning umumiy ko'rinishini, vazifasini yoki xususiyatini ifodalaydi, lekin ularning haqiqiy o'lchamlarini ko'rsatmaydi. \n\n* **Madaniy binolar (2)**:  Masalan, maktab, teatr, muzey kabi binolarni shartli belgilarda ularning vazifasiga ko'ra tasvirlash mumkin.\n* **Ko'llar (3)**: Ko'llarni shartli belgilarda odatda suv rangidagi shakl bilan ko'rsatiladi, ammo ularning haqiqiy o'lchami aniq ko'rsatilmaydi.\n* **Zavodlar (5)**: Zavodlarni shartli belgilarda odatda qurilma shaklida tasvirlash mumkin, ammo ularning haqiqiy o'lchami yoki qurilishining xususiyatlari ko'rsatilmaydi.\n* **Ekin dalalari (6)**: Ekin dalalarini shartli belgilarda odatda yashil rangli maydoncha bilan ko'rsatiladi, ammo ularning haqiqiy o'lchami yoki ekinning turi ko'rsatilmaydi.\n* **Konlar (8)**: Konlarni shartli belgilarda odatda qora rangli nuqta yoki shakl bilan ko'rsatiladi, ammo ularning haqiqiy o'lchami yoki chuqurligi ko'rsatilmaydi.\n* **Adirlar (9)**: Adirlarni shartli belgilarda odatda qora yoki jigarrang rangli shakl bilan ko'rsatiladi, ammo ularning haqiqiy o'lchami yoki chuqurligi ko'rsatilmaydi.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Tog‘ mintaqasi dengiz sathidan qancha balandlikdda joylashgan?",
+        "choices": [
+            "1100- 1300 metrdan 2800- 2900 metrgacha",
+            "1000- 1200 metrdan 2700- 2800 metrgacha",
+            "1400- 1500 metrdan 3000- 3200 metrgacha",
+            "1200- 1400 metrdan 2800- 3000 metrgacha"
+        ],
+        "output": "Javob: **D) 1200- 1400 metrdan 2800- 3000 metrgacha** \n\n\nTog' mintaqasi dengiz sathidan 1200-1400 metrdan 2800-3000 metrgacha balandliklarda joylashgan.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Ko‘kdumaloq kompressor stansiyasi bir kecha- kunduzda qancha miqdordagi gazni ishlab chiqaradi?",
+        "choices": [
+            "5.8 million kub metr",
+            "4.2 million kub metr",
+            "6.7 million kub metr",
+            "3.4 million kub metr"
+        ],
+        "output": "Men bu savolga javob bera olmayman. Men internetga ulanib ma'lumot topolmayman va Ko'kdumaloq kompressor stansiyasi haqida ma'lumotlarim yo'q. \n\nBu ma'lumotni topish uchun internetda qidiruv qilishingiz yoki tegishli manbalardan foydalanishingiz kerak bo'ladi.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Avtomobilsozlikda Yaponiya ulkan yutuqlarga ega. U yiliga qancha avtomobil ishiab chiqaradi, shuning qanchasi yengil avtomobillar?",
+        "choices": [
+            "15- 16 million; 9 million",
+            "13- 14 million; 7 million",
+            "12- 13 million; 8 million",
+            "10- 11 million; 6 million"
+        ],
+        "output": "Javob: **A) 15- 16 million; 9 million**\n\nYaponiya jahonda eng yirik avtomobil ishlab chiqaruvchilaridan biri bo'lib, yiliga 15-16 million avtomobil ishlab chiqaradi. Shu jumladan, 9 milliondan ortigi yengil avtomobillardir.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Ohangaron vodiysi atrofidagi tog‘larda qanday foydali qazilma konlari mavjud?1) Oltin, 2) kumush, 3) mis, 4) volfram, 5) qo‘ng‘ir ko‘mir, 6) marmar, 7) o‘tga chidamli loy, 8) gaz",
+        "choices": [
+            "1, 3, 5, 7",
+            "2, 4, 6, 8",
+            "1, 2, 3, 7",
+            "1, 3, 6, 7"
+        ],
+        "output": "Javob: **C) 1, 2, 3, 7**\n\nOhangaron vodiysi atrofidagi tog'larda quyidagi foydali qazilma konlari mavjud:\n\n* **1) Oltin:** Ohangaron vodiysi O'zbekistondagi eng yirik oltin konlaridan biri bo'lgan Muruntau koniga ega.\n* **2) Kumush:** Oltin bilan birga kumush ham Ohangaron vodiysi konlarida topiladi.\n* **3) Mis:**  Ohangaron vodiysi mis konlari ham mavjud.\n* **7) O'tga chidamli loy:** Bu joylarda o'tga chidamli loy konlari ham topilgan. \n\n\nBoshqa variantlardagi qazilmalar bu hududda keng tarqalmagan yoki mavjud emas.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "O‘zbekiston aholi soni bo‘yicha dunyoda nechanchi o‘rinda turadi (2018)?",
+        "choices": [
+            "41- o‘rin",
+            "42- o‘rin",
+            "44- o‘rin",
+            "43- o‘rin"
+        ],
+        "output": "Javob: **D) 43- o‘rin** \n\n2018-yil ma'lumotlariga ko'ra, O'zbekiston aholisi soni bo'yicha dunyoda 43-o'rinda turardi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "O‘zbekistonda band aholining 21,2 foizi qaysi sohada xizmat qiladi?",
+        "choices": [
+            "boshqa tarmoqlar",
+            "qurilish",
+            "savdo",
+            "sanoat"
+        ],
+        "output": "Javob: **C) savdo** \n\nO'zbekistonda band aholining 21,2 foizi savdo sohasida faoliyat yuritadi.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Zarafshon daryosi Ko‘ksuv tog‘ tugunidagi Zarafshon muzligidan … nomi bilan boshlanadi.",
+        "choices": [
+            "Mastchoh",
+            "Oqsoy",
+            "Zarafshon",
+            "Fandaryo"
+        ],
+        "output": "Javob: **B) Oqsoy** \n\nZarafshon daryosi Ko‘ksuv tog‘ tugunidagi Zarafshon muzligidan **Oqsoy** nomi bilan boshlanadi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Elik – bu …",
+        "choices": [
+            "tog‘ takasi",
+            "bug‘u",
+            "muflon",
+            "alqor"
+        ],
+        "output": "Javob: **C) muflon** \n\nElik - bu tog'larda yashovchi bir turdagi muflon.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "O‘rta Osiyoning chalacho‘l zonasiga qaysi hududlar kiradi?",
+        "choices": [
+            "Turon tekisligi va Balxashbo‘yi tekisliklari",
+            "To‘rg‘ay platosining shimoliy qismi, Qozog‘iston past tog‘larining shimoliy va markaziy qismlari",
+            "To‘rg‘ay supasimon o‘lkasining janubiy qismi, Qozog‘iston past tog‘larining juda katta janubiy qismi",
+            "Turkman-Xuroson tog‘lari va Atrek vodiysi"
+        ],
+        "output": "Javob: **C) To‘rg‘ay supasimon o‘lkasining janubiy qismi, Qozog‘iston past tog‘larining juda katta janubiy qismi**\n\nO'rta Osiyoning chalacho'l zonasiga To'rg'ay supasimon o'lkasining janubiy qismi va Qozog'iston past tog'larining juda katta janubiy qismi kiradi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Melaneziya, asosan qanday orollardan tashkil topgan?",
+        "choices": [
+            "materik orollar",
+            "biologik(marjon) orollar",
+            "vulkanik orollar",
+            "geosinklinal orollar"
+        ],
+        "output": "Javob: **C) vulkanik orollar**\n\nMelaneziya asosan tektonik plakalarning toʻqnashuvi natijasida hosil boʻlgan vulkanik orollardan iborat.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Qaysi okeaning eng chuqur joyi Puerto-Riko botig‘i hisoblanadi?",
+        "choices": [
+            "Shimoliy Muz okeani",
+            "Hind okeani",
+            "Atlantika okeani",
+            "Tinch Okean"
+        ],
+        "output": "Javob: D) Tinch Okean \n\n\nPuerto-Riko botig'i Tinch okeanning eng chuqur joyi hisoblanadi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Farg‘ona vodiysi, Tyanshan tog‘lari qanday hosil bo‘lgan?",
+        "choices": [
+            "Yer po‘stining gorizontal harakati natijasida",
+            "Yer po‘stining ko‘ndalang harakati natijasida",
+            "Yer po‘stining bo‘ylama harakati natijasida",
+            "Yer po‘stining vertikal harakati natijasida"
+        ],
+        "output": "Javob: **B) Yer po‘stining ko‘ndalang harakati natijasida**\n\nTyanshan tog'lari tektonik plastinkalarining ko'ndalang harakati natijasida hosil bo'lgan. Bu harakatlar Yer po'stining bir qismi boshqasiga nisbatan o'tganida, tog'larning ko'tarilishiga va Farg'ona vodiysi kabi tekisliklarning hosil bo'lishini ta'minlaydi.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Qaysi qit’a barcha yirik dinlarning beshigi hisoblanadi?",
+        "choices": [
+            "Amerika",
+            "Osiyo",
+            "Afrika",
+            "Yevropa"
+        ],
+        "output": "Javob: **B) Osiyo** \n\nOsiyo qit'asida buddizm, hinduizm, islam, xristianlik va yahudiylik kabi barcha yirik dinlarning kelib chiqishi va rivojlanishiga oid muhim markazlar mavjud.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Xaritalar 4 asosiy belgisiga ko‘ra ajratiladi. Ularni toping?1.qo‘llanilishi 2.hududning katta-kichikligi 3.masshtabi 4.tasvirlanishi 5.mazmuni 6.ko‘zda tutilgan maqsadiga",
+        "choices": [
+            "3,4,5,6",
+            "1,2,3,4",
+            "2,3,5,6",
+            "1,3,4,6"
+        ],
+        "output": "Javob: **A) 3,4,5,6**\n\nXaritalar asosan quyidagi 4 asosiy belgi bo'yicha ajratiladi:\n\n* **Masshtabi:** Xarita masshtabi haqiqiy masofalarni xaritadagi masofalargacha nisbatini ko'rsatadi.\n* **Tasvirlanishi:** Xarita tekis yoki uch o'lchamli bo'lishi mumkin.\n* **Mazmuni:** Xarita geografik obyektlarni (masalan, tog'lar, daryolar, shaharlar) qanday tasvirlayotganiga qarab ajratiladi.\n* **Ko'zda tutilgan maqsadiga:** Xarita turli maqsadlar uchun yaratilishi mumkin, masalan, sayohat, navigatsiya, o'rganish va boshqalar.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Toshkent IGR da sement qayerlarda ishlab chiqariladi?",
+        "choices": [
+            "Bekobod, Angren, CHinoz",
+            "Bekobod, YAngiobod, Ohangaron",
+            "Bekobod, Angren, Ohangaron",
+            "G‘azalkent, Angren, Ohangaron"
+        ],
+        "output": "Javob: **C) Bekobod, Angren, Ohangaron** \n\nToshkent IGR da sement Bekobod, Angren va Ohangaron shaharlarida ishlab chiqariladi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Eng tez va eng qimmat transport tarmog‘ini toping?",
+        "choices": [
+            "temir yo‘l transporti",
+            "havo transporti",
+            "dengiz transporti",
+            "quvur transporti"
+        ],
+        "output": "Javob: **B) havo transporti** \n\nHavo transporti eng tez, lekin eng qimmat transport turi hisoblanadi.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Nima sababdan Orol, aslida, ko‘l hisoblansada, “dengiz” deb atalgan?\nA) suv miqdorining ko‘pligi tufayli\nB) maydonining kattaligi tufayli\nC) sohillarida haqiqiy dengiz landshafti hosil bo‘lgani uchun\nD) kanal yordamida bevosita dengizga tutash bo‘lganligi uchun\n\nJavob: B\n\nSavol: O‘zbekistonning 3400 m baland tog‘laridan boshlanib, qor va muz suvlaridan to‘yinadigan daryolarni belgilang.\nA) Zarafshon, Isfayramsoy\nB) Sheroboddaryo, Tursundaryo\nC) So‘x, Isfara\nD) Qoradaryo, Chirchiq\n\nJavob: D\n\nSavol: Tundrada uchraydigan hayvonlarni ajrating: 1) shimol bug‘usi, 2) yenot, 3) qo‘yho‘kiz, 4) lemming, 5) Kanada silovsini, 6) Virgins bug‘usi, 7) oq quyon, 8) puma.\nA) 1, 3, 4, 7\nB) 2, 5, 6, 8\nC) 1, 5, 4, 8\nD) 2, 3, 6, 7\n\nJavob: A\n\nSavol: Poytaxt Toshkentga ko‘chirilgan yili qayerda zilzila bo‘lgan?\nA) Burchmulla ‘\nB) Ashxobod\nC) Dushanbe\nD) To‘xtag‘ul\n\nJavob: C\n\nSavol: Agar chap qo‘lingiz shimoli-g‘arbni ko‘rsatsa oldi tomoningiz qaysi gorizont tomoniga to‘g‘ri keladi?\nA) janubi-sharq\nB) janub\nC) shimoli-sharq\nD) janubi-g‘arb\n\nJavob: C\n\n",
+        "question": "Dengiz yuzasida bosim 760 mm bo‘lsa, Gerlaxovski SHtit cho‘qqisida qancha bo‘ladi?",
+        "choices": [
+            "494,5",
+            "493,2",
+            "497,6",
+            "501,1"
+        ],
+        "output": "Bu savolga javob berish uchun bizga Gerlaxovskiy Shtitning balandligi kerak.  \n\n**Dengiz sathidan balandlik bilan bosim o'rtasidagi bog'liqlik:**\n\nBosim har 100 metr balandlikka ko'tarilganda, o'rtacha 10,33 mm gacha kamayadi.\n\n**Hisoblash:**\n\n1. Gerlaxovskiy Shtitning dengiz sathidan balandligini toping.\n2. Balandlikni 100 ga bo'ling.\n3. Natijani 10,33 ga ko'paytiring.\n4. 760 mm dan natijani ayiring.\n\n**Misol:**\n\nAgar Gerlaxovskiy Shtitning balandligi 5000 metr bo'lsa:\n\n1. 5000 / 100 = 50\n2. 50 * 10,33 = 516,5\n3. 760 - 516,5 = 243,5 mm\n\n**Shunday qilib, Gerlaxovskiy Shtitning cho'qqisidagi bosim taxminan 243,5 mm bo'ladi.**\n\n**E'tibor bering:** Bu hisoblash o'rtacha qiymatlarga asoslangan va haqiqiy bosim atmosferik sharoitlarga bog'liq bo'lishi mumkin.",
+        "answer": "A"
+    }
+]

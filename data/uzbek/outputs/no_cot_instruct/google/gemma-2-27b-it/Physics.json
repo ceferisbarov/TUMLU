@@ -1,0 +1,1202 @@
+[
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Boshlang‘ich tezliksiz biror balandlikdan erkin tushayotgan jism harakatining oxirgi sekundida qanday masofaga ko‘chadi? Jismning tushish vaqti 19s.",
+        "choices": [
+            "175 m",
+            "185 m",
+            "205 m",
+            "195 m"
+        ],
+        "output": "To'g'ri javob **D) 195 m**.\n\n**Yechim:**\n\nBu masalani yechish uchun quyidagi formulani qo'llaymiz:\n\n* **s = ut + (1/2)gt²**\n\nbu yerda:\n\n* s - o'tgan masofa\n* u - boshlang'ich tezlik (bu holda 0)\n* t - vaqt\n* g - gravitatsion tezlanish (taxminan 9.8 m/s²)\n\nBizning maqsadimiz oxirgi sekundda o'tgan masofani topish. Buning uchun biz 18-soniya va 19-soniya oralig'idagi masofani topishimiz kerak.\n\n1. **19 soniya uchun masofa:**\n\n   s₁₉ = (0)(19) + (1/2)(9.8)(19)² = 176.4 m\n\n2. **18 soniya uchun masofa:**\n\n   s₁₈ = (0)(18) + (1/2)(9.8)(18)² = 158.4 m\n\n3. **Oxirgi sekundda o'tgan masofa:**\n\n   s₁₉ - s₁₈ = 176.4 m - 158.4 m = **18 m**",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Jism H balandlikdan boshlang‘ich tezliksiz erkin tushayotgan jism harakatning oxirgi sekundida 5H/9 masofani bosib o‘tdi. U qanday balandlikdan tushgan (m)?",
+        "choices": [
+            "20",
+            "60",
+            "45",
+            "80"
+        ],
+        "output": "Javob: **C) 45**\n\n**Yechim:**\n\nErkin tushayotgan jismning harakat tenglamalarini ishlatamiz:\n\n*  **s = ut + (1/2)gt²** (masofa, boshlang'ich tezlik, vaqt va tezlanish)\n* **v = u + gt** (tezlik, boshlang'ich tezlik, vaqt va tezlanish)\n\nBerilgan ma'lumotlar:\n\n* **s = 5H/9** (oxirgi sekundda bosib o'tilgan masofa)\n* **u = 0** (boshlang'ich tezlik)\n* **g = 9.8 m/s²** (yer gravitatsiyasi tezlanishi)\n\n**1. Oxirgi sekundda bosib o'tilgan masofa:**\n\nJismning tushish vaqti T bo'lsin. Oxirgi sekundda bosib o'tilgan masofa (s) ni topish uchun, T-1 sekundda bosib o'tilgan masofani (s') hisoblaymiz:\n\n* s' = (1/2)g(T-1)²\n\nOxirgi sekundda bosib o'tilgan masofa:\n\n* s = H - s' = H - (1/2)g(T-1)² = 5H/9\n\n**2. T va H ni topish:**\n\nBu tenglamani yechib, T va H ni topamiz. Bu matematik jihatdan murakkab bo'lishi mumkin, lekin natijada H = 45 m ni olamiz.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Biror balandlikdan 20 m/s tezlik bilan gorizontal otilgan jismning uchish uzoqligi, otilish balandligiga teng bo‘lsa, jism qanday balandlikdan otilgan?",
+        "choices": [
+            "40m",
+            "20m",
+            "80m",
+            "100m"
+        ],
+        "output": "Javob: **C) 80m**\n\n**Yechim:**\n\n1. **Gorizontal otishda:**\n\n* Gorizontal tezlik (Vx) = 20 m/s (doimiy qoladi)\n* Vertikal tezlik (Vy) = 0 m/s (boshlang'ichda)\n* Vertikal tezlanish (g) = 9.8 m/s² (yer tortishish tezlanishi)\n\n2. **Uchish vaqti:**\n\n* Jism gorizontal o'tgan masofa (x) va vertikal tushib tushgan masofa (y) teng bo'ladi.\n* Vertikal harakat uchun: y = 0.5 * g * t²\n* Uchish vaqti (t) ni topish uchun: x = Vx * t\n\n3. **Tenglamalarni birlashtirish:**\n\n* y = x\n* 0.5 * g * t² = Vx * t\n* t = 2 * Vx / g\n\n4. **Balandlikni topish:**\n\n* y = 0.5 * g * (2 * Vx / g)²\n* y = 2 * Vx² / g\n* y = 2 * (20 m/s)² / 9.8 m/s²\n* y ≈ 80 m",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "10 m/s tezlik bilan uchib borayotgan granata portlab, 0,6 kg va 0,4 kg massali bo‘laklarga parchalangan. Granataning katta parchasi dastlabki yo‘nalishda 25 m/s tezlik bilan harakatlangan bo‘lsa, kichik parchaning tezligini (m/s) toping.",
+        "choices": [
+            "17,5",
+            "25",
+            "12,5",
+            "30"
+        ],
+        "output": "Javob: **A) 17,5**\n\n**Yechim:**\n\nBu masala impulsning saqlanish qonuniga asoslangan. Impulsning saqlanish qonuni bo'yicha, yopiq tizimdagi jismning umumiy impulsi doimiy qoladi.\n\n* **Dastlabki impuls:** Granata bir butun bo'lganida uning impulsi:\n   *  p_initial = m_total * v_initial = (0.6 kg + 0.4 kg) * 10 m/s = 10 kg*m/s\n\n* **Oxirgi impuls:** Granata parchalanganidan keyin, ikki parchaning impulslari yig'indisi dastlabki impulsga teng bo'lishi kerak:\n   * p_final = m1 * v1 + m2 * v2\n\n* **Noma'lum tezlikni topish:**\n\n   * 10 kg*m/s = (0.6 kg * 25 m/s) + (0.4 kg * v2)\n   * 10 kg*m/s = 15 kg*m/s + 0.4 kg * v2\n   * 0.4 kg * v2 = -5 kg*m/s\n   * v2 = -12.5 m/s\n\nKichik parchaning tezligi **12.5 m/s** ga teng, lekin teskari yo'nalishda.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Jism gorizontal sirtda tinch turibdi. Uni joyidan qo‘zg‘atish uchun kerak bo‘ladigan eng kichik 6 N. Jismga gorizontal yo‘nalishda 5 N tashqi kuch qo‘yilsa, unga tezlanish beruvchi (natijaviy) kuch (N) qanday bo‘ladi?",
+        "choices": [
+            "-1",
+            "5",
+            "6",
+            "0"
+        ],
+        "output": "Javob: **B) 5**\n\n**Izoh:**\n\n* Jismni harakatga keltirish uchun kerak bo'lgan eng kichik kuch **satik kuch** deb ataladi. Bu misolda satik kuch 6 N ga teng.\n* Teshqi kuch 5 N bo'lsa, u satik kuchdan kichik. \n* Natijaviy kuch, tashqi kuch va satik kuch orasidagi farqga teng bo'ladi.\n\nShunday qilib, natijaviy kuch = 5 N (tashqi kuch) - 0 N (satik kuch) = **5 N**.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Tennis to‘pi raketkaga 7,5 m/s tezlik bilan urulib, 12,5 m/s tezlikda qaytgan bo‘lsa, raketkaning tezligi nimaga teng?",
+        "choices": [
+            "5",
+            "2,5",
+            "20",
+            "0"
+        ],
+        "output": "Javob: **B) 5**\n\n**Yechim:**\n\nTennis to'pining tezlik o'zgarishi raketkaning tezligiga teng.\n\nTezlik o'zgarishi = Final tezlik - Boshlang'ich tezlik\n\nTezlik o'zgarishi = 12,5 m/s - (-7,5 m/s) = 20 m/s\n\nRaketkaning tezligi = 20 m/s / 4 = **5 m/s**",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Soatning minut strelkasining markazga intilma tezlanishi sekund strelkasining markazga intilma tezlanishidan necha marta farq qiladi. Sekund strelkasi minut strelkasidan 2 marta uzun.",
+        "choices": [
+            "600",
+            "60",
+            "7200",
+            "360"
+        ],
+        "output": "Javob: **C) 7200**\n\n**Yechim:**\n\n* **Markazga intilma tezlanish** formulasi: a = ω²r, bu yerda ω burchak tezligi, r esa radius.\n\n* **Burchak tezligi** formulasi: ω = 2πf, bu yerda f chastota.\n\n* **Minut strelkasining chastotasi:** 1 soatda 60 daqiqa, ya'ni 60 minutda 1 aylanish, ya'ni f = 1/3600 Hz.\n\n* **Sekund strelkasining chastotasi:** 1 soatda 60 daqiqa, 60 daqiqada 60 sekund, ya'ni 3600 sekundda 60 aylanish, ya'ni f = 1/60 Hz.\n\n* **Sekund strelkasining uzunligi:** 2 * minut strelkasining uzunligi.\n\n**Hisoblash:**\n\n1. **Minut strelkasining markazga intilma tezlanishi:**\n   * ω_minut = 2π * (1/3600) = π/1800 rad/s\n   * a_minut = (π/1800)² * r_minut\n\n2. **Sekund strelkasining markazga intilma tezlanishi:**\n   * ω_sekund = 2π * (1/60) = π/30 rad/s\n   * a_sekund = (π/30)² * (2 * r_minut) = (π²/900) * (2 * r_minut)\n\n3. **Tezlanishlar nisbati:**\n   * a_sekund / a_minut = [(π²/900) * (2 * r_minut)] / [(π/1800)² * r_minut] = (π²/900) * (2 * r_minut) * (3600²/π²) / r_minut = 7200\n\n**Natija:**\n\nSekund strelkasining markazga intilma tezlanishi minut strelkasining markazga intilma tezlanishidan **7200** marta katta.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Jismga bir vaqtning o‘zida 4 N va 5 N kuchlar ta’sir qilishi mumkin. Quyidagilarning qaysi biri shu kuchlarning teng ta’sir etuvchisi bo‘la olmaydi?",
+        "choices": [
+            "7,2 N",
+            "1 N",
+            "6 N",
+            "9,5 N"
+        ],
+        "output": "Javob: **B) 1 N**\n\n**Tushuntirish:**\n\nIkki vektorning yig'indisi ularning kattaliklari yig'indisiga teng bo'lmaydi.  \n\nIkki vektorning yig'indisi ularning kattaliklari va yo'nalishlariga bog'liq.  \n\n4 N va 5 N kuchlarning yig'indisi 1 N dan katta bo'lishi kerak.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Vaznsiz blokning ikki tarafiga o‘zaro ip bilan bog‘langan 400 g va 600 g massali yuklar osilgan. Ipdagi taranglik kuchini (N) toping.",
+        "choices": [
+            "4,8",
+            "6",
+            "4",
+            "3,2"
+        ],
+        "output": "Javob: **A) 4,8**\n\n**Yechim:**\n\n1. **Kuchlarni aniqlash:**\n\n* 400 g yukining og'irligi: F1 = m1 * g = 0.4 kg * 9.8 m/s² = 3.92 N\n* 600 g yukining og'irligi: F2 = m2 * g = 0.6 kg * 9.8 m/s² = 5.88 N\n\n2. **Taranglik kuchi:**\n\n* Vaznsiz blok holatida, ikkala yuk ham bir xil tezlanish bilan harakatlanadi.\n* Taranglik kuchi (T) 400 g yukini yuqoriga, 600 g yukini esa pastga tortadi.\n\n3. **Tenglama tuzish:**\n\n* 600 g yuk uchun: F2 - T = m2 * a\n* 400 g yuk uchun: T - F1 = m1 * a\n\n4. **Tezlanishni yo'q qilish:**\n\n* Ikkala tenglamani birlashtirib, tezlanishni (a) yo'q qilamiz.\n\n5. **Taranglik kuchi:**\n\n* T = (F2 * m1 + F1 * m2) / (m1 + m2)\n* T = (5.88 N * 0.4 kg + 3.92 N * 0.6 kg) / (0.4 kg + 0.6 kg)\n* T = 4.8 N",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "2 rad/s burchak tezlik va 9 m/s chiziqli tezlik bilan aylanma harakat qilayotgan jismga ta’sir qiluvchi markazdan qocha kuch 36 N. Jismning massasini (kg) toping.",
+        "choices": [
+            "2",
+            "0,33",
+            "1",
+            "0,166"
+        ],
+        "output": "Javob: **C) 1**\n\n**Yechim:**\n\nMarkazdan qocha kuch formulasi quyidagicha:\n\n*F<sub>c</sub> = m * a<sub>c</sub>*\n\nbu yerda:\n\n* F<sub>c</sub> - markazdan qocha kuch (36 N)\n* m - jismning massasi (bilinmaydi)\n* a<sub>c</sub> - markazga qarab yo'naltirilgan tezlanish\n\nMarkazga qarab yo'naltirilgan tezlanishni (a<sub>c</sub>) quyidagi formula bilan topamiz:\n\n*a<sub>c</sub> = ω<sup>2</sup> * r*\n\nbu yerda:\n\n* ω - burchak tezlik (2 rad/s)\n* r - aylananing radiusi (chiziqli tezlik va burchak tezlikdan topiladi: r = v / ω = 9 m/s / 2 rad/s = 4.5 m)\n\nEndi a<sub>c</sub> ni hisoblaymiz:\n\n*a<sub>c</sub> = (2 rad/s)<sup>2</sup> * 4.5 m = 18 m/s<sup>2</sup>*\n\nEndi markazdan qocha kuch formulasidan m ni topamiz:\n\n*36 N = m * 18 m/s<sup>2</sup>*\n\n*m = 36 N / 18 m/s<sup>2</sup> = 2 kg*",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Sharofiddin umumiy massasi 50 kg bo‘lgan yuk ortilgan aravni o‘zgarmas tezlik bilan itarib ketmoqda. Agar Sharofiddin aravaga 100 N kuch bilan ta’sir qilayotgan bo‘lsa, arava bilan yer orasidagi ishqalaish koeffitsiyentini toping.",
+        "choices": [
+            "0,04",
+            "0,15",
+            "0,2",
+            "0,4"
+        ],
+        "output": "**Javob: C) 0,2**\n\n**Yechim:**\n\n* **Aravaga ta’sir qiluvchi kuchlar:**\n    * Sharofiddinning aravaga ta’sir etuvchi kuchi (F) = 100 N\n    * Ishtqalaish kuchi (Ff)\n* **Aravaga ta’sir qiluvchi umumiy kuch nolga teng:** chunki arav o'zgarmas tezlik bilan harakatlanmoqda.\n\n* **Ishtqalaish kuchi:** Ff = μ * N, bu yerda μ ishqalaish koeffitsiyenti, N esa aravaga ta’sir qiluvchi normal kuch.\n* **Normal kuch:** N = mg = 50 kg * 9.8 m/s² = 490 N\n\n* **Ishtqalaish kuchi:** Ff = μ * 490 N\n\n* **Umumiy kuch nolga tengligi:** F - Ff = 0\n* **Ishtqalaish koeffitsiyentini topish:** 100 N - μ * 490 N = 0\n* **μ = 100 N / 490 N = 0,2**",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Marhabo Yerda ko‘pi bilan 5 kg massali yukni qo‘lida ushlab tura oladi. U Oyda ko‘pi bilan qanday massali (kg) yukni ko‘tara oladi?",
+        "choices": [
+            "25",
+            "30",
+            "20",
+            "5"
+        ],
+        "output": "Javob: **A) 25**\n\n**Izoh:**\n\nOyning gravitatsion tezlanishi Yerning gravitatsion tezlanishidan 6 baravar kam. \n\nAgar Yerda 5 kg yukni ko'tara oladigan bo'lsa, bu uning qo'liga ta'sir etadigan maksimal kuch 5 kg * 9.8 m/s² = 49 N ga teng.\n\nOyda esa, bu kuch 5 kg * 1.63 m/s² = 8.15 N ga teng yukni ko'tarishga yetarli bo'ladi.\n\nShunday qilib, Oyda u 8.15 N / 1.63 m/s² = 5 kg ga teng yukni ko'tara oladi.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Silliq gorizontal stoldan arqon sirg‘anib tushmoqda. Arqon harakatining xarakteri qanday?",
+        "choices": [
+            "tekis sekinlanuvchan",
+            "tekis tezlanuvchan",
+            "notekis tezlanuvchan, tezlanish ortib boradi",
+            "notekis tezlanuvchan, tezlanish kamayib boradi"
+        ],
+        "output": "Javob: **C) notekis tezlanuvchan, tezlanish ortib boradi**\n\n**Izoh:**\n\nArqon sirg'anib tushganda, uning tezlanishi doimo o'zgarib boradi. Bu yerda tezlanishning asosiy sababi - tortishish kuchidir. Arqon sirg'anib tushganda, tortishish kuchi doimiy bo'ladi. Lekin arqonning tezligi ortib borishi bilan, havo qarshiligi ham ortib boradi. \n\nShunday qilib, arqonning tezlanishi tortishish kuchi va havo qarshiligi kuchi orasidagi farqga bog'liq bo'ladi. Tezlik ortib borishi bilan havo qarshiligi ham ortib boradi, bu esa tezlanishni kamaytiradi. Biroq, tortishish kuchi doimiy bo'lgani uchun, tezlanish doimo musbat bo'lib qoladi va notekis ravishda kamayib boradi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Elastik prujinaga osilgan yukning tebranish amplitudasi 5 sm bo‘lib u 2 s davr bilan tebranmoqda, yukning bir to‘la tebranish davri davomidagi o‘rtacha tezligini toping (sm/s)?",
+        "choices": [
+            "10",
+            "5",
+            "2,5",
+            "1,25"
+        ],
+        "output": "To'g'ri javob **B) 5**\n\n**Yechim:**\n\n* Bir to'la tebranish davri davomida yuk bir marta to'liq aylanani tasavvur qiling.\n* Uning o'rtacha tezligi, harakatining umumiy yo'lini davrga bo'lish orqali topiladi.\n* Bir to'la tebranish davrida yuk 4A masofani bosib o'tadi (2A yuqoriga va 2A pastga).\n* O'rtacha tezlik = Umumiy yo'l / Davr = 4A / T = 4 * 5 sm / 2 s = 10 sm/s",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Prujina teng ikki bo‘lakka bo‘linib har bir bo‘lak parallel ulansa hosil bo‘lgan prujinalarning bikrligi dastlabki prujina bikrligidan necha marta katta bo‘ladi?",
+        "choices": [
+            "8",
+            "4",
+            "2",
+            "3"
+        ],
+        "output": "Javob: **B) 4**\n\n**Izoh:**\n\nPrujina bikrligi (k) uzunlik bilan teskari proporsionaldir. Agar prujina ikki teng bo'lakka bo'linsa, har bir bo'lagining uzunligi dastlabki prujinaning uzunligidan ikki marta kichik bo'ladi. \n\nPrujina bikrligi formulasi quyidagicha:\n\nk = F/x\n\nbu yerda:\n\n* k - prujina bikrligi\n* F - prujinaga ta'sir etuvchi kuch\n* x - prujina uzunligining o'zgarishi\n\nAgar uzunlik ikki marta kamaysa, bikrlik ikki marta ortadi. Chunki ikki bo'lak parallel ulangan, ularning bikrliklari qo'shiladi. Shunday qilib, ikki bo'lakning umumiy bikrligi dastlabki prujina bikrligidan 2 * 2 = 4 marta katta bo'ladi.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Gorizontga nisbatan 45^0 burchak ostida 10 m/s tezlik bilan otilgan jism 8 m naridagi vertikal devorga mutloq elastik urilib qaytdi va yerga tushdi. Jism otilish nuqtasidan qanday masofada tushadi (m)?",
+        "choices": [
+            "4",
+            "2",
+            "6",
+            "8"
+        ],
+        "output": "Savolning javobi **C) 6**\n\n**Yechim:**\n\n1. **Gorizontal va vertikal tezliklarni toping:**\n   - Jism 45° burchak ostida otilganligi sababli, gorizontal va vertikal tezliklar teng bo'ladi:\n     -  v_x = v_y = 10 m/s / √2 = 7.07 m/s\n\n2. **Vertikal o'q bo'yicha harakatni tahlil qiling:**\n   - Jism devorga urilib qaytgunga qadar vertikal tezlik o'zgaradi.\n   - Yerga tushgunga qadar vertikal tezlik yana o'zgaradi.\n\n3. **Devorga urilish vaqti:**\n   - Devorga urilish vaqti, gorizontal harakat vaqtiga teng:\n     - t = masofa / tezlik = 8 m / 7.07 m/s ≈ 1.13 s\n\n4. **Devorga urilishdan keyingi vertikal tezlik:**\n   - Elastik urilishda, vertikal tezlik yo'nalishi o'zgaradi, lekin kattaligi o'zgarmaydi.\n\n5. **Yerga tushish vaqti:**\n   - Yerga tushish vaqti, devorga urilishdan keyingi vertikal tezlik va yerga nisbatan balandlikni bilish kerak.\n\n6. **Jismning otilish nuqtasidan tushadigan masofa:**\n   - Bu masofa, gorizontal harakat vaqti va gorizontal tezlik ko'paytmasiga teng:\n     - masofa = tezlik * vaqt = 7.07 m/s * (1.13 s + t_yerga_tushish)\n\n**Qolgan qismlarni hisoblash uchun quyidagi formulalar kerak:**\n\n- Yerga tushish vaqti: t_yerga_tushish = √(2 * balandlik / g) (g - gravitatsiya tezlanishi)\n- Balandlikni topish uchun, devorga urilish vaqti va vertikal tezlikdan foydalanishingiz kerak.\n\n**Eslatma:** Bu muammoni hal qilish uchun trigonometriya va kinematika formulalarini bilishingiz kerak.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Quvvati 27 MW bo‘lgan dvigatel samolyotga 100 m/s tezlik bera oladi. Quvvati 125 MW bo‘lgan dvigatel bu samolyotga qanday maksimal tezlik bera oladi(m/s)? Qarshilik kuchi tezlik kvadratiga proporsional.",
+        "choices": [
+            "266,6",
+            "166,6",
+            "133,3",
+            "124,2"
+        ],
+        "output": "Here's how to solve this problem:\n\n**Understanding the Concepts**\n\n* **Power and Force:** Power is the rate at which work is done, and work is done when a force moves an object over a distance.  Since the question mentions power and velocity, we can relate them through the concept of force.\n* **Air Resistance:** The problem states that air resistance is proportional to the square of the velocity. This means the faster the plane goes, the more resistance it encounters.\n\n**Setting up the Solution**\n\n1. **Force and Power Relationship:**\n   * Power (P) = Force (F) * Velocity (v)\n\n2. **Air Resistance:**\n   * Let's assume the air resistance force is given by: F_air = kv², where k is a constant of proportionality.\n\n3. **Net Force:**\n   * The net force acting on the plane is the difference between the engine force (F_engine) and the air resistance: F_net = F_engine - kv²\n\n4. **Equating Power:**\n   * Since power is constant for each engine, we can equate the power expressions for both cases:\n      *  27 MW = F_engine1 * 100 m/s \n      * 125 MW = F_engine2 * v2  (where v2 is the unknown velocity)\n\n**Solving for v2**\n\n1. **Find F_engine1:**\n   * From the first power equation, we can find F_engine1: F_engine1 = (27 MW) / (100 m/s) = 270,000 N\n\n2. **Relate F_engine1 and F_engine2:**\n   * Since the plane is the same, the constant of proportionality 'k' for air resistance remains the same. This means the ratio of engine forces will be proportional to the ratio of the squares of the velocities:\n      * F_engine2 / F_engine1 = (v2)² / (100 m/s)²\n\n3. **Substitute and Solve:**\n   * Substitute the known values and solve for v2:\n      * (F_engine2) / 270,000 N = (v2)² / (100 m/s)²\n      * (125 MW) / (100 m/s) / 270,000 N = (v2)² / (100 m/s)²\n      * Solve for v2. You'll find v2 ≈ 166.6 m/s\n\n\n\n**Therefore, the answer is (B) 166.6 m/s.**",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Suv solingan idish gorizontal yo‘nalishda  \\sqrt{21} m/s^2  tezlanish bilan harakatlanmoqda. Idishning tubiga ip bog‘langan, ipning ikkinchi uchiga massasi 2 kg va suvga to‘liq botib turgan sharcha bog‘langan. Agar sharcha yasalgan moddaning zichligi 200 kg/m^3 bo‘lsa, shar turg‘un holatga kelgan vaqtdan keyin ipning taranglik kuchini hisoblang (N)? g =10 m/s^2",
+        "choices": [
+            "50",
+            "22",
+            "44",
+            "88"
+        ],
+        "output": "Savolga javobni topish uchun quyidagi qadamlarni bajaramiz:\n\n**1. Sharchaga ta’sir etadigan kuchlarni aniqlaymiz:**\n\n* **Og‘irlik:** F_g = m * g = 2 kg * 10 m/s^2 = 20 N\n* **Arximedin kuchi:** F_A = ρ_suv * V * g, bu yerda ρ_suv = 1000 kg/m^3 (suvning zichligi), V - sharchaning hajmi.\n* **Ip taranglik kuchi:** F_T\n\n**2. Sharcha turg‘un holatda bo‘lganligi sababli, barcha kuchlar bir-biri bilan tenglashtiriladi:**\n\nF_T + F_A = F_g\n\n**3. Sharcha hajmini topamiz:**\n\nSharchaning zichligi ρ = 200 kg/m^3.\n\nρ = m / V => V = m / ρ = 2 kg / 200 kg/m^3 = 0.01 m^3\n\n**4. Arximedin kuchini hisoblaymiz:**\n\nF_A = 1000 kg/m^3 * 0.01 m^3 * 10 m/s^2 = 100 N\n\n**5. Ip taranglik kuchi:**\n\nF_T = F_g - F_A = 20 N - 100 N = -80 N\n\n**6. Natijani tahlil qilamiz:**\n\nIp taranglik kuchi manfiy qiymatga ega bo‘ldi, bu shuni anglatadiki, ip sharchaga yuqoriga tomon kuch bilan ta’sir etadi.\n\n**Javob:**\n\nIpning taranglik kuchi 80 N ga teng.\n\n**E’tibor bering:**\n\nSavolda berilgan idishning tezlanishi muhim emas, chunki sharcha turg‘un holatga kelgan vaqtda, idishning tezlanishi sharchaga ta’sir etmaydi.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "70 m chuqurlikdagi suv bosimi, 10 m chuqurlikdagi suv bosimidan necha marta katta? Atmosfera bosimi 100kPa. g=10 m/s^2",
+        "choices": [
+            "2",
+            "4",
+            "7",
+            "3"
+        ],
+        "output": "**Javob: B) 7**\n\n**Yechim:**\n\n* **Suv bosimi:**  P = ρgh, bu yerda ρ suv zichligi (1000 kg/m³), g gravitatsiya tezlanishi (10 m/s²), h esa chuqurlik.\n\n* **70 m chuqurlikdagi suv bosimi:** P₁ = (1000 kg/m³)(10 m/s²)(70 m) = 700,000 Pa = 700 kPa\n\n* **10 m chuqurlikdagi suv bosimi:** P₂ = (1000 kg/m³)(10 m/s²)(10 m) = 100,000 Pa = 100 kPa\n\n* **Nisbat:** P₁/P₂ = 700 kPa / 100 kPa = 7",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "5 kg massali jism yer sirtidan 15 m balandlikdan 4 m/s tezlik bilan otildi. Jismning yerga urilish paytidagi kinetik energiyasi nimaga teng bo‘ladi (J)? g=10 m/s^2.",
+        "choices": [
+            "592",
+            "1000",
+            "790",
+            "700"
+        ],
+        "output": "Bu masalani yechish uchun energiya saqlanish qonunidan foydalanamiz.\n\n**1. Boshlang'ich mexanik energiya:**\n\n* **Potensial energiya:** PE = mgh = 5 kg * 10 m/s² * 15 m = 750 J\n* **Kinetik energiya:** KE = (1/2)mv² = (1/2) * 5 kg * (4 m/s)² = 40 J\n* **Jami boshlang'ich energiya:** E_initial = PE + KE = 750 J + 40 J = 790 J\n\n**2. Yerga urilish paytidagi energiya:**\n\nYerga urilish paytida jismning butun potensial energiyasi kinetik energiyaga aylanadi.  \n\n* **Kinetik energiya:** KE_final = E_initial = 790 J\n\n**Javob: C) 790**",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Gidravlik presning kichik porsheniga 500 N kuch ta’sir etib u 15 sm masofaga tushdi, katta porshen 5 sm ga ko‘tarilgan bo‘lsa, unga qanday kuch ta’sir etadi (kN)?",
+        "choices": [
+            "1,5",
+            "2",
+            "3",
+            "0,5"
+        ],
+        "output": "Javob: **A) 1,5**\n\n**Yechim:**\n\nGidravlik presda Paska qonuni ishlaydi:\n\n* **F1 * d1 = F2 * d2**\n\nbu yerda:\n\n* F1 - kichik porshenga ta'sir etuvchi kuch\n* d1 - kichik porshenning siljishi\n* F2 - katta porshenga ta'sir etuvchi kuch\n* d2 - katta porshenning siljishi\n\nBerilgan ma'lumotlarni qo'yib, F2 ni topamiz:\n\n* F1 = 500 N\n* d1 = 15 sm = 0.15 m\n* d2 = 5 sm = 0.05 m\n\n* F2 = (F1 * d1) / d2 = (500 N * 0.15 m) / 0.05 m = 1500 N = 1.5 kN",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Chana gorizont bilan 45° burchak hosil qilgan tepalikdan pastga tomon 100 m masofani bosib tushdi. Chananing vertikal va gorizontal yo‘nalishlardagi ko‘chishini toping (m).",
+        "choices": [
+            "71;100",
+            "71;71",
+            "100;71",
+            "50;50"
+        ],
+        "output": "Savolga javob: **B) 71;71**\n\n**Yechim:**\n\n* **Vertikal ko'chish:**\n\nChanani tepalikdan tushish jarayonida, uning vertikal tezligi 0 dan boshlanadi va tezlashuv 9.8 m/s² bo'ladi. \n\nVertikal ko'chishni topish uchun quyidagi formulani qo'llaymiz:\n\n*  h = ut + (1/2)gt²\n\nBu yerda:\n* h - vertikal ko'chish\n* u - boshlang'ich vertikal tezlik (0 m/s)\n* g - tezlashuv (9.8 m/s²)\n* t - vaqt\n\n100 m masofani bosib tushayotgan chananing gorizontal va vertikal ko'chishini topish uchun, biz trigonometriyadan foydalanamiz.\n\n* **Gorizontal ko'chish:**\n\nChananing gorizontal ko'chishi, vertikal ko'chishga teng bo'ladi. Chunki chana 45° burchak ostida tushgan, shuning uchun gorizontal va vertikal ko'chish bir xil bo'ladi.\n\n**Natija:**\n\n* Vertikal ko'chish: h ≈ 71 m\n* Gorizontal ko'chish: h ≈ 71 m",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Ikki jism bir-biriga nisbatan 60° burchak ostida 10m/s va 20 m/s tezliklar bilan harakatlanmoqda. 1- jismning 2- jismga nisbatan tezligi qanday (m/s)?",
+        "choices": [
+            "12,4",
+            "17,3",
+            "19",
+            "15"
+        ],
+        "output": "Savolga javob topish uchun vektorlar qo'shish qoidalaridan foydalanamiz.\n\n**1. Vektorlarni tasavvur qilish:**\n\n* Birinchi jismning tezligini  **v₁** deb, ikkinchi jismning tezligini **v₂** deb belgilang.\n* **v₁** va **v₂** vektorlari 60° burchak ostida joylashgan deb tasavvur qiling.\n\n**2. Nisbiy tezlik:**\n\n* Birinchi jismning ikkinchi jismga nisbatan tezligi **v₁₂**  vektorining uzunligi bilan aniqlanadi.\n\n**3. Vektorlar qo'shish:**\n\n* **v₁₂** vektorini topish uchun **v₁** va **v₂** vektorlarini o'zaro teskari yo'nalishda qo'shamiz.\n\n**4.  Formulalar:**\n\n* **v₁₂** uzunligini topish uchun quyidagi formulani qo'llaymiz:\n\n   **v₁₂ = √(v₁² + v₂² - 2 * v₁ * v₂ * cos(θ))**\n\n   bu yerda:\n    * v₁ = 10 m/s\n    * v₂ = 20 m/s\n    * θ = 60°\n\n**5. Hisoblash:**\n\n* **v₁₂ = √(10² + 20² - 2 * 10 * 20 * cos(60°))**\n* **v₁₂ = √(100 + 400 - 400 * 0.5)**\n* **v₁₂ = √(500 - 200)**\n* **v₁₂ = √300 ≈ 17.3 m/s**\n\n\n\n**Javob: B) 17.3**",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Bola qayiqni daryo qirg‘og‘iga perpendikulyar yo‘nalishda haydamoqda, lekin suv oqimi uning yo‘nalishini shunday o‘zgartiryaptiki natijaviy tezlik 10 m/s vektori qirg‘oq bilan 60° burchakni hosil qildi. Suv oqimniig tezligi qanday bo‘lgan (m/s)?",
+        "choices": [
+            "3,55",
+            "5",
+            "10",
+            "7,1"
+        ],
+        "output": "Javob: **A) 3,55**\n\n**Yechim:**\n\n* Bola qayiqning tezligi va suv oqimining tezligi vektorlardir.\n* Natijaviy tezlik (10 m/s) bu ikki vektorning vektor yig'indisi.\n* 60° burchak natijaviy tezlik va qirg'oq o'rtasidagi burchak.\n\n**Trigonometriya yordamida:**\n\n* Suv oqimining tezligini (v) topish uchun kosinus teoremasidan foydalanamiz:\n\n  *  v² = 10² + q² - 2 * 10 * q * cos(60°)\n\n* cos(60°) = 0.5\n\n* v² = 100 + q² - 10q\n\n* Bola qayiqning tezligi (q) ma'lum emas, lekin biz uni topishimiz mumkin.\n\n* Sinus teoremasidan foydalanamiz:\n\n  * sin(60°) / q = sin(90°) / 10\n\n* sin(60°) = √3 / 2, sin(90°) = 1\n\n* q = 10 * (√3 / 2) / 1 = 5√3 ≈ 8.66 m/s\n\n* Endi v² ni topamiz:\n\n* v² = 100 + (8.66)² - 10 * 8.66 * 0.5\n\n* v² ≈ 100 + 75 - 43.3\n\n* v² ≈ 131.7\n\n* v ≈ √131.7 ≈ 11.47 m/s\n\n* **Suv oqimining tezligi ≈ 11.47 m/s**\n\n**E'tibor bering:** Bu javoblar taxminiy hisoblangan.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Metrodagi eskalatorda odam va eskalator birgalikda harakat qilsa 15 s da ko‘tariladi. Eskalator tinch tursa odam 30 s da ko‘tariladi. Eskalator harakatsiz odamni necha s da olib chiqadi?",
+        "choices": [
+            "25",
+            "20",
+            "28",
+            "30"
+        ],
+        "output": "Javob: **B) 30**\n\n**Yechim:**\n\n* **x** - eskalatorning bir sekundda olib chiqadigan masofa (m/s)\n* **y** - odamning bir sekundda olib chiqadigan masofa (m/s)\n\n**1-holat:** Odam va eskalator birgalikda harakat qilsa:\n\n* **x + y** - birgalikdagi tezlik\n* 15(x + y) = 1 (bir to'liq masofa)\n\n**2-holat:** Eskalator tinch tursa:\n\n* **y** - odamning tezligi\n* 30y = 1 (bir to'liq masofa)\n\n**3-holat:** Eskalator harakatsiz odamni olib chiqsa:\n\n* **x** - eskalatorning tezligi\n* t*x = 1 (bir to'liq masofa)\n\n**2-holatdan:** y = 1/30\n\n**1-holatdan:** 15(x + 1/30) = 1\n\n* 15x + 1/2 = 1\n* 15x = 1/2\n* x = 1/30\n\n**3-holatdan:** t * (1/30) = 1\n\n* t = 30\n\nDemak, eskalator harakatsiz odamni **30 s** da olib chiqadi.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Richagning 5 m li yelkasiga 26 N kuch ta’sir etmoqda. Ikkinchi yelkasiga 65 N kuch qo‘yilganda richag muvozanatda qolishi uchun bu yelkaning uzunligi qancha (m) bo‘lishi kerak?",
+        "choices": [
+            "10",
+            "3",
+            "5",
+            "2"
+        ],
+        "output": "Javob: **A) 10**\n\n**Yechim:**\n\nRichag muvozanatda qolish uchun, ikki yelka ustidagi kuchlarning momentlari teng bo'lishi kerak. Moment = kuch * yelka uzunligi.\n\n* Birinchi yelka: Moment = 26 N * 5 m = 130 N*m\n* Ikkinchi yelka: Moment = 65 N * x m (x - ikkinchi yelkaning uzunligi)\n\nMuvozanat uchun: 130 N*m = 65 N * x m\n\nx = 130 N*m / 65 N = 2 m",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Qiyalik burchagi 30^o bo‘lgan qiya tekislikga unga parallel bo‘lgan 40 N kuch yordamida 5 kg massali jism 1 m/s^2 tezlanish bilan tortib chiqarilmoqda. Qiya tekislik va jism orasidagi ishqalanish koeffitsiyentini aniqlang. g=10 m/s^2.",
+        "choices": [
+            "0,23",
+            "0,35",
+            "0,47",
+            "0,15"
+        ],
+        "output": "**1. Jismga ta'sir etuvchi kuchlarni aniqlash:**\n\n* **Og'irlik:**  F_g = m * g = 5 kg * 10 m/s^2 = 50 N\n* **Normal kuch:** F_N \n* **Ishiqalanish kuch:** F_f = μ * F_N\n* **Tashqi kuch:** F = 40 N\n\n**2. Koordinata o'qlarini tanlash:**\n\n* X o'qi: Qiya tekislikka parallel, jismning harakat yo'nalishi bo'yicha\n* Y o'qi: Qiya tekislikka perpendikulyar\n\n**3. Newtonning ikkinchi qonunini qo'llash:**\n\n* **X o'qi bo'yicha:** F - F_f = m * a\n* **Y o'qi bo'yicha:** F_N - F_g * cos(30°) = 0\n\n**4. Tenglamalarni yechish:**\n\n* Y o'qidan F_N = F_g * cos(30°) = 50 N * cos(30°) = 43.3 N\n* X o'qidan: 40 N - μ * 43.3 N = 5 kg * 1 m/s^2\n* μ = (40 N - 5 kg * 1 m/s^2) / 43.3 N = 0.35\n\n**Javob: B) 0,35**",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Suvli idish tubiga muz yopishgan (u butunlay suv ichida). Muz erib ketsa, suv sathi qanday o‘zgaradi?",
+        "choices": [
+            "o‘zgarmaydi",
+            "pasayadi",
+            "ko‘tarilishi ham, pasayishi ham mumkin",
+            "ko‘tariladi"
+        ],
+        "output": "Javob: **A) o‘zgarmaydi**\n\n**Izoh:**\n\nMuz eriganda hajmi kamayadi, chunki muzning zichligi suvdan kam. Muz eriganda suvga aylanadi, lekin suv hajmi o'zgarmaydi.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Rezinaning yo‘lga ishqalanish koeffitsiyenti 0,4 ga teng bo‘lsa, mototsiklchi gorizontal tekislikda 100 m radiusli yoy chizib, qanday maksimal tezlik bilan harakatlana oladi (km/h)?",
+        "choices": [
+            "108",
+            "36",
+            "72",
+            "54"
+        ],
+        "output": "Savolga javob topish uchun quyidagi formulani qo'llaymiz:\n\n**v² = μ * g * r**\n\nbu yerda:\n\n* v - maksimal tezlik (m/s)\n* μ - yo'lga ishqalanish koeffitsiyenti (0.4)\n* g - gravitatsiya tezlanishi (9.8 m/s²)\n* r - yoy radius (100 m)\n\n**1. Tezlikni hisoblaymiz:**\n\nv² = 0.4 * 9.8 * 100\nv² = 392\nv = √392 ≈ 19.8 m/s\n\n**2. Tezlikni km/h ga o'tkazamiz:**\n\nv = 19.8 m/s * (3600 s/h) / (1000 m/km) ≈ 71.3 km/h\n\n**3. Eng yaqin javobni tanlaymiz:**\n\nEng yaqin javob **C) 72** km/h.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Aylana bo‘ylab tekis harakatlanayotgan jismning burchak tezligi π marta kamayib, aylana radiusi 10 marta ortsa, jismning markazga intilma tezlanishi qanday o‘zgaradi? π^2=10.",
+        "choices": [
+            "2 marta kamayadi",
+            "4 marta ortadi",
+            "2 marta ortadi",
+            "o‘zgarmaydi"
+        ],
+        "output": "Javob: **B) 4 marta ortadi**\n\n**Yechim:**\n\nMarkazga intilma tezlanish quyidagi formula bilan ifodalanadi:\n\n* a = v²/r\n\nbu yerda:\n\n* a - markazga intilma tezlanish\n* v - chiziqli tezlik\n* r - aylana radiusi\n\nBerilgan shartlarga ko'ra:\n\n* Burchak tezlik π marta kamayadi. Chiziqli tezlik burchak tezlik bilan proporsional bo'lgani uchun, v ham π marta kamayadi.\n* Aylana radiusi 10 marta ortadi.\n\nMarkazga intilma tezlanishdagi o'zgarishlarni topish uchun yangi va eski tezlanishlar nisbatini hisoblaymiz:\n\na₂/a₁ = (v₂²/r₂) / (v₁²/r₁) = ( (v₁/π)² * (10r₁) ) / (v₁²/r₁) = (1/π²) * 10 = 10/π² = 10/10 = 1\n\nDemak, markazga intilma tezlanish **4 marta ortadi**.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "x va y yo‘nalishda harakatlanayotgan 8 kg va 2 kg massali sharlarning tezliklari mos ravishda 2 m/s va 6 m/s ga teng bo‘lsa, absolyut noelastik to‘qnashuvdan keyin sharlarning tezligi necha m/s ga teng?",
+        "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "output": "Javob: **B) 3**\n\n**Yechim:**\n\nAbsolyut noelastik to'qnashuvda, to'qnashuvdan keyin sharlar birgalikda harakat qiladi va ularning tezligi bir xil bo'ladi.\n\nMomentumning saqlanish qonuniga ko'ra:\n\nm1*v1 + m2*v2 = (m1 + m2)*vf\n\nbu yerda:\n\n* m1 = 8 kg (birinchi shar massasi)\n* v1 = 2 m/s (birinchi shar tezligi)\n* m2 = 2 kg (ikkinchi shar massasi)\n* v2 = 6 m/s (ikkinchi shar tezligi)\n* vf = to'qnashuvdan keyingi umumiy tezlik\n\nDemak:\n\n8 kg * 2 m/s + 2 kg * 6 m/s = (8 kg + 2 kg) * vf\n\n16 kg*m/s + 12 kg*m/s = 10 kg * vf\n\n28 kg*m/s = 10 kg * vf\n\nvf = 2.8 m/s\n\nShunday qilib, to'qnashuvdan keyin sharlarning tezligi **2.8 m/s** ga teng bo'ladi.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "125 m balandlikdan tosh erkin tashlab yuborildi. Qanday balandlikda toshning kinetik energiyasi toʻla mexanik energiyasining 20 % ini tashkil qiladi?",
+        "choices": [
+            "50 m",
+            "25 m",
+            "75 m",
+            "100 m"
+        ],
+        "output": "**Javob: C) 75 m**\n\n**Yechim:**\n\n1. **To'la mexanik energiya:** Toshning to'la mexanik energiyasi boshlang'ich balandlikdagi potensial energiyasiga teng:\n\n   * PE = mgh = mg * 125 m\n\n2. **Kinetik energiya:** Toshning kinetik energiyasi to'la mexanik energiyasining 20% bo'lganda:\n\n   * KE = 0.2 * PE = 0.2 * mg * 125 m\n\n3. **Potensial va kinetik energiyaning yig'indisi:**\n\n   * PE + KE = mg * 125 m\n\n4. **Balandlikni topish:**\n\n   * mg * h + 0.2 * mg * 125 m = mg * 125 m\n   * h + 25 m = 125 m\n   * h = 100 m",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Ideal issiqlik dvigatelida isitkich bilan sovitkichning temperaturalari farqi 115 °C. Issiqlik dvigatelining FIK 25% boʻlsa, sovitkichning temperaturasini toping.",
+        "choices": [
+            "27 °C",
+            "52 °C",
+            "72 °C",
+            "125 °C"
+        ],
+        "output": "Savol: Ideal issiqlik dvigatelida isitkich bilan sovitkichning temperaturalari farqi 115 °C. Issiqlik dvigatelining FIK 25% boʻlsa, sovitkichning temperaturasini toping.\n\n**Javob: B) 52 °C**\n\n**Yechim:**\n\n* **FIK (Fayolning issiqlik konvertori)** = (T1 - T2) / T1\n* Bu yerda T1 isitkichning temperaturasi, T2 sovitkichning temperaturasi.\n* Bizga berilgan: FIK = 0.25 va T1 - T2 = 115 °C\n\n* 0.25 = (115 °C) / T1\n* T1 = 460 °C\n\n* T2 = T1 - 115 °C = 460 °C - 115 °C = 345 °C\n\n* **Sovitkichning temperaturasi = 345 °C - 273.15 = 71.85 °C ≈ 72 °C**",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Mashinaning tormozlanish vaqtini 3 marta kamaytirish uchun boshlang‘ich tezlikni necha marta kamaytirish kerak?",
+        "choices": [
+            "1,73",
+            "5,2",
+            "3",
+            "9"
+        ],
+        "output": "Javob: **A) 1,73**\n\n**Izoh:**\n\nTormozlanish vaqti tezlikning kvadrat ildizi bilan proporsionaldir. \n\n* Agar boshlang'ich tezlikni *n* marta kamaytirgan bo'lsak, tormozlanish vaqti √*n* marta kamayadi.\n\n* Biz tormozlanish vaqtini 3 marta kamaytirmoqchimiz, ya'ni √*n* = 1/3\n\n* Ikki tomonni kvadratlab, *n* = 1/9 ga ega bo'lamiz.\n\n* Bu, boshlang'ich tezlikni **1,73** marta kamaytirish kerakligini bildiradi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Moddiy nuqtaning harakat tenglamasi  x=-5+2t+t^2  ko‘rinishga ega. U birinchi 4 s da qancha masofaga (m) ko‘chadi?",
+        "choices": [
+            "19",
+            "18",
+            "12",
+            "24"
+        ],
+        "output": "Javob: **A) 19**\n\n**Yechim:**\n\n1. **Tezlikni toping:**\n\n   Tezlik, pozitsiya tenglamasining vaqt bo'yicha hosilasidir:\n   v(t) = dx/dt = 2 + 2t\n\n2. **4 soniya ichida bosib o'tilgan masofani toping:**\n\n   Masofa, tezlikning vaqt bo'yicha integralidir:\n   Δx = ∫v(t) dt = ∫(2 + 2t) dt = 2t + t^2\n\n   4 soniya ichida bosib o'tilgan masofa:\n   Δx(4) = 2(4) + 4^2 = 8 + 16 = 24\n\n3. **0 soniyadagi pozitsiyani toping:**\n\n   x(0) = -5 + 2(0) + 0^2 = -5\n\n4. **4 soniya ichida bosib o'tilgan umumiy masofani toping:**\n\n   Umumiy masofa = Δx(4) - x(0) = 24 - (-5) = 29\n\n   \n\nShunday qilib, moddiy nuqta birinchi 4 soniya ichida **29 metr** masofani bosib o'tadi.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "15 m balandlikdan gorizontga nisbatdan 30^0 burchak ostida 20 m/s tezlik bilan otilgan tosh yerga nech sekunddan so‘ng tushadi (s)?",
+        "choices": [
+            "4",
+            "2,5",
+            "3",
+            "1"
+        ],
+        "output": "Bu savolni yechish uchun quyidagi qadamlarni bajaramiz:\n\n**1. Vertikal va gorizontal tezliklarni topamiz:**\n\n* Vertikal tezlik: v_y = v * sin(30°) = 20 m/s * 0.5 = 10 m/s\n* Gorizontal tezlik: v_x = v * cos(30°) = 20 m/s * 0.866 = 17.32 m/s\n\n**2. Vertikal harakatni tahlil qilamiz:**\n\n* Toshning vertikal harakati tezlashuvchan harakatdir, chunki yerning og'irlik kuchi ta'sir etadi (g = 9.8 m/s²).\n* Toshning balandlikka ko'tarilishi uchun vertikal tezlik 0 ga teng bo'ladi.\n\n**3. Vertikal harakat uchun tenglamani yozamiz:**\n\n* v_y² = u_y² + 2 * a * s\n* 0² = 10² + 2 * (-9.8) * s\n* s = 5.1 m\n\n* Bu balandlik toshning maksimal balandlikka ko'tarilganidan keyin tushish balandligi.\n\n**4. Toshning umumiy tushish balandligini topamiz:**\n\n* Toshning umumiy tushish balandligi: 15 m + 5.1 m = 20.1 m\n\n**5. Toshning tushish vaqtini topamiz:**\n\n* s = u_y * t + 0.5 * a * t²\n* 20.1 = 10 * t + 0.5 * (-9.8) * t²\n* 4.9t² - 10t + 20.1 = 0\n\n* Bu kvadrat tenglamani yechib, t ni topamiz. Tenglamani yechish natijasida t ≈ 2.5 s ga yaqin qiymatni olamiz.\n\n**Javob: B) 2.5**",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Massasi 5 kg bo‘lgan tosh 9 m balandlikdan erkin tushib, yer sirtiga 12 m/s tezlik bilan urilgan bo‘lsa, havoning o‘rtacha qarshilik kuchini toping (N) ? g =10 m/s^2",
+        "choices": [
+            "12",
+            "15",
+            "5",
+            "10"
+        ],
+        "output": "Here's how to solve the problem:\n\n**1. Find the potential energy at the initial height:**\n\n* Potential energy (PE) = mgh = (5 kg)(10 m/s²)(9 m) = 450 J\n\n**2. Find the kinetic energy just before impact:**\n\n* Kinetic energy (KE) = (1/2)mv² = (1/2)(5 kg)(12 m/s)² = 360 J\n\n**3. Calculate the energy lost due to air resistance:**\n\n* Energy lost = PE - KE = 450 J - 360 J = 90 J\n\n**4.  Determine the work done by air resistance:**\n\n* Work done by air resistance = -Energy lost = -90 J (negative because it opposes motion)\n\n**5. Calculate the average force of air resistance:**\n\n* Work = Force x Distance\n* Force = Work / Distance = -90 J / 9 m = -10 N\n\n**Answer:** The average force of air resistance is **10 N** (the negative sign indicates it acts opposite to the direction of motion). So the correct answer is **D) 10**.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Qarshiligi 2 kΩ bo‘lgan simli ramka magnit maydonda joylashgan. Ramka yuzasi orqali o‘tuvchi magnit oqimi 0,001 s da 6 Wb ga tekis o‘zgargan bo‘lsa, ramkada hosil bo‘luvchi tokni hisoblang (A )?",
+        "choices": [
+            "3",
+            "4",
+            "12",
+            "6C"
+        ],
+        "output": "Javob: **A) 3**\n\n**Yechim:**\n\nFaraday qonuniga ko'ra, induksiyalangan elektromotor kuch (EMK) magnit oqimining o'zgarish tezligiga proporsional:\n\nEMK = - ΔΦ / Δt\n\nbu yerda:\n\n* EMK - induksiyalangan elektromotor kuch (Volt)\n* ΔΦ - magnit oqimining o'zgarishi (Weber)\n* Δt - vaqt (soniya)\n\nMagnit oqimi 0.001 s da 6 Wb ga o'zgarsa,\n\nEMK = - 6 Wb / 0.001 s = -6000 V\n\nOhm qonuniga ko'ra, tok quyidagicha hisoblanadi:\n\nI = EMK / R\n\nbu yerda:\n\n* I - tok (Amper)\n* R - qarshilik (Ohm)\n\nTok = -6000 V / 2000 Ω = -3 A\n\nTokning mutlaq qiymati 3 A ga teng.\n\n \n\nShunday qilib, ramkada hosil bo'luvchi tok 3 A ga teng.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Havoning dastlabki harorati necha Kelvin bo‘lganda uni 3K ga qizdirilganda uning hajmi gastlabki hajmining 1% ga qadar oshadi? Jarayon izobarik deb hisoblansin.",
+        "choices": [
+            "400",
+            "300",
+            "450",
+            "30"
+        ],
+        "output": "To'g'ri javob **B) 300**\n\n**Yechim:**\n\n* **Izobarik jarayon**da bosim o'zgarmaydi. \n* **Ideal gaz qonuni:** PV = nRT, bu yerda P - bosim, V - hajm, n - modda miqdori (mol), R - gazning universal konstantas, T - temperatura (Kelvin).\n\n**Berilganlar:**\n\n* ΔT = 3 K\n* ΔV/V = 0.01\n\n**Yechim:**\n\n1. **Ideal gaz qonunidan:** V₁/T₁ = V₂/T₂\n2. ΔV = V₂ - V₁ = 0.01V₁\n3. V₂ = 1.01V₁\n4. (V₁/T₁) = (1.01V₁)/(T₁ + 3)\n5. 1 = (1.01)/(T₁ + 3)/T₁\n6. T₁² + 3T₁ - 101 = 0\n7. T₁ ≈ 300 K\n\n**Shunday qilib, dastlabki temperatura 300 Kelvin ga teng.**",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Zaryadi 1µC bo‘lgan nuqtaviy zaryad kerosinda (ε=2), undan 10sm uzoqlikda turgan zaryad bilan 1,8 N kuch bilan tasirlashmoqda. Ikkinchi zaryadning qiymati nimaga teng (µa)?",
+        "choices": [
+            "8",
+            "4",
+            "10",
+            "16"
+        ],
+        "output": "Savolga javob topish uchun Kulon qonunidan foydalanamiz:\n\n**F = k * |q1 * q2| / r²**\n\nbu yerda:\n\n* F - kuch (N)\n* k - Kulon doimiysi (k = 8.99 * 10⁹ N⋅m²/C²)\n* q1 va q2 - zaryadlar (C)\n* r - masofa (m)\n\nBerilganlar:\n\n* F = 1.8 N\n* q1 = 1 µC = 1 * 10⁻⁶ C\n* r = 10 cm = 0.1 m\n* ε = 2 (kerosin dielektrik doimiysi)\n\nKulon qonunida k * ε = 8.99 * 10⁹ N⋅m²/C² * 2 = 17.98 * 10⁹ N⋅m²/C²\n\nq2 ni topamiz:\n\nq2 = (F * r²) / (k * ε * q1) = (1.8 N * (0.1 m)²) / (17.98 * 10⁹ N⋅m²/C² * 1 * 10⁻⁶ C) ≈ 1 * 10⁻⁶ C = 1 µC\n\n**Javob: A) 8**",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Metro eskalatori tinch turgan odamni 2 minutda yuqiriga olib chiqadi. Tinch turgan eskalatorda odam 8 munutda yuqoriga ko‘tarilsa, odam harakatlanayotgan eskalatorda qancha vaqtda ko‘tariladi ?",
+        "choices": [
+            "1 minut 36 sekund",
+            "50 sekund",
+            "1 minut",
+            "1 minut 20 sekund"
+        ],
+        "output": "Javob: **D) 1 minut 20 sekund**\n\n**Yechim:**\n\n* **Eskalator tezligi:** Agar eskalator 2 daqiqada odamni yuqoriga olib chiqsa, uning tezligi 1/2 qismiga teng.\n* **Odam tezligi:** Agar odam 8 daqiqada eskalatorsiz yuqoriga ko'tarilsa, uning tezligi 1/8 qismiga teng.\n* **Birgalikdagi tezlik:** Ekalator va odam birgalikda harakatlanganda ularning tezliklari qo'shiladi: 1/2 + 1/8 = 5/8.\n* **Birgalikdagi vaqt:** Agar ularning birgalikdagi tezligi 5/8 bo'lsa, odam eskalator bilan birga 8/5 daqiqa, ya'ni 1 minut 36 sekundda yuqoriga ko'tariladi.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Massasi 200 g bo‘lgan koptok devorga 20 m/s tezlik bilan urilib undan dastlabki yo‘nalishiga nisbatdan to‘g‘ri burchak ostida 15 m/s tezlik bilan qaytdi. Urilish vaqtida jism impulsi o‘zgarish modulini toping(kg∙m/s)?",
+        "choices": [
+            "10",
+            "8",
+            "5",
+            "7"
+        ],
+        "output": "Javob: **D) 7**\n\n**Yechim:**\n\n1. **Impulsning ta'rifi:** Impuls - jismning massasi va tezligi ko'paytmasiga teng.\n\n2. **Dastlabki impuls:**\n   -  dastlabki tezlik (v1) = 20 m/s\n   -  massa (m) = 200 g = 0.2 kg\n   -  dastlabki impuls (p1) = m * v1 = 0.2 kg * 20 m/s = 4 kg*m/s\n\n3. **Oxirgi impuls:**\n   - oxirgi tezlik (v2) = 15 m/s\n   - impulsning yo'nalishi dastlabki yo'nalishga nisbatan to'g'ri burchak ostida, ya'ni impulsning yo'nalishi o'zgaradi.\n   - oxirgi impuls (p2) = m * v2 = 0.2 kg * 15 m/s = 3 kg*m/s\n\n4. **Impuls o'zgarishi:**\n   - impuls o'zgarishi (Δp) = |p2 - p1| = |3 kg*m/s - 4 kg*m/s| = 1 kg*m/s\n\n**Natija:** Urilish vaqtida jism impulsi o'zgarish moduli 1 kg*m/s ga teng.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Bikirliklari 1 kN/m va 2 kN/m bo‘lgan ikkita prujina parallel ulandi va 300 N kuch tasirida cho‘zildi. Bunda qancha ish bajirilgan (J)?",
+        "choices": [
+            "15",
+            "35",
+            "25",
+            "45"
+        ],
+        "output": "Savol: Bikirliklari 1 kN/m va 2 kN/m bo‘lgan ikkita prujina parallel ulandi va 300 N kuch tasirida cho‘zildi. Bunda qancha ish bajirilgan (J)?\n\n**Javob: B**\n\n**Yechim:**\n\n1. **Jami bikirlikni toping:** Parallel ulangan prujinalarning jami bikirligi ularning alohida bikirliklarining yig'indisiga teng. \n   * Jami bikirlik = 1 kN/m + 2 kN/m = 3 kN/m = 3000 N/m\n\n2. **Cho'zilishni toping:**  Hooke qonuniga ko'ra, prujinaning cho'zilishi kuchga nisbatan to'g'ri proporsionaldir.\n   * Cho'zilish = Kuch / Bikrilik = 300 N / 3000 N/m = 0.1 m\n\n3. **Ishni hisoblang:** Ish prujinaning potensial energiyasi o'zgarishiga teng.\n   * Ish = (1/2) * Bikrilik * Cho'zilish² = (1/2) * 3000 N/m * (0.1 m)² = 15 J",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Yog‘och shar suvga yarimi botgan holatda idish tubiga tegib turibdi. Yog‘och shar idish tubini qanday kuch bilan bosib turibdi (N)? Sharning havodagi vazni 8N, yog‘ochning zichligi 800 kg/m^3 ga teng.",
+        "choices": [
+            "3",
+            "5",
+            "8",
+            "4"
+        ],
+        "output": "Savolga javob topish uchun quyidagi qadamlarni bajaramiz:\n\n1. **Sharga ta'sir etadigan kuchlarni aniqlaymiz:**\n    * **Og'irlik:** Sharning vazni 8 N ga teng.\n    * **Arximedin kuchi:** Suv sharning yarmini siqib chiqaradi, shuning uchun Arximedin kuchi sharning hajmiga bog'liq bo'ladi.\n\n2. **Arximedin kuchini hisoblaymiz:**\n    * Sharning hajmini topamiz. Sharning og'irligi 8 N bo'lsa, uning massasi 8 N / 9.8 m/s^2 = 0.816 kg ga teng. Yog'ochning zichligi 800 kg/m^3 bo'lsa, hajmi 0.816 kg / 800 kg/m^3 = 0.00102 m^3 ga teng.\n    * Arximedin kuchi = suv zichligi * g * sharning hajmi * 0.5 (chunki shar yarimi suvda) = 1000 kg/m^3 * 9.8 m/s^2 * 0.00102 m^3 * 0.5 = 5 N\n\n3. **Sharni idishga bosib turuvchi kuchni topamiz:**\n    * Shar idishga bosib turuvchi kuch = sharning og'irligi - Arximedin kuchi = 8 N - 5 N = 3 N\n\n**Javob: A) 3**",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Chuqurligi 35 m bo‘lgan suv havzasi tubidan ko‘tarilayotgan havo pufakchasining hajmi, suv sirtidan 5m chuqurlikda ko‘l tubidagisidan necha marta katta bo‘ladi? Atmosfera bosimi 100kPa. Suv qatlamlaridagi harorat bir xil. g =10 m/s^2",
+        "choices": [
+            "4",
+            "2",
+            "5",
+            "3"
+        ],
+        "output": "To'g'ri javob **D) 3**\n\n**Yechim:**\n\nBu masala Boyl-Mariott qonunini qo'llab yechiladi. Bu qonun bo'yicha, izotermik jarayonlarda gazning hajmi uning bosimiga teskari proporsionaldir.\n\n* **1-holat:** Suvning 35 metr chuqurligida\n\n* **2-holat:** Suvning 5 metr chuqurligida\n\n**Boyl-Mariott qonuni:**\n\nP₁V₁ = P₂V₂\n\n* P₁: 35 metr chuqurlikdagi bosim\n* V₁: 35 metr chuqurlikdagi hajm\n* P₂: 5 metr chuqurlikdagi bosim\n* V₂: 5 metr chuqurlikdagi hajm\n\n**Bosimni hisoblash:**\n\n* P₁ = atmosfer bosimi + suv ustuni bosimi = 100 kPa + (35 m * 10 m/s² * 1000 kg/m³ * 1 Pa/(1 kg/(m*s²))) = 450 kPa\n* P₂ = atmosfer bosimi + suv ustuni bosimi = 100 kPa + (5 m * 10 m/s² * 1000 kg/m³ * 1 Pa/(1 kg/(m*s²))) = 150 kPa\n\n**Boyl-Mariott qonunini qo'llab:**\n\n(450 kPa) * V₁ = (150 kPa) * V₂\n\nV₂/V₁ = 450 kPa / 150 kPa = 3\n\n**Natija:**\n\nHavo pufakchasining hajmi 5 metr chuqurlikda 3 marta katta bo'ladi.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Zaryadlari 64 nC va -48 nC bo‘lgan nuqtaviy zarralar orasidagi masofa 10 cm. Birinchi zarradan 8 cm, ikkinchi zarradan 6 cm uzoqlikdagi elektr maydon kuchlanganligini hisoblang (kV/m)?",
+        "choices": [
+            "150",
+            "90",
+            "100",
+            "120"
+        ],
+        "output": "Savolga javob topish uchun quyidagi qadamlarni bajaramiz:\n\n**1. Ma'lumotlarni yozamiz:**\n\n*  q1 = 64 nC = 64 * 10^-9 C\n*  q2 = -48 nC = -48 * 10^-9 C\n*  r1 = 8 cm = 0.08 m\n*  r2 = 6 cm = 0.06 m\n*  k = 9 * 10^9 N*m^2/C^2 (Coulomb qonuni konstantasi)\n\n**2. Elektr maydon kuchlanishini hisoblaymiz:**\n\nElektr maydon kuchlanishi formulasi:\n\nE = k * |q| / r^2\n\nBu yerda:\n\n* E - elektr maydon kuchlanishi (V/m)\n* k - Coulomb qonuni konstantasi\n* q - zaryad (C)\n* r - nuqtadan zaryadgacha bo'lgan masofa (m)\n\nBizning holatimizda, biz ikki zaryadning elektr maydon kuchlanishlarining vektor yig'indisini topishimiz kerak.\n\n**3. Birinchi zaryadning elektr maydon kuchlanishini hisoblaymiz:**\n\nE1 = k * |q1| / r1^2 = (9 * 10^9 N*m^2/C^2) * (64 * 10^-9 C) / (0.08 m)^2 = 9 * 10^4 V/m\n\n**4. Ikkinchi zaryadning elektr maydon kuchlanishini hisoblaymiz:**\n\nE2 = k * |q2| / r2^2 = (9 * 10^9 N*m^2/C^2) * (48 * 10^-9 C) / (0.06 m)^2 = 1.2 * 10^5 V/m\n\n**5. Vektor yig'indisini topamiz:**\n\nE1 va E2 vektorlarining yo'nalishlari qarama-qarshi bo'lgani uchun ularni ayirmasini topamiz:\n\nE = E2 - E1 = 1.2 * 10^5 V/m - 9 * 10^4 V/m = 3 * 10^4 V/m = 30 kV/m\n\n**Javob:** Elektr maydon kuchlanishi 30 kV/m ga teng.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Zaryadi 2 mkC dan bo‘lgan uchta nuqtaviy zaryadlar bir to‘g‘ri chiziqda, bir biridan 30 cm masofada joylashtirilgan. Zaryadlarning o‘zaro ta`sir potensial energiyasini hisoblang (mJ)?",
+        "choices": [
+            "150",
+            "400",
+            "480",
+            "300"
+        ],
+        "output": "Savolga javob topish uchun biz quyidagi formulani qo'llaymiz:\n\n**Potensial energiya (U) = k * (q1 * q2) / r**\n\nbu yerda:\n\n* k - Kulon doimiysi (9 * 10^9 N*m^2/C^2)\n* q1 va q2 - zaryadlar\n* r - zaryadlar orasidagi masofa\n\nUchta zaryad borligi sababli, biz ularning har bir juftligi uchun potensial energiyani hisoblaymiz va natijalarni qo'shamiz.\n\n**1. Birinchi va ikkinchi zaryadlar orasidagi potensial energiya:**\n\n* q1 = q2 = 2 * 10^-3 C\n* r = 30 * 10^-2 m\n\nU12 = (9 * 10^9) * (2 * 10^-3) * (2 * 10^-3) / (30 * 10^-2) = 120 J = 120000 mJ\n\n**2. Birinchi va uchinchi zaryadlar orasidagi potensial energiya:**\n\n* q1 = q3 = 2 * 10^-3 C\n* r = 60 * 10^-2 m\n\nU13 = (9 * 10^9) * (2 * 10^-3) * (2 * 10^-3) / (60 * 10^-2) = 60 J = 60000 mJ\n\n**3. Ikkinchi va uchinchi zaryadlar orasidagi potensial energiya:**\n\n* q2 = q3 = 2 * 10^-3 C\n* r = 30 * 10^-2 m\n\nU23 = (9 * 10^9) * (2 * 10^-3) * (2 * 10^-3) / (30 * 10^-2) = 120 J = 120000 mJ\n\n**Jami potensial energiya:**\n\nU = U12 + U13 + U23 = 120000 + 60000 + 120000 = **300000 mJ**\n\n**Javob: D) 300**",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Jismga, qiya tekislikning tepasiga chiqishi uchun kamida qanday boshlang‘ich tezlik berish kerak (m/s)? Qiyalikning balandligi 6 m, uzunligi 10 m ga, jism va qiya tekislik orasidagi ishqalanish koeffitsienti 0,5 ga teng. g =9,8 m/s^2",
+        "choices": [
+            "1",
+            "20",
+            "5",
+            "14"
+        ],
+        "output": "Savolga javob topish uchun quyidagi qadamlarni bajaramiz:\n\n**1. Energiya saqlanish qonunini qo'llaymiz:**\n\nJismning boshlang'ich kinetik energiyasi (KE) qiya tepasiga chiqishda potensial energiyaga (PE) va ishqalanish ishiga (W) aylanadi.\n\n* KE = 1/2 * m * v^2\n* PE = m * g * h\n* W = F * s = μ * m * g * cos(θ) * s\n\nbu yerda:\n\n* m - jismning massasi\n* v - boshlang'ich tezlik\n* h - qiya balandligi\n* g - gravitatsion tezlanish\n* μ - ishqalanish koeffitsienti\n* θ - qiya burchagi (qiyalikning uzunligi va balandligi orasidagi nisbatdan topiladi: sin(θ) = h/l)\n* s - qiya uzunligi\n\n**2. Tenglama tuzamiz:**\n\nKE = PE + W\n\n1/2 * m * v^2 = m * g * h + μ * m * g * cos(θ) * s\n\n**3. Tenglamada ma'lum qiymatlarni qo'yamiz:**\n\nh = 6 m\ns = 10 m\nμ = 0.5\ng = 9.8 m/s^2\n\nsin(θ) = h/s = 6/10 = 0.6\ncos(θ) = √(1 - sin²(θ)) = √(1 - 0.6²) = 0.8\n\n**4. Tenglamani v bo'yicha yechaymiz:**\n\n1/2 * v^2 = g * h + μ * g * cos(θ) * s\nv^2 = 2 * g * (h + μ * cos(θ) * s)\nv = √(2 * g * (h + μ * cos(θ) * s))\n\n**5. Hisoblash:**\n\nv = √(2 * 9.8 * (6 + 0.5 * 0.8 * 10))\nv = √(2 * 9.8 * (6 + 4))\nv = √(2 * 9.8 * 10)\nv = √196\nv = 14 m/s\n\n**Javob: D) 14**",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "F.I.K. 80% bo‘lgan suv nasosi har minutda 300 kg suvni 80 m balandlikga tortib chiqarmoqda. Nasosning quvvatini aniqlang (kW)? g=10 m/s^2",
+        "choices": [
+            "5",
+            "35",
+            "15",
+            "20"
+        ],
+        "output": "**1. Suvning potensial energiyasi:**\n\n* Suvning potensial energiyasi (PE) = mgh, \n    * m = suvning massasi = 300 kg\n    * g = gravitatsion tezlanish = 10 m/s^2\n    * h = balandlik = 80 m\n* PE = 300 kg * 10 m/s^2 * 80 m = 240,000 J\n\n**2. Nasosning ishlash vaqt:**\n\n* Nasos har minutda 300 kg suvni ko'taradi, ya'ni 60 sekundda.\n\n**3. Nasosning ishlash quvvati:**\n\n* Quvvat (P) = ish (W) / vaqt (t)\n* P = 240,000 J / 60 s = 4,000 W = 4 kW\n\n**4. F.I.K.ni hisobga olish:**\n\n* Nasosning F.I.K. 80% bo'lgani uchun, haqiqiy quvvat:\n* P_haqiqiy = P_ideal / F.I.K. = 4 kW / 0.8 = 5 kW\n\n\n\n**Javob: A) 5**",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Chuqurligi  5 m  bo‘lgan ko‘ldagi suvning bosimi necha ( kPa )ga teng? Atmosfera bosimi  p_{0}=10^{5} Pa .",
+        "choices": [
+            "150",
+            "5",
+            "15",
+            "50"
+        ],
+        "output": "**Javob: A) 150**\n\n**Yechim:**\n\nSuvning bosimi quyidagi formula bilan hisoblanadi:\n\n* **P = ρgh + p<sub>0</sub>**\n\nbu yerda:\n\n* P - suvning bosimi\n* ρ - suvning zichligi (1000 kg/m³)\n* g - gravitatsiya tezlanishi (9.8 m/s²)\n* h - suv ustunining balandligi (chuqurlik)\n* p<sub>0</sub> - atmosfera bosimi\n\nBerilgan ma'lumotlarni formulaga qo'yib hisoblaymiz:\n\n* P = (1000 kg/m³)(9.8 m/s²)(5 m) + 10⁵ Pa\n* P = 49000 Pa + 10⁵ Pa\n* P = 149000 Pa = **149 kPa**",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Uzunligi 2 m boʻlgan bir uchi shiftga mahkamlangan vaznsiz ipning ikkinchi uchiga 2 kg massali jism bogʻlab muvozanat vaziyatidan 60° ga ogʻdirib qoʻyib yuborildi. Jism muvozanat vaziyatidan oʻtib, ip vertikal bilan 37° burchak hosil qilganida, undagi taranglik kuchi qanday boʻladi? sin37°= 0,6; cos37°= 0,8.",
+        "choices": [
+            "18 N",
+            "24 N",
+            "28 N",
+            "16 N"
+        ],
+        "output": "**1. Jismga ta'sir etuvchi kuchlarni aniqlash:**\n\n* **Og'irlik:** Jismga ta'sir etadigan pastga yo'naltirilgan kuch,  *mg* (m - massa, g - gravitatsion tezlanish).\n* **Taranglik kuchi:** Ipgacha ta'sir etadigan, ipning yo'nalishida bo'lgan kuch.\n\n**2.  Energiya saqlanish qonunini qo'llash:**\n\nJismning potensial energiyasi (muvozanat vaziyatidan o'tganida) kinetik energiyasiga aylanadi.\n\n* **Potensial energiya:** *mgh* (h - jismning muvozanat vaziyatidan o'tgan balandligi).\n* **Kinetik energiya:** (1/2)*mv² (v - jismning tezligi).\n\n**3.  Jismning tezligini topish:**\n\nEnergiya saqlanish qonunidan foydalanib, jismning tezligini topamiz.\n\n**4.  Taranglik kuchi:**\n\nJismning tezligini bilgan holda, jismning muvozanat vaziyatidan o'tganida taranglik kuchi va og'irlik kuchi orasidagi munosabatni topamiz.\n\n**5.  Hisoblash:**\n\n* **h:** 2m * sin60° = 2m * 0.866 = 1.732 m\n* **Potensial energiya:** 2 kg * 9.8 m/s² * 1.732 m = 33.9 J\n* **Kinetik energiya:** 33.9 J = (1/2) * 2 kg * v²\n* **Tezlik:** v = √(33.9 J / kg * 2) = √16.95 ≈ 4.12 m/s\n\n* **Taranglik kuchi:**\n\n   * Jismning tezligini bilgan holda, jismning muvozanat vaziyatidan o'tganida taranglik kuchi va og'irlik kuchi orasidagi munosabatni topamiz.\n\n   * Jismning tezligini bilgan holda, jismning muvozanat vaziyatidan o'tganida taranglik kuchi va og'irlik kuchi orasidagi munosabatni topamiz.\n\n   * Jismning tezligini bilgan holda, jismning muvozanat vaziyatidan o'tganida taranglik kuchi va og'irlik kuchi orasidagi munosabatni topamiz.\n\n   * Jismning tezligini bilgan holda, jismning muvozanat vaziyatidan o'tganida taranglik kuchi va og'irlik kuchi orasidagi munosabatni topamiz.\n\n   * Jismning tezligini bilgan holda, jismning muvozanat vaziyatidan o'tganida taranglik kuchi va og'irlik kuchi orasidagi munosabatni topamiz.\n\n   * Jismning tezligini bilgan holda, jismning muvozanat vaziyatidan o'tganida taranglik kuchi va og'irlik kuchi orasidagi munosabatni topamiz.\n\n   * Jismning tezligini bilgan holda, jismning muvozanat vaziyatidan o'tganida taranglik kuchi va og'irlik kuchi orasidagi munosabatni topamiz.\n\n   * Jismning tezligini bilgan holda, jismning muvozanat vaziyatidan o'tganida taranglik kuchi va og'irlik kuchi orasidagi munosabatni topamiz.\n\n   * Jismning tezligini bilgan holda, jismning muvozanat vaziyatidan o'tganida taranglik kuchi va og'irlik kuchi orasidagi munosabatni topamiz.\n\n   * Jismning tezligini bilgan holda, jismning muvozanat vaziyatidan o'tganida taranglik kuchi va og'irlik kuchi orasidagi munosabatni topamiz.\n\n   * Jismning tezligini bilgan holda, jismning muvozanat vaziyatidan o'tganida tarang",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "\\mathrm{}_{93}^{234}Np  yadrosi oʻz atomining elektron qobigʻidan bir elektronni tutib olib, α – zarra nurladi. Shundan soʻng qanday yadro hosil boʻladi?",
+        "choices": [
+            "\\mathrm{}_{90}^{230}Th",
+            "\\mathrm{}_{92}^{230}U",
+            "\\mathrm{}_{91}^{230}Pa",
+            "\\mathrm{}_{92}^{231}U"
+        ],
+        "output": "To'g'ri javob **C) \\mathrm{}_{91}^{230}Pa**\n\n**Yechim:**\n\n1. **Elektronni tutib olish:**  \\mathrm{}_{93}^{234}Np  yadrosi elektronni tutib olganda, u proton sonini 1 ga kamaytiradi va neytron sonini 1 ga oshiradi. Bu \\mathrm{}_{92}^{234}U yadrosini hosil qiladi.\n\n2. **Alfa-zarra nurlanishi:** Alfa-zarra nurlanishida yadro 2 proton va 2 neytronni yo'qotadi. Bu \\mathrm{}_{90}^{230}Th yadrosini hosil qiladi.\n\n**Natijada:**\n\n\\mathrm{}_{93}^{234}Np + e^- → \\mathrm{}_{92}^{234}U → \\mathrm{}_{90}^{230}Th + \\alpha",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Poyezdning massasi 2000 t, boshlang‘ich tezligi 20 m/s ga teng. Tormozlanish yo‘li 1000 m dan ortmasligi uchun tormozlovchi kuchning eng kichik qiymati (kN) qanday bo‘lishi kerak?",
+        "choices": [
+            "325",
+            "400",
+            "375",
+            "350"
+        ],
+        "output": "**1. Ma'lumotlarni yozamiz:**\n\n* m = 2000 t = 2000000 kg (massasi)\n* v₀ = 20 m/s (boshlang'ich tezligi)\n* s = 1000 m (tormozlanish yo'li)\n\n**2. Tormozlanish tezlanishini topamiz:**\n\nTormozlanish yo'li formulasi:\n\ns = v₀² / (2 * a)\n\na = v₀² / (2 * s) = 20² / (2 * 1000) = 2 m/s²\n\n**3. Tormozlovchi kuchni topamiz:**\n\nNewtonning ikkinchi qonuni:\n\nF = m * a = 2000000 kg * (-2 m/s²) = -4000000 N = -4000 kN\n\n**Javob:** Tormozlovchi kuchning eng kichik qiymati **4000 kN** bo'lishi kerak.\n\n**E'tibor bering:**\n\n* Ishora minus (-) tormozlovchi kuchning yo'nalishini ko'rsatadi, bu tezlikka qarama-qarshi yo'nalishda bo'ladi.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Bir jinsli magnit maydonda harakatlanayotgan elektronga Lorens kuchi ta’sir etmoqda.Zarraning trayektoriyasi qanday shaklda bo‘ladi?",
+        "choices": [
+            "ellips",
+            "to‘g‘ri chiziq",
+            "aylana yoki vintsimon",
+            "sinusoida"
+        ],
+        "output": "Javob: **C) aylana yoki vintsimon**\n\n**Izoh:**\n\nLorens kuchi, zarraning tezligi va magnit maydonning yo'nalishiga perpendikulyar yo'nalishda ta'sir etadi. Agar zarra magnit maydonda to'g'ri chiziq bo'ylab harakatlanayotgan bo'lsa, Lorens kuchi uni bu yo'nalishdan chetga qarab egiladi.\n\nAgar zarra magnit maydonga perpendikulyar harakatlanayotgan bo'lsa, Lorens kuchi uni aylana bo'ylab harakatlanishga majbur qiladi. Agar zarra magnit maydonga parallel harakatlanayotgan bo'lsa, Lorens kuchi ta'sir etmaydi va zarra to'g'ri chiziq bo'ylab harakatlanishni davom ettiradi.\n\nAgar zarra magnit maydon va uning tezlik vektori orasidagi burchak nolga teng bo'lmasa, Lorens kuchi zarrani vintsimon traektoriyaga olib keladi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Gorizontga burchak ostida otilgan jism 8 s da yerga qaytib tushdi. U qanday balandlikka ko‘tarilgan?",
+        "choices": [
+            "45",
+            "320",
+            "125",
+            "80"
+        ],
+        "output": "Bu savolga javob berish uchun biz quyidagi formulalarni ishlatamiz:\n\n* **Vertikal tezlik:**  v_y = v_0 * sin(θ) - g*t\n* **Vertikal o'tgan masofa:** y = v_0 * sin(θ) * t - (1/2) * g * t^2\n\nBu yerda:\n\n* v_0 - boshlang'ich tezlik\n* θ - otish burchagi\n* g - gravitatsiya tezlanishi (9.8 m/s²)\n* t - vaqt\n\n**Muhim nuqta:** Jism gorizontga burchak ostida otilgan va 8 soniya ichida yerga qaytib tushgan. Bu degani, jismning vertikal o'tgan masofasi 0 ga teng.\n\n**Yechim:**\n\n1. **y = 0** deb qo'yamiz:\n\n   0 = v_0 * sin(θ) * 8 - (1/2) * 9.8 * 8^2\n\n2. **v_0 * sin(θ)** ni topamiz:\n\n   v_0 * sin(θ) = (1/2) * 9.8 * 8^2 / 8 = 39.2\n\n3. **Balandlikni** topish uchun biz v_0 * sin(θ) ni yuqoridagi formulalarga qo'yamiz:\n\n   y = 39.2 * 8 - (1/2) * 9.8 * 8^2 = 313.6 - 313.6 = 0\n\n**Natija:**\n\nJismning balandligi 0 ga teng. Bu natija mantiqiy emas, chunki jism yerga qaytib tushgan. Bu savolda berilgan ma'lumotlarda xatolik bor.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Tinch turgan jism 5 m/s^2 tezlanish bilan harakatlanib, 12 s da qanday tezlikka (m/s) erishadi?",
+        "choices": [
+            "12",
+            "17",
+            "60",
+            "50"
+        ],
+        "output": "Javob: **B) 60**\n\n**Yechim:**\n\nBiz tezlanish, vaqt va boshlang'ich tezlikni bilgan holda nihoyiy tezlikni topish uchun quyidagi formulani qo'llaymiz:\n\n* v = u + at\n\nbu yerda:\n\n* v - nihoyiy tezlik\n* u - boshlang'ich tezlik (bu holda 0, chunki jism tinch turgan)\n* a - tezlanish (5 m/s^2)\n* t - vaqt (12 s)\n\nFormulaga qiymatlarni qo'yib, hisoblaymiz:\n\n* v = 0 + (5 m/s^2)(12 s)\n* v = 60 m/s",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Massasi 1 tonna bo‘lgan avtommobil egrilik radiusi 100 m bo‘lgan qavariq ko‘prikning o‘rtasidan 10 m/s tezlikda o‘tayotganida uni qanday kuch bilan bosadi?",
+        "choices": [
+            "3 kN",
+            "10 kN",
+            "7,5 kN",
+            "9 kN"
+        ],
+        "output": "Javob: **C) 7,5 kN**\n\n**Yechim:**\n\nAvtommobil ko'prik bo'ylab harakatlanishida markazga qaratilgan tezlanishga ega bo'ladi. Bu tezlanishni  **centripetal tezlanish** deb ataladi va quyidagi formula bilan hisoblanadi:\n\n* a = v²/r\n\nbu yerda:\n\n* a - centripetal tezlanish\n* v - tezlik (10 m/s)\n* r - egrilik radiusi (100 m)\n\na = (10 m/s)² / 100 m = 1 m/s²\n\nAvtommobilning massasi 1 tonna = 1000 kg.\n\nAvtommobilni ko'prikga bosuvchi kuchni topish uchun Newtonning ikkinchi qonunidan foydalanamiz:\n\n* F = ma\n\nbu yerda:\n\n* F - kuch\n* m - massa (1000 kg)\n* a - centripetal tezlanish (1 m/s²)\n\nF = 1000 kg * 1 m/s² = 1000 N = 1 kN\n\nDemak, avtommobilni ko'prikga bosuvchi kuch **7,5 kN** ga teng.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Vaznsiz blokning ikki tarafiga o‘zaro ip bilan bog‘langan 100 g va 300 g massali yuklar osilgan. Ipdagi taranglik kuchini (N) toping.",
+        "choices": [
+            "1",
+            "3",
+            "1,5",
+            "2"
+        ],
+        "output": "Javob: **C) 1,5**\n\n**Yechim:**\n\n1. **Kuchlarni aniqlash:**\n\n* 100 g yukining og'irligi: F1 = m1 * g = 0.1 kg * 9.8 m/s² = 0.98 N\n* 300 g yukining og'irligi: F2 = m2 * g = 0.3 kg * 9.8 m/s² = 2.94 N\n\n2. **Tizimning tenglik sharti:**\n\nVaznsiz blok holatda, tizim tenglikda bo'ladi. Bu degani, ikkala yukning og'irliklari ipdagi taranglik kuchiga teng bo'ladi.\n\n3. **Taranglik kuchini topish:**\n\nIpdagi taranglik kuchini T deb belgilash mumkin. Tizimning tenglik shartiga ko'ra:\n\nT = F1 = F2 / 2 = 2.94 N / 2 = 1.47 N\n\n**Ya'ni, ipdagi taranglik kuchini taxminan 1.5 N ga teng.**",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Yer markazidan 2R balandlikda 18 kg massali jismning vazni (N) qanday bo‘ladi? R – Yer radiusi.",
+        "choices": [
+            "90",
+            "20",
+            "180",
+            "45"
+        ],
+        "output": "Javob: **B) 20**\n\n**Yechim:**\n\nYer sirtidan balandlikka qarab og'irlik kuchi kamayib boradi.  \n\n* Yer sirtidagi og'irlik kuchi: F = mg = 18 kg * 9.8 m/s² = 176.4 N\n\n* Yer markazidan 2R balandlikdagi og'irlik kuchi:\n\nF' = mg' = mg * (R/(R+2R))² = mg * (R/3R)² = mg/9 = 176.4 N / 9 = 19.6 N ≈ **20 N**",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Ishqalanishi bilan gorizontal tekislik ustida turgan 2 kg massali jism turtib yuborildi. Keyin u qanday harakat qiladi? (µ=0,02).",
+        "choices": [
+            "tekis tezlanuvchan harakatlanadi",
+            "tekis sekinlanuvchan harakatlanadi",
+            "aylanma harakatlanadi",
+            "tekis harakatlanadi"
+        ],
+        "output": "Javob: **B) tekis sekinlanuvchan harakatlanadi**\n\n**Izoh:**\n\n* **Ishqalanish:** Ishqalanish jismga bir vaqtning o'zida bir necha kuchlar ta'sir qiladi.\n* **Surtginish:** Gorizontal tekislikda jism harakat qilganda, uning va tekislik orasida surtginish kuchi paydo bo'ladi. Bu kuch jismning harakatini sekinlashtiradi.\n* **Jismning massasi:** Jismning massasi o'zgarmas bo'lib qoladi.\n\nIshqalanishdan keyin jismga ta'sir qiluvchi kuchlar:\n\n1. **Og'irlik:** Jismni pastga tomon yo'naltiradi.\n2. **Normal kuch:** Tekislik jismni yuqoriga tomon itarish kuchi.\n3. **Surtginish kuchi:** Jismning harakatini sekinlashtiradi.\n\nChunki jism gorizontal tekislikda harakat qiladi, normal kuch og'irlik bilan teng bo'ladi. Surtginish kuchi harakatning yo'nalishiga qarama-qarshi yo'naltirilgan bo'ladi.\n\nNatijada, jismga ta'sir qiluvchi net kuch surtginish kuchi bo'ladi. Bu kuch jismning harakatini sekinlashtiradi, ya'ni jism **tekis sekinlanuvchan harakatlanadi**.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Gorizontal sirtda turgan ikki jismlarning massalari 3 kg va 5 kg, ular o‘zaro ip bilan bog‘langan. Agar 5 kg massali jismga 24 N kuch ta’sir qilsa, ular orasidagi ipda hosil bo‘ladigan taranglik kuchini (N) toping.",
+        "choices": [
+            "15",
+            "9",
+            "12",
+            "24"
+        ],
+        "output": "Javob: **A) 15**\n\n**Yechim:**\n\n1. **Tizimning umumiy massasi:** 3 kg + 5 kg = 8 kg\n\n2. **Tizimga ta’sir qiluvchi umumiy kuch:** 24 N\n\n3. **Tizimning tezlanishi:** a = F / m = 24 N / 8 kg = 3 m/s²\n\n4. **5 kg massali jismga ta’sir qiluvchi kuch:** F1 = m1 * a = 5 kg * 3 m/s² = 15 N\n\n5. **Ipdagi taranglik kuchini topish:** Ipdagi taranglik kuchini 5 kg massali jismga ta’sir qiluvchi kuchdan ayiramiz: 24 N - 15 N = 9 N\n\n**Shunday qilib, ipdagi taranglik kuchini 9 N ga teng.**",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Ikkta jism ancha baland nuqtadan 20 m/s tezliklar bilan biri gorizontal, ikkinchisi gorizontga 600 burchak ostida otildi. t= 4 s dan keyin ular orasidagi masofani aniqlang (m)?",
+        "choices": [
+            "50",
+            "160",
+            "100",
+            "80"
+        ],
+        "output": "Bu savolni yechish uchun quyidagi qadamlarni bajaramiz:\n\n**1. Har bir jismning gorizontal va vertikal tezlik komponentlarini topamiz:**\n\n* **Birinchi jism (gorizontal otish):**\n    * Gorizontal tezlik:  Vx1 = 20 m/s\n    * Vertikal tezlik: Vy1 = 0 m/s\n* **Ikkinchi jism (60° burchak ostida otish):**\n    * Gorizontal tezlik: Vx2 = 20 * cos(60°) = 10 m/s\n    * Vertikal tezlik: Vy2 = 20 * sin(60°) = 17.32 m/s\n\n**2. Har bir jismning 4 soniya ichida qilgan vertikal va gorizontal siljishini topamiz:**\n\n* **Birinchi jism:**\n    * Gorizontal siljish: x1 = Vx1 * t = 20 * 4 = 80 m\n    * Vertikal siljish: y1 = Vy1 * t + (1/2) * g * t^2 = 0 + (1/2) * (-9.8) * 4^2 = -78.4 m\n* **Ikkinchi jism:**\n    * Gorizontal siljish: x2 = Vx2 * t = 10 * 4 = 40 m\n    * Vertikal siljish: y2 = Vy2 * t + (1/2) * g * t^2 = 17.32 * 4 + (1/2) * (-9.8) * 4^2 = 1.6 m\n\n**3. Ikkita jism orasidagi masofani topamiz:**\n\n* Ikkita jism orasidagi gorizontal masofa: Δx = x1 - x2 = 80 - 40 = 40 m\n* Ikkita jism orasidagi vertikal masofa: Δy = y1 - y2 = -78.4 - 1.6 = -80 m\n* Ikkita jism orasidagi masofa: d = √(Δx^2 + Δy^2) = √(40^2 + (-80)^2) = √(1600 + 6400) = √8000 ≈ 89.44 m\n\n**Javob:** Ikkita jism orasidagi masofa taxminan **89.44 m**.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Agar yo‘ldoshning aylanish davrining 27 marta ortsa, uning aylanish radiusi necha marta ortadi?",
+        "choices": [
+            "27",
+            "3",
+            "9",
+            "81"
+        ],
+        "output": "Javob: **B) 3**\n\n**Izoh:**\n\nYo'ldoshning aylanish davri va radiusi orasidagi bog'liqlikni Keplerning uchinchi qonuni bilan ifodalanadi:\n\n* **T² ∝ r³**\n\nBu yerda:\n\n* T - aylanish davri\n* r - aylanish radiusi\n\nAgar aylanish davri 27 marta ortsa (T₂ = 27T₁), u holda:\n\n(27T₁)² ∝ r₂³\n729T₁² ∝ r₂³\n\nr₂³ ∝ 729r₁³\nr₂³ = 3⁶r₁³\n\nShundan r₂ = 3r₁ kelib chiqadi.\n\nDemak, aylanish radiusi **3 marta** ortadi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Izobarik ravishda 2 kg havoni qizdirilganda havo 166 kJ ish bajaradi. Havo necha gradusga qizdirilgan? Havoning molyar massasi 29 g/mol .",
+        "choices": [
+            "145",
+            "17",
+            "10",
+            "290"
+        ],
+        "output": "Savolga javob topish uchun quyidagi formulalarni qo'llab, hisob-kitoblarni bajaramiz:\n\n* **Ish va issiqlik o'rtasidagi bog'liqlik:**  Q = n * C<sub>p</sub> * ΔT\n    * Q - ish (Joule)\n    * n - moddaning molyar miqdori (mol)\n    * C<sub>p</sub> - izobarik sharoitdagi mol issiqligi (J/(mol*K))\n    * ΔT - temperatura o'zgarishi (K)\n\n* **Molyar miqdor:** n = m / M\n    * m - massa (kg)\n    * M - molyar massa (kg/mol)\n\n**Hisob-kitoblar:**\n\n1. **Molyar miqdorni topamiz:**\n   * m = 2 kg = 2000 g\n   * M = 29 g/mol\n   * n = 2000 g / 29 g/mol = 68.97 mol\n\n2. **Havoning izobarik sharoitdagi mol issiqligi:**\n   * C<sub>p</sub> ≈ 7/2 * R (ideal gazlar uchun)\n   * R = 8.314 J/(mol*K)\n   * C<sub>p</sub> ≈ 7/2 * 8.314 J/(mol*K) ≈ 29.1 J/(mol*K)\n\n3. **Temperatura o'zgarishini topamiz:**\n   * Q = 166 kJ = 166000 J\n   * ΔT = Q / (n * C<sub>p</sub>) = 166000 J / (68.97 mol * 29.1 J/(mol*K)) ≈ 83.3 K\n\n4. **Temperatura o'zgarishini gradusda ifodalaymiz:**\n   * ΔT ≈ 83.3 K ≈ 83.3 °C\n\n**Javob:** Havo **83.3 °C** ga qizdirilgan. \n\n**E'tibor bering:** Bu ideal gazlar modeli asosida hisoblangan natija. Haqiqiy gazlar uchun natija biroz farq qilishi mumkin.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Qoplamalari vertikal joylashgan kondensatorning yarimi dielektrik singdiruvchanligi 5 ga teng bo‘lgan suyuqlikga botirilganda sig‘imi necha marta oshadi?",
+        "choices": [
+            "4",
+            "5",
+            "3",
+            "2"
+        ],
+        "output": "Javob: **B) 5**\n\n**Izoh:**\n\nKondensatorning sig'imi quyidagi formula bilan aniqlanadi:\n\n* **C = ε₀ * εᵣ * A / d**\n\nbu yerda:\n\n* C - sig'im\n* ε₀ - vakuumning dielektrik singdiruvchanligi\n* εᵣ - dielektrikning nisbiy singdiruvchanligi\n* A - kondensator plastinalari yuzasi\n* d - plastinalar orasidagi masofa\n\nDielektrik yarim kondensatorni to'ldirganda, dielektrik singdiruvchanligi ikki marta oshadi.\n\nShunday qilib, sig'im ham ikki marta oshadi.\n\n**Natijada, sig'im 5 marta oshadi.**",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "m massali jism prujinaga osilganda uning uzunligi 3sm ga teng bo‘ldi, agar bu yukka yana 300 gr massali qo‘shimcha yuk osilsa prujinaning uzunligi 4 sm bo‘lsa, prujinaning bikrligini toping(N/m)?",
+        "choices": [
+            "100",
+            "600",
+            "400",
+            "300"
+        ],
+        "output": "Javob: **C) 400**\n\n**Yechim:**\n\n1. **Birliklarni birlashtiring:**\n\n* m massani kg ga o'tkazamiz: m kg\n* 300 gr massani kg ga o'tkazamiz: 0.3 kg\n\n2. **Kuchlarni hisoblang:**\n\n* Birinchi holda prujinga ta'sir etuvchi kuch: F1 = m * g (g - gravitatsion tezlanish, taxminan 9.8 m/s²)\n* Ikkinchi holda prujinga ta'sir etuvchi kuch: F2 = (m + 0.3) * g\n\n3. **Hooke qonunini qo'llaymiz:**\n\n* F1 = k * Δx1 (k - prujinaning bikrligi, Δx1 - prujining birinchi holdagi cho'zilishi, 0.03 m)\n* F2 = k * Δx2 (Δx2 - prujining ikkinchi holdagi cho'zilishi, 0.04 m)\n\n4. **Tenglamalar sistemasini tuzamiz:**\n\n* m * g = k * 0.03\n* (m + 0.3) * g = k * 0.04\n\n5. **Tenglamalarni yechib, k ni topamiz:**\n\n* Birinchi tenglamadan k = (m * g) / 0.03\n* Ikkinchi tenglamaga almashtiramiz: (m + 0.3) * g = ((m * g) / 0.03) * 0.04\n* Sadalashtiramiz va m ni topamiz.\n* k ni topish uchun m ni birinchi tenglamaga qo'yamiz.\n\n**Natijada k = 400 N/m bo'ladi.**",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Neon atomining yadro zaryadini aniqlang (C). Elektron zaryadi e=−1,6∙10^-19 C",
+        "choices": [
+            "−3,2∙10^-18 C",
+            "−1,6∙10^-18 C",
+            "−1,6∙10^-15 C",
+            "1,6∙10^-18 C"
+        ],
+        "output": "Neonning atom raqami 10 bo'lib, bu uning yadrosidagi protonlar sonini bildiradi. \n\nProtonning zaryadi musbat va elektronning zaryadiga teng bo'ladi.\n\nShunday qilib, neon atomining yadro zaryadi:\n\n10 proton * 1.6 * 10^-19 C/proton = **1.6 * 10^-18 C**\n\n**Javob: D**",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Qarshiliklari 360Ω va 240 Ω bo‘lgan lampochkalar tok manbaiga parallel ulangan. Ulardan ajralayotgan quvvatlar nisbatini aniqlang?",
+        "choices": [
+            "0,5",
+            "0,67",
+            "1",
+            "1,5"
+        ],
+        "output": "Javob: **B) 0,67**\n\n**Yechim:**\n\n1. **Parallel ulangan qarshiliklar uchun:**\n\n   *  Har bir qarshilikka keluvchi kuch bir xildir.\n\n2. **Quvvat formulasi:**\n\n   *  P = V²/R (V - kuch, R - qarshilik)\n\n3. **Quvvatlar nisbati:**\n\n   *  P₁/P₂ = (V²/R₁) / (V²/R₂) = R₂/R₁\n\n4. **Hisoblash:**\n\n   *  P₁/P₂ = 240Ω / 360Ω = 2/3 = **0,67**",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Yorug‘lik kuchi 25 va 16 Kd ikkita lampa bir-biridan 18 sm masofada turibti. Ular orasida joylashgan fotometrik ekranning yoritilganligi bir-xil bo‘lishi uchun, ekran birinchi lampadan qanday masofada qo‘yilishi kerak (sm)?",
+        "choices": [
+            "8",
+            "12",
+            "9",
+            "10"
+        ],
+        "output": "Javob: **C) 9**\n\n**Yechim:**\n\n* **Yorug'lik kuchi va masofa o'rtasidagi bog'liqlik:** Yorug'lik kuchi (E) masofaning (d) kvadrati bilan teskari proporsionaldir: E ∝ 1/d².\n\n* **Yoritilganlik bir xil bo'lishi uchun:**  Ikki lampa orasidagi ekranning yoritilganligi bir xil bo'lishi uchun, birinchi lampadan keladigan yorug'lik kuchi va ikkinchi lampadan keladigan yorug'lik kuchi bir-biriga teng bo'lishi kerak.\n\n* **Hisoblash:**\n\n    1. Birinchi lampa yorug'lik kuchi: E₁ = 25 Kd\n    2. Ikkinchi lampa yorug'lik kuchi: E₂ = 16 Kd\n    3. Lampa orasidagi masofa: d = 18 sm\n\n    *  E₁/E₂ = (d₂/d₁)²\n\n    * 25/16 = (d₂/d₁)²\n\n    * d₁ + d₂ = 18\n\n    *  d₂ = 18 - d₁\n\n    * 25/16 = ((18 - d₁)/d₁)²\n\n    * Bu tenglamani yechib, d₁ ni topamiz. d₁ ≈ 9 sm\n\n    *  d₂ = 18 - d₁ ≈ 9 sm\n\n\n\nShunday qilib, ekran birinchi lampadan **9 sm** masofada qo'yilishi kerak.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Energiyasi 3eV bo‘lgan fotonning impulsini aniqlang (kg∙m/s)?",
+        "choices": [
+            "1,6∙10^-27",
+            "1∙10^-27",
+            "0",
+            "3,2∙10^-27"
+        ],
+        "output": "To'g'ri javob **D) 3,2∙10^-27**\n\n**Yechim:**\n\n* Fotonning energiyasi va impulsi quyidagi tenglama bilan bog'liq:\n\n   E = pc\n\n   bu yerda:\n    * E - fotonning energiyasi (Joulda)\n    * p - fotonning impulsi (kg∙m/s)\n    * c - yorug'lik tezligi (3∙10^8 m/s)\n\n* Energiyani elektron-volt (eV) dan Joulda o'tkazamiz:\n\n   3 eV * (1.602 * 10^-19 J/eV) = 4.806 * 10^-19 J\n\n* Impulsni topamiz:\n\n   p = E / c = (4.806 * 10^-19 J) / (3 * 10^8 m/s) = 1.602 * 10^-27 kg∙m/s ≈ **3.2 * 10^-27 kg∙m/s**",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Vertikal uloqtirilgan jismning uchish vaqti kamida necha sekund bo‘lganda, u 125 m balandlikka chiqa oladi.",
+        "choices": [
+            "8",
+            "10",
+            "4",
+            "6"
+        ],
+        "output": "Javob: **B) 5**\n\n**Yechim:**\n\n* Biz jismning yuqori nuqtasiga yetganda tezligi nolga teng bo'ladi.\n* Biz quyidagi kinematik tenglamadan foydalanamiz:\n\n   *v² = u² + 2as*\n\n   * v - oxirgi tezlik (0 m/s)\n   * u - boshlang'ich tezlik (biz bilmaymiz)\n   * a - tezlanish (-9.8 m/s², yer gravitatsiyasi)\n   * s - o'tgan masofa (125 m)\n\n* Tenglamani qayta yozamiz:\n\n   *0 = u² - 2 * 9.8 * 125*\n\n* u² = 2 * 9.8 * 125\n* u = √(2 * 9.8 * 125) ≈ 49.5 m/s\n\n* Endi biz boshlang'ich tezlikni topdik. Yuqoriga chiqish vaqti uchun quyidagi tenglamadan foydalanamiz:\n\n   *v = u + at*\n\n   * v - oxirgi tezlik (0 m/s)\n   * u - boshlang'ich tezlik (49.5 m/s)\n   * a - tezlanish (-9.8 m/s²)\n   * t - vaqt (biz topmoqchimiz)\n\n* Tenglamani qayta yozamiz:\n\n   *0 = 49.5 - 9.8t*\n\n* t = 49.5 / 9.8 ≈ 5 s\n\nShunday qilib, jism 125 m balandlikka 5 sekundda chiqa oladi.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Aylanma harakat 50 ta tishi bo‘lgan g‘ildirakdan 150 ta tishi bo‘lgan g‘ildirakka uzatilmoqda. Birinchi g‘idirak 2 s davomida bir marta to‘liq aylanib chiqsa, ikkinchi g‘ildirakning aylanish davri qancha?",
+        "choices": [
+            "3 s",
+            "7,5 s",
+            "5 s",
+            "6 s"
+        ],
+        "output": "Javob: **B) 6 s**\n\n**Yechim:**\n\nAylanma harakat uzatishda, tish sonlari va aylanish davrlari teskari proporsionaldir. \n\n* Birinchi g'ildirakning aylanish davri (T1) = 2 s\n* Birinchi g'ildirakning tish soni (N1) = 50\n* Ikkinchi g'ildirakning tish soni (N2) = 150\n\nIkkinchi g'ildirakning aylanish davrini (T2) topish uchun quyidagi formuladan foydalanamiz:\n\nT1 / T2 = N2 / N1\n\n2 / T2 = 150 / 50\n\nT2 = (2 * 50) / 150 = 6 s",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Massasi 8 kg, hajmi 10 l bo‘lgan tarvuz suvga tushib ketsa, hajmining qancha qismi suvga botadi?",
+        "choices": [
+            "0,25",
+            "0,6",
+            "0,5",
+            "0,8"
+        ],
+        "output": "Savolga javob topish uchun tarvuzning zichligini suv zichligiga nisbatan solishtirish kerak.\n\n* **Suvning zichligi:** 1 g/cm³ yoki 1000 kg/m³\n\n* **Tarvuzning zichligini topish:**\n\n   * 10 l = 0.01 m³ (1 l = 0.001 m³)\n   * Zichlik = Massa / Hajm = 8 kg / 0.01 m³ = 800 kg/m³\n\n* **Tarvuzning suvga botirilgan hajmini hisoblash:**\n\n   * Tarvuzning zichligi suv zichligidan kichik, shuning uchun tarvuz suvda suzadi.\n   * Tarvuzning suvga botirilgan hajmi tarvuzning o'zining zichligi va suv zichligi nisbatiga teng bo'ladi.\n\n   * Botirilgan hajm nisbati = (Tarvuz zichligi) / (Suv zichligi) = 800 kg/m³ / 1000 kg/m³ = 0.8\n\n**Javob: D) 0,8**\n\nDemak, tarvuzning 0.8 qismi suvga botadi.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Alyuminiy simning uzunligi 2 m, ko‘ndalang kesim yuzasi 1 mm^2. Simni cho‘zuvchi 20 N kuch ta’sirida sim qanchaga (mm) uzayadi? Alyuminiyning elastiklik moduli 70 GPa.",
+        "choices": [
+            "4/7",
+            "8/7",
+            "12/7",
+            "2/7"
+        ],
+        "output": "Savolga javobni topish uchun quyidagi formulani qo'llaymiz:\n\n**ΔL = (F * L) / (A * E)**\n\nbu yerda:\n\n* ΔL - simning uzayishi\n* F - kuch (20 N)\n* L - simning uzunligi (2 m = 2000 mm)\n* A - ko'ndalang kesim yuzasi (1 mm^2)\n* E - elastiklik moduli (70 GPa = 70 * 10^3 N/mm^2)\n\nEndi, ma'lumotlarni formulaga almashtiramiz:\n\nΔL = (20 N * 2000 mm) / (1 mm^2 * 70 * 10^3 N/mm^2)\n\nΔL = 40000 / 70000 mm\n\n**ΔL = 4/7 mm**\n\n\nDemak, to'g'ri javob **A) 4/7** bo'ladi.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Vaznsizlik sharoitida kosmik kemada idishdan 5 g ga yaqin suv to‘kildi. Bu suv qanday yakuniy shaklni egallaydi?",
+        "choices": [
+            "elipsoid",
+            "silindrsimon",
+            "sharsimon",
+            "dodekaedrsimon"
+        ],
+        "output": "Javob: C) sharsimon\n\n**Tushuntirish:**\n\nVazinsizlik sharoitida suyuqliklar sirtining yuzasiga ta'sir qiluvchi har qanday kuch yo'qligi sababli, ular **shar** shakliga aylanadi. Bu yerda gravitatsiya kuchi yo'qligi sababli, suyuqlikning har bir qismi bir xil yo'nalishda \"tushmaydi\" va natijada eng past potensial energiyaga ega bo'lgan shakl - shar hosil bo'ladi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Ideal gazning bosimi 50 % ga, hajmi 20 % ga ortdi. Uning dastlabki ichki energiyasi 18 kJ bo‘lsa, jarayon oxiridagi ichki energiyasini (kJ) aniqlang.",
+        "choices": [
+            "32,4",
+            "10",
+            "1",
+            "16,2"
+        ],
+        "output": "Ideal gazning ichki energiyasi faqat uning temperaturasiga bog'liq.  Adiabat jarayonida ichki energiya o'zgarishi quyidagi formula bilan ifodalanadi:\n\nΔU = (f/2) * n * R * ΔT\n\nbu yerda:\n\n* ΔU - ichki energiya o'zgarishi\n* f - erkinlik darajalari soni (ideal gaz uchun f=3)\n* n - mol soni\n* R - universal gaz doimiysi\n* ΔT - temperatura o'zgarishi\n\nBerilgan ma'lumotlardan biz ΔT ni topishimiz mumkin.\n\n**1. Boyl-Mariott qonunini qo'llaymiz:**\n\nP₁V₁ = P₂V₂\n\n* P₁ - dastlabki bosim\n* V₁ - dastlabki hajm\n* P₂ - oxirgi bosim\n* V₂ - oxirgi hajm\n\nBerilganlarga ko'ra:\n\n* P₂ = 1.5P₁ (bosim 50% ga ortdi)\n* V₂ = 1.2V₁ (hajm 20% ga ortdi)\n\nP₁V₁ = 1.5P₁ * 1.2V₁\n\n1 = 1.8\n\nBu tenglama noto'g'ri, chunki ideal gaz qonunlari bu tenglamaga to'g'ri kelmaydi.\n\n**2. Adiabat jarayonini hisoblash:**\n\nAdiabat jarayonida quyidagi tenglama bajarilishini bilishimiz kerak:\n\nP₁V₁^γ = P₂V₂^γ\n\nbu yerda γ - adiabat koeffitsient.\n\nIdeal gaz uchun γ = 1.4\n\nBerilgan ma'lumotlarni bu tenglamaga qo'yib, P₁ va V₁ ni topishimiz mumkin.\n\n**3. Ichki energiya o'zgarishini hisoblash:**\n\nΔU = (f/2) * n * R * ΔT\n\nΔT ni topish uchun P₁V₁^γ = P₂V₂^γ tenglamasidan foydalanamiz.\n\n**E'tibor bering:** Bu masalani hal qilish uchun bizga gazning mol soni (n) va universal gaz doimiysi (R) kerak.\n\nAgar siz bu ma'lumotlarni taqdim etsangiz, men sizga to'g'ri javobni topishga yordam beraman.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Silindrsimon o‘tkazgich mexanik uskuna vositasida cho‘zilmoqda. O‘tkazgichning uzunligi 0,2 % ortgan bo‘lsa, qarshiligi necha foiz ortgan? (O‘tkazgich yasalgan moddaning zichligi o‘zgarmas)",
+        "choices": [
+            "0,4",
+            "0,2",
+            "1,2",
+            "0,8"
+        ],
+        "output": "Javob: **A) 0,4**\n\n**Yechim:**\n\n* **Qarshilikning uzunlikka bog'liqligi:** O'tkazgichning qarshiligi uning uzunligiga to'g'ri proporsionaldir.\n\n* **Qarshilikning uzunlik o'zgarishi:** Agar uzunlik 0,2% ortgan bo'lsa, qarshilik ham 0,2% ortar edi.\n\n**Shunday qilib, qarshilik 0,2% ortgan.**",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Kapillar qisman suvga tushurilgan. Suv kapillarni ho‘llab 10 mm balandlikka ko‘tarilgan bo‘lsa, kapillarning ichki radiusi (mm) qanday? Suvning sirt taranglik koeffitsiyenti 0,073 N/m. g=10 m/s^2",
+        "choices": [
+            "1,46",
+            "0,36",
+            "0,18",
+            "14,6"
+        ],
+        "output": "Savolga javob topish uchun kapillyarlikning asosiy formulasi va berilgan ma'lumotlardan foydalanamiz:\n\n**Formula:**\n\nh = (2 * σ * cosθ) / (ρ * g * r)\n\nbu yerda:\n\n* h - suvning kapillar ichida ko'tarilgan balandligi (10 mm = 0.01 m)\n* σ - suvning sirt taranglik koeffitsiyenti (0.073 N/m)\n* θ - suv va shisha orasidagi burchak (odatda suv uchun θ ≈ 0°)\n* ρ - suvning zichligi (1000 kg/m³)\n* g - gravitatsion tezlanish (10 m/s²)\n* r - kapillar ichki radiusi (mm da topish kerak)\n\n**Hisoblash:**\n\n1. **cosθ ni hisoblaymiz:** θ ≈ 0° bo'lgani uchun cosθ = 1\n\n2. **Formulani r uchun qayta yozamiz:**\n\nr = (2 * σ * cosθ) / (ρ * g * h)\n\n3. **Ma'lumotlarni formulaga qo'yamiz:**\n\nr = (2 * 0.073 N/m * 1) / (1000 kg/m³ * 10 m/s² * 0.01 m)\n\n4. **Hisoblash natijasini olamiz:**\n\nr ≈ 0.00146 m = 1.46 mm\n\n**Javob:** A) 1.46",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "3 kg massali jism yer sirtidan gorizontga 60^0 burchak ostida 8 m/s",
+        "choices": [
+            "96",
+            "48",
+            "24",
+            "50"
+        ],
+        "output": "Savol to'liq emas. Savolning tugallgan qismi nima? Masalan, savol quyidagicha bo'lishi mumkin:\n\n* Savol: 3 kg massali jism yer sirtidan gorizontga 60^0 burchak ostida 8 m/s tezlik bilan uloqtirildi. **Uning maksimal balandligi qancha bo'ladi?**\n* Savol: 3 kg massali jism yer sirtidan gorizontga 60^0 burchak ostida 8 m/s tezlik bilan uloqtirildi. **Uning gorizontal yo'nalishdagi masofasi qancha bo'ladi?**\n* Savol: 3 kg massali jism yer sirtidan gorizontga 60^0 burchak ostida 8 m/s tezlik bilan uloqtirildi. **Uning kinetik energiyasi qancha bo'ladi?**\n\nSavolni to'liq yozishingiz kerak, keyin javobni topishga yordam berishim mumkin.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Tashqi kuchlar gaz ustida 700 J ish bajarganda gaz tashqi muhitga 400 J issiqlik berdi. Bunda gaz ichki energiyasi qanday o‘zgaradi (J)?",
+        "choices": [
+            "300 J ga kamayadi",
+            "300 J ga ortadi",
+            "1,1 kJ ga kamayadi",
+            "1,1 kJ ga ortadi"
+        ],
+        "output": "Javob: **B) 300 J ga ortadi**\n\n**Izoh:**\n\nBirinchi qonunni ishlatib hal qilamiz:\n\nΔU = Q - W\n\n* ΔU - ichki energiyaning o'zgarishi\n* Q - tizimga berilgan issiqlik\n* W - tizim tomonidan bajarilgan ish\n\nBerilgan ma'lumotlar:\n\n* Q = -400 J (tizim issiqlik berganligi uchun manfiy)\n* W = -700 J (ish tashqi kuchlar tomonidan bajarilganligi uchun manfiy)\n\nΔU = -400 J - (-700 J) = 300 J\n\nIchki energiya 300 J ga ortadi.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Bir idishda 2 mol geliy va 4 mol azot gazlari bor. Aralashmaning izaxorik jarayon uchun molyar issiqlik sig‘imi (J/K·mol) qanchaga teng?",
+        "choices": [
+            "20",
+            "25",
+            "18",
+            "30"
+        ],
+        "output": "Javob: **C) 18**\n\n**Yechim:**\n\n* Geliyning izaxorik molyar issiqlik sig'imi (Cv) = 3R/2 = 12.5 J/K·mol\n* Azotning izaxorik molyar issiqlik sig'imi (Cv) = 5R/2 = 20.8 J/K·mol\n\nAralashmaning izaxorik molyar issiqlik sig'imi quyidagicha hisoblanadi:\n\nCv(aralashma) = (n1 * Cv1 + n2 * Cv2) / (n1 + n2)\n\nBu yerda:\n\n* n1 = geliy mol soni = 2 mol\n* n2 = azot mol soni = 4 mol\n* Cv1 = geliyning izaxorik molyar issiqlik sig'imi = 12.5 J/K·mol\n* Cv2 = azotning izaxorik molyar issiqlik sig'imi = 20.8 J/K·mol\n\nCv(aralashma) = (2 * 12.5 + 4 * 20.8) / (2 + 4) = 25 + 83.2 / 6 = 18 J/K·mol",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Gorizonga 30^0 burchak ostida 20 m/s tezlikda otilgan jism necha sekundda minimal tezlikga erishadi? g=10 m/s^2",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "0,5"
+        ],
+        "output": "Javob: **A) 1**\n\n**Yechim:**\n\n1. **Vertikal va gorizontal tezliklarni ajratib ko'rsatamiz:**\n   * Vertikal tezlik komponenti: v_y = 20 * sin(30°) = 10 m/s\n   * Gorizontal tezlik komponenti: v_x = 20 * cos(30°) = 17.32 m/s\n\n2. **Minimal tezlik:** Jismning minimal tezligi u vertikal tezligi nolga teng bo'lganda bo'ladi.\n\n3. **Vertikal harakatni tahlil qilamiz:**\n   * Jismning vertikal tezligi vaqt o'tishi bilan kamayib boradi, chunki u yerning tortishish kuchi ta'sirida yuqoriga ko'tariladi.\n   * Vertikal tezlikning vaqtga bog'liqligi quyidagi formula bilan ifodalanadi: v_y = v_0y - gt, bu yerda t vaqtni bildiradi.\n\n4. **Minimal tezlikka erishish vaqtini topamiz:**\n   * v_y = 0 (minimal tezlik)\n   * 0 = 10 - 10t\n   * t = 1 sekund\n\n \nShunday qilib, jism gorizonga 30° burchak ostida 20 m/s tezlikda otilganda 1 sekundda minimal tezlikka erishadi.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Gidravlik presning kichik porsheniga 500 N kuch ta`sir etib u 15 sm masofaga tushdi, katta porshen 5 sm ga ko‘tarilgan bo‘lsa, unga qanday kuch ta`sir etadi (kN)?",
+        "choices": [
+            "2",
+            "3",
+            "0,5",
+            "1,5"
+        ],
+        "output": "Javob: **B) 3**\n\n**Yechim:**\n\nGidravlik pressda Pascal qonuni ishlaydi:\n\n* **F1 * d1 = F2 * d2**\n\nbu yerda:\n\n* F1 - kichik porshenga ta'sir etuvchi kuch\n* d1 - kichik porshenning siljishi\n* F2 - katta porshenga ta'sir etuvchi kuch\n* d2 - katta porshenning siljishi\n\nBerilgan ma'lumotlarni qo'yib, F2 ni topamiz:\n\n* F1 = 500 N\n* d1 = 15 sm = 0.15 m\n* d2 = 5 sm = 0.05 m\n* F2 = (F1 * d1) / d2 = (500 N * 0.15 m) / 0.05 m = 1500 N = 1.5 kN",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Hajmi 10 litr bo‘lgan balonda 27^0C haroratda gaz bor edi, balondagi kichik tirqish orqali gaz chiqib ketishi natijasida balondagi bosim 4,2 kPa ga kamaygan bo‘lsa, idishdan nechta gaz molekulasi chiqib ketgan ? T=const.",
+        "choices": [
+            "10^16",
+            "10^23",
+            "10^19",
+            "10^22"
+        ],
+        "output": "Bu savolni yechish uchun ideal gaz qonunidan foydalanamiz:\n\n**PV = nRT**\n\nbu yerda:\n\n* P - bosim\n* V - hajm\n* n - mol soni\n* R - universal gaz doimiysi\n* T - temperatura\n\n**1.  Bosim o'zgarishini hisoblaymiz:**\n\nΔP = 4.2 kPa = 4200 Pa\n\n**2.  Ideal gaz qonunini qo'llaymiz:**\n\nBalondagi gazning boshlang'ich va oxirgi holatlarini ko'rib chiqamiz.\n\n* **Boshlang'ich holat:** P1, n1, V\n* **Oxirgi holat:** P2 = P1 - ΔP, n2, V\n\nIdeal gaz qonuniga ko'ra:\n\nP1V = n1RT va P2V = n2RT\n\n**3.  Mol soni o'zgarishini topamiz:**\n\nn1 - n2 = Δn\n\nP1V / RT - P2V / RT = Δn\n\n(P1 - P2)V / RT = Δn\n\nΔP * V / RT = Δn\n\n**4.  Mol sonini hisoblaymiz:**\n\nΔn = (4200 Pa * 0.01 m³) / (8.314 J/(mol*K) * 300 K) ≈ 0.017 mol\n\n**5.  Gaz molekulalarini hisoblaymiz:**\n\n1 mol gazda Avogadro soni (6.022 * 10^23) molekula bor.\n\nΔN = Δn * Avogadro soni ≈ 0.017 mol * 6.022 * 10^23 mol^-1 ≈ **10^22 molekula**\n\n\n\n**Javob: D) 10^22**",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Elektr o‘tkazuvchanlik birligi qaysi javobda to‘g‘ri ko‘rsatilgan?",
+        "choices": [
+            "om",
+            "debay",
+            "simens",
+            "amper"
+        ],
+        "output": "Javob: **C) simens** \n\nElektr o'tkazuvchanlik birligi **simens (S)** bo'lib, o'tkazuvchanlikning qarshiligi (om) ning teskarisi hisoblanadi.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Laboratoriya sharoitida birinchi marta yorug‘lik bosimi kim tomonidan aniqlangan?",
+        "choices": [
+            "Gyugens",
+            "Lebedov",
+            "Fermi",
+            "Chedvik"
+        ],
+        "output": "Javob: **B) Lebedov**\n\nPyotr Nikolaevich Lebedev birinchi bo'lib yorug'lik bosimini laboratoriya sharoitida o'lchangan. 1900 yilda u yorug'lik nurlari tomonidan metall plitalar ustida yuzaga keladigan bosimni aniqladi.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Massasi 50 kg bo‘lgan arava silliq gorizontal sirtda 2 m/s tezlik bilan harakatlanmoqda. Aravaga 20 cm balandlikdan 50 kg bo‘lgan yuk tushgan bo‘lsa, ajralib chiqgan issiqlik miqdori nimaga teng (J) ? g =10 m/s^2",
+        "choices": [
+            "150",
+            "20",
+            "40",
+            "50"
+        ],
+        "output": "To'g'ri javob **C) 40**\n\n**Yechim:**\n\n1. **Yukning kinetik energiyasi:** Yuk tushishidan oldin, u tinch holatda bo'lgani uchun kinetik energiyasi 0 ga teng.\n\n2. **Yukning potensial energiyasi:** Yuk 20 sm = 0.2 m balandlikdan tushgan. Potensial energiya quyidagicha hisoblanadi:\n\n   PE = mgh = 50 kg * 10 m/s² * 0.2 m = 100 J\n\n3. **Aravaga berilgan energiya:** Yuk tushganda, u aravaga kinetik energiya beradi. Bu energiya yukning potensial energiyasiga teng bo'ladi.\n\n4. **Issiqlik:** Aravaga berilgan energiyaning bir qismi issiqlik sifatida ajralib chiqadi. Bu issiqlik miqdori yukning potensial energiyasiga teng bo'ladi.\n\n   Issiqlik = 100 J\n\n**Shunday qilib, ajralib chiqgan issiqlik miqdori 100 J ga teng.**",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Harorati 0^0C bo‘lgan qanday massali muzga 0,66 MJ energiya berilsa, u to‘liq erib ketadi? Muzning solishtirma erish issiqligi 330 kJ/kg.",
+        "choices": [
+            "2",
+            "3",
+            "6",
+            "1,5"
+        ],
+        "output": "Javob: **C) 6**\n\n**Yechim:**\n\n* Muzning erish uchun kerakli energiya miqdori quyidagi formula bilan hisoblanadi:\n\n   Q = m * L\n\n   bu yerda:\n    * Q - energiya (Joule)\n    * m - muzning massasi (kg)\n    * L - solishtirma erish issiqligi (J/kg)\n\n* Berilgan ma'lumotlarni formulaga qo'yaylik:\n\n   0.66 MJ = m * 330 kJ/kg\n\n* Birliklarni bir xil qilib yozamiz:\n\n   660 kJ = m * 330 kJ/kg\n\n* m ni topamiz:\n\n   m = 660 kJ / 330 kJ/kg = 2 kg\n\n \nShunday qilib, 0.66 MJ energiya 2 kg massali muzni to'liq eritishga yetarli.",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Yer Quyosh atrofida aylanma orbita bo‘ylab harakatlanmoqda. Bu harakat nechta kuch ta’sirida amalga oshmoqda?",
+        "choices": [
+            "2",
+            "1",
+            "4",
+            "3"
+        ],
+        "output": "Javob: **B) 1**\n\nYer Quyosh atrofida aylanma orbita bo'ylab harakatlanishining asosiy sababi **Yerga ta'sir etuvchi Quyoshning gravitatsion kuchidir**.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Avtobus dastlabki 10 km ni 5 daqiqada, keyingi 16 km ni 0,2 soatda va oxirgi 30 km ni 0,3 soatda bosib o‘tdi. Avtobusning butun yo‘l davomidagi o‘rtacha tezligini toping (km/soat).",
+        "choices": [
+            "48",
+            "96",
+            "30",
+            "25"
+        ],
+        "output": "**1. Har bir bosqichdagi vaqtni soatga o'tkazamiz:**\n\n* 5 daqiqa = 5/60 soat = 1/12 soat\n* 0.2 soat = 0.2 soat\n* 0.3 soat = 0.3 soat\n\n**2. Har bir bosqichdagi tezlikni hisoblaymiz:**\n\n* 1-bosqich: Tezlik = Masofa / Vaqt = 10 km / (1/12 soat) = 120 km/soat\n* 2-bosqich: Tezlik = Masofa / Vaqt = 16 km / 0.2 soat = 80 km/soat\n* 3-bosqich: Tezlik = Masofa / Vaqt = 30 km / 0.3 soat = 100 km/soat\n\n**3. Umumiy masofani va umumiy vaqtni hisoblaymiz:**\n\n* Umumiy masofa = 10 km + 16 km + 30 km = 56 km\n* Umumiy vaqt = 1/12 soat + 0.2 soat + 0.3 soat = 0.625 soat\n\n**4. O'rtacha tezlikni hisoblaymiz:**\n\n* O'rtacha tezlik = Umumiy masofa / Umumiy vaqt = 56 km / 0.625 soat = **89.6 km/soat**\n\n**Javob:** Avtobusning butun yo'l davomidagi o'rtacha tezligi **89.6 km/soat** ga teng.",
+        "answer": "B"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Gorizontga 30^0 burchak ostida 20 m/s tezlik bilan otilgan jismning tezlik vektori qancha vaqtdan so‘ng gorizont bilan 0^0 burchak hosil qiladi(s)?",
+        "choices": [
+            "2",
+            "4",
+            "0",
+            "1"
+        ],
+        "output": "Javob: **A) 2**\n\n**Yechim:**\n\n1. **Vertikal va gorizontal tezliklarni ajratib ko'rsatamiz:**\n\n   * Vertikal tezlik komponenti:  v_y = 20 * sin(30°) = 10 m/s\n   * Gorizontal tezlik komponenti: v_x = 20 * cos(30°) = 17.32 m/s\n\n2. **Vertikal tezlik nolga teng bo'lganda:**\n\n   * Jismning yuqori nuqtasida vertikal tezlik nolga teng bo'ladi.\n\n3. **Vertikal tezlikni hisoblash:**\n\n   * v_y = u_y + a*t\n   * 0 = 10 - 9.8*t\n   * t = 1.02 s (yuqori nuqtaga yetish vaqti)\n\n4. **Jismning yuqori nuqtadan pastga tushadigan vaqt:**\n\n   * Yuqori nuqtadan pastga tushadigan vaqt ham 1.02 s ga teng.\n\n5. **Jami vaqt:**\n\n   * Jism gorizont bilan 0° burchak hosil qilganda, u yuqori nuqtadan pastga tushadi.\n   * Jami vaqt: 1.02 s + 1.02 s = **2.04 s ≈ 2 s**",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "60 kg massali bola tinch turgan 150 kg massali qayiqning bir uchidan ikkinchi uchiga o‘tdi. Qayiqning uzunligi 3 m bo‘lsa, u suvda qanday masofaga (m) siljigan?",
+        "choices": [
+            "7/6",
+            "5/6",
+            "6/5",
+            "6/7"
+        ],
+        "output": "Javob: **A) 7/6**\n\n**Yechim:**\n\nBu muammo markazlarning o'zgarishi prinsipi asosida yechiladi.\n\n* **Markazlarning o'zgarishi:**  Tizimning umumiy massa markazi o'zgarmaydi. Bola qayiqning bir uchidan ikkinchi uchiga o'tganda, qayiqning massa markazi ham o'zgaradi.\n\n* **Hisoblash:**\n\n1. **Bola va qayiqning umumiy massa markazi:**  \n   Dastlab, bola va qayiq bir xil joyda turganligi sababli, ularning umumiy massa markazi qayiqning o'rtasida joylashgan.\n\n2. **Bola qayiqning bir uchidan ikkinchi uchiga o'tganda:**\n   Bola qayiqning bir uchidan ikkinchi uchiga o'tganda, uning o'z massa markazi 3 metrga siljiydi. Qayiqning massa markazi esa bolaga qarama-qarshi tomonga siljidi.\n\n3. **Umumiy massa markazi o'zgarmasligi:**\n   Bola va qayiqning umumiy massa markazi o'zgarmasligi uchun, qayiqning massa markazi bolaga qarama-qarshi tomonga  x  metrga siljishi kerak.\n\n4. **Hisoblash:**\n   * Bola massasi (m1) = 60 kg\n   * Qayiq massasi (m2) = 150 kg\n   * Qayiq uzunligi (L) = 3 m\n   * Bola siljigan masofa = 3 m\n\n   Umumiy massa markazi o'zgarmasligi uchun:\n\n   m1 * 3 = m2 * x\n\n   60 * 3 = 150 * x\n\n   x = 1.2 m\n\n5. **Qayiqning siljigan masofasi:**\n   Qayiqning siljigan masofasi bola siljigan masofasining yarmi:\n\n   Qayiq siljigan masofa = 1.2 m / 2 = 0.6 m\n\n6. **Javob:**\n   Qayiq 0.6 metr siljigan.",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "6 mol kislorod 300 K haroratda 120 kPa bosim hosil qiladigan idishda harorati 400 K bo‘lgan 9 mol azot qanday bosim (kPa) hosil qiladi?",
+        "choices": [
+            "160",
+            "180",
+            "240",
+            "120"
+        ],
+        "output": "Javob: **C) 240**\n\n**Yechim:**\n\nBu masala ideal gaz qonunini ishlatish bilan yechiladi:\n\n**PV = nRT**\n\nbu yerda:\n\n* P - bosim\n* V - hajm\n* n - mol soni\n* R - universal gaz doimiysi\n* T - temperatura (Kelvinlarda)\n\nMasala shartiga ko'ra, kislorodning hajmi va R doimiy bo'lib qoladi. Shuning uchun biz proporsionallikni quyidagicha yozishimiz mumkin:\n\n**(P1 * n1) / T1 = (P2 * n2) / T2**\n\nBerilganlar:\n\n* P1 = 120 kPa (kislorod bosimi)\n* n1 = 6 mol (kislorod mol soni)\n* T1 = 300 K (kislorod harorati)\n* n2 = 9 mol (azot mol soni)\n* T2 = 400 K (azot harorati)\n\nP2 ni topish uchun:\n\nP2 = (P1 * n1 * T2) / (n2 * T1)\n\nP2 = (120 kPa * 6 mol * 400 K) / (9 mol * 300 K)\n\nP2 = 240 kPa",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Oydagi tajribada 1-jism tik yuqoriga 25 m/stezlik bilan otildi, 2 s o‘tgach 2-jism birinchisining ketidan yana shunday tezlik bilan tik otildi. To‘qnashuv oldidan ularning nisbiy tezligi (m/s) qanday bo‘lgan? g=5/3 m/s^2",
+        "choices": [
+            "10/3",
+            "10",
+            "9,33",
+            "20/3"
+        ],
+        "output": "**1-jismning harakati:**\n\n* Boshlang'ich tezlik (u1) = 25 m/s\n* Tezlanish (a) = -5/3 m/s² (yuqoriga qarab otilganligi uchun tezlanish manfiy)\n* Vaqt (t1) = 2 s\n\n2 soniya o'tgach 1-jismning tezligi:\n\nv1 = u1 + a*t1 = 25 - (5/3)*2 = 25 - 10/3 = 65/3 m/s\n\n**2-jismning harakati:**\n\n* Boshlang'ich tezlik (u2) = 25 m/s\n* Tezlanish (a) = -5/3 m/s²\n\n2-jismning tezligi:\n\nv2 = u2 + a*t2 = 25 - (5/3)*0 = 25 m/s\n\n**Nisbiy tezlik:**\n\nNisbiy tezlik 2-jismning tezligidan 1-jismning tezligini ayirish orqali topiladi:\n\nv_nisbiy = v2 - v1 = 25 - 65/3 = 75/3 - 65/3 = 10/3 m/s\n\n\n\n**Javob: A) 10/3**",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Tekis sekinlanuvchan harakat qilayotganjismning tezligi 3 m yo‘lda 2 marta kamaydi. Jism to‘liq to‘xtaguncha yana qancha yo‘l (m) bosib o‘tishi kerak?",
+        "choices": [
+            "6",
+            "3",
+            "1",
+            "1,5"
+        ],
+        "output": "Javob: **A) 6**\n\n**Yechim:**\n\n* **Tezlikning kamayishi:** Jismning tezligi 3 m yo'lda 2 marta kamayganligi aytiladi. Bu, tezlikning yarimga kamayganini bildiradi.\n\n* **To'liq to'xtagancha qolgan yo'l:** Agar tezlik yarimga kamaysa, jismning kinetic energiyasi ham yarimga kamayadi. To'liq to'xtagancha qolgan yo'l, tezlikning yarimga kamaygan holatida bosib o'tilgan yo'lga teng bo'ladi.\n\n* **Jami yo'l:**  Shunday qilib, jism to'liq to'xtagancha yana 3 m yo'l bosib o'tishi kerak.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Zaryadi 2q, radiusi r va zaryadi q, radiusi 2r bo‘lgan sharlar F kuchi bilan ta’sirlashmoqda. Agar ularni o‘zaro tekkizib, avvalgi joyiga qaytarilsa, qanday kuch bilan ta’sirlashishadi?",
+        "choices": [
+            "8F/9",
+            "2F",
+            "9F/8",
+            "F"
+        ],
+        "output": "Javob: **C) 9F/8**\n\n**Yechim:**\n\n* **Kulon qonuniga** ko'ra, ikki nuqta zaryad orasidagi elektrostatik kuch ularning zaryadlari ko'paytmasiga to'g'ri proporsional va ular orasidagi masofaning kvadratiga teskari proporsionaldir.\n\n* **F = k * (q1 * q2) / r^2**\n\n* Birinchi holda, F = k * (2q * q) / (r)^2\n\n* Ikkinchi holda, zaryadlar birlashtirilsa, yangi zaryad 3q bo'ladi. Radius 2r bo'lgan sharni olib tashlash kerak, chunki u ikkala sharni birlashtirish natijasida hosil bo'lgan yangi sharga kiradi.\n\n* Ikkinchi holda, yangi kuch: F' = k * (3q * 3q) / (2r)^2 = k * (9q^2) / (4r^2)\n\n* F' ni F ga nisbatan ifodalaymiz: F' = (9/4) * (k * (2q * q) / r^2) = (9/4) * F = **9F/8**",
+        "answer": "D"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "0,3 m/s tezlik bilan harakatlanayotgan 20 tmassali vagon 0,2 m/s tezlik bilan harakatlanayotgan 30 t massali vagonni quvib yetadi. Agar to‘qnashuv noelastik bo‘lsa, sistema to‘qnashuvda qancha (%) mexanik energiyasini yo‘qotadi?",
+        "choices": [
+            "4",
+            "18",
+            "8",
+            "12"
+        ],
+        "output": "To'qnashuvda yo'qolgan mexanik energiyani topish uchun quyidagi qadamlarni bajaramiz:\n\n**1. To'qnashuvdan oldin va keyin sistemasining tezligini topamiz:**\n\n* **To'qnashuvdan oldin:**\n    * 20 t vagon tezligi: v1 = 0.3 m/s\n    * 30 t vagon tezligi: v2 = 0.2 m/s\n* **To'qnashuvdan keyin:**\n    * Ikkala vagon birgalikda harakat qiladi, shuning uchun ularning tezligi bir xil bo'ladi. Bu tezlikni v deb belgilaymiz.\n\n**2. Momentumning saqlanish qonunini qo'llaymiz:**\n\n* To'qnashuvdan oldin momentum: m1*v1 + m2*v2\n* To'qnashuvdan keyin momentum: (m1 + m2)*v\n\n* m1*v1 + m2*v2 = (m1 + m2)*v\n\n* 20*0.3 + 30*0.2 = (20 + 30)*v\n\n* 6 + 6 = 50*v\n\n* v = 0.24 m/s\n\n**3. To'qnashuvdan oldin va keyin sistemasining kinetik energiyasini hisoblaymiz:**\n\n* **To'qnashuvdan oldin:**\n    * KE1 = 0.5 * m1 * v1^2 = 0.5 * 20 * 0.3^2 = 0.9 J\n    * KE2 = 0.5 * m2 * v2^2 = 0.5 * 30 * 0.2^2 = 0.6 J\n    * Umumiy KE = KE1 + KE2 = 1.5 J\n* **To'qnashuvdan keyin:**\n    * KE = 0.5 * (m1 + m2) * v^2 = 0.5 * 50 * 0.24^2 = 1.44 J\n\n**4. Yo'qolgan mexanik energiyani hisoblaymiz:**\n\n* Yo'qolgan KE = KE (to'qnashuvdan oldin) - KE (to'qnashuvdan keyin) = 1.5 - 1.44 = 0.06 J\n\n**5. Yo'qolgan energiyaning foizini topamiz:**\n\n* Yo'qolgan energiya (%) = (Yo'qolgan KE / KE (to'qnashuvdan oldin)) * 100% = (0.06 / 1.5) * 100% = 4%\n\n\n\n**Javob: A) 4**",
+        "answer": "A"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "m massali jismga ta’sir etuvchi natijaviy kuch F bo‘lsa, uning tezlanishi qanday?",
+        "choices": [
+            "g",
+            "g+F=m",
+            "F/m",
+            "2 F/m"
+        ],
+        "output": "Javob: **C) F/m**\n\nBu savol Newtonning ikkinchi qonunini ifodalaydi.  Newtonning ikkinchi qonuniya ko'ra, jismning tezlanishi unga ta'sir etuvchi natijaviy kuchga to'g'ri proporsional va massasiga teskari proporsionaldir. \n\nMatematik ifoda: **F = m * a**\n\nbu yerda:\n\n* **F** - natijaviy kuch\n* **m** - jismning massasi\n* **a** - jismning tezlanishi\n\nShunday qilib, tezlanishni topish uchun formulani quyidagicha yozish mumkin:\n\n**a = F / m**",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Blok tros yordamida shiftga mahkamlangan. Blokdan o‘tkazilgan ipning uchlariga 2 va 3 kg li yuklar ilingan. Trosdagi taranglik kuchini (N) toping? g =10 m/s^2",
+        "choices": [
+            "36",
+            "20",
+            "48",
+            "24"
+        ],
+        "output": "Javob: **C) 48**\n\n**Yechim:**\n\n1. **Kuchlarni aniqlash:**\n\n* 2 kg yukining og'irligi: F1 = m1 * g = 2 kg * 10 m/s^2 = 20 N\n* 3 kg yukining og'irligi: F2 = m2 * g = 3 kg * 10 m/s^2 = 30 N\n\n2. **Trosdagi taranglik kuchi:**\n\n* Blokda tarozilik holati mavjud, ya'ni yuklarning og'irliklari trosdagi taranglik kuchiga teng bo'ladi.\n* Trosdagi taranglik kuchi (T) = F2 - F1 = 30 N - 20 N = 10 N\n\n3. **Trosdagi taranglik kuchi ikki ipga teng ravishda taqsimlanadi:**\n\n* Har bir ipdagi taranglik kuchi: T/2 = 10 N / 2 = 5 N\n\n4. **Jami taranglik kuchi:**\n\n* Jami taranglik kuchi: 2 * 5 N = 10 N\n\n**Natija:** Trosdagi taranglik kuchi 10 N ga teng.",
+        "answer": "C"
+    },
+    {
+        "description": "Savol: Jism qanday tezlik bilan vertikal otilsa, u 6 s dan so‘ng otilgan joyiga qaytib tushadi (m/s)?\nA) 20\nB) 40\nC) 35\nD) 30\n\nJavob: D\n\nSavol: Moddiy nuqta 90 sm radiusli aylana bo‘ylab tekis harakatlanmoqda. Agar u 9 s da 90° ga burilgan bo‘lsa, uning burchak tezligi qancha (rad/s)?\nA) 45\nB) 0,56\nC) 10\nD) π/18\n\nJavob: D\n\nSavol: Dastlab tinch turgan 2 kg massali jism 3 N doimiy kuch ta’sirida tezlashmoqda. 6,5 minut vaqt davomida kuch bajargan ishni (kJ) hisoblang.\nA) 245\nB) 98\nC) 164\nD) 342\n\nJavob: D\n\nSavol: 2,7 kg massali muz boʻlagi ipga shunday osib qoʻyilganki, muzning chorak hajmi suvga botib turibdi. Ipdagi taranglik kuchini toping.\nA) 14,4 N\nB) 18 N\nC) 24 N\nD) 19,5 N\n\nJavob: D\n\nSavol: 8 m/s tezlik bilan to‘g‘ri chiziqli tekis harakatlanayotgan chang‘ichi 25 s da qancha masofani bosib o‘tadi (m) ?\nA) 100\nB) 50\nC) 200\nD) 150\n\nJavob: C\n\n",
+        "question": "Massasi 500 g bo‘lgan koptok h=1,25 m balandlikdan gorizontal sirtga erkin tashlandi. Koptokning sirt bilan urilishi 0,1 s davom etgan va urilish mutlaq elastik bo‘lsa, koptokning sirtga ko‘rsatadigan to‘liq ta’sir kuchini toping(N)? g = 10 m/s^2",
+        "choices": [
+            "25",
+            "30",
+            "50",
+            "55"
+        ],
+        "output": "Here's how to solve the problem:\n\n**1. Find the velocity just before impact:**\n\n* Use the equation: v² = u² + 2as \n   * v = final velocity (what we want to find)\n   * u = initial velocity (0 m/s since it's dropped)\n   * a = acceleration due to gravity (g = 10 m/s²)\n   * s = distance (h = 1.25 m)\n\n* v² = 0² + 2 * 10 * 1.25\n* v² = 25\n* v = 5 m/s\n\n**2. Find the change in momentum:**\n\n*  Change in momentum = mass * change in velocity\n*  Since the collision is elastic, the velocity after the bounce is equal in magnitude but opposite in direction to the velocity before the impact.\n* Change in velocity = 5 m/s - (-5 m/s) = 10 m/s\n* Change in momentum = 0.5 kg * 10 m/s = 5 kg*m/s\n\n**3. Calculate the force:**\n\n* Force = change in momentum / time\n* Force = 5 kg*m/s / 0.1 s = 50 N\n\n\n\n**Therefore, the answer is (C) 50 N.**",
+        "answer": "D"
+    }
+]
