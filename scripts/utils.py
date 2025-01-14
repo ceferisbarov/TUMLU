@@ -33,37 +33,19 @@ FEW_SHOT_PROMPTS = {
     "uzbek": """Savol: {question}\nA) {choices[0]}\nB) {choices[1]}\nC) {choices[2]}\nD) {choices[3]}\n\nJavob: {answer}\n\n""",
     "tatar": """Сорау: {question}\nA) {choices[0]}\nB) {choices[1]}\nC) {choices[2]}\nD) {choices[3]}\n\nҖавап: {answer}\n\n""",
 }
+
 TEST_PROMPTS = {
     "crimean-tatar": """Sual: {question}\nA) {choices[0]}\nB) {choices[1]}\nC) {choices[2]}\nD) {choices[3]}\n\nCevap: """,
     "uzbek": """Savol: {question}\nA) {choices[0]}\nB) {choices[1]}\nC) {choices[2]}\nD) {choices[3]}\n\nJavob: """,
     "tatar": """Сорау: {question}\nA) {choices[0]}\nB) {choices[1]}\nC) {choices[2]}\nD) {choices[3]}\n\nҖавап: """,
 }
 
-CRIMEAN_FEW_SHOT_TEMPLATE = """Sual: {question}\n{choices}\n\nCevap: {answer}\n\n"""
-CRIMEAN_TEST_TEMPLATE = """Sual: {question}\n{choices}\n\nCevap: \n\n"""
-
 
 def format_question(template, question, choices, answer=None):
-    # Dynamically generate the choices section
     choices_text = "\n".join(
         f"{chr(65 + i)}) {choice}" for i, choice in enumerate(choices)
     )
     if answer:
-        return CRIMEAN_FEW_SHOT_TEMPLATE.format(
-            question=question, choices=choices_text, answer=answer
-        )
+        return template.format(question=question, choices=choices_text, answer=answer)
 
-    return CRIMEAN_TEST_TEMPLATE.format(question=question, choices=choices_text)
-
-
-if __name__ == "__main__":
-    question = "What is the capital of France?"
-    choices = ["Paris", "London", "Berlin", "Madrid"]  # This can have 2-4 items
-    answer = "Paris"
-
-    formatted_question = format_question(
-        CRIMEAN_FEW_SHOT_TEMPLATE, question, choices, answer
-    )
-    print(formatted_question)
-
-    print(format_question(CRIMEAN_TEST_TEMPLATE, question, choices))
+    return template.format(question=question, choices=choices_text)
