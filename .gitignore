@@ -1,0 +1,13 @@
+__pycache__
+*.ipynb
+*.zip
+.env
+env
+stash
+notebooks
+outputs_shuffled
+todo.md
+data/*/*
+!data/*/dev/
+!data/*/test/
+!data/*/create_json.py
