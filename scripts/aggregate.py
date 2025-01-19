@@ -4,7 +4,7 @@ import json
 LANGUAGE = "uzbek"
 MODEL_NAME = "google/gemma-2-27b-it"
 
-keyword_dict = {"uzbek": "Javob", "crimean-tatar": "Cevap", "tatar": "Җавап"}
+keyword_dict = {"uzbek": "Javob", "crimean-tatar": "Cevap", "tatar": "Җавап", "kazakh": "Жауап"}
 
 
 def get_acc(data, language):
