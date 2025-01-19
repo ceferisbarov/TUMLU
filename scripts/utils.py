@@ -32,15 +32,16 @@ FEW_SHOT_PROMPTS = {
     "crimean-tatar": """Sual: {question}\n{choices}\n\nCevap: {answer}\n\n""",
     "uzbek": """Savol: {question}\n{choices}\n\nJavob: {answer}\n\n""",
     "tatar": """Сорау: {question}\n{choices}\n\nҖавап: {answer}\n\n""",
-    "kazakh": """Сұрақ: {question}\n{choices}\n\nЖауап: {answer}\n\n"""
+    "kazakh": """Сұрақ: {question}\n{choices}\n\nЖауап: {answer}\n\n""",
 }
 
 TEST_PROMPTS = {
     "crimean-tatar": """Sual: {question}\n{choices}\n\nCevap: """,
     "uzbek": """Savol: {question}\n{choices}\n\nJavob: """,
     "tatar": """Сорау: {question}\n{choices}\n\nҖавап: """,
-    "kazakh": """Сұрақ: {question}\n{choices}\n\nЖауап: """
+    "kazakh": """Сұрақ: {question}\n{choices}\n\nЖауап: """,
 }
+
 
 def format_question(template, question, choices, answer=None):
     """
