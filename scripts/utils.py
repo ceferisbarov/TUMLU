@@ -29,19 +29,25 @@ def shuffle_choices(options, answer):
 
 
 FEW_SHOT_PROMPTS = {
-    "crimean-tatar": """Sual: {question}\nA) {choices[0]}\nB) {choices[1]}\nC) {choices[2]}\nD) {choices[3]}\n\nCevap: {answer}\n\n""",
-    "uzbek": """Savol: {question}\nA) {choices[0]}\nB) {choices[1]}\nC) {choices[2]}\nD) {choices[3]}\n\nJavob: {answer}\n\n""",
-    "tatar": """Сорау: {question}\nA) {choices[0]}\nB) {choices[1]}\nC) {choices[2]}\nD) {choices[3]}\n\nҖавап: {answer}\n\n""",
+    "crimean-tatar": """Sual: {question}\n{choices}\n\nCevap: {answer}\n\n""",
+    "uzbek": """Savol: {question}\n{choices}\n\nJavob: {answer}\n\n""",
+    "tatar": """Сорау: {question}\n{choices}\n\nҖавап: {answer}\n\n""",
+    "kazakh": """Сұрақ: {question}\n{choices}\n\nЖауап: {answer}\n\n"""
 }
 
 TEST_PROMPTS = {
-    "crimean-tatar": """Sual: {question}\nA) {choices[0]}\nB) {choices[1]}\nC) {choices[2]}\nD) {choices[3]}\n\nCevap: """,
-    "uzbek": """Savol: {question}\nA) {choices[0]}\nB) {choices[1]}\nC) {choices[2]}\nD) {choices[3]}\n\nJavob: """,
-    "tatar": """Сорау: {question}\nA) {choices[0]}\nB) {choices[1]}\nC) {choices[2]}\nD) {choices[3]}\n\nҖавап: """,
+    "crimean-tatar": """Sual: {question}\n{choices}\n\nCevap: """,
+    "uzbek": """Savol: {question}\n{choices}\n\nJavob: """,
+    "tatar": """Сорау: {question}\n{choices}\n\nҖавап: """,
+    "kazakh": """Сұрақ: {question}\n{choices}\n\nЖауап: """
 }
 
-
 def format_question(template, question, choices, answer=None):
+    """
+    Given a language specific template, question, choices,
+    format and return the template.
+    answer argument is necessary for FEW_SHOT_PROMPTS but not for TEST_PROMPTS.
+    """
     choices_text = "\n".join(
         f"{chr(65 + i)}) {choice}" for i, choice in enumerate(choices)
     )
