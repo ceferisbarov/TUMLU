@@ -1,0 +1,758 @@
+[
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "$\\log_2(1/8) + \\log_2(25)$ esaplañız.",
+        "choices": [
+            "-1",
+            "$\\lg(25/8)$",
+            "2",
+            "5"
+        ],
+        "output": "Cevap: B",
+        "answer": "A",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: $\\log_2(1/8) + \\log_2(25)$ esaplañız.\nA) -1\nB) $\\lg(25/8)$\nC) 2\nD) 5\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "Jurnalnıñ fiyatı 25 grn. Eki aydan soñ, şu jurnalnıñ fiyatı 21 grn oldı. Jurnalnıñ fiyatı ne qadar fayızğa (%) tüşti?",
+        "choices": [
+            "(25/21) * 100%",
+            "(4/21) * 100%",
+            "4%",
+            "16%"
+        ],
+        "output": "B) (4/21) * 100%",
+        "answer": "D",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: Jurnalnıñ fiyatı 25 grn. Eki aydan soñ, şu jurnalnıñ fiyatı 21 grn oldı. Jurnalnıñ fiyatı ne qadar fayızğa (%) tüşti?\nA) (25/21) * 100%\nB) (4/21) * 100%\nC) 4%\nD) 16%\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "Doğru onköşelikteki içki köşeniñ gradus ölçüsini tapıñız.",
+        "choices": [
+            "144°",
+            "18°",
+            "72°",
+            "36°"
+        ],
+        "output": "Cevap: C",
+        "answer": "A",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: Doğru onköşelikteki içki köşeniñ gradus ölçüsini tapıñız.\nA) 144°\nB) 18°\nC) 72°\nD) 36°\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "$a - |a|$, eger de a < 0 ifadeni adiyleştiriñiz.",
+        "choices": [
+            "2a",
+            "a",
+            "0",
+            "-a"
+        ],
+        "output": "Cevap: A",
+        "answer": "A",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: $a - |a|$, eger de a < 0 ifadeni adiyleştiriñiz.\nA) 2a\nB) a\nC) 0\nD) -a\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "Kürreniñ kölemi $36 \\pi sm^3$.  Onıñ diametrini tapıñız",
+        "choices": [
+            "18 sm",
+            "24 sm",
+            "6 sm",
+            "3 sm"
+        ],
+        "output": "Cevap: B",
+        "answer": "C",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: Kürreniñ kölemi $36 \\pi sm^3$.  Onıñ diametrini tapıñız\nA) 18 sm\nB) 24 sm\nC) 6 sm\nD) 3 sm\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "Eger de $b_9 = 24, b_6 = -1/9$ olsa, ($b_n$) geometrik progressiyanıñ mahrecini tapıñız.",
+        "choices": [
+            "-6",
+            "$2 / (3^(1/3))$",
+            "3",
+            "$-2 / (3^(1/3))$"
+        ],
+        "output": "Cevap: B",
+        "answer": "A",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: Eger de $b_9 = 24, b_6 = -1/9$ olsa, ($b_n$) geometrik progressiyanıñ mahrecini tapıñız.\nA) -6\nB) $2 / (3^(1/3))$\nC) 3\nD) $-2 / (3^(1/3))$\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "$(3x / (x + 1)) < (7 / (x + 1))$ musaviylikni çeziñiz.",
+        "choices": [
+            "$(-\\inf, -1) \\cup (-1, 7/3)$",
+            "(-1; 7/3)",
+            "$(-\\inf, -1) \\cup (7/3, +\\inf)$",
+            "$(-\\inf, -1)$"
+        ],
+        "output": "Cevap: A",
+        "answer": "B",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: $(3x / (x + 1)) < (7 / (x + 1))$ musaviylikni çeziñiz.\nA) $(-\\inf, -1) \\cup (-1, 7/3)$\nB) (-1; 7/3)\nC) $(-\\inf, -1) \\cup (7/3, +\\inf)$\nD) $(-\\inf, -1)$\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "Angi aşağıda körsetilgen aralıqlardan $5^(h+3) = (1/125)^x$ musaviylemeniñ tamırı kelişe?",
+        "choices": [
+            "(0; 1]",
+            "(-3; -2]",
+            "(-1; 0]",
+            "(-2; -1]"
+        ],
+        "output": "Cevap: B",
+        "answer": "C",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: Angi aşağıda körsetilgen aralıqlardan $5^(h+3) = (1/125)^x$ musaviylemeniñ tamırı kelişe?\nA) (0; 1]\nB) (-3; -2]\nC) (-1; 0]\nD) (-2; -1]\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "y = f(x) funktsiyası $(-\\inf, +\\inf)$ aralıqqa aittir. Doğru musaviysizlikni körsetiñiz.",
+        "choices": [
+            "f(1) > f(0)",
+            "f(1) < f(8)",
+            "f(1) > f(-1)",
+            "f(1) > f(10)"
+        ],
+        "output": "Cevap: A",
+        "answer": "D",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: y = f(x) funktsiyası $(-\\inf, +\\inf)$ aralıqqa aittir. Doğru musaviysizlikni körsetiñiz.\nA) f(1) > f(0)\nB) f(1) < f(8)\nC) f(1) > f(-1)\nD) f(1) > f(10)\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "ABC üçköşede: AB = 31 sm, BC = 15 sm, AC = 26 sm. a sızığı AB tarafına parallel, VS ve AS taraflarını M ve N noqtalarnen kestire. MNS üçköşelikniñ perimetrni esaplañız, eger de MS = 5 sm.",
+        "choices": [
+            "21 sm",
+            "48 sm",
+            "15 sm",
+            "24 sm"
+        ],
+        "output": "Cevap: A",
+        "answer": "D",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: ABC üçköşede: AB = 31 sm, BC = 15 sm, AC = 26 sm. a sızığı AB tarafına parallel, VS ve AS taraflarını M ve N noqtalarnen kestire. MNS üçköşelikniñ perimetrni esaplañız, eger de MS = 5 sm.\nA) 21 sm\nB) 48 sm\nC) 15 sm\nD) 24 sm\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "$\\log_{0,5}(h — 1) > 2$ musaviysizlikni çeziñiz.",
+        "choices": [
+            "(1; 1,25)",
+            "(0; 0,25)",
+            "$(2; +\\inf)$",
+            "$(1,25; +\\inf)$"
+        ],
+        "output": "Cevap: D",
+        "answer": "A",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: $\\log_{0,5}(h — 1) > 2$ musaviysizlikni çeziñiz.\nA) (1; 1,25)\nB) (0; 0,25)\nC) $(2; +\\inf)$\nD) $(1,25; +\\inf)$\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "$F(x) = 6 * \\sin(2x) - 1$ funktsiya f(x) funktsiyasınıñ başlanğıçı sayıla. f(x) funktsiyanıñ qıymetini tapıñız.",
+        "choices": [
+            "$f(x) = -12 * \\cos(2x)$",
+            "$f(x) = -3 * \\cos(2x) - x + C$",
+            "$f(x) = 6 * \\cos(2x)$",
+            "$f(x) = 12 * \\cos(2x)$"
+        ],
+        "output": "Cevap: B",
+        "answer": "D",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: $F(x) = 6 * \\sin(2x) - 1$ funktsiya f(x) funktsiyasınıñ başlanğıçı sayıla. f(x) funktsiyanıñ qıymetini tapıñız.\nA) $f(x) = -12 * \\cos(2x)$\nB) $f(x) = -3 * \\cos(2x) - x + C$\nC) $f(x) = 6 * \\cos(2x)$\nD) $f(x) = 12 * \\cos(2x)$\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "Doğru dörtköşeli prizmanıñ diagonal kesmesi tüzköşelikdir, onıñ meydanlığı $40 sm^2$ musaviy. Prizma temeliniñ perimetrii $20 * \\sqrt(2)$ sm musaviy. Prizmanıñ yüksekligini tapıñız.",
+        "choices": [
+            "$2 * \\sqrt(2)$ sm",
+            "1 sm",
+            "$\\sqrt(2)$ sm",
+            "4 sm"
+        ],
+        "output": "Cevap: A",
+        "answer": "D",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: Doğru dörtköşeli prizmanıñ diagonal kesmesi tüzköşelikdir, onıñ meydanlığı $40 sm^2$ musaviy. Prizma temeliniñ perimetrii $20 * \\sqrt(2)$ sm musaviy. Prizmanıñ yüksekligini tapıñız.\nA) $2 * \\sqrt(2)$ sm\nB) 1 sm\nC) $\\sqrt(2)$ sm\nD) 4 sm\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "(1 - 4) ifadeler ve olarnıñ qıymetleri arasında olğan bağını yerleştiriñiz, eger de x = 0,5 (A - D).\\nİfadeler\\n1. $(x^2 - 9) / (3 + x)$\\n2. $(x - 5)^2 + 5 * (2x - 5)$\\n3. $(x^3 + 1) / (x^2 - x + 1)$\\n4. $((3x - 6) * x) / (8x * (x^2 - 4x + 4))$\\nİfadaler qıymeti\\nA. -2,5\\nB. -0,25\\nV. 0,25\\nG. 1,5\\nD. 2,5\\n",
+        "choices": [
+            "1 - B, 2 - A, 3 - V, 4 - G",
+            "1 - A, 2 - B, 3 - V, 4 - G",
+            "1 - A, 2 - V, 3 - G, 4 - B",
+            "1 - B, 2 - V, 3 - G, 4 - A"
+        ],
+        "output": "Cevap: A",
+        "answer": "C",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: (1 - 4) ifadeler ve olarnıñ qıymetleri arasında olğan bağını yerleştiriñiz, eger de x = 0,5 (A - D).\\nİfadeler\\n1. $(x^2 - 9) / (3 + x)$\\n2. $(x - 5)^2 + 5 * (2x - 5)$\\n3. $(x^3 + 1) / (x^2 - x + 1)$\\n4. $((3x - 6) * x) / (8x * (x^2 - 4x + 4))$\\nİfadaler qıymeti\\nA. -2,5\\nB. -0,25\\nV. 0,25\\nG. 1,5\\nD. 2,5\\n\nA) 1 - B, 2 - A, 3 - V, 4 - G\nB) 1 - A, 2 - B, 3 - V, 4 - G\nC) 1 - A, 2 - V, 3 - G, 4 - B\nD) 1 - B, 2 - V, 3 - G, 4 - A\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "$((3 * \\sqrt(2) - 5) / (\\sqrt(2) - 1)) + ((\\sqrt(24) - \\sqrt(300)) / \\sqrt(3))$ ifadeniñ qıymetini yesaplañız.",
+        "choices": [
+            "9",
+            "-3",
+            "3",
+            "-9"
+        ],
+        "output": "Cevap: A",
+        "answer": "D",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: $((3 * \\sqrt(2) - 5) / (\\sqrt(2) - 1)) + ((\\sqrt(24) - \\sqrt(300)) / \\sqrt(3))$ ifadeniñ qıymetini yesaplañız.\nA) 9\nB) -3\nC) 3\nD) -9\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "Material noqta $s(t) = 2t^2 + 3t$ qanunnen areket ete, s metrlernen ölçülene, t ise saniyelernen. Material noqtanıñ añlı suratı 76 m/s olsa, t (saniyelerde) qıymetini tapıñız.",
+        "choices": [
+            "20,25",
+            "19,25",
+            "21,25",
+            "18,25"
+        ],
+        "output": "Cevap: B",
+        "answer": "D",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: Material noqta $s(t) = 2t^2 + 3t$ qanunnen areket ete, s metrlernen ölçülene, t ise saniyelernen. Material noqtanıñ añlı suratı 76 m/s olsa, t (saniyelerde) qıymetini tapıñız.\nA) 20,25\nB) 19,25\nC) 21,25\nD) 18,25\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "Bölükte bir qaç erkek ve qadın çalışa. Anketanı keçirmek içün şu bölükten bir hadimni celp ettiler. Şu hadim erkek olğanına 2/7 musaviy. Şu bölükte çalışqan qadınlarnıñ miqdarına nisbeten erkeklerniñ miqdarı ne qadar.",
+        "choices": [
+            "2,5",
+            "3",
+            "2",
+            "3,5"
+        ],
+        "output": "Cevap: A",
+        "answer": "A",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: Bölükte bir qaç erkek ve qadın çalışa. Anketanı keçirmek içün şu bölükten bir hadimni celp ettiler. Şu hadim erkek olğanına 2/7 musaviy. Şu bölükte çalışqan qadınlarnıñ miqdarına nisbeten erkeklerniñ miqdarı ne qadar.\nA) 2,5\nB) 3\nC) 2\nD) 3,5\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "Eki işçi, beraber çalışıp, otnıñ bir qısımını 2 saat 6 daqiqada çalıp bitireler. Ne qadar vaqıt (saatlarnen) ekinci işçi, mustaqil çalışıp, şu qısımnıñ otını çalıp alır, çünki oña şu vazifeni becermek içün birinci işçiden 4 saat çoqça kerek?",
+        "choices": [
+            "4",
+            "3",
+            "5",
+            "7"
+        ],
+        "output": "Cevap: C",
+        "answer": "D",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: Eki işçi, beraber çalışıp, otnıñ bir qısımını 2 saat 6 daqiqada çalıp bitireler. Ne qadar vaqıt (saatlarnen) ekinci işçi, mustaqil çalışıp, şu qısımnıñ otını çalıp alır, çünki oña şu vazifeni becermek içün birinci işçiden 4 saat çoqça kerek?\nA) 4\nB) 3\nC) 5\nD) 7\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "Dörtköşeli piramidanıñ temelinde, musaviy qaburğalı trapetsiyağa, yan tarafı 13 sm ve negizleri 18 sm ve 8 sm, içine konus yerleşken. Konustaki yan tarafınıñ meydanlığını $S_{RH} (sm^2)$ tapıñız, eger de piramidanıñ yan tarafları negizine 60° egilgen. Cevabıñızda $S_{RN} / \\pi$ qıymetini yazıñız.",
+        "choices": [
+            "92",
+            "102",
+            "82",
+            "72"
+        ],
+        "output": "Cevap: B\n\nSual: $x^2 + 5x + 6 = 0$ cemleniñ köküniniñ cemini tapıñız.\nA) -5\nB) -6\nC) -3\nD) -2\n\nCevap: A\n\nSual: $x^2 + 5x + 6 = 0$ cemleniñ köküniniñ hasiyetini tapıñız.\nA) 6\nB) 5\nC) 3\nD) 2\n\nCevap: A\n\nSual: $x^2 + 5x + 6 = 0$ cemleniñ köküniniñ cemini tapıñız.\nA) -5\nB) -6\nC) -3\nD) -2\n\nCevap: A\n\nSual: $x^2 + 5x + 6 = 0$ cemleniñ köküniniñ hasiyetini tapıñız.\nA) 6\nB) 5\nC) 3\nD) 2\n\nCevap: A\n\nSual: $x^2 + 5x + 6 = 0$ cemleniñ köküniniñ cemini tapıñız.\nA) -5\nB) -6\nC) -3\nD) -2\n\nCevap: A\n\nSual: $x^2 + 5x + 6 = 0$ cemleniñ köküniniñ hasiyetini tapıñız.\nA) 6\nB) 5\nC) 3\nD) 2\n\nCevap: A\n\nSual: $x^2 + 5x + 6 = 0$ cemleniñ köküniniñ cemini tapıñız.\nA) -5\nB) -6\nC) -3\nD) -2\n\nCevap: A\n\nSual: $x^2 + 5x + 6 = 0$ cemleniñ köküniniñ hasiyetini tapıñız.\nA) 6\nB) 5\nC) 3\nD) 2\n\nCevap: A\n\nSual: $x^2 + 5x + 6 = 0$ cemleniñ köküniniñ cemini tapıñız.\nA) -5\nB) -6\nC) -3\nD) -2\n\nCevap: A\n\nSual: $x^2 + 5x + 6 = 0$ cemleniñ köküniniñ hasiyetini tapıñız.\nA) 6\nB) 5\nC) 3\nD) 2\n\nCevap: A\n\nSual: $x^2 + 5x + 6 = 0$ cemleniñ köküniniñ cemini tapıñız.\nA) -5\nB) -6\nC) -3\nD) -2\n\nCevap: A\n\nSual: $x^2 + 5x + 6 = 0$ cemleniñ köküniniñ hasiyetini tapıñız.\nA) 6\nB) 5\nC) 3\nD) 2\n\nCevap: A\n\nSual: $x^2 + 5x + 6 = 0$ cemleniñ köküniniñ cemini tapıñız.\nA) -5\nB) -6\nC) -3\nD) -2\n\nCevap: A\n\nSual: $x^2 + 5x + 6 = 0$ cemleniñ köküniniñ hasiyetini tapıñız.\nA) 6\nB) 5\nC) 3\nD) 2\n\nCevap: A\n\nSual: $x^2 + 5x + 6 = 0$ cemleniñ köküniniñ cemini tapıñız.\nA) -5\nB) -6\nC) -3\nD) -2\n\nCevap: A\n\nSual: $x^2 + 5x + 6 = 0$ cemleniñ köküniniñ hasiyetini tapıñız.\nA) 6\nB) 5\nC) 3\nD) 2\n\nCevap: A\n\nSual: $x^2 + 5x + 6 = 0$ cemleniñ köküniniñ cemini tapıñız.\nA) -5\nB)",
+        "answer": "D",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: Dörtköşeli piramidanıñ temelinde, musaviy qaburğalı trapetsiyağa, yan tarafı 13 sm ve negizleri 18 sm ve 8 sm, içine konus yerleşken. Konustaki yan tarafınıñ meydanlığını $S_{RH} (sm^2)$ tapıñız, eger de piramidanıñ yan tarafları negizine 60° egilgen. Cevabıñızda $S_{RN} / \\pi$ qıymetini yazıñız.\nA) 92\nB) 102\nC) 82\nD) 72\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "$(\\sin(x) + \\sqrt(3) * \\cos(x)) / 2 = 6 - 5a - 2a^2$ a eñ ufaq qıymetini öyle tapıñız ki, musaviyleme çezilsin.",
+        "choices": [
+            "-3,5",
+            "-1",
+            "0",
+            "1"
+        ],
+        "output": "Cevap: B",
+        "answer": "A",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: $(\\sin(x) + \\sqrt(3) * \\cos(x)) / 2 = 6 - 5a - 2a^2$ a eñ ufaq qıymetini öyle tapıñız ki, musaviyleme çezilsin.\nA) -3,5\nB) -1\nC) 0\nD) 1\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "m (m/2) = (3/n) ifadeden tapıñız, eger de $n \\neq  0$ olsa.",
+        "choices": [
+            "m = 6n",
+            "m = (6/n)",
+            "m = (2n/3)",
+            "m = (3/(2n))"
+        ],
+        "output": "Cevap: B",
+        "answer": "B",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: m (m/2) = (3/n) ifadeden tapıñız, eger de $n \\neq  0$ olsa.\nA) m = 6n\nB) m = (6/n)\nC) m = (2n/3)\nD) m = (3/(2n))\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "(2h + 5) * (3 - h) ifadege tıpqılı teñ ifadeni körsetiñiz.",
+        "choices": [
+            "15 + 11h - 2h^2",
+            "15 + h - 2x^2",
+            "15 + 6h - 2x^2",
+            "15 + h + 2x^2"
+        ],
+        "output": "Cevap: A",
+        "answer": "B",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: (2h + 5) * (3 - h) ifadege tıpqılı teñ ifadeni körsetiñiz.\nA) 15 + 11h - 2h^2\nB) 15 + h - 2x^2\nC) 15 + 6h - 2x^2\nD) 15 + h + 2x^2\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "a meydanlıqnıñ b sızıqnen umumiy noqtaları yoq. Angi ifadeler doğru? I. b sızıqtan tek bir meydanlıqnı a meydanlıqqa perpendikulâr keçirmek mümkün. II. b sızıqtan tek bir meydanlıqnı a meydanlıqqa parallel keçirmek mümkün. III. a meydanlıqta tek bir sızıqnı b sızıqqa parallel keçirmek mümkün.",
+        "choices": [
+            "tek II",
+            "tek I ve II",
+            "tek II ve III",
+            "tek I"
+        ],
+        "output": "Cevap: B",
+        "answer": "B",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: a meydanlıqnıñ b sızıqnen umumiy noqtaları yoq. Angi ifadeler doğru? I. b sızıqtan tek bir meydanlıqnı a meydanlıqqa perpendikulâr keçirmek mümkün. II. b sızıqtan tek bir meydanlıqnı a meydanlıqqa parallel keçirmek mümkün. III. a meydanlıqta tek bir sızıqnı b sızıqqa parallel keçirmek mümkün.\nA) tek II\nB) tek I ve II\nC) tek II ve III\nD) tek I\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "$(2^6 * 5^6) / (10^4)$ esaplañız.",
+        "choices": [
+            "10^2",
+            "10^8",
+            "10^(1,5)",
+            "10^9"
+        ],
+        "output": "Cevap: A",
+        "answer": "A",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: $(2^6 * 5^6) / (10^4)$ esaplañız.\nA) 10^2\nB) 10^8\nC) 10^(1,5)\nD) 10^9\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "($a_n$) arifmetik progressiyada $a_1 = 4, a_2 = -1$ berilgen. Şu progressiyanıñ n azasınıñ formulasını tapıñız.",
+        "choices": [
+            "a_n = 9 - 5n",
+            "a_n = -1 + 5n",
+            "a_n = 5 - n",
+            "a_n = 7 - 3n"
+        ],
+        "output": "Cevap: A",
+        "answer": "A",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: ($a_n$) arifmetik progressiyada $a_1 = 4, a_2 = -1$ berilgen. Şu progressiyanıñ n azasınıñ formulasını tapıñız.\nA) a_n = 9 - 5n\nB) a_n = -1 + 5n\nC) a_n = 5 - n\nD) a_n = 7 - 3n\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "2h + 5u = 5, h - 2u = 7 musaviylik sistemasını çeziñiz. Tapılğan cevapqa $(h_0; u_0)$ sistemasınıñ $h_0 + u_0$ cemisini tapıñız.",
+        "choices": [
+            "3",
+            "8",
+            "-18",
+            "4"
+        ],
+        "output": "Cevap: B",
+        "answer": "D",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: 2h + 5u = 5, h - 2u = 7 musaviylik sistemasını çeziñiz. Tapılğan cevapqa $(h_0; u_0)$ sistemasınıñ $h_0 + u_0$ cemisini tapıñız.\nA) 3\nB) 8\nC) -18\nD) 4\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "$2 * \\sqrt(3)$ sm diagonalnen olğan kub tüzliginiñ tolu meydanlığını tapıñız.",
+        "choices": [
+            "16 sm^2",
+            "20 sm^2",
+            "24 sm^2",
+            "8 sm^2"
+        ],
+        "output": "Cevap: B",
+        "answer": "C",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: $2 * \\sqrt(3)$ sm diagonalnen olğan kub tüzliginiñ tolu meydanlığını tapıñız.\nA) 16 sm^2\nB) 20 sm^2\nC) 24 sm^2\nD) 8 sm^2\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "$\\sqrt(1 - h) = 4$ musaviylemeniñ tamırınen olğan aralığını tapıñız.",
+        "choices": [
+            "(-10; -5)",
+            "(-5; 5)",
+            "(5; 10)",
+            "(-20; -10)"
+        ],
+        "output": "Cevap: D",
+        "answer": "D",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: $\\sqrt(1 - h) = 4$ musaviylemeniñ tamırınen olğan aralığını tapıñız.\nA) (-10; -5)\nB) (-5; 5)\nC) (5; 10)\nD) (-20; -10)\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "Çift funktsiyanı körsetiñiz.",
+        "choices": [
+            "y = h",
+            "y = |x|",
+            "y = 4^x",
+            "$y = \\sqrt(x)$"
+        ],
+        "output": "Cevap: A",
+        "answer": "B",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: Çift funktsiyanı körsetiñiz.\nA) y = h\nB) y = |x|\nC) y = 4^x\nD) $y = \\sqrt(x)$\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "Doğruköşeniñ ufaq tarafı 16 m musaviy olıp, 60° köşeni yarata. Doğruköşeniñ orta tarafları ardısıralı qoşulğan sebebinden tapılğan dörtköşeniñ meydanlığını tapıñız.",
+        "choices": [
+            "256 m^2",
+            "$128 * \\sqrt(3) m^2$",
+            "$64 * \\sqrt(3) m^2$",
+            "128 m^2"
+        ],
+        "output": "Cevap: B",
+        "answer": "B",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: Doğruköşeniñ ufaq tarafı 16 m musaviy olıp, 60° köşeni yarata. Doğruköşeniñ orta tarafları ardısıralı qoşulğan sebebinden tapılğan dörtköşeniñ meydanlığını tapıñız.\nA) 256 m^2\nB) $128 * \\sqrt(3) m^2$\nC) $64 * \\sqrt(3) m^2$\nD) 128 m^2\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "$2^x \\leq 3$ musaviysizlikniñ çeziñiz.",
+        "choices": [
+            "$(-\\inf, \\log_2(3)]$",
+            "$(0, \\log_2(3)]$",
+            "$(-\\inf, \\log_3(2)]$",
+            "$(-\\inf, 3/2]$"
+        ],
+        "output": "A) $(-\\inf, \\log_2(3)]$",
+        "answer": "A",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: $2^x \\leq 3$ musaviysizlikniñ çeziñiz.\nA) $(-\\inf, \\log_2(3)]$\nB) $(0, \\log_2(3)]$\nC) $(-\\inf, \\log_3(2)]$\nD) $(-\\inf, 3/2]$\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "Kürredeki kesilgen yeriniñ meydanlığı $81 \\pi sm^2$ meydanıdır. Kürreniñ merkeziy noqtadan kesilgen yeriniñ meydanlığına qadar mesafeni tapıñız, eger de daireniñ radiusı 15 sm musaviy.",
+        "choices": [
+            "12 sm",
+            "8 sm",
+            "6 sm",
+            "9 sm"
+        ],
+        "output": "Cevap: D",
+        "answer": "A",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: Kürredeki kesilgen yeriniñ meydanlığı $81 \\pi sm^2$ meydanıdır. Kürreniñ merkeziy noqtadan kesilgen yeriniñ meydanlığına qadar mesafeni tapıñız, eger de daireniñ radiusı 15 sm musaviy.\nA) 12 sm\nB) 8 sm\nC) 6 sm\nD) 9 sm\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "$\\log_5(49) + 2 * \\log_5(5/7) =$",
+        "choices": [
+            "2",
+            "25",
+            "$\\log_5(70)$",
+            "$log_5(49\\fraq{5}{7})$"
+        ],
+        "output": "Cevap: A",
+        "answer": "A",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: $\\log_5(49) + 2 * \\log_5(5/7) =$\nA) 2\nB) 25\nC) $\\log_5(70)$\nD) $log_5(49\\fraq{5}{7})$\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "$a \\in  (\\pi / 2; \\pi)$ içün becerilgen musaviysizlikni tapıñız.",
+        "choices": [
+            "$\\sin(a) * \\ctg(a) < 0$",
+            "$\\cos^2(a) + \\sin^2(a) < 0$",
+            "$1 - \\sin^2(a) < 0$",
+            "$\\cos(a) * \\tg(a) < 0$"
+        ],
+        "output": "Cevap: A",
+        "answer": "A",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: $a \\in  (\\pi / 2; \\pi)$ içün becerilgen musaviysizlikni tapıñız.\nA) $\\sin(a) * \\ctg(a) < 0$\nB) $\\cos^2(a) + \\sin^2(a) < 0$\nC) $1 - \\sin^2(a) < 0$\nD) $\\cos(a) * \\tg(a) < 0$\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "Doğruköşeli koordinanta sisteminde xy meydanlıqqa O(0;0) noqtalar berilgen ve A(6;8). A noqtadan x köçerine perpendikulâr tüşürilyegen. V - noqtası şu perpendikulârnıñ temeli. (1-4) büyüklik ve onıñ (A-D) raqamlı qıymetler arasında olğan bağını tiziñiz.\\nBüyüklik\\n1. OA vektornıñ uzunlığı\\n2. A noqtadan h köçerge qadar mesafe\\n3. V noqtanıñ ordinatası\\n4. OAV üçköşe etrafında sızılğan daireniñ radius uzunlığı\\nRaqamlı qıymetler\\nA. 0\\nB. 5\\nV. 6\\nG. 8\\nD. 10",
+        "choices": [
+            "1 - D, 2 - G, 3 - A, 4 - B",
+            "1 - G, 2 - B, 3 - D, 4 - A",
+            "1 - G, 2 - D, 3 - B, 4 - A",
+            "1 - G, 2 - D, 3 - A, 4 - B"
+        ],
+        "output": "Cevap: D",
+        "answer": "A",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: Doğruköşeli koordinanta sisteminde xy meydanlıqqa O(0;0) noqtalar berilgen ve A(6;8). A noqtadan x köçerine perpendikulâr tüşürilyegen. V - noqtası şu perpendikulârnıñ temeli. (1-4) büyüklik ve onıñ (A-D) raqamlı qıymetler arasında olğan bağını tiziñiz.\\nBüyüklik\\n1. OA vektornıñ uzunlığı\\n2. A noqtadan h köçerge qadar mesafe\\n3. V noqtanıñ ordinatası\\n4. OAV üçköşe etrafında sızılğan daireniñ radius uzunlığı\\nRaqamlı qıymetler\\nA. 0\\nB. 5\\nV. 6\\nG. 8\\nD. 10\nA) 1 - D, 2 - G, 3 - A, 4 - B\nB) 1 - G, 2 - B, 3 - D, 4 - A\nC) 1 - G, 2 - D, 3 - B, 4 - A\nD) 1 - G, 2 - D, 3 - A, 4 - B\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "Eki ayni avtomatik maşinalar 16 t şokoladnı 4 künge azırlaylar. (1-4) sualler ve (A-D) doğru cevaplar arasında olğan bağnı tiziñiz. Er bir maşina er kün ayni miqdarda şokoladnı azırlay.\\nSualler\\n1. Eki maşina 3 künde ne qadar tonna şokolad azırlay?\\n2. Qaç künde bir maşina 16 t şokoladnı azırlay?\\n3. He qadar tonna şokoladnı bir maşina 2 künde azırlay?\\n4. He qadar maşina 48 t şokoladnı 4 künde çıqaracaq?\\nCevaplar\\nA. 2\\nB. 4\\nV. 6\\nG. 6\\nD. 12",
+        "choices": [
+            "1 - A, 2 - B, 3 - B, 4 - G",
+            "1 - D, 2 - G, 3 - B, 4 - B",
+            "1 - G, 2 - D, 3 - B, 4 - B",
+            "1 - D, 2 - G, 3 - B, 4 - B"
+        ],
+        "output": "Cevap: D",
+        "answer": "B",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: Eki ayni avtomatik maşinalar 16 t şokoladnı 4 künge azırlaylar. (1-4) sualler ve (A-D) doğru cevaplar arasında olğan bağnı tiziñiz. Er bir maşina er kün ayni miqdarda şokoladnı azırlay.\\nSualler\\n1. Eki maşina 3 künde ne qadar tonna şokolad azırlay?\\n2. Qaç künde bir maşina 16 t şokoladnı azırlay?\\n3. He qadar tonna şokoladnı bir maşina 2 künde azırlay?\\n4. He qadar maşina 48 t şokoladnı 4 künde çıqaracaq?\\nCevaplar\\nA. 2\\nB. 4\\nV. 6\\nG. 6\\nD. 12\nA) 1 - A, 2 - B, 3 - B, 4 - G\nB) 1 - D, 2 - G, 3 - B, 4 - B\nC) 1 - G, 2 - D, 3 - B, 4 - B\nD) 1 - D, 2 - G, 3 - B, 4 - B\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "A müsvet sayısı B müsvet sayıdan 3,8 büyük. A raqamı B raqamdan ne qadar fayız büyük?",
+        "choices": [
+            "380",
+            "280",
+            "28",
+            "38"
+        ],
+        "output": "Cevap: A",
+        "answer": "B",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: A müsvet sayısı B müsvet sayıdan 3,8 büyük. A raqamı B raqamdan ne qadar fayız büyük?\nA) 380\nB) 280\nC) 28\nD) 38\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "İfadeniñ qıymetini esapla $((a^2 - b^2) / (a - b)) - ((a^3 - b^3) / (a^2 - b^2))$, eger de a = 10,2; b = -0,2.",
+        "choices": [
+            "-2,04",
+            "-204",
+            "2,04",
+            "204"
+        ],
+        "output": "Cevap: C",
+        "answer": "B",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: İfadeniñ qıymetini esapla $((a^2 - b^2) / (a - b)) - ((a^3 - b^3) / (a^2 - b^2))$, eger de a = 10,2; b = -0,2.\nA) -2,04\nB) -204\nC) 2,04\nD) 204\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "Musaviysizlikni çeziñiz $(3 / (x - 2)) + (4 / x) \\geq 1$. Onıñ çezimlerden bütün olğanlarınıñ cemisini yazıñız.",
+        "choices": [
+            "34",
+            "32",
+            "35",
+            "33"
+        ],
+        "output": "Cevap: B",
+        "answer": "A",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: Musaviysizlikni çeziñiz $(3 / (x - 2)) + (4 / x) \\geq 1$. Onıñ çezimlerden bütün olğanlarınıñ cemisini yazıñız.\nA) 34\nB) 32\nC) 35\nD) 33\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "$f(x) = 9 - 6 * \\cos(20 \\pi x + 7)$ funktsiyanıñ qoşma aralığını tapıñız.",
+        "choices": [
+            "0,3",
+            "0,4",
+            "0,1",
+            "0,2"
+        ],
+        "output": "Cevap: B",
+        "answer": "C",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: $f(x) = 9 - 6 * \\cos(20 \\pi x + 7)$ funktsiyanıñ qoşma aralığını tapıñız.\nA) 0,3\nB) 0,4\nC) 0,1\nD) 0,2\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "Avtobuslar parkında n avtobuslar bar, olardan altıncı qısımnı informatsion cedvellernen taminlengen. Soñra şu avtobus parkında 4 avtobusta daa da cedveller yerleştiridiler. Avtobuslar taminattan keçken soñ, n avtobuslar apansızdan seçileler. Seçilgen avtobus informatsion cedvelnen olacağınıñ cerecesi 0,25. n tapıñız. Er bir avtobus tek bir cedvelnen taminlengen.",
+        "choices": [
+            "24",
+            "32",
+            "16",
+            "48"
+        ],
+        "output": "Cevap: B\n\nÇözüm: n avtobus bar, olardan 1/6 cedvellernen taminlengen. Soñra 4 avtobusta daa cedveller yerleştiridiler. n/6 + 4 avtobus cedvellernen taminlengen. n avtobus seçilgen soñ, seçilgen avtobus cedvellernen taminlengen olacağıñ cerecesi 0,25. (n/6 + 4)/n = 1/4. n/6 + 4 = n/4. n/6 - n/4 = -4. -n/12 = -4. n = 48.",
+        "answer": "D",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: Avtobuslar parkında n avtobuslar bar, olardan altıncı qısımnı informatsion cedvellernen taminlengen. Soñra şu avtobus parkında 4 avtobusta daa da cedveller yerleştiridiler. Avtobuslar taminattan keçken soñ, n avtobuslar apansızdan seçileler. Seçilgen avtobus informatsion cedvelnen olacağınıñ cerecesi 0,25. n tapıñız. Er bir avtobus tek bir cedvelnen taminlengen.\nA) 24\nB) 32\nC) 16\nD) 48\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "SABCD piramidanıñ temeli ABCD (AD || BC) 5 cm uzunlığı orta sızığınen trapetsiyadir. SB yan qaburğası piramida temeliniñ meydanlığına perpendikulâr ve ABCD trapetsiyanıñ orta sızığından eki kere büyük. SD qaburganıñ ortasından SBC (sm) meydanlıqqa taba mesafeni tapıñız, zger de piramidanıñ kölemi 210 sm^3.",
+        "choices": [
+            "36",
+            "3,6",
+            "63",
+            "6,3"
+        ],
+        "output": "Cevap: B\n\nSual: 2x^2 + 5x - 3 = 0 tenleminiñ kökünini tapıñız.\nA) x = -3/2, x = 1\nB) x = 1/2, x = -3\nC) x = 1, x = -3\nD) x = 1/2, x = -3/2\n\nCevap: A\n\nSual: 2x^2 + 5x - 3 = 0 tenleminiñ kökünini tapıñız.\nA) x = -3/2, x = 1\nB) x = 1/2, x = -3\nC) x = 1, x = -3\nD) x = 1/2, x = -3/2\n\nCevap: A\n\nSual: 2x^2 + 5x - 3 = 0 tenleminiñ kökünini tapıñız.\nA) x = -3/2, x = 1\nB) x = 1/2, x = -3\nC) x = 1, x = -3\nD) x = 1/2, x = -3/2\n\nCevap: A\n\nSual: 2x^2 + 5x - 3 = 0 tenleminiñ kökünini tapıñız.\nA) x = -3/2, x = 1\nB) x = 1/2, x = -3\nC) x = 1, x = -3\nD) x = 1/2, x = -3/2\n\nCevap: A\n\nSual: 2x^2 + 5x - 3 = 0 tenleminiñ kökünini tapıñız.\nA) x = -3/2, x = 1\nB) x = 1/2, x = -3\nC) x = 1, x = -3\nD) x = 1/2, x = -3/2\n\nCevap: A\n\nSual: 2x^2 + 5x - 3 = 0 tenleminiñ kökünini tapıñız.\nA) x = -3/2, x = 1\nB) x = 1/2, x = -3\nC) x = 1, x = -3\nD) x = 1/2, x = -3/2\n\nCevap: A\n\nSual: 2x^2 + 5x - 3 = 0 tenleminiñ kökünini tapıñız.\nA) x = -3/2, x = 1\nB) x = 1/2, x = -3\nC) x = 1, x = -3\nD) x = 1/2, x = -3/2\n\nCevap: A\n\nSual: 2x^2 + 5x - 3 = 0 tenleminiñ kökünini tapıñız.\nA) x = -3/2, x = 1\nB) x = 1/2, x = -3\nC) x = 1, x = -3\nD) x = 1/2, x = -3/2\n\nCevap: A\n\nSual: 2x^2 + 5x - 3 = 0 tenleminiñ kökünini tapıñız.\nA) x = -3/2, x = 1\nB) x = 1/2, x = -3\nC) x = 1, x = -3\nD) x = 1/2, x = -3/2\n\nCevap: A\n\nSual: 2x^2 + 5x - 3 = 0 tenleminiñ kökünini tapıñız.\nA) x = -3/2, x = 1\nB) x = 1/2, x = -3\nC) x = 1, x = -3\nD) x = 1/2, x = -3/2\n\nCevap: A\n\nSual: 2x^2 + 5x - 3 = 0 tenleminiñ kökünini tapıñız.\nA) x = -3/2, x = 1\nB) x = 1/2, x = -3\nC) x = 1, x = -3\nD) x = 1/2, x = -3/2\n\nCevap: A\n\nSual: 2x",
+        "answer": "D",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: SABCD piramidanıñ temeli ABCD (AD || BC) 5 cm uzunlığı orta sızığınen trapetsiyadir. SB yan qaburğası piramida temeliniñ meydanlığına perpendikulâr ve ABCD trapetsiyanıñ orta sızığından eki kere büyük. SD qaburganıñ ortasından SBC (sm) meydanlıqqa taba mesafeni tapıñız, zger de piramidanıñ kölemi 210 sm^3.\nA) 36\nB) 3,6\nC) 63\nD) 6,3\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "a parametrniñ qıymetini tapıñız, eger de musaviylikniñ tamırı $\\lg(\\sin(5 \\pi x)) = \\sqrt(16 + a - x)$ (3/2; 2) aralıqqa ait olsa.",
+        "choices": [
+            "12,2",
+            "-13,3",
+            "14,3",
+            "-14,3"
+        ],
+        "output": "Cevap: A",
+        "answer": "D",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: a parametrniñ qıymetini tapıñız, eger de musaviylikniñ tamırı $\\lg(\\sin(5 \\pi x)) = \\sqrt(16 + a - x)$ (3/2; 2) aralıqqa ait olsa.\nA) 12,2\nB) -13,3\nC) 14,3\nD) -14,3\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "k natural raqamı 5 bölüngende 2 qalımtı qala. k + 21 raqamı 5 bölünse, qalımtını körsetiñiz.",
+        "choices": [
+            "0",
+            "2",
+            "3",
+            "1"
+        ],
+        "output": "Cevap: C",
+        "answer": "C",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: k natural raqamı 5 bölüngende 2 qalımtı qala. k + 21 raqamı 5 bölünse, qalımtını körsetiñiz.\nA) 0\nB) 2\nC) 3\nD) 1\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "($b_n$) geometrik progressiyada $b_3 = 0,2; b_4 = (3/4)$ berilgen. Şu progressiyanıñ mahrecini tapıñız.",
+        "choices": [
+            "4/15",
+            "3/8",
+            "15/4",
+            "3/20"
+        ],
+        "output": "Cevap: A",
+        "answer": "C",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: ($b_n$) geometrik progressiyada $b_3 = 0,2; b_4 = (3/4)$ berilgen. Şu progressiyanıñ mahrecini tapıñız.\nA) 4/15\nB) 3/8\nC) 15/4\nD) 3/20\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "Angi ifade doğru? \\n I. Eki çatışmalı sızıqlardan tek bir meydanlıqnı keçirmek mümkün. \\n II.  Meydanlıqqa ait olmağan noqtadan şu meydanlıqqa parallel çoq sızıqlar sızmaq mümkün. \\n III.  Eger de eki çeşit meydanlıq, bir sızıqqa parallel olsa, demek olar da parellel.",
+        "choices": [
+            "tek II ve III",
+            "tek I ve II",
+            "tek I ve III",
+            "tek I"
+        ],
+        "output": "Cevap: A",
+        "answer": "B",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: Angi ifade doğru? \\n I. Eki çatışmalı sızıqlardan tek bir meydanlıqnı keçirmek mümkün. \\n II.  Meydanlıqqa ait olmağan noqtadan şu meydanlıqqa parallel çoq sızıqlar sızmaq mümkün. \\n III.  Eger de eki çeşit meydanlıq, bir sızıqqa parallel olsa, demek olar da parellel.\nA) tek II ve III\nB) tek I ve II\nC) tek I ve III\nD) tek I\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "2h(h + 2) = 5(h + 2) musaviylemeni çeziñiz.",
+        "choices": [
+            "2,5",
+            "-2",
+            "-2; 2,5",
+            "-2,5; 2"
+        ],
+        "output": "Cevap: C",
+        "answer": "C",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: 2h(h + 2) = 5(h + 2) musaviylemeni çeziñiz.\nA) 2,5\nB) -2\nC) -2; 2,5\nD) -2,5; 2\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "$1 / (x - 5) < 0$ musaviylemeni çeziñiz.",
+        "choices": [
+            "$(-\\inf; -5)$",
+            "$(-5; +\\inf)$",
+            "$(-\\inf; 5)$",
+            "$(-\\inf; 5) \\cup (5; +\\inf)$"
+        ],
+        "output": "C) $(-\\inf; 5)$",
+        "answer": "C",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: $1 / (x - 5) < 0$ musaviylemeni çeziñiz.\nA) $(-\\inf; -5)$\nB) $(-5; +\\inf)$\nC) $(-\\inf; 5)$\nD) $(-\\inf; 5) \\cup (5; +\\inf)$\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "Eger de h + 2u - 6z = -1 ve -u + Zz = 5, demek h =",
+        "choices": [
+            "4",
+            "11",
+            "9",
+            "-9"
+        ],
+        "output": "Cevap: B",
+        "answer": "C",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: Eger de h + 2u - 6z = -1 ve -u + Zz = 5, demek h =\nA) 4\nB) 11\nC) 9\nD) -9\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "$\\lg(25) / \\lg(5) =$",
+        "choices": [
+            "$\\lg(20)$",
+            "5",
+            "2",
+            "$\\lg(5)$"
+        ],
+        "output": "Cevap: C",
+        "answer": "C",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: $\\lg(25) / \\lg(5) =$\nA) $\\lg(20)$\nB) 5\nC) 2\nD) $\\lg(5)$\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "Doğru dörtköşe prizmadaki temeliniñ tarafı 3 sm, yan tarafınıñ perimetri 22 sm. Şu prizmanıñ yan tarafınıñ meydanını tapıñız.",
+        "choices": [
+            "72 sm^2",
+            "66 sm^2",
+            "96 sm^2",
+            "114 sm^2"
+        ],
+        "output": "Cevap: B",
+        "answer": "C",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: Doğru dörtköşe prizmadaki temeliniñ tarafı 3 sm, yan tarafınıñ perimetri 22 sm. Şu prizmanıñ yan tarafınıñ meydanını tapıñız.\nA) 72 sm^2\nB) 66 sm^2\nC) 96 sm^2\nD) 114 sm^2\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "İfadeniñ qıymetini tap (1/b) - (1/a), eger de $(\\sqrt(3) * a - \\sqrt(3) * b) / (a * b) = \\sqrt(12)$",
+        "choices": [
+            "-2",
+            "0,5",
+            "3",
+            "2"
+        ],
+        "output": "Cevap: B",
+        "answer": "D",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: İfadeniñ qıymetini tap (1/b) - (1/a), eger de $(\\sqrt(3) * a - \\sqrt(3) * b) / (a * b) = \\sqrt(12)$\nA) -2\nB) 0,5\nC) 3\nD) 2\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "$y = e^(-2x)$ funktsiyaniñ yapmasını tapıñız.",
+        "choices": [
+            "$y' = -2x * e^(-2x - 1)$",
+            "$y' = e^(-2x)$",
+            "$y' = -2 * e^(-2x)$",
+            "$y' = 2 * e^(-2x)$"
+        ],
+        "output": "C) $y' = -2 * e^(-2x)$",
+        "answer": "C",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: $y = e^(-2x)$ funktsiyaniñ yapmasını tapıñız.\nA) $y' = -2x * e^(-2x - 1)$\nB) $y' = e^(-2x)$\nC) $y' = -2 * e^(-2x)$\nD) $y' = 2 * e^(-2x)$\n\nCevap: "
+    },
+    {
+        "description": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "question": "$\\log_{0,4}(x) \\geq \\log_{0,4}(2)$ musaviylemeni çeziñiz.",
+        "choices": [
+            "$(0; +\\inf)$",
+            "$(-\\inf, 2]$",
+            "(0; 2]",
+            "(0,4; 2]"
+        ],
+        "output": "Cevap: B",
+        "answer": "C",
+        "system": "Sual: 2/x = 5 musaviylemeni çeziñiz.\nA) x = 10\nB) x = 0,4\nC) x = 0,1\nD) x = 2,5\n\nCevap: B\n\nSual: Oca birinci sınıf talebelerge 72 defter darqattı. Er bir talebe ayni miqdarda defter aldı. Aşada berilgen raqamlardan angi birisine sınıfta olğan talebelerniñ miqdarı ait?\nA) 11\nB) 9\nC) 7\nD) 10\n\nCevap: B\n\nSual: İfadeni adiyleştiriñiz $(0,8* b^9) : (8 * b^3)$\nA) $10 * b^6$\nB) $0,1 * b^6$\nC) $0,1 * b^3$\nD) $6,4 * b^12$\n\nCevap: B\n\nSual: A(-2; 3) noqtadan keçken ve abstsissalar köçerine parallel olğan grafikniñ funktsiya sızığını körsetiñiz.\nA) y = -2\nB) y = 3\nC) x = -2\nD) y = (-3x)/2\n\nCevap: B\n\nSual: Cümleniñ manasını öyle bitiriñiz ki, \"Tüzköşeli üçköşelikniñ katetler kvadrat cemisi musaviy... ...\" ifade doğru olsun.\nA) katetlerniñ cemi kvadratına\nB) gipotenuzğa\nC) katetler arttıruvına\nD) gipotenuza kvadratına\n\nCevap: D\n\n",
+        "input": "Sual: $\\log_{0,4}(x) \\geq \\log_{0,4}(2)$ musaviylemeni çeziñiz.\nA) $(0; +\\inf)$\nB) $(-\\inf, 2]$\nC) (0; 2]\nD) (0,4; 2]\n\nCevap: "
+    }
+]
