@@ -1,0 +1,394 @@
+[
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Jańa Zelandiyanıń jergilikli xalqı ne dep ataladı?",
+        "choices": [
+            "maorilar",
+            "malagasiyer",
+            "sambolar",
+            "papuaslar"
+        ],
+        "output": "Juwap: A) maorilar",
+        "answer": "A",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Jańa Zelandiyanıń jergilikli xalqı ne dep ataladı?\nA) maorilar\nB) malagasiyer\nC) sambolar\nD) papuaslar\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Jer beti klimatınıń hár qıylı bolıwına tiykarınan neshe faktor tásir etedi?",
+        "choices": [
+            "4",
+            "3",
+            "5",
+            "2"
+        ],
+        "output": "Juwap: **C) 5**\n\nJer beti klimatınıń hár qıylı bolıwına 5 asası faktor tásir etedi:\n\n1. **Kúresh:** Kúresh, Jerge túsirip, isıq berip, atmosferada aylanıp, bulutlardiń payda bolmasına sebep boladı.\n2. **Enlik:** Ekvatorǵa yaqin bolǵan jerler, qutblardan kóbiye isıq alǵanlıqtan, sıldıq klimatlı boladı.\n3. **Bııqıqlıq:** Dengizler, isıqtıń qabıl álishinde rol atıp, klimattıń samaraq bolmasına sebep boladı.\n4. **Balandlıq:** Balandlıq artqanda, hawanıń sıldıq bolıp, isıq azayıp ketedi.\n5. **Relyef:** Dağlar, dağ sıraları, hawanıń qızılmaǵa, soğuqqa, yagışlılıqqa sebep boladı.",
+        "answer": "B",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Jer beti klimatınıń hár qıylı bolıwına tiykarınan neshe faktor tásir etedi?\nA) 4\nB) 3\nC) 5\nD) 2\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Uzınlıģı 186 km, ortasha jıllıq suw sarpı sekundına 7,5 metr kub bolģan dárya qaysı?",
+        "choices": [
+            "Sherabaddárya",
+            "Surxandárya",
+            "Topalandárya",
+            "Sanzar"
+        ],
+        "output": "Juwap: **B) Surxandárya**",
+        "answer": "A",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Uzınlıģı 186 km, ortasha jıllıq suw sarpı sekundına 7,5 metr kub bolģan dárya qaysı?\nA) Sherabaddárya\nB) Surxandárya\nC) Topalandárya\nD) Sanzar\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Marģuzar dizbegi qaysı taw dizbeginiń dawamı esaplanadı?",
+        "choices": [
+            "Hisar",
+            "Qarjantaw",
+            "Zarafshan",
+            "Túrkstan"
+        ],
+        "output": "Juwap: **A) Hisar** \n\nMargusar dizbegi Hisar taw dizbeginiń dawamı esaplanadı.",
+        "answer": "D",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Marģuzar dizbegi qaysı taw dizbeginiń dawamı esaplanadı?\nA) Hisar\nB) Qarjantaw\nC) Zarafshan\nD) Túrkstan\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Afrika materiginiń eń shetki arqa hám qubla bólimleri qaysı klimat poyaslarında jaylasqan?",
+        "choices": [
+            "ortasha",
+            "subtropikalıq",
+            "tropikalıq",
+            "subekvatorial"
+        ],
+        "output": "Juwap: **D) subekvatorial**\n\n**Şettirme:**\n\n* Afrika materigi, şimali hám janubında tropikalıq qurşaqqa kirip, ekvatorğa yaqin. \n* Subekvatorial klimat poyasında, ekvatorğa yaqin jaylasqan bölgelerde,  tropikalıq klimattıń xususiyatları bar. \n* Afrika materiginin eń shetki arqa hám qubla bölgeleri subekvatorial klimat poyasında jaylasqan.",
+        "answer": "B",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Afrika materiginiń eń shetki arqa hám qubla bólimleri qaysı klimat poyaslarında jaylasqan?\nA) ortasha\nB) subtropikalıq\nC) tropikalıq\nD) subekvatorial\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Qaysı teńizdiń suwınıń duzlılıǵı 37-39‰ ni quraydı?",
+        "choices": [
+            "Qızıl teńiz",
+            "Qara teńiz",
+            "Baltıka teńizi",
+            "Jer Orta teńizi"
+        ],
+        "output": "Juwap: A) Qızıl teńiz \n\n\nQızıl teńiz suwınıń duzlılıǵı 37-39‰ ni quraydı.",
+        "answer": "D",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Qaysı teńizdiń suwınıń duzlılıǵı 37-39‰ ni quraydı?\nA) Qızıl teńiz\nB) Qara teńiz\nC) Baltıka teńizi\nD) Jer Orta teńizi\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "1952-jılı Ózbekstan xalqınıń qansha bólegin hayallar quraģan?",
+        "choices": [
+            "43%",
+            "57%",
+            "48%",
+            "52%"
+        ],
+        "output": "Juwap: **C) 48%** \n\n1952-jılı Ózbekstan xalqınıń 48% bólegin hayallar quraģan.",
+        "answer": "D",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: 1952-jılı Ózbekstan xalqınıń qansha bólegin hayallar quraģan?\nA) 43%\nB) 57%\nC) 48%\nD) 52%\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Tómendegi qaysı mámleket 1993-jılı kóp jıllıq urıs nátiyjesinde Efiopiyanıń quramınan bólinip shıqqan?",
+        "choices": [
+            "Somali",
+            "Eritreya",
+            "Jibuti",
+            "Keniya"
+        ],
+        "output": "Juwap: B) Eritreya",
+        "answer": "B",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Tómendegi qaysı mámleket 1993-jılı kóp jıllıq urıs nátiyjesinde Efiopiyanıń quramınan bólinip shıqqan?\nA) Somali\nB) Eritreya\nC) Jibuti\nD) Keniya\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Tómendegi qaysı ilimpaz barlıq antropogen landshaftlardı 4 toparǵa ajıratqan?",
+        "choices": [
+            "V.B. Sochava",
+            "F.N. Milkov",
+            "A.G. Isachenko",
+            "V.A. Vernadskiy"
+        ],
+        "output": "Juwap: **A) V.B. Sochava** \n\nV.B. Sochava antropogen landshaftlardı 4 toparğa ajıratqan:\n\n1. **Antropogen landshaftlardıń bashlang'ıshı toparı:**  Insan faaliyetinin ta'siri az, tabiiy landshaftlarğa o'xshaş.\n2. **Antropogen landshaftlardıń ósiwi toparı:** Insan faaliyetinin ta'siri seziledi, birok tabiiy landshaftlardıń xususiyatlari saqlanǵan.\n3. **Antropogen landshaftlardıń qat'iy ósiwi toparı:** Insan faaliyetinin ta'siri juda katta, tabiiy landshaftlardıń xususiyatlari deisken.\n4. **Antropogen landshaftlardıń toliq ósiwi toparı:** Insan faaliyetinin ta'siri maksimal, tabiiy landshaftlardıń xususiyatlari tamamiyle yo'qoladı.",
+        "answer": "C",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Tómendegi qaysı ilimpaz barlıq antropogen landshaftlardı 4 toparǵa ajıratqan?\nA) V.B. Sochava\nB) F.N. Milkov\nC) A.G. Isachenko\nD) V.A. Vernadskiy\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Qaysı dáwirde Antarktida materiginde jıllı, ortasha klimatlar bolıp, qalıń aǵashlar ósken?",
+        "choices": [
+            "perm",
+            "neogen",
+            "taskómir",
+            "yura"
+        ],
+        "output": "Juwap: **C) taskómir**\n\nTaskómir dáwirinde Antarktida materigi bugindgi künlerdegi qutbqa qaraganda tropik klimede jaylasqan edi. Bu dáwirde jıllı, ılım klimatlar bolıp, qalıń aǵashlar ósken.",
+        "answer": "C",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Qaysı dáwirde Antarktida materiginde jıllı, ortasha klimatlar bolıp, qalıń aǵashlar ósken?\nA) perm\nB) neogen\nC) taskómir\nD) yura\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Flint-Mamont úńgiri Appalachi tawınıń qaysı bóliminde jaylasqan?",
+        "choices": [
+            "arqa-shıǵıs",
+            "qubla-shıǵıs",
+            "qubla-batıs",
+            "arqa-batıs"
+        ],
+        "output": "Juwap: **B) qubla-shıǵıs** \n\nFlint-Mamont úńgiri Appalachi tawınıń qubla-shıǵıs bóliminde jaylasqan.",
+        "answer": "C",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Flint-Mamont úńgiri Appalachi tawınıń qaysı bóliminde jaylasqan?\nA) arqa-shıǵıs\nB) qubla-shıǵıs\nC) qubla-batıs\nD) arqa-batıs\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Eger hawa temperaturası 30°C, hawanıń salıstırmalı ıģallıģı 80% bolsa, 1 metr kub hawanıń toyınıwı ushın qansha suw puwı kerek boladı?",
+        "choices": [
+            "8 g",
+            "49 g",
+            "6 g",
+            "10 g"
+        ],
+        "output": "Juwap: **B) 18 g**\n\n**Sheshım:**\n\nHawanıń toyınıwı ushın kerekli suw puwı, hawa temperaturası, hawanıń salıstırmalı ıģallıģı menen belgilenedi. \n\n* **Hawanıń salıstırmalı ıģallıģı:** Hawa 1 kg havada neşe qansha gram suw buğası bar ekenin kórsetidi.\n\n* **1 metr kub hawanıń toyınıwı:** 1 metr kub hawanıń 1 kg hawanıń toyınıwına teng.\n\n**Eger hawa temperaturası 30°C bolsa, 1 kg havada 30°C temperaturadagı hawanıń salıstırmalı ıģallıģına (80%) qarap 23 g suw buğası bar.\n\n1 metr kub hawanıń toyınıwı = 23 g / kg * 1 kg = 23 g\n\n**Demek, 1 metr kub hawanıń toyınıwı ushın 23 g suw puwı kerek boladı.**",
+        "answer": "C",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Eger hawa temperaturası 30°C, hawanıń salıstırmalı ıģallıģı 80% bolsa, 1 metr kub hawanıń toyınıwı ushın qansha suw puwı kerek boladı?\nA) 8 g\nB) 49 g\nC) 6 g\nD) 10 g\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Antarktida materiginde jaylasqan hárekettegi vulkandı tabıń.",
+        "choices": [
+            "Lamington",
+            "Slamet",
+            "Erebus",
+            "Orisaba"
+        ],
+        "output": "Juwap: C) Erebus \n\n\nErebus vulkanı Antarktida materiginde jaylasqan hárekettegi bir vulkandır.",
+        "answer": "C",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Antarktida materiginde jaylasqan hárekettegi vulkandı tabıń.\nA) Lamington\nB) Slamet\nC) Erebus\nD) Orisaba\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Mikroneziyanıń quramına kiriwshi atawlardı belgileń.",
+        "choices": [
+            "Nauru, Marshall",
+            "Fidji, Kuk",
+            "Samoa, Mariana",
+            "Bismark, Jana Gebrit"
+        ],
+        "output": "Juwap: **A) Nauru, Marshall** \n\nMikroneziya,  Nauru, Marshall, Kiribati, Palau, Federativ Mikroneziya  davlatlarını özińde qamtiydi.",
+        "answer": "A",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Mikroneziyanıń quramına kiriwshi atawlardı belgileń.\nA) Nauru, Marshall\nB) Fidji, Kuk\nC) Samoa, Mariana\nD) Bismark, Jana Gebrit\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Afrika materigindegi qaysı dáryalar Hind okeanı basseyninde jaylasqan?",
+        "choices": [
+            "Tana, Jubba",
+            "Zambezi, Niger",
+            "Niger, Oranj",
+            "Zair, Nil"
+        ],
+        "output": "Juwap: A) Tana, Jubba \n\n\nTana ve Jubba çayları Afrika'nın doğusunda yer alır ve Hint Okyanusu'na dökülür.",
+        "answer": "A",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Afrika materigindegi qaysı dáryalar Hind okeanı basseyninde jaylasqan?\nA) Tana, Jubba\nB) Zambezi, Niger\nC) Niger, Oranj\nD) Zair, Nil\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Tawlarda tábiyat kompleksiniń kóp yamasa az bolıwı qaysı faktorlarģa baylanıslı? 1) geografiyalıq ornına; 2) antropogen faktorģa; 3) Koriolis kúshine; 4) tawdıń bálentligine.",
+        "choices": [
+            "3, 4",
+            "1, 4",
+            "2, 3",
+            "1, 2"
+        ],
+        "output": "Juwap: **D) 1, 2**\n\n**Şeşıriş:**\n\n* **Geografiyalıq orın (1):** Tawlardıń tábiyat kompleksiniń kóp yamasa az bolıwına ta'sir etedi. Masalan, ekvatorlardıń yaqınında jaylasqan tawlar, tropik iqlim shıraqtılığında bolıp, kóp yamasa az tawlıqqa iye bolıwı mümkin.\n\n* **Antropogen faktorlar (2):** İnsanın tawlardıń tábiyatına ta'sir ettiriwi, tawlardıń kóp yamasa az bolıwına sebep boladı. Masalan, ağaç kesiw, qırğın, qazaqıstanlıq tawlardıń azalmasına sebep boladı.\n\n* **Koriolis kúshine (3):**  Tawlardıń tábiyat kompleksiniń kóp yamasa az bolıwına doğrudan ta'sir etpeýdi. Koriolis kúshine, Yerdiń aylanıwı sebebiyle payda bolıp, atmosferada hawadıń qozğalıswına ta'sir etedi.\n\n* **Tawdıń bálentligi (4):** Tawlardıń tábiyat kompleksiniń kóp yamasa az bolıwına doğrudan ta'sir etpeýdi. Tawdıń bálentligi, tawlardıń qalıp qolıwına ta'sir etedi.",
+        "answer": "B",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Tawlarda tábiyat kompleksiniń kóp yamasa az bolıwı qaysı faktorlarģa baylanıslı? 1) geografiyalıq ornına; 2) antropogen faktorģa; 3) Koriolis kúshine; 4) tawdıń bálentligine.\nA) 3, 4\nB) 1, 4\nC) 2, 3\nD) 1, 2\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Dúnya okeanınıń 3000 m. den 6000 m. tereńlikke shekemgi bólimleri ne dep ataladı?",
+        "choices": [
+            "shelf",
+            "batial",
+            "okean shuqırıqları",
+            "abissal"
+        ],
+        "output": "Juwap: D) abissal",
+        "answer": "D",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Dúnya okeanınıń 3000 m. den 6000 m. tereńlikke shekemgi bólimleri ne dep ataladı?\nA) shelf\nB) batial\nC) okean shuqırıqları\nD) abissal\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Tashkentte jıl dawamında ortasha esapta neshe mm. ge jaqın jawın jawadı?",
+        "choices": [
+            "600",
+            "400",
+            "300",
+            "500"
+        ],
+        "output": "Juwap: **A) 600**\n\nTashkentte jıl dawamında ortasha esapta 600 mm. ge jaqın jawın jawadı.",
+        "answer": "B",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Tashkentte jıl dawamında ortasha esapta neshe mm. ge jaqın jawın jawadı?\nA) 600\nB) 400\nC) 300\nD) 500\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Tómendegi sayaxatshılardan qaysı biri Nil dáryasınıń baslanıw salası Kagera ekenligin anıqladı?",
+        "choices": [
+            "N.I.Vavilov",
+            "D.Livingston",
+            "Ibn Battuta",
+            "G.M. Stenli"
+        ],
+        "output": "Juwap: **D) G.M. Stenli** \n\nSir Henry Morton Stanley (G.M. Stenli) Nil dáryasınıń baslanıw salası Kagera ekenligin anıqlağan sayaxatshıl.",
+        "answer": "D",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Tómendegi sayaxatshılardan qaysı biri Nil dáryasınıń baslanıw salası Kagera ekenligin anıqladı?\nA) N.I.Vavilov\nB) D.Livingston\nC) Ibn Battuta\nD) G.M. Stenli\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Antarktida materiginde pingvinlerdiń neshe túri tarqalģan?",
+        "choices": [
+            "11",
+            "17",
+            "15",
+            "16"
+        ],
+        "output": "Juwap: **C) 15**\n\nAntarktida materiginde 15 pingvin turi tarqalğan.",
+        "answer": "B",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Antarktida materiginde pingvinlerdiń neshe túri tarqalģan?\nA) 11\nB) 17\nC) 15\nD) 16\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Tómendegilerden qaysı biriniń uzınlıģı 60 mıń km. den artıq?",
+        "choices": [
+            "Batıs samallar",
+            "Orta okean dizbegi",
+            "Ekvator sızıģı",
+            "Alp-Gimalay poyası"
+        ],
+        "output": "Juwap: **B) Orta okean dizbegi** \n\nOrta okean dizbegi,  65,000 km-den ziyade uzunluğa sahip, dünyanın en uzun dağ sırasıdır.",
+        "answer": "B",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Tómendegilerden qaysı biriniń uzınlıģı 60 mıń km. den artıq?\nA) Batıs samallar\nB) Orta okean dizbegi\nC) Ekvator sızıģı\nD) Alp-Gimalay poyası\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Dúnya okeanındaģı erkin kóship júriwshi organizmler ne dep ataladı?",
+        "choices": [
+            "bentoslar",
+            "krikler",
+            "planktonlar",
+            "nektonlar"
+        ],
+        "output": "Juwap: D) nektonlar \n\n\nNektonlar suda erkin úskenip júriwi múmkin bolǵan, suwǵa qarsı kúreshtirip, özleri qosıp júriwi múmkin bolǵan organizmlerdi bildiredi.",
+        "answer": "D",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Dúnya okeanındaģı erkin kóship júriwshi organizmler ne dep ataladı?\nA) bentoslar\nB) krikler\nC) planktonlar\nD) nektonlar\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Atlantika okeanınıń eń tar bólimi qanshanı quraydı?",
+        "choices": [
+            "3230 km",
+            "2620 km",
+            "2660 km",
+            "2260 km"
+        ],
+        "output": "Juwap: A) 3230 km \n\n\nAtlantika okeanınıń eń tar bólimi 3230 km.",
+        "answer": "B",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Atlantika okeanınıń eń tar bólimi qanshanı quraydı?\nA) 3230 km\nB) 2620 km\nC) 2660 km\nD) 2260 km\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Antarktida materigindegi Xalli ilimiy stanciyası qaysı mámleketke tiyisli?",
+        "choices": [
+            "Avstraliya",
+            "Ullı Britaniya",
+            "QAR",
+            "AQSH"
+        ],
+        "output": "Juwap: C) QAR",
+        "answer": "B",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Antarktida materigindegi Xalli ilimiy stanciyası qaysı mámleketke tiyisli?\nA) Avstraliya\nB) Ullı Britaniya\nC) QAR\nD) AQSH\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Eger gorizontallar 50 metrden ótkizilse, Ózbekstannıń eń biyik noqatın neshe gorizontal arqalı súwretlew múmkin?",
+        "choices": [
+            "43",
+            "96",
+            "46",
+            "92"
+        ],
+        "output": "Ózbekstannıń eń biyik noqatın, Qoratog'dağı Khazrati Sultan, 4207 metr balandılıqta. \n\nEger gorizontallar 50 metr aralıqta chizilsesse, Khazrati Sultan 4207 / 50 = 84.14 gorizontal arqalı súwretlenedi.\n\nDemek, javap **84** boladı. \n\n**Eger** sorawda \"neşe\" degen so'z bolsa, javap **85** boladı.",
+        "answer": "D",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Eger gorizontallar 50 metrden ótkizilse, Ózbekstannıń eń biyik noqatın neshe gorizontal arqalı súwretlew múmkin?\nA) 43\nB) 96\nC) 46\nD) 92\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Eratosfen tárepinen dúzilgen dúnya kartasında qaysı tábiyiy geografiyalıq obyekt kórsetilgen?",
+        "choices": [
+            "Bontus dáryası",
+            "Ra dáryası",
+            "Hindistan teńizi",
+            "Tavr tawları"
+        ],
+        "output": "Juwap: **D) Tavr tawları**\n\nEratosfen dúnya kartasında  Tavr tawlarını kórsetken.",
+        "answer": "D",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Eratosfen tárepinen dúzilgen dúnya kartasında qaysı tábiyiy geografiyalıq obyekt kórsetilgen?\nA) Bontus dáryası\nB) Ra dáryası\nC) Hindistan teńizi\nD) Tavr tawları\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Qaysı qatlamda bultlar payda bolıp, jawınlar jawadı, hawa rayı ózgerip turadı?",
+        "choices": [
+            "stratosfera",
+            "termosfera",
+            "troposfera",
+            "mezosfera"
+        ],
+        "output": "Juwap: C) troposfera \n\n\nTroposfera -  Yer atmosferasının' en alçak qatı bolıp,  bultlar payda bolıp, jawınlar jawadı, hawa rayı ózgerip turadı.",
+        "answer": "C",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Qaysı qatlamda bultlar payda bolıp, jawınlar jawadı, hawa rayı ózgerip turadı?\nA) stratosfera\nB) termosfera\nC) troposfera\nD) mezosfera\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "question": "Tawdıń eteginde hawa temperaturası +22°C bolsa, 6000 metr biyikliktegi taw shıńında hawa temperaturası neshe gradusqa teń boladı?",
+        "choices": [
+            "-18°C",
+            "-16°C",
+            "-12°C",
+            "-14°C"
+        ],
+        "output": "Juwap: **A) -18°C**\n\n**Şert:**\n\n* Hawa temperaturası 1000 metr biyiklikke ko'tarıldığında ortalama 6.5°C azayadı.\n\n**Esep:**\n\n* 6000 metr / 1000 metr = 6 \n* 6 * 6.5°C = 39°C\n* +22°C - 39°C = -17°C\n\n**Natije:** Taw shıńında hawa temperaturası -18°C ga teń boladı.",
+        "answer": "D",
+        "system": "Soraw: Qaysı juwapta Atlantika okeanına tiyisli teńiz atı keltirilgen?\nA) Balear\nB) Barenc\nC) Norvegiya\nD) Bali\n\nJuwap: A\n\nSoraw: Okean hám teńizlerdiń 200 m den 3000 m tereńlikke shekemgi bólimleri ne dep ataladı?\nA) batial\nB) okean shuqırıqlari\nC) shelf\nD) Abissal\n\nJuwap: A\n\nSoraw: Dalvarzin shóli qaysı tábiyiy geografiyalıq úlkede jaylasqan?\nA) Qashqadárya\nB) Mirzashól\nC) Shırshiq-Ahangaran\nD) Ferǵana\n\nJuwap: C\n\nSoraw: Arqa Muz okeanındaģı tereńligi 3940 m bolģan shuqırlıqtı tabıń.\nA) Makarov\nB) Amundsen\nC) Kanada\nD) Nansen\n\nJuwap: A\n\nSoraw: Tómendegi qaysı dáryanıń atı indeecler tilinde 'úlken dárya' degen mánisti bildiredi?\nA) Missuri\nB) Kolorado\nC) Missisipi\nD) Makkenzi\n\nJuwap: C\n\n",
+        "input": "Soraw: Tawdıń eteginde hawa temperaturası +22°C bolsa, 6000 metr biyikliktegi taw shıńında hawa temperaturası neshe gradusqa teń boladı?\nA) -18°C\nB) -16°C\nC) -12°C\nD) -14°C\n\nJuwap: "
+    }
+]
