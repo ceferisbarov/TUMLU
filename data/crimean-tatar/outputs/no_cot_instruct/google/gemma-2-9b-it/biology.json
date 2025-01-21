@@ -1,0 +1,534 @@
+[
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Qaysı devirniñ devamlığı bütün üceyre qaytavlav vaqtınıñ 90 fayızına barıp yete?",
+        "choices": [
+            "devir arasınıñ",
+            "aradevirniñ",
+            "ilkdevirniñ",
+            "soñdevirniñ"
+        ],
+        "output": "Cevap: **B) aradevirniñ** \n\nAradevir, üceyrenin çoğunluğunu oluşturan ve çoğalma, büyüme ve metabolizma gibi temel fonksiyonları gerçekleştiren dönemdir.",
+        "answer": "A",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Qaysı devirniñ devamlığı bütün üceyre qaytavlav vaqtınıñ 90 fayızına barıp yete?\nA) devir arasınıñ\nB) aradevirniñ\nC) ilkdevirniñ\nD) soñdevirniñ\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Yarıq kvantı tilakoid membranasına tüşe. Yarıqicatilesi (fotosintezi) başlanğan ketişatınıñ adını tapıñız.",
+        "choices": [
+            "suvnıñ yarıqirüvi",
+            "tatım icatilesi",
+            "elektronlar qozğaluvı",
+            "nariyüzüm ekşiliginiñ ekşimesi"
+        ],
+        "output": "Doğru cevap **C) elektronlar qozğaluvı** \n\nİşte nedeni:\n\n* **Yarıq kvantı tilakoid membranasında yer alır.** Bu membran fotosentezde önemli bir rol oynar.\n* **Yarıqicatilesi (fotosentez) başlanğan ketişatınıñ adını tapıñız.**  Fotosentez, ışık enerjisini kimyasal enerjiye dönüştüren bir süreçtir. Yarıq kvantı, bu enerji dönüşümünün ilk aşamasını sağlar.\n* **Elektronlar qozğaluvı**  yarıq kvantında meydana gelen olaydır. ışık enerjisiyle su moleküllerinden elektronlar koparılır ve bu elektronlar bir elektron taşıma zinciri boyunca hareket ederler. Bu hareket enerji sağlar ve fotosentez sürecini ilerletmek için kullanılır.",
+        "answer": "C",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Yarıq kvantı tilakoid membranasına tüşe. Yarıqicatilesi (fotosintezi) başlanğan ketişatınıñ adını tapıñız.\nA) suvnıñ yarıqirüvi\nB) tatım icatilesi\nC) elektronlar qozğaluvı\nD) nariyüzüm ekşiliginiñ ekşimesi\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Botulizm - ölümge ketirgen hastalıq, onı Klostridium yuqmanıñ toksinleri doğura. Adamnıñ botulizmnen zaralanmasına qaysı mahsul sebep ola bile?",
+        "choices": [
+            "çürük yemiş",
+            "küflü ötmek",
+            "yuvulmağan sebze",
+            "ev konservaları"
+        ],
+        "output": "Cevap: **D) ev konservaları** \n\nBotulizm, *Clostridium botulinum* bakterisinin üretirdiği toksinler nedeniyle ortaya çıkar. Bu bakteriler, oksijensiz ortamlarda (örneğin, ev yapımı konservelerde) çoğalabilir ve toksin üretirler.",
+        "answer": "D",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Botulizm - ölümge ketirgen hastalıq, onı Klostridium yuqmanıñ toksinleri doğura. Adamnıñ botulizmnen zaralanmasına qaysı mahsul sebep ola bile?\nA) çürük yemiş\nB) küflü ötmek\nC) yuvulmağan sebze\nD) ev konservaları\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Qaysı ağuşeceli hastalıqnıñ qozğatıcısı adam vucudına aş ya da suv mahsullarınen kire?",
+        "choices": [
+            "A gepatitiniñ",
+            "poliomiyelitniñ",
+            "SPİDniñ",
+            "ospanıñ"
+        ],
+        "output": "Cevap: A \n\n\nA gepatitiniñ qozğatıcısı adam vucudına aş ya da suv mahsullarınen kire.",
+        "answer": "A",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Qaysı ağuşeceli hastalıqnıñ qozğatıcısı adam vucudına aş ya da suv mahsullarınen kire?\nA) A gepatitiniñ\nB) poliomiyelitniñ\nC) SPİDniñ\nD) ospanıñ\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Mantarlar ayvanlarğa {} kibi ayatfenli çizgisinen uyğun.",
+        "choices": [
+            "meyoznı yerine ketirmek, cınsiy çoğalanmaq",
+            "yarıqta fotosintezni yerine ketirmek",
+            "maddeler almaşuvı esnasında üreni (siydikni) ayırmaq",
+            "nışastanı yedek olaraq toplamaq"
+        ],
+        "output": "Doğru cevap **A) meyoznı yerine ketirmek, cınsiy çoğalanmaq**\n\nİşte nedeni:\n\n* **Mantarlar**  heterotrof canlılardır, yani kendi besinlerini üretemezler ve organik maddeler tüketirler. \n* **Ayvanlar** da heterotrof canlılardır ve besinlerini dışarıdan alırlar.\n* **Mantarlar** ve **ayvanlar**  **meyoz** yoluyla cinsel üremeye sahiptirler.  \n\nDiğer seçenekler mantarların ve hayvanların ortak özelliklerinden değil, farklı özelliklerden bahseder:\n\n* **B) yarıqta fotosintezni yerine ketirmek:** Bu özellik bitkilerde bulunur.\n* **C) maddeler almaşuvı esnasında üreni (siydikni) ayırmaq:** Bu özellik bazı bakteri türlerinde bulunur.\n* **D) nışastanı yedek olaraq toplamaq:** Bu özellik bitkilerde ve bazı hayvanlarda bulunur.",
+        "answer": "C",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Mantarlar ayvanlarğa {} kibi ayatfenli çizgisinen uyğun.\nA) meyoznı yerine ketirmek, cınsiy çoğalanmaq\nB) yarıqta fotosintezni yerine ketirmek\nC) maddeler almaşuvı esnasında üreni (siydikni) ayırmaq\nD) nışastanı yedek olaraq toplamaq\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Yeşil suvolenler öz ücrelerinde {} yedek olaraq toplay.",
+        "choices": [
+            "nışasta",
+            "meyan (agar)",
+            "inulin",
+            "laminarin"
+        ],
+        "output": "Cevap: **D) laminarin** \n\nYeşil suvollenler, öz ücrelerinde laminarin adlı bir polisakkarit olarak karbonhidratları yedek olarak toplarlar.",
+        "answer": "A",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Yeşil suvolenler öz ücrelerinde {} yedek olaraq toplay.\nA) nışasta\nB) meyan (agar)\nC) inulin\nD) laminarin\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Kukuquş keteniniñ ayağında qutuçıq - bu,",
+        "choices": [
+            "ekmeosümdir.",
+            "başaqtır.",
+            "cınıstüyürdir.",
+            "artma ösüvdir."
+        ],
+        "output": "Cevap: **A) ekmeosümdir.** \n\n\nKukuquş keteniniñ ayağında qutuçıq - bu, ekmeosümdir.",
+        "answer": "A",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Kukuquş keteniniñ ayağında qutuçıq - bu,\nA) ekmeosümdir.\nB) başaqtır.\nC) cınıstüyürdir.\nD) artma ösüvdir.\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Açıq urluqlılarnıñ tozlanuvı {} yardımınen olıp keçe.",
+        "choices": [
+            "suv",
+            "böcekler",
+            "yel",
+            "quşlar"
+        ],
+        "output": "Cevap: C \n\n\nAçıq urluqlıların tozlanuvı **yel** yardımıyla olmaktadır.",
+        "answer": "C",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Açıq urluqlılarnıñ tozlanuvı {} yardımınen olıp keçe.\nA) suv\nB) böcekler\nC) yel\nD) quşlar\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Qaysı nebatat ailesine sade çeçek etrafı has?",
+        "choices": [
+            "Zanbaq",
+            "Gül",
+            "Qapısta",
+            "Paslön"
+        ],
+        "output": "Cevap: **B) Gül** \n\n\nGül ailesi (Rosaceae) sade çeçek etrafı has.",
+        "answer": "A",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Qaysı nebatat ailesine sade çeçek etrafı has?\nA) Zanbaq\nB) Gül\nC) Qapısta\nD) Paslön\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Qaysı saq qurulış unsurınıñ ölü ücreleri saqta maddelerniñ köterenki areketini temin ete?",
+        "choices": [
+            "erqicatçınıñ",
+            "epidermanıñ",
+            "floemanıñ",
+            "ksilemanıñ"
+        ],
+        "output": "Cevap: **D) ksilemanıñ** \n\nKsilema, bitkilerde suyu ve minerallerin taşınmasından sorumlu olan ölü hücrelerden oluşan bir doku türüdür.",
+        "answer": "D",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Qaysı saq qurulış unsurınıñ ölü ücreleri saqta maddelerniñ köterenki areketini temin ete?\nA) erqicatçınıñ\nB) epidermanıñ\nC) floemanıñ\nD) ksilemanıñ\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Eñ sade vucutlarnıñ qaysıları öz ücreler etrafında kremnezömden qap teşkil ete?",
+        "choices": [
+            "radiolâriya",
+            "lâmbliya",
+            "infuzoriya",
+            "foraminifera"
+        ],
+        "output": "Cevap: **B) lâmbliya** \n\n\nLâmbliya, en basit organizmaların bir örneğidir ve öz ücreleri etrafında kremnezömden kap teşkil eden bir yapıya sahiptir.",
+        "answer": "A",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Eñ sade vucutlarnıñ qaysıları öz ücreler etrafında kremnezömden qap teşkil ete?\nA) radiolâriya\nB) lâmbliya\nC) infuzoriya\nD) foraminifera\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Yalpaq sıvalçanlarnıñ qaysı temsilcisi parazit sayılmaz?",
+        "choices": [
+            "beyaz planariya",
+            "domuz tsepeni",
+            "qaraciger",
+            "ehinokokk"
+        ],
+        "output": "Cevap: **A) beyaz planariya** \n\nYalpaq sıvalçanlar arasında parazit olanlar domuz tsepeni, karaciğer ve ehinokokk'tur. Beyaz planariya ise suda yaşayan ve parazit olmayan bir tür.",
+        "answer": "A",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Yalpaq sıvalçanlarnıñ qaysı temsilcisi parazit sayılmaz?\nA) beyaz planariya\nB) domuz tsepeni\nC) qaraciger\nD) ehinokokk\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Eki tecribeli qısımda yağmurlı sıvalçanlarnıñ qartop bereketligine tesirini ögrendiler. Birinci qısımğa şu ayvanlarnıñ ealitürini yerleştireler, ekincisinde olar yoq edi. İşleme, qısımlarnı tutturuv şaraitleri ve qartopnıñ çeşiti aynı edi. Bereket cıyılğan soñ şusı belli oldı ki, qartopnıñ bereketligi birinci qısımda ekincisinden 20% ziyade edi. Yağmurlı sıvalçanlarnen bağlı qartop bereketliginiñ sebebi nede?",
+        "choices": [
+            "osümlikniñ ösüvine tesir etken ayatfenli faal maddelerni ayıruv",
+            "osümlik tamırlarını ziyankârlar qurtçıqlarınıñ tesirinden qorçalav",
+            "topraq aeratsiyasınıñ ve onıñ drenaj yahşılaştırması",
+            "ösümlikniñ tamır yoruqlarınen ayatilesi"
+        ],
+        "output": "Doğru cevap **C) topraq aeratsiyasınıñ ve onıñ drenaj yahşılaştırması**\n\nİşte nedeni:\n\n* **Yağmurlı sıvalçanlar toprağı aerat eder:**  Kazdıkları tüneller ve hareketleri toprağın havalanmasını sağlar. Bu da köklerin oksijen almasını kolaylaştırır.\n* **Drenajı iyileştirirler:**  Tüneller suyun topraktan daha kolay akmasını sağlar, bu da köklerin çürüme riskini azaltır.\n* **Diğer seçenekler neden yanlış?**\n    * **A) osümlikniñ ösüvine tesir etken ayatfenli faal maddelerni ayıruv:** Yağmurlı sıvalçanlar bu maddeleri ayıramazlar.\n    * **B) osümlik tamırlarını ziyankârlar qurtçıqlarınıñ tesirinden qorçalav:** Yağmurlı sıvalçanlar ziyankârlar ile doğrudan mücadele etmezler.\n    * **D) ösümlikniñ tamır yoruqlarınen ayatilesi:** Yağmurlı sıvalçanlar bitki köklerinin yorulmasına sebep olmazlar.",
+        "answer": "C",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Eki tecribeli qısımda yağmurlı sıvalçanlarnıñ qartop bereketligine tesirini ögrendiler. Birinci qısımğa şu ayvanlarnıñ ealitürini yerleştireler, ekincisinde olar yoq edi. İşleme, qısımlarnı tutturuv şaraitleri ve qartopnıñ çeşiti aynı edi. Bereket cıyılğan soñ şusı belli oldı ki, qartopnıñ bereketligi birinci qısımda ekincisinden 20% ziyade edi. Yağmurlı sıvalçanlarnen bağlı qartop bereketliginiñ sebebi nede?\nA) osümlikniñ ösüvine tesir etken ayatfenli faal maddelerni ayıruv\nB) osümlik tamırlarını ziyankârlar qurtçıqlarınıñ tesirinden qorçalav\nC) topraq aeratsiyasınıñ ve onıñ drenaj yahşılaştırması\nD) ösümlikniñ tamır yoruqlarınen ayatilesi\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Qaysı balıqnıñ yaldav quvuğı yoq?",
+        "choices": [
+            "şçukanıñ (turnabalığınıñ)",
+            "seldniñ",
+            "tabon balığınıñ (karas)",
+            "akulanıñ"
+        ],
+        "output": "Cevap: **C) tabon balığınıñ (karas)** \n\n\nTabon balıkları (karas) yaldav quvuğa malik deyildir.",
+        "answer": "D",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Qaysı balıqnıñ yaldav quvuğı yoq?\nA) şçukanıñ (turnabalığınıñ)\nB) seldniñ\nC) tabon balığınıñ (karas)\nD) akulanıñ\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Qara (yani yerde yaşağan) ayvanlar olaraq süyrekleniciler içün nasıl uyma çizgisi has olur?",
+        "choices": [
+            "teride boynuz pulçıqları",
+            "dörtkameralı yürek",
+            "pufpiçim solunğaçlar",
+            "balaban mürekkep közler"
+        ],
+        "output": "Doğru cevap **C) pufpiçim solunğaçlar**\n\nİşte nedeni:\n\n* **Qara (yani yerde yaşağan) ayvanlar**  genellikle  **pufpiçim solunğaçlar** ile solunum yaparlar. Bu,  yer altında yaşayan hayvanlar için  oksijeni daha verimli kullanmalarına yardımcı olur.\n\nDiğer seçenekler neden yanlış:\n\n* **A) teride boynuz pulçıqları:** Bu,  sürüngenlerde ve bazı memelilerde görülen bir özelliktir.\n* **B) dörtkameralı yürek:**  Bu, memelilerde ve bazı kuşlarda bulunur.\n* **D) balaban mürekkep közler:** Bu,  kalamalar gibi bazı deniz canlılarında bulunur.",
+        "answer": "A",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Qara (yani yerde yaşağan) ayvanlar olaraq süyrekleniciler içün nasıl uyma çizgisi has olur?\nA) teride boynuz pulçıqları\nB) dörtkameralı yürek\nC) pufpiçim solunğaçlar\nD) balaban mürekkep közler\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Quşlarnıñ qaysı müçesi yoq?",
+        "choices": [
+            "qaracigeri",
+            "büyrekleri",
+            "siydik quvuğı",
+            "kloakası"
+        ],
+        "output": "Cevap: **C) siydik quvuğı** \n\nQuşlarda siydik quvuğu yoq. Onlar siydik ve idrarlarını bir arada atarlar.",
+        "answer": "C",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Quşlarnıñ qaysı müçesi yoq?\nA) qaracigeri\nB) büyrekleri\nC) siydik quvuğı\nD) kloakası\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Saç örtüsi, çeteni, dörtkameralı yüregi olğan ayvan qaysı sınfına ait?",
+        "choices": [
+            "Çoqqılçıqlı sıvalçanlar",
+            "Örümçekliler",
+            "Quşlar",
+            "Memeliler"
+        ],
+        "output": "Cevap: D \n\n\n**Memeliler** sınıfına aittir.",
+        "answer": "D",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Saç örtüsi, çeteni, dörtkameralı yüregi olğan ayvan qaysı sınfına ait?\nA) Çoqqılçıqlı sıvalçanlar\nB) Örümçekliler\nC) Quşlar\nD) Memeliler\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Köküs boşluğını qursaq boşluğından qaysı qurulış ayıra?",
+        "choices": [
+            "töş",
+            "qursaq pressniñ adaleleri",
+            "aqzar",
+            "çeten"
+        ],
+        "output": "Cevap: **C) aqzar** \n\n\nKöküs boşluğu, qursaq boşluğundan **aqzar** quruluşunu ayırar.",
+        "answer": "D",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Köküs boşluğını qursaq boşluğından qaysı qurulış ayıra?\nA) töş\nB) qursaq pressniñ adaleleri\nC) aqzar\nD) çeten\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Siñir yoruğınıñ iştiragi ile tesirlevge cevap",
+        "choices": [
+            "nastiya olur.",
+            "taksis olur.",
+            "akisaluv olur.",
+            "tropizm olur."
+        ],
+        "output": "Cevap: **D) tropizm olur.** \n\n**Açıklama:**\n\nTropizm, bir organizmanın dış uyaranlara verdiği tepki olarak büyüme ve gelişme değişimidir. Sinir yorgunluğu, sinir sisteminin aşırı uyarılmasından kaynaklanan bir durumdur ve bu durum tropizmin oluşumunu etkileyebilir.",
+        "answer": "C",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Siñir yoruğınıñ iştiragi ile tesirlevge cevap\nA) nastiya olur.\nB) taksis olur.\nC) akisaluv olur.\nD) tropizm olur.\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Yürek {} tesirinden yavaşça qısqara.",
+        "choices": [
+            "parasimpatik siñirniñ",
+            "adrenalin gormonınıñ",
+            "simpatik siñirniñ",
+            "vazopresin gormonınıñ"
+        ],
+        "output": "Cevap: A \n\n\n**Açıklama:**\n\n* **Parasimpatik sinir sistemi**, vücutta dinlenme ve sindirim gibi \"temizlik\" fonksiyonlarını tetikler. Kalp atış hızını yavaşlatır.\n* **Simpatik sinir sistemi**, vücutta \"savaş ya da kaç\" tepkisini tetikler. Kalp atış hızını ve kan basıncını artırır.\n* **Adrenalin** ve **vazopresin** hormonları, stresli durumlarda kalp atış hızını ve kan basıncını artırır.",
+        "answer": "A",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Yürek {} tesirinden yavaşça qısqara.\nA) parasimpatik siñirniñ\nB) adrenalin gormonınıñ\nC) simpatik siñirniñ\nD) vazopresin gormonınıñ\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Bazı bir yürek patologiyası şundan ifade etile ki, mında sol yürek ögü ve mideçik arasındaki qapaqlar yürek kameralarını bütünley yapamay. Bu patologiya nasıl aqibetlerge ketirir?",
+        "choices": [
+            "şahdamarnen damar qanları diastola vaqtında qısmen qarışa",
+            "damar qannıñ bir qısmı sistola vaqtında yürek ögüne qayta",
+            "şahdamar qannıñ bir qısmı sistola vaqtında yürek ögüne qayta",
+            "serdamarğa diastola vaqtında damar qanı kele"
+        ],
+        "output": "Doğru cevap **A) şahdamarnen damar qanları diastola vaqtında qısmen qarışa**\n\n**İşte nedeni:**\n\n* **Yürek kapaklarının görevi:** Yürek kapakları, kanın doğru yönde akmasını sağlamak için açılıp kapanır. Sol yürek oğu ve mideçik arasındaki kapak (mitral kapak) düzgün çalışmadığında, kan diastola (yürek gevşediğinde) geriye doğru akabilir.\n\n* **Şahdamar ve damar qanları karışması:**  Bu geri akış, şahdamar (oksijenli kan taşıyan) ve damar (oksijensiz kan taşıyan) kanlarının karışmasına neden olur. \n\n* **Diğer seçeneklerin neden yanlış olduğu:**\n\n    * **B) ve C):** Sistola (yürek kasıldığında) kanın geriye doğru akması, mitral kapak yetmezliğinin bir sonucu değildir.\n    * **D):** Serdamar (oksijensiz kan taşıyan) damarlara kanın akması normaldir, ancak mitral kapak yetmezliği bu akışın düzenini bozar.",
+        "answer": "C",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Bazı bir yürek patologiyası şundan ifade etile ki, mında sol yürek ögü ve mideçik arasındaki qapaqlar yürek kameralarını bütünley yapamay. Bu patologiya nasıl aqibetlerge ketirir?\nA) şahdamarnen damar qanları diastola vaqtında qısmen qarışa\nB) damar qannıñ bir qısmı sistola vaqtında yürek ögüne qayta\nC) şahdamar qannıñ bir qısmı sistola vaqtında yürek ögüne qayta\nD) serdamarğa diastola vaqtında damar qanı kele\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Bayağı qan coyuvda hastağa kirsetilgen cısmenfenli irintiniñ",
+        "choices": [
+            "miqdarında qannıñ şekil unsurları bar.",
+            "beden arareti bar.",
+            "üyüşüv qabiliyeti bar.",
+            "tuzlarnıñ 0,9% bar."
+        ],
+        "output": "Doğru cevap **D) tuzlarnıñ 0,9% bar.**\n\nİşte nedeni:\n\n* **Bayağı qan coyuvda hastağa kirsetilgen cısmenfenli irintiniñ**  tuzlarnıñ 0,9% oranında olması, vücuttaki sıvı dengesini korumak ve hücrelerin normal işlevlerini yerine getirmesi için önemlidir. \n\nDiğer seçenekler yanlıştır çünkü:\n\n* **A) miqdarında qannıñ şekil unsurları bar.**  Cısmenfenli irintinde kırmızı kan hücreleri, beyaz kan hücreleri ve plaketler bulunmaz.\n* **B) beden arareti bar.** Cısmenfenli irintinin beden arareti yoktur.\n* **C) üyüşüv qabiliyeti bar.** Cısmenfenli irintinin üyüşüv qabiliyeti yoktur.",
+        "answer": "D",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Bayağı qan coyuvda hastağa kirsetilgen cısmenfenli irintiniñ\nA) miqdarında qannıñ şekil unsurları bar.\nB) beden arareti bar.\nC) üyüşüv qabiliyeti bar.\nD) tuzlarnıñ 0,9% bar.\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Ava nefes çıqaruvda salqımlardan {} kire.",
+        "choices": [
+            "boğurdaqqa",
+            "burun boşluğına",
+            "ğırtlaqqa",
+            "bronhiolağa"
+        ],
+        "output": "Cevap: **B) burun boşluğına** \n\n\nAva nefes alıwda burun boşluğundan geçer.",
+        "answer": "D",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Ava nefes çıqaruvda salqımlardan {} kire.\nA) boğurdaqqa\nB) burun boşluğına\nC) ğırtlaqqa\nD) bronhiolağa\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Uglevodlar {} parçalanmağa başlay.",
+        "choices": [
+            "aş yolunda",
+            "midede",
+            "ağız boşluğında",
+            "on eki parmaqlı içekte"
+        ],
+        "output": "Cevap: **C** \n\nUglevodlar parçalanmağa ağız boşluğunda başlar.",
+        "answer": "C",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Uglevodlar {} parçalanmağa başlay.\nA) aş yolunda\nB) midede\nC) ağız boşluğında\nD) on eki parmaqlı içekte\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Dimağbezniñ gipofunktsiyası {} inkişafına ketire.",
+        "choices": [
+            "diabet",
+            "karliklik",
+            "addison hastalığı",
+            "gigantizm"
+        ],
+        "output": "Cevap: **D) gigantizm** \n\nDimağbezniñ gipofunktsiyası,  hormonların yetersiz salgılanmasına neden olur. Bu da büyüme hormonu eksikliğine yol açarak gigantizm hastalığına sebep olabilir.",
+        "answer": "B",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Dimağbezniñ gipofunktsiyası {} inkişafına ketire.\nA) diabet\nB) karliklik\nC) addison hastalığı\nD) gigantizm\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Tırnaq pilâkisi qaysı vucut qurulışınıñ yapması ola?",
+        "choices": [
+            "üstkemikniñ",
+            "kemikniñ",
+            "çandırnıñ",
+            "teriniñ"
+        ],
+        "output": "Cevap: **C) çandırnıñ** \n\n\nTırnak pilâkisi, çandırnıñ yapısıdır.",
+        "answer": "D",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Tırnaq pilâkisi qaysı vucut qurulışınıñ yapması ola?\nA) üstkemikniñ\nB) kemikniñ\nC) çandırnıñ\nD) teriniñ\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Oğlan balanıñ I qan gruppası, onıñ qız qardaşında - IV. Olarnıñ ana-babasında qaysı qan gruppası olur?",
+        "choices": [
+            "I ve III",
+            "I ve IV",
+            "II ve IV",
+            "II ve III"
+        ],
+        "output": "Doğru cevap **D) II ve III**\n\nİşte nedeni:\n\n* **Kan grupları genetiktir** ve her birey iki kan grubu geni miras alır (birini anne, birini babadan).\n* **I. kan grubu** A antijeni ve anti-B antikorları ile karakterizedir.\n* **IV. kan grubu** hem A hem de B antijeni ve hiçbir antikor içerir.\n\nOğlanın I. kan grubu olması için, her iki ebeveynden de A geni veya O geni alması gerekir. Kız kardeşinin IV. kan grubu olması için, her iki ebeveynden de A ve B genleri alması gerekir.\n\nBu nedenle, ebeveynlerin kan grupları **II (A ve B antijenleri)** ve **III (B antijeni ve anti-A antikorları)** olmalıdır.",
+        "answer": "D",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Oğlan balanıñ I qan gruppası, onıñ qız qardaşında - IV. Olarnıñ ana-babasında qaysı qan gruppası olur?\nA) I ve III\nB) I ve IV\nC) II ve IV\nD) II ve III\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Tekkozeli egizler arasında olğan alamaççeşitli farqlarınıñ sebebi",
+        "choices": [
+            "kombinatsiyalı deñişçenlik ola.",
+            "asabalıqlı hastalıqlar ola.",
+            "tadilâtlı deñişçenlik ola.",
+            "şaltalıqlı deñişçenlik ola."
+        ],
+        "output": "Doğru cevap **(A) kombinatsiyalı deñişçenlik ola.**\n\n**Açıklama:**\n\n* **Kombinatsiyalı deñişçenlik:** Tekkozeli egizler arasında görülen farklılıkların sebebi, genlerin farklı kombinasyonlarının bir arada bulunmasıdır. Bu kombinasyonlar, üreme sırasında rastgele dağılır ve bu da farklı özelliklere sahip yavruların ortaya çıkmasına neden olur.\n\nDiğer seçenekler neden yanlış?\n\n* **Asabalıqlı hastalıqlar:**  Asabalıqlı hastalıklar, genetik mutasyonlar sonucu ortaya çıkar ve genellikle belirli hastalıklara neden olur. Tekkozeli egizler arasındaki farklılıkların temel sebebi bu tür hastalıklar değildir.\n* **Tadilâtlı deñişçenlik:** Tadilâtlı deñişçenlik, bir organizmanın çevresel faktörlere uyum sağlamak için geçirdiği kalıcı değişikliklerdir. Bu değişiklikler, genetik yapıda kalıcı bir değişiklik yaratmaz.\n* **Şaltalıqlı deñişçenlik:** Şaltalıqlı deñişçenlik, bir organizmanın genetik yapısında küçük değişiklikler meydana gelmesiyle karakterizedir. Bu değişiklikler, tekkozeli egizler arasındaki farklılıkların temel sebebi değildir.",
+        "answer": "C",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Tekkozeli egizler arasında olğan alamaççeşitli farqlarınıñ sebebi\nA) kombinatsiyalı deñişçenlik ola.\nB) asabalıqlı hastalıqlar ola.\nC) tadilâtlı deñişçenlik ola.\nD) şaltalıqlı deñişçenlik ola.\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "İlkitöl ücreleri eki blastomer devrinde bölündiler. Birinci blastomer ğayıp oldı, ekincisi saqlanıp qaldı. Bu adiseniñ ola bilecek aqibetini tapıñız.",
+        "choices": [
+            "ekinci blastomerden sağlam vucut şekillenir",
+            "ekinci blastomer ösüvni yavaşlatır",
+            "ekinci blastomer vaqtından ğayıp olur",
+            "ekinci blastomerden zayıf vucut şekillenir"
+        ],
+        "output": "Cevap: **A) ekinci blastomerden sağlam vucut şekillenir**\n\n**İlkitöl ücreleri** (embrio) iki blastomer'e bölünür.  Birinci blastomer kaybolursa, ikinci blastomer tüm gerekli genetik materyali içerir ve  **topluluğu** (vücudu) oluşturmak için kendini bölünebilir.",
+        "answer": "A",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: İlkitöl ücreleri eki blastomer devrinde bölündiler. Birinci blastomer ğayıp oldı, ekincisi saqlanıp qaldı. Bu adiseniñ ola bilecek aqibetini tapıñız.\nA) ekinci blastomerden sağlam vucut şekillenir\nB) ekinci blastomer ösüvni yavaşlatır\nC) ekinci blastomer vaqtından ğayıp olur\nD) ekinci blastomerden zayıf vucut şekillenir\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Eger suvda yaldağan quşnı sabunlap yuvsañ, o, batmaq mümkün. Bunıñ esas sebebi",
+        "choices": [
+            "sayvucutlarnıñ siñirüvi ola.",
+            "tükniñ bozuluvı ola.",
+            "terili nefes aluvnıñ toqtalması ola.",
+            "puf üstünde yağnıñ yoqluğı ola."
+        ],
+        "output": "Cevap: **A) sayvucutlarnıñ siñirüvi ola.**\n\n**İşte sebebi:**\n\n* **Sayvucutlarnıñ siñirüvi:**  Suyun yüzey gerilimi, su moleküllerinin birbirine sıkıca bağlı olması nedeniyle oluşan bir kuvvettir. Bu kuvvet, küçük nesnelerin yüzeyde kalmasına yardımcı olur. Ancak sabun, su moleküllerinin birbirine bağlanmasını bozarak yüzey gerilimini azaltır. Bu da küçük nesnelerin suda batmasına neden olur.\n\n\nDiğer seçenekler neden yanlış?\n\n* **B) tükniñ bozuluvı ola:**  Sabunla yıkanma, kuşun tüylerini bozmaz.\n* **C) terili nefes aluvnıñ toqtalması ola:**  Kuşun nefes alması sabunla yıkanma ile doğrudan ilgili değildir.\n* **D) puf üstünde yağnıñ yoqluğı ola:**  Kuş tüyleri üzerindeki yağ tabakası, sudan uzak tutar. Ancak sabun, bu yağ tabakasıyı da temizler ve kuşun suda batmasına neden olur.",
+        "answer": "D",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Eger suvda yaldağan quşnı sabunlap yuvsañ, o, batmaq mümkün. Bunıñ esas sebebi\nA) sayvucutlarnıñ siñirüvi ola.\nB) tükniñ bozuluvı ola.\nC) terili nefes aluvnıñ toqtalması ola.\nD) puf üstünde yağnıñ yoqluğı ola.\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "EOE (DNK) qısmında 2400 özekolçülernen icatilengen YAOE (RNK) qaç riboza qalımtısından ibaret?",
+        "choices": [
+            "2400",
+            "4800",
+            "1200",
+            "800"
+        ],
+        "output": "Cevap: **A) 2400**\n\n**İşte sebebi:**\n\n* **DNA (DEOXYRIBONUKLEİK ASIT)** ve **RNA (RIBONUKLEİK ASIT)**, hücrenin genetik materyalini taşıyan nükleik asitlerdir.\n* **EOE (DNA)**, deoksiribonükleotitlerden oluşur.\n* **YAOE (RNA)**, ribonükleotitlerden oluşur.\n* Her bir ribonükleotit, bir riboza şekerinden, bir fosfat grubundan ve bir bazdan oluşur.\n* DNA'da 2400 nükleotit varsa, RNA'da da **aynı sayıda riboza** kalıntısı olacaktır.",
+        "answer": "C",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: EOE (DNK) qısmında 2400 özekolçülernen icatilengen YAOE (RNK) qaç riboza qalımtısından ibaret?\nA) 2400\nB) 4800\nC) 1200\nD) 800\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Suvolenlerniñ büyük terenlikte darqaluvını nasıl çizgi sıñırlata?",
+        "choices": [
+            "suvda ekşişece zıqnıqtamasınıñ eksilüvi",
+            "tuzluq seviyesiniñ artuvı",
+            "suv araretiniñ tüşüvi",
+            "yarıqlıq seviyesiniñ tüşüvi"
+        ],
+        "output": "Doğru cevap **C) suv araretiniñ tüşüvi**\n\nİşte nedeni:\n\n* **Suv arareti**  bir su kütlesinin yüzeyinin deniz seviyesine göre yüksekliğidir. \n* **Suvolenin büyük terenlikte darqaluvını**  su araretinin düşmesiyle açıklayabiliriz.  Su arareti düştüğünde, su kütlesi küçülür ve darqalır.\n\nDiğer seçenekler neden yanlış?\n\n* **A) suvda ekşişece zıqnıqtamasınıñ eksilüvi:**  Suyun ekşişece zıqnıqtaması (evaporasyon) su kütlesini küçültür, ancak darqalmayı tek başına açıklamaz.\n* **B) tuzluq seviyesiniñ artuvı:** Tuzluğun artması suyun yoğunluğunu artırır, ancak darqalmayı doğrudan etkilemez.\n* **D) yarıqlıq seviyesiniñ tüşüvi:** Yarıqlıq seviyesi, suyun yeraltı seviyesini ifade eder.  Su araretiyle doğrudan ilişkili değildir.",
+        "answer": "D",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Suvolenlerniñ büyük terenlikte darqaluvını nasıl çizgi sıñırlata?\nA) suvda ekşişece zıqnıqtamasınıñ eksilüvi\nB) tuzluq seviyesiniñ artuvı\nC) suv araretiniñ tüşüvi\nD) yarıqlıq seviyesiniñ tüşüvi\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Termit ve olarnıñ içeginde yaşağan, em de santıraçnı parçalay bilgen undurmalılar arasında ayatileniñ nasıl şekli közetile?",
+        "choices": [
+            "mevcutileme",
+            "mutualizm",
+            "aşamaqlıq",
+            "yırtıcılıq"
+        ],
+        "output": "Doğru cevap **B) mutualizm**\n\n**Mutualizm**, iki farklı türün birbirleriyle karşılıklı fayda sağladığı bir ilişkidir. \n\nTermitler, ahşap ve diğer sert maddeleri sindirmek için bağırsaklarında yaşayan protozoalardan yardım alırlar. Protozoalar, termitlerin sindirdiği maddelerden beslenirler. Bu ilişki, her iki taraf için de faydalıdır.\n\n\n* **Mevcutileme:** Bir türün diğer türün varlığına bağlı olarak gelişmesi.\n* **Aşamaqlıq:** Bir türün diğer türün yaşam döngüsünde belirli bir aşamada fayda sağlaması.\n* **Yırtıcılıq:** Bir türün diğer türü avlayarak beslenmesi.",
+        "answer": "B",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Termit ve olarnıñ içeginde yaşağan, em de santıraçnı parçalay bilgen undurmalılar arasında ayatileniñ nasıl şekli közetile?\nA) mevcutileme\nB) mutualizm\nC) aşamaqlıq\nD) yırtıcılıq\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Yurtöruqta kobeleknen baştanqara (sinitsa) birlemci mahsulnıñ 1000 kg aşadılar. Kobelek ve baştanqara nisbeten ne qadar ayatkutlesini menimsediler?",
+        "choices": [
+            "100 kg ve 10 kg",
+            "10 kg ve 100 kg",
+            "10 kg ve 10 kg",
+            "100 kg ve 100 kg"
+        ],
+        "output": "Bu sorunun cevabını bulmak için eksik bilgi var. Soruda sadece toplam mahsulün miktarı verilmiş. Kobelek ve baştanqaranın her birinin ağırlığı hakkında bilgi yok.",
+        "answer": "A",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Yurtöruqta kobeleknen baştanqara (sinitsa) birlemci mahsulnıñ 1000 kg aşadılar. Kobelek ve baştanqara nisbeten ne qadar ayatkutlesini menimsediler?\nA) 100 kg ve 10 kg\nB) 10 kg ve 100 kg\nC) 10 kg ve 10 kg\nD) 100 kg ve 100 kg\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Yurtöruqnıñ troflar terkibinde ötegen ayvanlarnıñ yerini tayinleñiz.",
+        "choices": [
+            "II tertip tiriyemekçileri",
+            "mahsuldarcılar",
+            "daadönmeciler",
+            "I tertip tiriyemekçileri"
+        ],
+        "output": "Cevap: **D) I tertip tiriyemekçileri** \n\n**İşte sebebi:**\n\n* **I tertip tiriyemekçileri** (ototroflar) kendi besinlerini sentezlerler.  Yurtöruqnıñ troflar terkibinde, güneş enerjisini kullanarak besin üreten bitkiler yer alır. \n* **II tertip tiriyemekçileri** (heterotroflar) diğer canlılardan beslenirler.  Bu gruba hayvanlar, mantarlar ve bazı bakteriler dahildir.",
+        "answer": "D",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Yurtöruqnıñ troflar terkibinde ötegen ayvanlarnıñ yerini tayinleñiz.\nA) II tertip tiriyemekçileri\nB) mahsuldarcılar\nC) daadönmeciler\nD) I tertip tiriyemekçileri\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Orman yanğınından soñ ösümlikni ğayrıdan tiklev - bu, {} misaldir.",
+        "choices": [
+            "birlemci suktsessiyağa",
+            "ekilemci suktsessiyağa",
+            "klimaksqa",
+            "inqqiyatqa (evolütsiya)"
+        ],
+        "output": "Cevap: **A) birlemci suktsessiyağa** \n\nİşte nedeni:\n\n* **Birlemci suktsessiyağa:**  Bir doğal afet (örneğin orman yangını) sonrasında, aynı türlerin tekrar ortaya çıkması ve orijinal topluluğa benzer bir yapı oluşturmasıdır. \n\nDiğer seçenekler neden yanlış:\n\n* **Ekilemci suktsessiyağa:** Farklı türlerin birbiri ardına yerleşmesiyle oluşan bir değişim sürecidir.\n* **Klimaksqa:** Süksesyonun son aşaması, stabil ve değişime karşı dirençli bir topluluğa ulaşılmasıdır.\n* **Inqqiyatqa (evolütsiya):** Türlerin zaman içinde değişmesi ve yeni türlerin ortaya çıkmasıdır.",
+        "answer": "B",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Orman yanğınından soñ ösümlikni ğayrıdan tiklev - bu, {} misaldir.\nA) birlemci suktsessiyağa\nB) ekilemci suktsessiyağa\nC) klimaksqa\nD) inqqiyatqa (evolütsiya)\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Nasıl biologik ketişatlar biosferadaki Karbon aylanışı esasında olıp keçe?",
+        "choices": [
+            "aq biosintezi ve çürüv",
+            "hemosintez ve mayalanuv",
+            "nitrifikatsiya ve denitrifikatsiya",
+            "nefes aluv ve fotosintez"
+        ],
+        "output": "Doğru cevap **D) nefes aluv ve fotosintez**\n\nİşte nedeni:\n\n* **Karbon döngüsü**, atmosferdeki karbondioksit (CO2) 'nin canlı organizmalar tarafından alınması, kullanılması ve geri salınması sürecini tanımlar. \n\n* **Fotosentez**, bitkiler ve bazı bakteriler tarafından güneş enerjisini kullanarak CO2'yi organik maddeler (karbonhidratlar) haline getirme sürecidir. Bu süreçte CO2 atmosferden uzaklaştırılır.\n\n* **Nefes alma**, canlı organizmalar tarafından oksijeni kullanarak enerji üretmek için organik maddeleri parçalama sürecidir. Bu süreçte CO2 atmosfere geri salınır.\n\nDiğer seçenekler neden yanlış?\n\n* **A) aq biosintezi ve çürüv:**  Aq biosintezi, fotosentez ile benzer bir süreçtir ancak sadece bazı bakteriler tarafından gerçekleştirilir. Çürüme, organik maddelerin parçalanması ve CO2 salınması sürecidir, ancak karbon döngüsünün temelini oluşturmaz.\n* **B) hemosintez ve mayalanuv:** Hemosintez, hemoglobinin sentezi sürecidir ve karbon döngüsüyle doğrudan ilişkili değildir. Mayalanma, bazı bakteriler ve maya türleri tarafından şekerlerin alkol ve karbondioksitlere dönüştürülmesi sürecidir.\n* **C) nitrifikatsiya ve denitrifikatsiya:** Bu süreçler, azot döngüsünde yer alır ve karbon döngüsüyle doğrudan ilişkili değildir.",
+        "answer": "D",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Nasıl biologik ketişatlar biosferadaki Karbon aylanışı esasında olıp keçe?\nA) aq biosintezi ve çürüv\nB) hemosintez ve mayalanuv\nC) nitrifikatsiya ve denitrifikatsiya\nD) nefes aluv ve fotosintez\n\nCevap: "
+    },
+    {
+        "description": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "question": "Balqurtnı Avropadan Avstraliyağa ketirmesi yerli, tişlemegen balqurt türüniñ tez ealitür qısqaruvına ketirgen edi. Bu, qaysı yaşayış içün küreş şekiliniñ neticesi ola?",
+        "choices": [
+            "yaramay şaraitlernen küreş",
+            "türlerara",
+            "tür içindeki",
+            "cınsiy partnör içün küreş"
+        ],
+        "output": "Doğru cevap **B) türlerarası**\n\nİşte nedeni:\n\n* **Türlerarası küreş:**  Farklı türler arasında meydana gelen rekabettir. Bu durumda, Avustralya'ya götürülen balqurtlar yerli balqurt türleriyle beslenme, yuva bulma ve diğer kaynaklar için rekabet ediyor. Bu rekabet, yerli türün sayısının azalmasına ve hatta yok olmasına yol açabilir.\n\nDiğer seçenekler neden yanlış?\n\n* **Yaramay şaraitlernen küreş:**  Farklı türler arasında yaşayış koşullarının değişmesiyle ortaya çıkan rekabettir. Bu durum, soruda açıkça belirtilmemiştir.\n* **Tür içindeki küreş:**  Aynı türün bireyleri arasında meydana gelen rekabettir. Soruda farklı türler arasında rekabet söz konusudur.\n* **Cınsiy partnör içün küreş:**  Aynı türün bireyleri arasında eş seçimi için rekabettir. Soruda bu tür bir rekabetten bahsedilmemiştir.",
+        "answer": "B",
+        "system": "Sual: Vucut ücreleriniñ qurulış ve vazifesini {} ögrene.\nA) anatomiya\nB) cısmenfenlik\nC) toqumafenlik\nD) ücrefenlik\n\nCevap: D\n\nSual: Bitki ücresiniñ qaysı qurulışında üceyre şırası bar?\nA) böştende\nB) ribosomada\nC) özekte\nD) qoricatçıda\n\nCevap: A\n\nSual: Alucreler dört türlü-türlü miqdarınen sınavborularğa (probirka) qoyuldı. Birinci sınavboruda damıtıq suv bar, ekincisinde - qannıñ uyuntıq suvu (sıvorotka), üçüncisinde - cısmenfenli irinti, dörtüncisinde - qan pahtası. Qaysı sınavboruda alucrelerniñ bozuluvı olıp keçe?\nA) dörtüncisinde\nB) üçüncisinde\nC) birincisinde\nD) ekincisinde\n\nCevap: C\n\nSual: Zerreli içpahtalı çilter zerresizden {} oluvınen farqlana.\nA) merkeztenler\nB) ribosomlar\nC) irüvtenler\nD) peroksisomlar\n\nCevap: B\n\nSual: Çavdar tamırınıñ ücresi 14 boyatenden ibaret. İçurluğınıñ ücresinde qaç boyaten bar?\nA) 7\nB) 28\nC) 14\nD) 21\n\nCevap: D\n\n",
+        "input": "Sual: Balqurtnı Avropadan Avstraliyağa ketirmesi yerli, tişlemegen balqurt türüniñ tez ealitür qısqaruvına ketirgen edi. Bu, qaysı yaşayış içün küreş şekiliniñ neticesi ola?\nA) yaramay şaraitlernen küreş\nB) türlerara\nC) tür içindeki\nD) cınsiy partnör içün küreş\n\nCevap: "
+    }
+]
