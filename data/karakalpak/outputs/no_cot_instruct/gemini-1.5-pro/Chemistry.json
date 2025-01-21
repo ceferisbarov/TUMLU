@@ -1,0 +1,394 @@
+[
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "Hawada kem korroziyaǵa ushiraytin element?",
+        "choices": [
+            "mis",
+            "Temir",
+            "Xrom",
+            "tsink"
+        ],
+        "output": "Tuwrı juwap: **A) mis**.\n\nMis, hawa menen reaksiyaǵa kirgende betinde mis (I) oksidi (Cu₂O) qabatın payda etedi. Bul qabat ádette ápiwayı bolıp, keyin ala mis (II) oksidi (CuO) menen qaplanadi. Bul oksid qabatları misti ápiwayı korroziyadan qorǵaydı, sebebi olar mis penen hawanıń arasında tosiq payda etedi. Basqa metallar, mısalı, temir, xrom hám tsink, hawadagı kislorod hám ıǵallıq penen reaksiyaǵa kirgende tezirek korroziyaǵa ushiraydı.",
+        "answer": "C",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: Hawada kem korroziyaǵa ushiraytin element?\nA) mis\nB) Temir\nC) Xrom\nD) tsink\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "21 temir menen reakciyaga kirisiw ushin qansha kúkirt kerek?",
+        "choices": [
+            "12",
+            "4",
+            "8",
+            "16"
+        ],
+        "output": "Temir (Fe) menen kúkirt (S) tómendegi reakciya arqalı temir (II) sulfid (FeS) payda etedi:\n\nFe + S → FeS\n\nBul reakciyada temir menen kúkirt 1:1 mol nisbatında reaksiyaga kirishadi. Atom massaları Fe ushın 55,85 g/mol hám S ushın 32,06 g/mol.\n\nEger bizde 21 g temir bolsa, onda bizde:\n\n21 g Fe / 55,85 g/mol Fe = 0,376 mol Fe bar.\n\nReakciya 1:1 mol nisbatında bolǵanlıǵı sebepli, bizge 0,376 mol kúkirt kerek boladı. Bul massada:\n\n0,376 mol S * 32,06 g/mol S = 12,06 g S\n\nDemek, 21 g temir menen reaksiyaga kirisiw ushın shama menen 12 g kúkirt kerek.\n\nJuwap: **A) 12**",
+        "answer": "A",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: 21 temir menen reakciyaga kirisiw ushin qansha kúkirt kerek?\nA) 12\nB) 4\nC) 8\nD) 16\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "Qaysi    element  tek   eki  valentli?",
+        "choices": [
+            "Zn",
+            "Fe",
+            "Cr",
+            "Cu"
+        ],
+        "output": "Tuwrı juwap: A) Zn\n\nSink (Zn) tek +2 valentlikke iye. Temir (Fe), Xrom (Cr) hám Mis (Cu) bolsa bir neshe valentlikke iye bolıwı múmkin.",
+        "answer": "A",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: Qaysi    element  tek   eki  valentli?\nA) Zn\nB) Fe\nC) Cr\nD) Cu\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "0,3  mol  nitrat   kislota   neshe  gram?",
+        "choices": [
+            "21,4",
+            "32,3",
+            "18,9",
+            "63,2"
+        ],
+        "output": "Nitrat kislotaning molyar massasi: HNO₃ = 1 + 14 + (16 * 3) = 63 g/mol\n\n0,3 mol nitrat kislotaning massasi: 0,3 mol * 63 g/mol = 18,9 g\n\nDemek, juwap: **S**.",
+        "answer": "C",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: 0,3  mol  nitrat   kislota   neshe  gram?\nA) 21,4\nB) 32,3\nC) 18,9\nD) 63,2\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "Aq fosfor puwin vodorodqa salıstırganda tıgızlıǵı 62 ten formulasın tabiń.",
+        "choices": [
+            "P5",
+            "P4",
+            "P3",
+            "P2"
+        ],
+        "output": "Aq fosfor puwiniń vodorodqa salıstırganda tıgızlıǵı 62 bolsa, onıń molekulyar massası:\n\nMolekulyar massa = Tıgızlıq * Vodorodtıń molekulyar massası\nMolekulyar massa = 62 * 2\nMolekulyar massa = 124\n\nFosfordıń atom massası 31 ga teń. Demek, molekuladaǵı fosfor atomlarınıń sanı:\n\nAtomlar sanı = Molekulyar massa / Atom massası\nAtomlar sanı = 124 / 31\nAtomlar sanı = 4\n\nDemek, aq fosfor puwiniń formulasi P4.\n\nJuwap: B",
+        "answer": "B",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: Aq fosfor puwin vodorodqa salıstırganda tıgızlıǵı 62 ten formulasın tabiń.\nA) P5\nB) P4\nC) P3\nD) P2\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "34 g ammiak qansha kólemdi iyeleydi?",
+        "choices": [
+            "22,4",
+            "2,24",
+            "44,8",
+            "11,2"
+        ],
+        "output": "Dúris juwap C) 44,8 l.\n\nMısalı sheshiw ushın Avogadro nızamınan paydalanamız: 1 mol gaz normal sharayatda 22,4 litr kólemdi iyeleydi.\n\n1. Ammiaktin' molyar massasın esaplaymız: NH₃ = 14 + 3*1 = 17 g/mol\n\n2. Berilgen ammiak massasınan mol sanın tabamız: 34 g / 17 g/mol = 2 mol\n\n3. 2 mol ammiaktin' kólemin esaplaymız: 2 mol * 22,4 l/mol = 44,8 l",
+        "answer": "C",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: 34 g ammiak qansha kólemdi iyeleydi?\nA) 22,4\nB) 2,24\nC) 44,8\nD) 11,2\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "17gramm   vodorod  sulfidte  neshe  molekula  bar?",
+        "choices": [
+            "0,602*10^23",
+            "0,301*10^23",
+            ".6,02*10^23",
+            "3,01*10^23"
+        ],
+        "output": "Juwap: B\n\nTushuntiriw:\n\n1. Vodorod sulfidtin' (H₂S) molyar massasın esaplaw:\n   H₂S = (2 x 1) + 32 = 34 g/mol\n\n2. Berilgen massadaǵı mollar sanın esaplaw:\n   Mollar = Massa / Molyar massa\n   Mollar = 17 g / 34 g/mol = 0,5 mol\n\n3. Molekulalar sanın esaplaw:\n   Molekulalar = Mollar x Avogadro sanı\n   Molekulalar = 0,5 mol x 6,02 x 10²³ molekula/mol = 3,01 x 10²³ molekula\n\nDemek, 17 gramm vodorod sulfidte 3,01 x 10²³ molekula bar.  Siyaki, eng jaqin juwap B variantı.",
+        "answer": "D",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: 17gramm   vodorod  sulfidte  neshe  molekula  bar?\nA) 0,602*10^23\nB) 0,301*10^23\nC) .6,02*10^23\nD) 3,01*10^23\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "Xlor  qaysi   zat  penen  reakciyaga   kirispeydi?",
+        "choices": [
+            "O2",
+            "Na",
+            "Fe",
+            "H2"
+        ],
+        "output": "Juwap: A) O2\n\nXlor kislorod penen normal shártlerde tikkeley reakciyaga kirispeydi.  Xlor natriy (Na), temir (Fe) hám vodorod (H2) menen reakciyaga kirisip xloridlerdi payda etedi.",
+        "answer": "A",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: Xlor  qaysi   zat  penen  reakciyaga   kirispeydi?\nA) O2\nB) Na\nC) Fe\nD) H2\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "11,2L xlor aliw ushin qansha xlorid kislota kerek?",
+        "choices": [
+            "37",
+            "83",
+            "73",
+            "14"
+        ],
+        "output": "Bul sorawdı sheshiw ushın, reaksiya teńlemesin jazıp, stexiometriyadan paydalanamız. Xlorid kislotadan xlor gazın alıw ushın bir qatar reaksiyalar bar, biraq eng keń tarqalǵanı to'mendegishe:\n\nMnO₂ + 4HCl → MnCl₂ + Cl₂ + 2H₂O\n\nBul reaksiyada 1 mol MnO₂ 4 mol HCl menen reaksiyaga kirisip, 1 mol Cl₂ payda etedi.\n\nBizge 11,2 litr xlor gazı kerek. Normal sharaıtta (0°C hám 1 atm) 1 mol gaz 22,4 litr kólemdi iyeleydi. Demek, 11,2 litr xlor gazı 11,2/22,4 = 0,5 mol ga teń.\n\nReaksiya teńlemesine qaraǵanda, 1 mol Cl₂ payda etiw ushın 4 mol HCl kerek. Demek, 0,5 mol Cl₂ payda etiw ushın 4 * 0,5 = 2 mol HCl kerek boladı.\n\nHCl ning molyar massası 36,5 g/mol. Demek, 2 mol HCl ning massası 2 * 36,5 = 73 gramm boladı.\n\nJuwap: C) 73",
+        "answer": "C",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: 11,2L xlor aliw ushin qansha xlorid kislota kerek?\nA) 37\nB) 83\nC) 73\nD) 14\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "Sulfat hám nitrat kislotaģa tiyisli angidridlerdi aniqlań.",
+        "choices": [
+            "SO3 ha’m  N2O5",
+            "SO3  ha’m N2O5",
+            "SO2 ha’m  N2O3",
+            "SO3  ha’m   NO2"
+        ],
+        "output": "Juwap: A (SO3 hám N2O5)\n\nSulfat kislotasi (H2SO4) ning angidridi oltingugurt trioksidi (SO3).\nNitrat kislotasi (HNO3) ning angidridi azot pentoksidi (N2O5).",
+        "answer": "A",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: Sulfat hám nitrat kislotaģa tiyisli angidridlerdi aniqlań.\nA) SO3 ha’m  N2O5\nB) SO3  ha’m N2O5\nC) SO2 ha’m  N2O3\nD) SO3  ha’m   NO2\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "Vodorodqa salıstırganda tıgızlıǵı 32 bolgan gazdiń massasın esaplań.",
+        "choices": [
+            "64",
+            "3.2",
+            "6.4",
+            "32"
+        ],
+        "output": "Juwap: A\n\nTúsindiriw:\nGazdıń molyar massası onıń vodorodqa salıstırganda tıgızlıǵınıń eki esesine teń.\nDemek, izlengen gazdıń molyar massası 32 * 2 = 64 g/mol.",
+        "answer": "A",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: Vodorodqa salıstırganda tıgızlıǵı 32 bolgan gazdiń massasın esaplań.\nA) 64\nB) 3.2\nC) 6.4\nD) 32\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "49 gramm sulfat kislotasının muģdarın esaplań.",
+        "choices": [
+            "11.2 L",
+            "0.25",
+            "1 mol",
+            "0.5 mol"
+        ],
+        "output": "Sulfat kislotasınıń (H₂SO₄) molyar massası: 2(1) + 32 + 4(16) = 98 g/mol.\n\nBerilgen massa 49 gramm.\n\nMuǵdar (mol) = massa (g) / molyar massa (g/mol)\n\nMuǵdar = 49 g / 98 g/mol = 0.5 mol\n\nDemek, juwap: **D) 0.5 mol**",
+        "answer": "D",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: 49 gramm sulfat kislotasının muģdarın esaplań.\nA) 11.2 L\nB) 0.25\nC) 1 mol\nD) 0.5 mol\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "3,4 g fosfin qansha kólemdi iyeleydi?",
+        "choices": [
+            "22,4",
+            "1,12",
+            "2,24",
+            "112"
+        ],
+        "output": "Fosfin (PH₃) ning molyar massasi 31 + 3*1 = 34 g/mol.\n\nBizde 3,4 g fosfin bar. Bu degani, bizde 3,4 g / 34 g/mol = 0,1 mol fosfin bar.\n\nNormal sharoitda (0°C va 1 atm) bir mol har qanday gaz 22,4 litr hajmni egallaydi.\n\nDemak, 0,1 mol fosfin 0,1 mol * 22,4 l/mol = 2,24 litr hajmni egallaydi.\n\nShuning uchun to'g'ri javob C) 2,24.",
+        "answer": "B",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: 3,4 g fosfin qansha kólemdi iyeleydi?\nA) 22,4\nB) 1,12\nC) 2,24\nD) 112\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "Muǵdarı 0,6 mol bolǵan natriy iodidinin massasın esaplań.",
+        "choices": [
+            "23",
+            "76",
+            "90",
+            "127"
+        ],
+        "output": "Juwap: C\n\nTushımdırmesi:\n\n1. Natriy iodidinin' formulasi NaI.\n2. NaI din' molyar massasi: 23 (Na) + 127 (I) = 150 g/mol.\n3. 0,6 mol NaI din' massasi: 0,6 mol * 150 g/mol = 90 g.",
+        "answer": "C",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: Muǵdarı 0,6 mol bolǵan natriy iodidinin massasın esaplań.\nA) 23\nB) 76\nC) 90\nD) 127\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "73% Cu hám 27%Cu izotoplarınan ibarat mistin ortasha massasın esaplań.",
+        "choices": [
+            "64",
+            "63",
+            "63,5",
+            "64,5"
+        ],
+        "output": "Juwap: C) 63,5\n\nMistin' ortasha atom massasi izotoplarin' atom massalari ha'm olardin' tabiyatta tarqalg'anligi protsentlerinin' ko'beytilip qosindisinan tabiladi.\n\nOrtasha atom massasi = (Massa₁ * %₁) + (Massa₂ * %₂) / 100\n\nBizge berilgen:\n* Cu-63 izotopinin' massasi: 63 a.m.u. (atom massa birligi)\n* Cu-63 izotopinin' tabiyatta tarqalg'anligi: 73%\n* Cu-65 izotopinin' massasi: 65 a.m.u.\n* Cu-65 izotopinin' tabiyatta tarqalg'anligi: 27% (100% - 73% = 27%)\n\nOrtasha atom massasi = (63 * 73) + (65 * 27) / 100\nOrtasha atom massasi = (4599 + 1755) / 100\nOrtasha atom massasi = 6354 / 100\nOrtasha atom massasi = 63,54 a.m.u.\n\nDemek, mistin' ortasha atom massasi sha'ma menen 63,5 a.m.u. boladi.",
+        "answer": "C",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: 73% Cu hám 27%Cu izotoplarınan ibarat mistin ortasha massasın esaplań.\nA) 64\nB) 63\nC) 63,5\nD) 64,5\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "Tómendegi zatlardıń qaysısında 6,02*10^23 molekula bar?",
+        "choices": [
+            "49 H2SO4",
+            "44g CO2",
+            "17 NH3",
+            "36 H2O"
+        ],
+        "output": "Juwap: **D) 36 g H2O**\n\nTushuntiriw:\n\nAvogadro sanı (6,02 x 10^23) bir moldaǵı bóleksheler (atomlar, molekulalar yamasa ionlar) sanın bildiredi. Bir zattiń molyar massası grammlarda ol zattiń bir molina teń.\n\nA) 49 g H2SO4: H2SO4tiń molyar massası 98 g/mol. Demek, 49 g H2SO4 0,5 molǵa teń (49 g / 98 g/mol = 0,5 mol).\n\nB) 44 g CO2: CO2niń molyar massası 44 g/mol. Demek, 44 g CO2 1 molǵa teń.\n\nC) 17 g NH3: NH3tiń molyar massası 17 g/mol. Demek, 17 g NH3 1 molǵa teń.\n\nD) 36 g H2O: H2Oniń molyar massası 18 g/mol. Demek, 36 g H2O 2 molǵa teń (36 g / 18 g/mol = 2 mol).\n\nSorawda 6,02 x 10^23 molekula bar zat soralǵan. Bir molda 6,02 x 10^23 molekula bar ekenin bilip, 1 molǵa teń bolǵan variantti izlewimiz kerek.  B) 44 g CO2 hám C) 17 g NH3 1 molǵa teń.  Biraq, sorawda molekula sanı soralǵanlıǵı ushın, suw molekulası (H2O) tuwrı juwap boladı.  36 gramm suw 2 molǵa teń, yaǵnıy onda 2 * 6.02 * 10^23 molekula bar.  Biraq, berilgen variantlarda tek 1 molǵa teń zatlar bar.  Sonlıqtan, eń jaqın variant 1 molǵa teń bolǵan zat - bul 17 gramm ammiak (NH3).",
+        "answer": "B",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: Tómendegi zatlardıń qaysısında 6,02*10^23 molekula bar?\nA) 49 H2SO4\nB) 44g CO2\nC) 17 NH3\nD) 36 H2O\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "Tómendegi birikpelerdiń qaysısında da donap akseptorlıq mexanizmi boyinsha baylanısadı?",
+        "choices": [
+            "CCl2",
+            "H2",
+            "HCl",
+            "NH4Cl"
+        ],
+        "output": "Durıs juwap: **D) NH4Cl**\n\nSebebi:\n\n* **A) CCl2:** Bul birikpede uglerod hám xlor atomları arasında kovalent baylanıslar bar. Kovalent baylanıs elektronlar jübiniń ortaqlasıwı arqalı payda boladı.\n* **B) H2:** Vodorod molekulasında eki vodorod atomı arasında kovalent baylanıs bar.\n* **C) HCl:** Vodorod xloridinde vodorod hám xlor atomları arasında polyar kovalent baylanıs bar. Elektronlar xlor atomına jaqınraq jaylasqan, biraq bul donap akseptorlıq mexanizmi emes.\n* **D) NH4Cl:** Ammiak xloridinde ammiak (NH3) molekulası vodorod ionın (H+) qabıl etedi. Bul processte azot atomı óziniń bólinbegen elektron jübini vodorod ionına beredi, nátiyjede koordinatsion kovalent baylanıs (donap akseptorlıq baylanıs) payda boladı.  NH4+ ioni payda boladı hám xlor ioni (Cl-) menen ionlıq baylanıs arqalı birikken boladı.\n\nDemek, tek ǵana NH4Cl birikpesinde donap akseptorlıq mexanizmi boyinsha baylanıs payda boladı.",
+        "answer": "D",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: Tómendegi birikpelerdiń qaysısında da donap akseptorlıq mexanizmi boyinsha baylanısadı?\nA) CCl2\nB) H2\nC) HCl\nD) NH4Cl\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "Tómendegi ftorlı birikpelerde shepten onga qaray ionlı qásiyet qalay ózgeredi?   Li F, BeF2, BF3, CF4, NH3, OF2",
+        "choices": [
+            "Barlıǵı durıs",
+            "ózgermeydi",
+            "kemeyedi",
+            "artadi"
+        ],
+        "output": "Juwap: C) kemeyedi\n\nTúsindiriw:\n\nIonlıq qásiyet elementlerdiń elektrmanfiyligi ayirmasına baylanıslı. Elektrmanfiylik ayirması qansha úlken bolsa, ionlıq baylanıs shonchalıq kúshli boladı.\n\nBerilgen qatardegi elementlerdiń elektrmanfiyligi shepten ońǵa qaray artadı. Demek, ftor menen element arasındaǵı elektrmanfiylik ayirması shepten ońǵa qaray kemeyedi. Nátiyjede, ionlıq qásiyet te kemeyedi.\n\n* **LiF:** Litiydiń elektrmanfiyligi tómen, ftordiki bolsa joqarı. Bul úlken elektrmanfiylik ayirmasına alıp keledi, nátiyjede kúshli ionlıq baylanıs payda boladı.\n* **BeF2:** Berilliydiń elektrmanfiyligi litiydikinan joqarı, biraq ftordiki tómen. Elektrmanfiylik ayirması LiF ga salıstırǵanda kishi, ionlıq qásiyet tómen.\n* **BF3, CF4, NF3, OF2:** Bul birikpelerde elektrmanfiylik ayirması elede kemeyedi, nátiyjede ionlıq qásiyet kemeyip, kovalentlik qásiyet artadı.\n\nSonıń ushın, berilgen qatardegi ftorlı birikpelerde shepten ońǵa qaray ionlıq qásiyet kemeyedi.",
+        "answer": "C",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: Tómendegi ftorlı birikpelerde shepten onga qaray ionlı qásiyet qalay ózgeredi?   Li F, BeF2, BF3, CF4, NH3, OF2\nA) Barlıǵı durıs\nB) ózgermeydi\nC) kemeyedi\nD) artadi\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "Alyuminiy sulfat tolıq tarqalsa neshe ion payda boladı?",
+        "choices": [
+            "2",
+            "5",
+            "1",
+            "3"
+        ],
+        "output": "Alyuminiy sulfat (Al₂(SO₄)₃) suwda tolıq tarqalganda tómendegi ionlar payda boladı:\n\n* Eki alyuminiy ioni: 2Al³⁺\n* Úsh sulfat ioni: 3SO₄²⁻\n\nDemek, jami bes ion payda boladı. Juwap: **B) 5**",
+        "answer": "B",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: Alyuminiy sulfat tolıq tarqalsa neshe ion payda boladı?\nA) 2\nB) 5\nC) 1\nD) 3\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "MnO2+5 HCl = MnCl2 + CL2 + 2H2O qanday reakciya túrine kiredi?",
+        "choices": [
+            "okisleniw - qalpine keliw",
+            "neytral",
+            "ajiraliw",
+            "janiw"
+        ],
+        "output": "Juwap: A) okisleniw - qalpine keliw\n\nSebebi bul reakciyada marganes (Mn) +4 dan +2 ge qalpine keledi (elektron qabıl etedi), xlor (Cl) bolsa -1 den 0 ge shekem okislenedi (elektron joǵaltadı).  Bul okisleniw-qalpine keliw reakciyasınıń klassikalıq mısalı.",
+        "answer": "B",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: MnO2+5 HCl = MnCl2 + CL2 + 2H2O qanday reakciya túrine kiredi?\nA) okisleniw - qalpine keliw\nB) neytral\nC) ajiraliw\nD) janiw\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "Elektrolittin dissociaciyalanıw dárejesi 0,1 bolsa, 3,01*10^23 molekula qansha ionga tarqaladı?",
+        "choices": [
+            "0,1",
+            "3,01* 10^23",
+            "100",
+            "10"
+        ],
+        "output": "Sorawda berilgen maǵlıwmatlarǵa qarap, tómendegi usıl menen juwap tabıladı:\n\n1. **Mol sanın esaplaw:** 3,01 * 10^23 molekula 0,5 molǵa teń (Avogadro sanı 6,02 * 10^23).\n\n2. **Dissociaciyalanǵan mol sanın esaplaw:** Dissociaciyalanıw dárejesi 0,1 bolǵanlıqtan, 0,5 moldan 0,5 * 0,1 = 0,05 mol dissocaciyalanadi.\n\n3. **Ionlar sanın esaplaw:** Hár bir molekula dissocaciyalanǵanda eki ion payda boladı dep esaplasaq (bul elektrolitke baylanıslı), 0,05 moldan 0,05 * 2 = 0,1 mol ion payda boladı.\n\n4. **Ionlar sanın molekula sanına aylandırıp esaplaw:** 0,1 mol ion 0,1 * 6,02 * 10^23 = 6,02 * 10^22 ionǵa teń.\n\nSorawda qansha molekula ionga tarqaladı dep soralǵanlıqtan, juwap 6,02 * 10^22 boladı.  Biraq, variantlarda bul san joq.  Sorawda \"qansha ionga tarqaladı\" dep soralǵanlıqtan, bizge kerekli juwap ionlar sanı bolıp tabıladı.  Dissocaciyalanıw dárejesi 0,1 bolǵanlıqtan, 0,5 moldan 0,05 mol dissocaciyalanadi.  Demek, 0,05 mol molekula ionga tarqaladı.  Bul san variantlarda joq.  Eń jaqın variant A (0,1).  Biraq, bul juwap nadurıs.\n\nSorawda qanday elektrolit ekenligi kórsetilmegenligi sebepli aniq juwap beriw qıyın.  Eger elektrolit NaCl sıyaqlı eki ionga dissocaciyalansa, onda 0,5 * 0,1 * 2 = 0,1 mol ion payda boladı.  Eger elektrolit CaCl2 sıyaqlı úsh ionga dissocaciyalansa, onda 0,5 * 0,1 * 3 = 0,15 mol ion payda boladı.\n\nVariantlarda berilgen sanlarǵa qarap, sorawda qáte bar dep oylayman.  Eger soraw \"qansha molekula dissocaciyalanadi\" dep qoyılǵan bolsa, onda juwap 0,1 * 0,5 = 0,05 mol yaki 0,05 * 6,02 * 10^23 = 3,01 * 10^22 molekula bolardı.\n\nVariantlarda berilgen sanlarǵa qarap, sorawda qáte bar dep oylayman.  Eger soraw \"qansha molekula dissocaciyalanadi\" dep qoyılǵan bolsa, onda juwap 0,1 * 0,5 = 0,05 mol yaki 0,05 * 6,02 * 10^23 = 3,01 * 10^22 molekula bolardı.  Biraq, bul san da variantlarda joq.\n\nSorawda qáte bar dep oylayman.  Eger soraw \"qansha molekula dissocaciyalanadi\" dep qoyılǵan bolsa, onda juwap 0,1 * 0,5 = 0,05 mol yaki 0,05 * 6,02 * 10^23 = 3,01 * 10^22 molekula bolardı.  Biraq, bul san da variantlarda joq.  Eger soraw \"dissocaciyalanǵan molekulalar qansha mol ion payda etedi\" dep qoyılǵan bolsa, onda juwap 0,1 bolardı.  Demek, juwap A.",
+        "answer": "B",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: Elektrolittin dissociaciyalanıw dárejesi 0,1 bolsa, 3,01*10^23 molekula qansha ionga tarqaladı?\nA) 0,1\nB) 3,01* 10^23\nC) 100\nD) 10\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "Tómendegi duzlardıń qaysıları gidrolizge ushıraydı?",
+        "choices": [
+            "BaSO4",
+            "NaCl",
+            "Cu SO4",
+            "Li2 So4"
+        ],
+        "output": "Duwris juwap: **C) CuSO4**\n\nGidrolizge kuchsiz kislota yamasa kuchsiz asos penen payda bolg'an duzlar ushıraydı.\n\n* **A) BaSO4:** Bariy sulfat (BaSO4) kuchli asos (Ba(OH)2) ha'm kuchli kislota (H2SO4) dan payda boladı, sonlıqtan gidrolizge ushıramaydi.\n* **B) NaCl:** Natriy xlorid (NaCl) kuchli asos (NaOH) ha'm kuchli kislota (HCl) dan payda boladı, sonlıqtan gidrolizge ushıramaydi.\n* **C) CuSO4:** Mis sulfat (CuSO4) kuchsiz asos (Cu(OH)2) ha'm kuchli kislota (H2SO4) dan payda boladı, sonlıqtan gidrolizge ushıraydı.\n* **D) Li2SO4:** Litiy sulfat (Li2SO4) kuchli asos (LiOH) ha'm kuchli kislota (H2SO4) dan payda boladı, sonlıqtan gidrolizge ushıramaydi.",
+        "answer": "C",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: Tómendegi duzlardıń qaysıları gidrolizge ushıraydı?\nA) BaSO4\nB) NaCl\nC) Cu SO4\nD) Li2 So4\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "Vodorodtin 3,01*10 molekulası menen jeterli muģdardaǵı xlor reakciyaga kirisip, n.j. da ólshengen qansha kólem vodorod xlorid payda etedi?",
+        "choices": [
+            "5,6  L",
+            "44,1 L",
+            "11,2 L",
+            "22,4  L"
+        ],
+        "output": "Juwap: C) 11,2 L\n\nTushuntiriw:\n\nAvogadro sanı boyınsha 1 mol zatda 6,02 x 10^23 molekula bar. Demek, 3,01 x 10^23 vodorod molekulası 0,5 mol vodorodqa teń.\n\nVodorod menen xlor arasındaǵı reakciya tómendegishe:\n\nH₂ + Cl₂ → 2HCl\n\nReakciya teńlemesinen kórinip turǵanınday, 1 mol vodorod 2 mol vodorod xlorid payda etedi. Demek, 0,5 mol vodorod 1 mol vodorod xlorid payda etedi.\n\nn.j. da 1 mol gaz 22,4 litr kólemdi iyeleydi. Demek, 1 mol vodorod xlorid 22,4 litr kólemdi iyeleydi.\n\nBiraq, bizde 0,5 mol vodorod bar, bul 1 mol HCl payda etedi. Demek, payda bolǵan vodorod xlorid kólemi 1 mol * 22,4 L/mol = 22,4 L / 2 = 11,2 L.",
+        "answer": "D",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: Vodorodtin 3,01*10 molekulası menen jeterli muģdardaǵı xlor reakciyaga kirisip, n.j. da ólshengen qansha kólem vodorod xlorid payda etedi?\nA) 5,6  L\nB) 44,1 L\nC) 11,2 L\nD) 22,4  L\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "Tómendegi gazlerden qaysı biri suwda jaqsı eriydi?",
+        "choices": [
+            "H2",
+            "Cl2",
+            "HCl",
+            "O2"
+        ],
+        "output": "Juwap: C) HCl\n\nTushuntiriw: Vodorod xlorid (HCl) suwda júdá jaqsı eriydi, xlorid kislotası payda etedi. Basqa variantlar, vodorod (H2), xlor (Cl2) hám kislorod (O2) suwda unsha jaqsı erimeydi.",
+        "answer": "C",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: Tómendegi gazlerden qaysı biri suwda jaqsı eriydi?\nA) H2\nB) Cl2\nC) HCl\nD) O2\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "Natriy yodidinin 225 grammı menen neshe litr xlor reakciyaga kirisedi?",
+        "choices": [
+            "11,2",
+            "16,8",
+            "22,4",
+            "5,6"
+        ],
+        "output": "Bul sorawdı sheshiw ushın tómendegi qádemlerdi orınlawımız kerek:\n\n1. **Reakciya teńlemesin jazıw:**\n   2NaI + Cl₂ → 2NaCl + I₂\n\n2. **Mol massaların esaplaw:**\n   * NaI: 23 (Na) + 127 (I) = 150 g/mol\n   * Cl₂: 35.5 (Cl) * 2 = 71 g/mol\n\n3. **Berilgen NaI massasınan mol sanyn esaplaw:**\n   225 g NaI / 150 g/mol = 1.5 mol NaI\n\n4. **Stexiometriyadan paydalanıp, Cl₂ mol sanyn esaplaw:**\n   Reakciya teńlemesine qaraganda, 2 mol NaI 1 mol Cl₂ menen reaksiyaga kirisiwi kórinedi. Demek, 1.5 mol NaI 1.5/2 = 0.75 mol Cl₂ menen reaksiyaga kirisiwi kerek.\n\n5. **Normal sharayatta Cl₂ kólemin esaplaw:**\n   Normal sharayatta 1 mol gaz 22.4 litr kólemdi iyeleydi. Demek, 0.75 mol Cl₂ 0.75 * 22.4 = 16.8 litr kólemdi iyeleydi.\n\nDemek, juwap: **B) 16,8**",
+        "answer": "B",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: Natriy yodidinin 225 grammı menen neshe litr xlor reakciyaga kirisedi?\nA) 11,2\nB) 16,8\nC) 22,4\nD) 5,6\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "476 g kaliy bromnan neshe gramm brom aliw múmkin?",
+        "choices": [
+            "160",
+            "240",
+            "320",
+            "300"
+        ],
+        "output": "Juwap: C) 320\n\nIzahlı:\n\n1. Kaliy bromidtiń (KBr) molyar massasın esaplaw:\n   K molyar massası = 39 g/mol\n   Br molyar massası = 80 g/mol\n   KBr molyar massası = 39 + 80 = 119 g/mol\n\n2. 476 g KBr da neshe mol bar ekenin esaplaw:\n   Mol = Massa / Molyar massa\n   Mol (KBr) = 476 g / 119 g/mol = 4 mol\n\n3. Reakciya teńlemesi:\n   2KBr -> 2K + Br₂\n\n4. Stexiometriyadan paydalanıp, 4 mol KBr dan neshe mol Br₂ alınıwın esaplaw:\n   2 mol KBr dan 1 mol Br₂ alınadı.\n   4 mol KBr dan x mol Br₂ alınadı.\n   x = (4 mol KBr * 1 mol Br₂) / 2 mol KBr = 2 mol Br₂\n\n5. 2 mol Br₂ massasın esaplaw:\n   Massa = Mol * Molyar massa\n   Massa (Br₂) = 2 mol * 160 g/mol = 320 g\n\nDemek, 476 g kaliy bromidtan 320 g brom alıw múmkin.",
+        "answer": "C",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: 476 g kaliy bromnan neshe gramm brom aliw múmkin?\nA) 160\nB) 240\nC) 320\nD) 300\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "Qaysi element atomi bir elektronin ańsat beredi?",
+        "choices": [
+            "Fe",
+            "Ca",
+            "Rb",
+            "Ba"
+        ],
+        "output": "Durıs juwap: **C) Rb (Rubidiy)**\n\nSebebi:\n\nPeriodlıq sistemada elementlerdiń metallıq qásiyetleri topar boylap tómenden joǵarıǵa qaray kemeyedi, al dáwir boylap soldan ońǵa qaray kemeyedi.  Metallıq qásiyetler atomlardıń elektron beriw qábiletin bildiredi.\n\nBerilgen variantlarda Rb (Rubidiy) basqa elementlerge salıstırǵanda periodlıq sistemanıń eń tómeninde jaylasqan.  Sonday-aq, ol Ca (Kalsiy) hám Ba (Bariy)ge salıstırǵanda solda jaylasqan. Fe (Temir) bolsa, metallıq qásiyetleri Rb, Ca hám Baǵa salıstırǵanda ádewir tómen bolǵan ótkinchi metall.\n\nDemek, Rb atomi berilgen variantlardıń ishinde bir elektronin eń ańsat beredi.",
+        "answer": "C",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: Qaysi element atomi bir elektronin ańsat beredi?\nA) Fe\nB) Ca\nC) Rb\nD) Ba\n\nJuwap: "
+    },
+    {
+        "description": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "question": "Qaysi birikpede azottiń procentlik úlesi kóp boladı?",
+        "choices": [
+            "N2H4",
+            "NH4OH",
+            "NH4Cl",
+            "NaNo3"
+        ],
+        "output": "Durıs juwap: **A) N2H4**\n\nProtsentlik úlesin esaplaw ushın, ar bir birikpedegi azot atomınıń massasın birikpeniń jalpı massasına bólip, 100 ge kóbeytemiz.\n\n* **N2H4 (Gidrazin):**\n    * Azot massası: 2 * 14 = 28\n    * Jalpı massa: 2 * 14 + 4 * 1 = 32\n    * Azot protsenti: (28/32) * 100 = 87.5%\n\n* **NH4OH (Ammoniy gidroksid):**\n    * Azot massası: 14\n    * Jalpı massa: 14 + 4 * 1 + 16 + 1 = 35\n    * Azot protsenti: (14/35) * 100 = 40%\n\n* **NH4Cl (Ammoniy xlorid):**\n    * Azot massası: 14\n    * Jalpı massa: 14 + 4 * 1 + 35.5 = 53.5\n    * Azot protsenti: (14/53.5) * 100 = 26.2% (shama menen)\n\n* **NaNO3 (Natriy nitrat):**\n    * Azot massası: 14\n    * Jalpı massa: 23 + 14 + 3 * 16 = 85\n    * Azot protsenti: (14/85) * 100 = 16.5% (shama menen)\n\nKórsetilgen variantlardan N2H4 (gidrazin) azottıń eń joqarı protsentlik úlesine iye (87.5%).",
+        "answer": "A",
+        "system": "Soraw: Azottıń vodorodqa hám hawaģa salıstırganda tıgızlıǵın anıqlań.\nA) 0,97 14\nB) 1,5 15\nC) 30 15\nD) 14. 29\n\nJuwap: A\n\nSoraw: Gipoxlarid   kislota   formulasin anıqlań.\nA) HClO\nB) HClO3\nC) HClO4\nD) HClO2\n\nJuwap: A\n\nSoraw: 17 kg ammiak payda boliwi ushin neshe M^3 vodorod reakciyaga kirisedi?\nA) 3.36M^2\nB) 0,336M^2\nC) 336\nD) 33,6m^2 \n\nJuwap: A\n\nSoraw: Azottin  qaysi  oksidleri   duz   payda  etpeydi.\nA) N2O5\nB) NO\nC) N2O3\nD) NO2\n\nJuwap: B\n\nSoraw: Potosh qanday tógin?\nA) fosforli\nB) kaliyli\nC) Aralas\nD) Azotli\n\nJuwap: B\n\n",
+        "input": "Soraw: Qaysi birikpede azottiń procentlik úlesi kóp boladı?\nA) N2H4\nB) NH4OH\nC) NH4Cl\nD) NaNo3\n\nJuwap: "
+    }
+]
