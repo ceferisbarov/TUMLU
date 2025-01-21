@@ -1,4 +1,29 @@
+import re
 import random
+
+FEW_SHOT_PROMPTS = {
+    "crimean-tatar": """Sual: {question}\n{choices}\n\nCevap: {answer}\n\n""",
+    "uzbek": """Savol: {question}\n{choices}\n\nJavob: {answer}\n\n""",
+    "tatar": """Сорау: {question}\n{choices}\n\nҖавап: {answer}\n\n""",
+    "kazakh": """Сұрақ: {question}\n{choices}\n\nЖауап: {answer}\n\n""",
+    "karakalpak": """Soraw: {question}\n{choices}\n\nJuwap: {answer}\n\n""",
+}
+
+TEST_PROMPTS = {
+    "crimean-tatar": """Sual: {question}\n{choices}\n\nCevap: """,
+    "uzbek": """Savol: {question}\n{choices}\n\nJavob: """,
+    "tatar": """Сорау: {question}\n{choices}\n\nҖавап: """,
+    "kazakh": """Сұрақ: {question}\n{choices}\n\nЖауап: """,
+    "karakalpak": """Soraw: {question}\n{choices}\n\nJuwap: """, 
+}
+
+KEYWORD_DICT = {
+    "uzbek": "Javob",
+    "crimean-tatar": "Cevap",
+    "tatar": "Җавап",
+    "kazakh": "Жауап",
+    "karakalpak": "Juwap"
+}
 
 
 def shuffle_choices(options, answer):
@@ -28,21 +53,6 @@ def shuffle_choices(options, answer):
     return shuffled_options, updated_answer.upper()
 
 
-FEW_SHOT_PROMPTS = {
-    "crimean-tatar": """Sual: {question}\n{choices}\n\nCevap: {answer}\n\n""",
-    "uzbek": """Savol: {question}\n{choices}\n\nJavob: {answer}\n\n""",
-    "tatar": """Сорау: {question}\n{choices}\n\nҖавап: {answer}\n\n""",
-    "kazakh": """Сұрақ: {question}\n{choices}\n\nЖауап: {answer}\n\n""",
-}
-
-TEST_PROMPTS = {
-    "crimean-tatar": """Sual: {question}\n{choices}\n\nCevap: """,
-    "uzbek": """Savol: {question}\n{choices}\n\nJavob: """,
-    "tatar": """Сорау: {question}\n{choices}\n\nҖавап: """,
-    "kazakh": """Сұрақ: {question}\n{choices}\n\nЖауап: """,
-}
-
-
 def format_question(template, question, choices, answer=None):
     """
     Given a language specific template, question, choices,
@@ -56,3 +66,45 @@ def format_question(template, question, choices, answer=None):
         return template.format(question=question, choices=choices_text, answer=answer)
 
     return template.format(question=question, choices=choices_text)
+
+
+def find_matching_pattern(text, language):
+    """
+    Given an LLM output, matches it to A, B, C, or D.
+    """
+    text = text.replace("А", "A")
+    text = text.replace("Б", "B")
+    text = text.replace("С", "C")
+    text = text.replace("Д", "D")
+
+    word = KEYWORD_DICT[language]
+    patterns = {
+        "A": [r"A\)", rf"{word}: A", rf"{word} A\)"],
+        "B": [r"B\)", rf"{word}: B", rf"{word} B\)"],
+        "C": [r"C\)", rf"{word}: C", rf"{word} C\)"],
+        "D": [
+            r"D\)",
+            rf"{word}: D",
+            rf"{word} D\)",
+        ],
+    }
+
+    for letter, letter_patterns in patterns.items():
+        for pattern in letter_patterns:
+            if re.search(pattern, text):
+                return letter
+
+    return None
+
+
+def get_acc(data, language):
+    """
+    Calculates accuracy of an LLM on a given dataset.
+    """
+    for i in data:
+        i["prediction"] = find_matching_pattern(i["output"], language)
+
+    if len(data):
+        return sum(map(lambda x: x["prediction"] == x["answer"], data)) / len(data)
+
+    return 0
