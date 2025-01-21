@@ -23,9 +23,20 @@ uv venv env
 source env/bin/activate
 
 uv pip install -r requirements.txt
+
+touch .env
 ```
 
-Run `scripts/fewshot.py` to run 5-shot benchmarks. You need to specify models and languages from within the script. If anybody wants to create friendly CLI with Fire, PRs are welcome!
+Add the following api keys to the `.env` file:
+```
+OPENAI_API_KEY=""
+ANTHROPIC_API_KEY=""
+TOGETHER_API_KEY=""
+GEMINI_API_KEY=""
+DEEPINFRA_API_KEY=""
+```
+
+Run `scripts/fewshot.py` from the base folder to run 5-shot benchmarks. You need to specify models and languages from within the script. If anybody wants to create friendly CLI with Fire, PRs are welcome!
 
 All results are stored in `data` directory. `scripts/evaluate.py` can be used to print accuracy of a single language-model combination. `scripts/aggregate.py` creates a CSV file containing all language-model-subject combinations.
 
