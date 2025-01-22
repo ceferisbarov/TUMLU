@@ -1,8 +1,6 @@
 from datasets import load_dataset, Dataset
 
-dataset = load_dataset(
-    "jafarisbarov/UyghurMMLU", download_mode="force_redownload"
-)[
+dataset = load_dataset("jafarisbarov/UyghurMMLU", download_mode="force_redownload")[
     "train"
 ]
 subjects = list(set(dataset["subject"]))
