@@ -7,6 +7,8 @@ FEW_SHOT_PROMPTS = {
     "tatar": """Сорау: {question}\n{choices}\n\nҖавап: {answer}\n\n""",
     "kazakh": """Сұрақ: {question}\n{choices}\n\nЖауап: {answer}\n\n""",
     "karakalpak": """Soraw: {question}\n{choices}\n\nJuwap: {answer}\n\n""",
+    "turkish": """Soru: {question}\n{choices}\n\nCevap: {answer}\n\n""",
+    "uyghur": """سوئال: {question}\n{choices}\n\nجاۋاب: {answer}\n\n"""
 }
 
 TEST_PROMPTS = {
@@ -14,7 +16,9 @@ TEST_PROMPTS = {
     "uzbek": """Savol: {question}\n{choices}\n\nJavob: """,
     "tatar": """Сорау: {question}\n{choices}\n\nҖавап: """,
     "kazakh": """Сұрақ: {question}\n{choices}\n\nЖауап: """,
-    "karakalpak": """Soraw: {question}\n{choices}\n\nJuwap: """, 
+    "karakalpak": """Soraw: {question}\n{choices}\n\nJuwap: """,
+    "turkish": """Soru: {question}\n{choices}\n\nCevap: """,
+    "uyghur": """سوئال: {question}\n{choices}\n\nجاۋاب: """
 }
 
 KEYWORD_DICT = {
@@ -22,7 +26,9 @@ KEYWORD_DICT = {
     "crimean-tatar": "Cevap",
     "tatar": "Җавап",
     "kazakh": "Жауап",
-    "karakalpak": "Juwap"
+    "karakalpak": "Juwap",
+    "turkish": "Cevap",
+    "uyghur": "جاۋاب"
 }
 
 
