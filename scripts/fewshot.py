@@ -4,7 +4,7 @@ from glob import glob
 from pathlib import Path
 
 from openai import OpenAI
-from anthropic import Anthropic
+from anthropic import Anthropic, AnthropicVertex
 import google.generativeai as genai
 
 from tqdm import tqdm
@@ -14,16 +14,18 @@ from utils import shuffle_choices, FEW_SHOT_PROMPTS, TEST_PROMPTS, format_questi
 
 load_dotenv(".env")
 MODEL_NAMES = [
+    # "claude-3-5-sonnet-v2@20241022", # testing claude@Vertex AI vs claude@Anthropic
+    # "claude-3-5-haiku@20241022", # testing claude@Vertex AI vs claude@Anthropic
     "claude-3-5-sonnet-20241022",
     "claude-3-5-haiku-20241022",
     "gpt-4o-2024-11-20",
     "Qwen/Qwen2.5-7B-Instruct",
-    #    "Qwen/Qwen2.5-32B-Instruct", Doesn't exist in DeepInfra
     "Qwen/Qwen2.5-72B-Instruct",
     "meta-llama/Meta-Llama-3.1-8B-Instruct",
     "meta-llama/Meta-Llama-3.1-70B-Instruct",
+    "meta-llama/Llama-3.3-70B-Instruct"
     "gemini-1.5-flash",
-    "gemini-2.0-flash",
+    # "gemini-2.0-flash-exp", # very low rate limits, ignore
     "gemini-1.5-pro",
     "google/gemma-2-27b-it",
     "google/gemma-2-9b-it",
@@ -46,6 +48,12 @@ for MODEL_NAME in MODEL_NAMES:
         client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
     elif "claude" in MODEL_NAME:
         client = Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+
+        # Uncomment to test claude@Vertex AI:
+        # project_id = "turkicmmlu"
+        # region = "europe-west1"
+        # client = AnthropicVertex(project_id=project_id, region=region)
+
     elif "gemini" in MODEL_NAME:
         genai.configure(api_key=os.environ["GEMINI_API_KEY"])
     elif "qwen" in MODEL_NAME.lower() or "llama" in MODEL_NAME.lower():
