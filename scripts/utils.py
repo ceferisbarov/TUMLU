@@ -8,7 +8,7 @@ FEW_SHOT_PROMPTS = {
     "kazakh": """Сұрақ: {question}\n{choices}\n\nЖауап: {answer}\n\n""",
     "karakalpak": """Soraw: {question}\n{choices}\n\nJuwap: {answer}\n\n""",
     "turkish": """Soru: {question}\n{choices}\n\nCevap: {answer}\n\n""",
-    "uyghur": """سوئال: {question}\n{choices}\n\nجاۋاب: {answer}\n\n"""
+    "uyghur": """سوئال: {question}\n{choices}\n\nجاۋاب: {answer}\n\n""",
 }
 
 TEST_PROMPTS = {
@@ -18,7 +18,7 @@ TEST_PROMPTS = {
     "kazakh": """Сұрақ: {question}\n{choices}\n\nЖауап: """,
     "karakalpak": """Soraw: {question}\n{choices}\n\nJuwap: """,
     "turkish": """Soru: {question}\n{choices}\n\nCevap: """,
-    "uyghur": """سوئال: {question}\n{choices}\n\nجاۋاب: """
+    "uyghur": """سوئال: {question}\n{choices}\n\nجاۋاب: """,
 }
 
 KEYWORD_DICT = {
@@ -28,7 +28,7 @@ KEYWORD_DICT = {
     "kazakh": "Жауап",
     "karakalpak": "Juwap",
     "turkish": "Cevap",
-    "uyghur": "جاۋاب"
+    "uyghur": "جاۋاب",
 }
 
 
@@ -85,14 +85,10 @@ def find_matching_pattern(text, language):
 
     word = KEYWORD_DICT[language]
     patterns = {
-        "A": [r"A\)", rf"{word}: A", rf"{word} A\)"],
-        "B": [r"B\)", rf"{word}: B", rf"{word} B\)"],
-        "C": [r"C\)", rf"{word}: C", rf"{word} C\)"],
-        "D": [
-            r"D\)",
-            rf"{word}: D",
-            rf"{word} D\)",
-        ],
+        "A": [r"A\)", rf"{word}: A", rf"{word} A\)", r"\*\*A\*\*"],
+        "B": [r"B\)", rf"{word}: B", rf"{word} B\)", r"\*\*B\*\*"],
+        "C": [r"C\)", rf"{word}: C", rf"{word} C\)", r"\*\*C\*\*"],
+        "D": [r"D\)", rf"{word}: D", rf"{word} D\)", r"\*\*D\*\*"],
     }
 
     for letter, letter_patterns in patterns.items():
