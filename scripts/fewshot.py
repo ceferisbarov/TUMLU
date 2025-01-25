@@ -29,13 +29,14 @@ MODEL_NAMES = [
     "gemini-1.5-pro",
     "google/gemma-2-27b-it",
     "google/gemma-2-9b-it",
+    "deepseek-chat"
 ]
 
 TEMPERATURE = 0.0
 MAX_TOKENS = 1024
 TOP_P = 1.0
 TEST_COUNT = 100
-LANGUAGE = "uzbek"
+LANGUAGE = "crimean-tatar"
 SUBJECT_LIST_TEST = glob(f"data/{LANGUAGE}/test/*.jsonl")  # CHANGE LANGUAGE HERE
 SUBJECT_DICT = {}
 FEW_SHOT_PROMPT = FEW_SHOT_PROMPTS[LANGUAGE]
@@ -46,6 +47,11 @@ for MODEL_NAME in MODEL_NAMES:
 
     if MODEL_NAME == "gpt-4o-2024-11-20":
         client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+    elif MODEL_NAME == "deepsek-chat":
+        client = OpenAI(
+            api_key=os.environ["DEEPSEEK_API_KEY"],
+            base_url="https://api.deepseek.com/"
+        )
     elif "claude" in MODEL_NAME:
         client = Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 
