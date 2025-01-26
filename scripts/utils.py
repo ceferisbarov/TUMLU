@@ -28,6 +28,7 @@ MODEL_NAMES = [
     "gemini-1.5-pro",
     "google/gemma-2-27b-it",
     "google/gemma-2-9b-it",
+    "deepseek-chat"
 ]
 
 FEW_SHOT_PROMPTS = {
