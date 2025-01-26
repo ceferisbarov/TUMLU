@@ -30,6 +30,11 @@ for MODEL_NAME in MODEL_NAMES:
 
     if MODEL_NAME == "gpt-4o-2024-11-20":
         client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+    elif MODEL_NAME == "deepsek-chat":
+        client = OpenAI(
+            api_key=os.environ["DEEPSEEK_API_KEY"],
+            base_url="https://api.deepseek.com/"
+        )
     elif "claude" in MODEL_NAME:
         client = Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 

@@ -1,0 +1,450 @@
+[
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "D. İ. Mendeleyev devriy sistemasında, baş gruppa aşağı, VII gruppa, 4 devirde yerleşken himik elementiniñ proton raqamını körsetiñiz.",
+        "choices": [
+            " 26",
+            " 17",
+            "35",
+            " 25"
+        ],
+        "output": "C\n\n**İzahat:** D. İ. Mendeleyev devriy sistemasında, VII gruppa (halogenler) 4 devirde yerleşken element **bromdur (Br)**. Bromnıñ proton raqamı **35**-tir. Şuña köre, doğru cevap **C) 35**-tir.",
+        "answer": "C",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: D. İ. Mendeleyev devriy sistemasında, baş gruppa aşağı, VII gruppa, 4 devirde yerleşken himik elementiniñ proton raqamını körsetiñiz.\nA)  26\nB)  17\nC) 35\nD)  25\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "İfadeni talil etip, olar arasından doğru olğanını tapıñız. I. Himiya daafaalliginiñ suratı katalizator olğanı sebebinden tezleşe. II. Himiya daafaalliginiñ suratı daahafiyeci qattı alda dağılğan sebebinden tezleşe.",
+        "choices": [
+            "doğru cevabı yoq",
+            "ekisi doğru",
+            "tek I doğru",
+            "tek II doğru"
+        ],
+        "output": "Cevap: B\n\nİzahat:\n- **I. İfade**: Himiya daafaalliginiñ suratı katalizator olğanı sebebinden tezleşe. Bu ifade doğrudır, çünki katalizatorlar himiya reaksiyalarınıñ suratını arttırırlar.\n- **II. İfade**: Himiya daafaalliginiñ suratı daahafiyeci qattı alda dağılğan sebebinden tezleşe. Bu ifade de doğrudır, çünki qattı alda dağılğan maddeler reaksiya suratını arttıra bilirler.\n\nEkisi ifade de doğru oldığı içün doğru cevap **B) ekisi doğru** olur.",
+        "answer": "B",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: İfadeni talil etip, olar arasından doğru olğanını tapıñız. I. Himiya daafaalliginiñ suratı katalizator olğanı sebebinden tezleşe. II. Himiya daafaalliginiñ suratı daahafiyeci qattı alda dağılğan sebebinden tezleşe.\nA) doğru cevabı yoq\nB) ekisi doğru\nC) tek I doğru\nD) tek II doğru\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Ekşipiçim, ekşilikni yaratmaq içün, suvnen areket ete, onıñ formulasını belgileñiz.",
+        "choices": [
+            "$S O_3$",
+            "$SiO_2$",
+            "$N_2 O$",
+            "CO"
+        ],
+        "output": "A) $S O_3$\n\nEkşipiçim, ekşilikni yaratmaq içün suvnen areket ete. $S O_3$ (kükürt trioksidi) suvnen reaksiyaya girip, kükürt ekşiligini ($H_2 S O_4$) yarata:\n\n$$\nS O_3 + H_2 O \\rightarrow H_2 S O_4\n$$\n\nBu sebepten, ekşipiçim olaraq $S O_3$ kullanıla.",
+        "answer": "A",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Ekşipiçim, ekşilikni yaratmaq içün, suvnen areket ete, onıñ formulasını belgileñiz.\nA) $S O_3$\nB) $SiO_2$\nC) $N_2 O$\nD) CO\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Talebeler boş himik bardağına bor ununu yerleştirdiler, suv qoştılar, tez qarıştırdılar. Nasıl qarışma peyda oldı?",
+        "choices": [
+            " irinti",
+            " köpük",
+            " emulsiya",
+            " suspenziya"
+        ],
+        "output": "D) suspenziya\n\nİzahat: Bor unu suvda erimegen bir maddedir. Talebeler bor unını suvğa qoşıp tez qarıştırğanda, bor unı suvda dağılıp, iri parçacıqlar şeklinde qalır. Bu, suspenziya adlanğan bir qarışma türüdür. Suspenziyada qatı maddeler suvda dağılıp, zaman keçken soñ çökmege başlaylar.",
+        "answer": "D",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Talebeler boş himik bardağına bor ununu yerleştirdiler, suv qoştılar, tez qarıştırdılar. Nasıl qarışma peyda oldı?\nA)  irinti\nB)  köpük\nC)  emulsiya\nD)  suspenziya\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Kaliy gidroksidniñ hususiyetleri angi cevap variantında dogru?  1. azirintili şingenlik 2. tez ekşiy 3. sulfur(IV) ekşipiçimge tesir ete 4. küçlü elektrolit",
+        "choices": [
+            "1, 2",
+            "2, 3",
+            "1, 3",
+            "3,4"
+        ],
+        "output": "D) 3,4\n\nKaliy gidroksid (KOH) küçlü elektrolit olıp, suvda azirintili şingenlik teşkil ete. O, sulfur(IV) ekşipiçimge (SO₂) tesir etip, reaksiyağa kire. Lâkin, KOH tez ekşimez, aksine küçlü baz olaraq tanılğan. Şuña köre, doğru cevap D) 3,4.",
+        "answer": "D",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Kaliy gidroksidniñ hususiyetleri angi cevap variantında dogru?  1. azirintili şingenlik 2. tez ekşiy 3. sulfur(IV) ekşipiçimge tesir ete 4. küçlü elektrolit\nA) 1, 2\nB) 2, 3\nC) 1, 3\nD) 3,4\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Suvda areket etip, küçlü ekşilikni yaratqan şingenlik formulanı tapıñız.",
+        "choices": [
+            "$H_2 S$",
+            "HCl",
+            "$S O_2$",
+            "$NH_3$"
+        ],
+        "output": "Cevap: B\n\n**İzahat:**  \nSuvda areket etip, küçlü ekşilik yaratqan şingenlik - **HCl** (hidrogen xlorid). HCl suvda tamamen dissotsiatsiya olıp, $H^+$ ve $Cl^-$ ionlarını yarata. Bu ise onı küçlü ekşilik yapa.  \n- $H_2 S$ (hidrogen sulfid) - zayıf ekşilik.  \n- $S O_2$ (sülfür dioksid) - ekşilik emir.  \n- $NH_3$ (ammiak) - şeşeklik.",
+        "answer": "B",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Suvda areket etip, küçlü ekşilikni yaratqan şingenlik formulanı tapıñız.\nA) $H_2 S$\nB) HCl\nC) $S O_2$\nD) $NH_3$\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Qattı suv qaynağanda, çaynik tübünde beyaz madde peyda ola, nasıl ionlar buna sebepçi?",
+        "choices": [
+            "$Na^+, HCO_3^-$",
+            "$Mg^2+, HCO_3^-$",
+            "$Na^+, SO_4^2-$",
+            "$Mg^2+, SO_4^2-$"
+        ],
+        "output": "B) $Mg^2+, HCO_3^-$\n\n**İzahat:**  \nQattı suvda, mağnezium ($Mg^2+$) ve bikarbonat ($HCO_3^-$) ionları buluna. Suv qaynağanda, bu ionlar reaksiyaya girip mağnezium karbonat ($MgCO_3$) ola, bu da çaynik tübünde beyaz madde olaraq peyda ola. Bu, qattı suvda kalsium ve mağnezium tuzlarınıñ birleşmesinden ibaret olğan bir hadisedir.",
+        "answer": "B",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Qattı suv qaynağanda, çaynik tübünde beyaz madde peyda ola, nasıl ionlar buna sebepçi?\nA) $Na^+, HCO_3^-$\nB) $Mg^2+, HCO_3^-$\nC) $Na^+, SO_4^2-$\nD) $Mg^2+, SO_4^2-$\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Ekşiliknen ve siltenen areket etken gidroksidniñ formulasını tapıñız.",
+        "choices": [
+            "$Ca(OH)_2$",
+            "NaOH",
+            "LiOH",
+            "$Zn(OH)_2$"
+        ],
+        "output": "D) $Zn(OH)_2$  \n\nÇünki $Zn(OH)_2$ gidroksidi hem ekşilikler, hem de siltenen ile areket ete. Bu, amfoter gidroksidlerge has bir hususiyettir.",
+        "answer": "D",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Ekşiliknen ve siltenen areket etken gidroksidniñ formulasını tapıñız.\nA) $Ca(OH)_2$\nB) NaOH\nC) LiOH\nD) $Zn(OH)_2$\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Suv irintilerde nasıl maddeler öz ara areket eteler?",
+        "choices": [
+            "$Ca(NO_3)_2 ve HCl$",
+            "NaOH ve $Ca(OH)_2$",
+            "NaOH ve $CuSO_4$",
+            "$CaCl_2 ve KNO_3$"
+        ],
+        "output": "C\n\n**İzahat:**  \nSuv irintilerde NaOH ve $CuSO_4$ öz ara areket eteler. Bu reaksiyonda $Cu(OH)_2$ çökeltisi oluşır:\n\n$$\n2NaOH + CuSO_4 \\rightarrow Na_2SO_4 + Cu(OH)_2 \\downarrow\n$$\n\nBu reaksiyon, çökelti oluşumu ile karakterize edilir ve suv irintilerde gözlemlenebilir.",
+        "answer": "C",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Suv irintilerde nasıl maddeler öz ara areket eteler?\nA) $Ca(NO_3)_2 ve HCl$\nB) NaOH ve $Ca(OH)_2$\nC) NaOH ve $CuSO_4$\nD) $CaCl_2 ve KNO_3$\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Suv irintisi ferum (II) sulfatnen nasıl metall areket ete?",
+        "choices": [
+            "Pb",
+            "Zn",
+            "Sn",
+            "Cu"
+        ],
+        "output": "Cevap: B\n\nSuv irintisi ferum (II) sulfat (FeSO₄) ile reaksiyaya girebilen metaller arasında çinko (Zn) bulunur. Çinko, ferum (II) sulfat çözeltisindeki demir (Fe²⁺) iyonlarını indirgeyerek demir metalini (Fe) açığa çıkarır ve kendisi çinko iyonu (Zn²⁺) olarak çözeltiye geçer. Bu reaksiyon, çinkonun demirden daha aktif bir metal olmasından kaynaklanır. Reaksiyon denklemi şu şekildedir:\n\n\\[ \\text{Zn} + \\text{FeSO}_4 \\rightarrow \\text{ZnSO}_4 + \\text{Fe} \\]\n\nDiğer seçeneklerdeki metaller (Pb, Sn, Cu) bu reaksiyona giremez çünkü demirden daha az aktiflerdir.",
+        "answer": "B",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Suv irintisi ferum (II) sulfatnen nasıl metall areket ete?\nA) Pb\nB) Zn\nC) Sn\nD) Cu\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Magniy gidroksid termik dağıtıluvında angi mahsullarğa dağıla.",
+        "choices": [
+            "Mg ve $H_2 O$",
+            "MgO ve $H_2$",
+            "Mg ve $H_2 O_2$",
+            "MgO ve $H_2O$"
+        ],
+        "output": "D\n\n**İzahat:**  \nMagniy gidroksid (Mg(OH)₂) termik dağıtıluvında aşağıdaki reaksiya keçe:  \n\\[ \\text{Mg(OH)}_2 \\rightarrow \\text{MgO} + \\text{H}_2\\text{O} \\]  \nBu reaksiya neticesinde magniy oksid (MgO) ve suv (H₂O) oluşa. Şu sebepden doğru cevap **D**-dir.",
+        "answer": "D",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Magniy gidroksid termik dağıtıluvında angi mahsullarğa dağıla.\nA) Mg ve $H_2 O$\nB) MgO ve $H_2$\nC) Mg ve $H_2 O_2$\nD) MgO ve $H_2O$\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Alüminiy ekşipiçimi 4 mol miqdarınen alüminiy ekişme areketinden ne qadar maddeler (mol) peyda olur?",
+        "choices": [
+            "2",
+            "3",
+            "1",
+            "4"
+        ],
+        "output": "Cevap: B\n\n**İzahat:**\n\nAlüminiy ekşipiçimi (Al₂O₃) ve alüminiy ekişme (Al) arasındaki reaksiya aşağıdaki kibi yazıla:\n\n\\[ 2Al + \\frac{3}{2}O_2 \\rightarrow Al_2O_3 \\]\n\nBu reaksiyada 2 mol Al, 1 mol Al₂O₃ peyda ete. Şu sebepnen, 4 mol Al ekşipiçimi reaksiyasından:\n\n\\[ 4 \\text{ mol Al} \\times \\frac{1 \\text{ mol Al}_2O_3}{2 \\text{ mol Al}} = 2 \\text{ mol Al}_2O_3 \\]\n\nAncaq, cevap seçeneklerinde 2 mol yoq. Bu sebepnen, soruda başqa bir reaksiya ya da şartlar olabilir. Eger reaksiya farklı olsa, meselâ:\n\n\\[ 4Al + 3O_2 \\rightarrow 2Al_2O_3 \\]\n\nBu reaksiyada 4 mol Al, 2 mol Al₂O₃ peyda ete. Lakin cevap seçeneklerinde 2 mol yoq. Şu sebepnen, soruda başqa bir reaksiya ya da şartlar olabilir.\n\nAncaq, soruda \"alüminiy ekşipiçimi 4 mol miqdarınen alüminiy ekişme areketinden ne qadar maddeler (mol) peyda olur?\" denilgen. Bu ifade biraz muğlak olabilir. Eger 4 mol Al₂O₃ reaksiyasından ne qadar maddeler peyda olur denilse, reaksiyada 4 mol Al₂O₃ peyda olur.\n\nLakin, cevap seçeneklerinde 4 mol yoq. Bu sebepnen, soruda başqa bir reaksiya ya da şartlar olabilir.\n\nAncaq, cevap seçeneklerinde 3 mol bar. Bu sebepnen, cevap **B) 3** olabilir.",
+        "answer": "A",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Alüminiy ekşipiçimi 4 mol miqdarınen alüminiy ekişme areketinden ne qadar maddeler (mol) peyda olur?\nA) 2\nB) 3\nC) 1\nD) 4\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Angi ekşilik demirge bezginle?",
+        "choices": [
+            "HCl (zıqnıqtalanğan)",
+            "$CH_3 COOH$ (şingenlengen)",
+            "$HNO_3$ (şingenlengen)",
+            "$H_2 SO_4$ (zıqnıqtalanğan)"
+        ],
+        "output": "C) $HNO_3$ (şingenlengen)  \n\nDemir, şingenlengen azot ekşilik ($HNO_3$) ile reaksiyaya girip, onıñ üstünde bir oksid qatlamı oluştıra. Bu qatlam demirniñ daha da reaksiyaya girmesiniñ aldını ala, yani demir \"bezginleşe\". Bu hadise \"pasivleşme\" olaraq biline.",
+        "answer": "D",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Angi ekşilik demirge bezginle?\nA) HCl (zıqnıqtalanğan)\nB) $CH_3 COOH$ (şingenlengen)\nC) $HNO_3$ (şingenlengen)\nD) $H_2 SO_4$ (zıqnıqtalanğan)\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Yod natriy yod suv irintisinden nasıl madde çıqara?",
+        "choices": [
+            "$H_2$",
+            "$Cl_2$",
+            "$N_2$",
+            " CO,"
+        ],
+        "output": "Cevap: B\n\nYod natriy yod suv irintisinden (NaI suv irintisinden) yod (I₂) çıqarmaq mümkündir. Bunıñ içün, yod natriy yod suv irintisine xlor (Cl₂) qoşmaq kerek. Bu reaksiya neticesinde yod (I₂) çıqa ve natriy xlorid (NaCl) oluşa:\n\n\\[ 2NaI + Cl_2 \\rightarrow 2NaCl + I_2 \\]\n\nBu reaksiyada xlor (Cl₂) yod natriy yod suv irintisinden yod (I₂) çıqara. Şuña köre, doğru cevap B) $Cl_2$'dir.",
+        "answer": "B",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Yod natriy yod suv irintisinden nasıl madde çıqara?\nA) $H_2$\nB) $Cl_2$\nC) $N_2$\nD)  CO,\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Ayni derecede olğan Sulfur ekişimniñ qoşuluv formulalarnıñ sırasını körsetiñiz.",
+        "choices": [
+            "$SO_3, H_2 SO_3$",
+            "$S, H_2 S$",
+            "$SO_2, H_2 SO_4$",
+            "$SO_2, S F_4$"
+        ],
+        "output": "Cevap: C",
+        "answer": "D",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Ayni derecede olğan Sulfur ekişimniñ qoşuluv formulalarnıñ sırasını körsetiñiz.\nA) $SO_3, H_2 SO_3$\nB) $S, H_2 S$\nC) $SO_2, H_2 SO_4$\nD) $SO_2, S F_4$\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Körkezap spirtiniñ suv irintisi formulasını körsetiñiz.",
+        "choices": [
+            "$NH_4 Cl$",
+            "NaCl",
+            "$NH_3$",
+            "$C_2 H_5 OH$"
+        ],
+        "output": "D) $C_2 H_5 OH$  \n\nKörkezap spirtiniñ suv irintisi formulası **$C_2 H_5 OH$** (etanol) olaraq belgilene. Bu, spirtniñ kimyeviy formulasıdır.",
+        "answer": "C",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Körkezap spirtiniñ suv irintisi formulasını körsetiñiz.\nA) $NH_4 Cl$\nB) NaCl\nC) $NH_3$\nD) $C_2 H_5 OH$\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Karbon (IV) ekşipiçimnen nasıl madde areket etmey?",
+        "choices": [
+            "$K_2 O$",
+            "$SiO_2$",
+            "NaOH",
+            "$Ba(OH)_2$"
+        ],
+        "output": "D\n\nKarbon (IV) ekşipiçimi (CO₂) bazalar ile reaksiyaya girerek tuz ve su oluşturur. Bu reaksiyonlar genellikle nötralizasyon reaksiyonlarıdır. Seçenekler arasında bazik özellik gösteren madde \\( Ba(OH)_2 \\) (Baryum hidroksit) olduğu için, CO₂ ile reaksiyona girerek baryum karbonat (BaCO₃) ve su (H₂O) oluşturur. Reaksiyon denklemi şu şekildedir:\n\n\\[\nBa(OH)_2 + CO_2 \\rightarrow BaCO_3 + H_2O\n\\]\n\nBu nedenle doğru cevap **D** seçeneğidir.",
+        "answer": "B",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Karbon (IV) ekşipiçimnen nasıl madde areket etmey?\nA) $K_2 O$\nB) $SiO_2$\nC) NaOH\nD) $Ba(OH)_2$\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Teñeştirme farqını körsetiñiz.",
+        "choices": [
+            " $-CH=$",
+            "$-CH_2-$",
+            "$CH_4$",
+            " $-CH_3$"
+        ],
+        "output": "Cevap: A",
+        "answer": "B",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Teñeştirme farqını körsetiñiz.\nA)  $-CH=$\nB) $-CH_2-$\nC) $CH_4$\nD)  $-CH_3$\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Sirkeaqlarnıñ umumiy formulası nasıl?",
+        "choices": [
+            "$C_n H_2n+2$",
+            "$C_n H_2n$",
+            "$C_n H_n$",
+            "$C_n H_2n-2$"
+        ],
+        "output": "B\n\nSual: Sirkeaqlarnıñ umumiy formulası nasıl?\nA) $C_n H_2n+2$\nB) $C_n H_2n$\nC) $C_n H_n$\nD) $C_n H_2n-2$\n\nCevap: B\n\n**İzahat:** Sirkeaqlar (alkenler) ikili bağnen olğan organik şingenliklerdir. Olarnıñ umumiy formulası $C_n H_2n$ şeklinde ifade etile. Bu, her bir karbon atomı arasında bir ikili bağ olğanını ve bu sebepten hidrojen atomlarınıñ sayısınıñ karbon atomları sayısınıñ iki katı olğanını köstere.",
+        "answer": "A",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Sirkeaqlarnıñ umumiy formulası nasıl?\nA) $C_n H_2n+2$\nB) $C_n H_2n$\nC) $C_n H_n$\nD) $C_n H_2n-2$\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Sirkeaqlarnıñ gidrotatsiyası daafaalliktir",
+        "choices": [
+            "deñişüv",
+            "avuşuv",
+            "dağıluv",
+            "qoşuluv"
+        ],
+        "output": "D) qoşuluv\n\n**İzahat:** Sirkeaqlarnıñ gidrotatsiyası - bu suv molekulasınıñ qoşuluvı neticesinde olğan reaksiyadır. Bu reaksiya daimiy olaraq qoşuluv reaksiyası olaraq adlandırıla.",
+        "answer": "D",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Sirkeaqlarnıñ gidrotatsiyası daafaalliktir\nA) deñişüv\nB) avuşuv\nC) dağıluv\nD) qoşuluv\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Bütin formulasını körsetiñiz.",
+        "choices": [
+            "$C_4 H_4$",
+            "$C_4 H_10$",
+            "$C_4 H_6$",
+            "$C_4 H_8$"
+        ],
+        "output": "C\n\nSual: Bütin formulasını körsetiñiz.\nA) $C_4 H_4$\nB) $C_4 H_{10}$\nC) $C_4 H_6$\nD) $C_4 H_8$\n\nCevap: C\n\n**İzahat:** Bütin, alkinler sinifine ait bir organik bileşiktir ve genel formülü $C_n H_{2n-2}$'dir. Bütin için $n=4$ olduğundan, formül $C_4 H_6$ olur. Bu sebeple doğru cevap **C** seçeneğidir.",
+        "answer": "C",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Bütin formulasını körsetiñiz.\nA) $C_4 H_4$\nB) $C_4 H_10$\nC) $C_4 H_6$\nD) $C_4 H_8$\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Hlornen olğan benzin qarışmasını ultramor ışıqtan keçirdiler. Olğan daafaallik nasıl şekilge ait?",
+        "choices": [
+            "qoşuluv",
+            "deñişüv",
+            "avuşuv",
+            "ayıruv"
+        ],
+        "output": "C) avuşuv\n\n**İzahat:** Hlornen olğan benzin qarışmasını ultramor ışıqtan keçirgende, hlorniñ benzin molekülleri ile reaksiyağa kirişip, avuşuv reaksiyası olur. Bu reaksiya neticesinde yeni organik bileşikler meydanğa kele.",
+        "answer": "A",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Hlornen olğan benzin qarışmasını ultramor ışıqtan keçirdiler. Olğan daafaallik nasıl şekilge ait?\nA) qoşuluv\nB) deñişüv\nC) avuşuv\nD) ayıruv\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Ekologik temiz yaqarlıqnıñ inkişafını körsetiñiz.",
+        "choices": [
+            "suvşece",
+            "mazut",
+            "cermay",
+            "kömür"
+        ],
+        "output": "A) suvşece",
+        "answer": "A",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Ekologik temiz yaqarlıqnıñ inkişafını körsetiñiz.\nA) suvşece\nB) mazut\nC) cermay\nD) kömür\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Nasıl madde peyda ola, eger de natriynen areket etken suvşecere ayırıla, gidrogen hloridnen ise daafaallikte olğanda hlorsirkeaq peyda ola?",
+        "choices": [
+            "karbon ekşiligi",
+            "sirkeaq",
+            "aren",
+            "qoyu spirt"
+        ],
+        "output": "Cevap: B\n\n**İzahat:**\nNatriynen suvşecere ayırılğanda (NaOH) ve gidrogen hlorid (HCl) ile reaksiyaya kirende, aşağıdaki reaksiya peyda ola:\n\n\\[ \\text{NaOH} + \\text{HCl} \\rightarrow \\text{NaCl} + \\text{H}_2\\text{O} \\]\n\nBu reaksiyada sirkeaq (su, \\( \\text{H}_2\\text{O} \\)) peyda ola. Şu sebeple, doğru cevap **B) sirkeaq** olacaq.",
+        "answer": "D",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Nasıl madde peyda ola, eger de natriynen areket etken suvşecere ayırıla, gidrogen hloridnen ise daafaallikte olğanda hlorsirkeaq peyda ola?\nA) karbon ekşiligi\nB) sirkeaq\nC) aren\nD) qoyu spirt\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Kumuş küzgü daafaalligine ait",
+        "choices": [
+            "qoyusız kömürsuvşece",
+            "aldegidler",
+            "eteriler",
+            "çoqatomlı spirt"
+        ],
+        "output": "Sual: Kumuş küzgü daafaalligine ait\nA) qoyusız kömürsuvşece\nB) aldegidler\nC) eteriler\nD) çoqatomlı spirt\n\nCevap: B (aldeğidler)",
+        "answer": "B",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Kumuş küzgü daafaalligine ait\nA) qoyusız kömürsuvşece\nB) aldegidler\nC) eteriler\nD) çoqatomlı spirt\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "$-SOON$ gruppası içün hasiyetname",
+        "choices": [
+            "karbon ekşiligi",
+            "sudefler",
+            "fenollar",
+            "spirtler"
+        ],
+        "output": "Cevap: A",
+        "answer": "A",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: $-SOON$ gruppası içün hasiyetname\nA) karbon ekşiligi\nB) sudefler\nC) fenollar\nD) spirtler\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Tabiy ki yağlar",
+        "choices": [
+            "karbon ekşiligi",
+            "spirt",
+            "sudef",
+            "eterim"
+        ],
+        "output": "C) sudef\n\nTabiy ki yağlar, sudef (glitserin) ve yağ ekşiliklerinden ibaret olğan organik birleşmelerdir. Bu yağ ekşilikleri, karbon ekşiligi gruplarına sahip uzun zencirli moleküllerdir. Spirt ve eterim ise yağlarnıñ temel bileşenleri degildir.",
+        "answer": "D",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Tabiy ki yağlar\nA) karbon ekşiligi\nB) spirt\nC) sudef\nD) eterim\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Nışasta suvirüvi olğanda nasıl madde peyda ola?",
+        "choices": [
+            "şeker-mevatatım",
+            "fruktoza",
+            "etanol",
+            "tatım"
+        ],
+        "output": "Cevap: A\n\nNışasta suvirüvi (hidroliz) olğanda, şeker-mevatatım (maltoz) peyda ola. Nışasta, glükoza birleşken bir polisahariddir ve suvirüv işlemi neticesinde daha küçük şeker molekülleri, meselâ maltoz, peyda ola.",
+        "answer": "D",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Nışasta suvirüvi olğanda nasıl madde peyda ola?\nA) şeker-mevatatım\nB) fruktoza\nC) etanol\nD) tatım\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Cedvel boyunca olıp keçken almaşuvda X maddeniñ aytıñız $X + 6N ->[Fe, HCl] C_6 H_5 NH_2 + N_2 O$.",
+        "choices": [
+            "nitrobenzen",
+            "nitrotsiklogeksan",
+            "1-nitrogeksan",
+            "1,3-dinitrobenzen"
+        ],
+        "output": "Cevap: A\n\n**İzahat:**\nVerilgen reaksiyada X maddesi nitrobenzenni temsil ete. Reaksiya şöyle keçe:\n- Nitrobenzen ($C_6H_5NO_2$) demir (Fe) ve tuz ekşisi (HCl) ile reaksiyaya girip anilin ($C_6H_5NH_2$) ve azot oksidi ($N_2O$) meydanğa ketire.\n\nBu reaksiya nitrobenzenni anilinge çevirgen klassik bir reaksiyadır. Şu sebeple doğru cevap **A) nitrobenzen**dir.",
+        "answer": "A",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Cedvel boyunca olıp keçken almaşuvda X maddeniñ aytıñız $X + 6N ->[Fe, HCl] C_6 H_5 NH_2 + N_2 O$.\nA) nitrobenzen\nB) nitrotsiklogeksan\nC) 1-nitrogeksan\nD) 1,3-dinitrobenzen\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Hasiyetli gruppalar areketinen olğan yarıaqlı bağnı körsetiñiz.",
+        "choices": [
+            "$-NH_2$ ve -COOH",
+            "-OH ve -CHO",
+            "$-NH_2$ ve -OH",
+            "-OH ve -COOH"
+        ],
+        "output": "D) -OH ve -COOH\n\n**İzahat:**  \nYarıaqlı bağ, hasiyetli gruppalar areketinen oluşır. Bu misalde, -OH (hidroksil gruppası) ve -COOH (karboksil gruppası) birleşip yarıaqlı bağ oluştıra bile. Bu gruppalar, suvda çözüngenlik ve moleküller arası bağlar kibi hasiyetlerge saip ola.",
+        "answer": "A",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Hasiyetli gruppalar areketinen olğan yarıaqlı bağnı körsetiñiz.\nA) $-NH_2$ ve -COOH\nB) -OH ve -CHO\nC) $-NH_2$ ve -OH\nD) -OH ve -COOH\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Belok molekular qalımtalarından ibaret",
+        "choices": [
+            "spirt",
+            "aratop ekşiligi",
+            "karbon ekşiligi",
+            "aratop"
+        ],
+        "output": "Cevap: B\n\nBelok molekular qalımtalarından ibaret olğan aratop ekşiligi (amino ekşilikleri) olaraq tanılır. Beloklar, amino ekşilikleriniñ polimerleridir ve olar, peptid bağlarınen birleşken amino ekşilikleriniñ zincirlerinden ibarettir.",
+        "answer": "B",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Belok molekular qalımtalarından ibaret\nA) spirt\nB) aratop ekşiligi\nC) karbon ekşiligi\nD) aratop\n\nCevap: "
+    },
+    {
+        "description": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "question": "Natriyniñ gidrokisidi tapmaq içün nası daahafiyecilernen faydalanmaq kerek?",
+        "choices": [
+            "$NaNO_3$ ve $Cu(OH)_2$",
+            "$NaNO_3$ ve $Ba(OH)_2$",
+            "$Na_2 SO_4$ ve $Cu(OH)_2$",
+            "$Na_2 SO_4$ ve $Ba(OH)_2$"
+        ],
+        "output": "Cevap: D\n\nNatriyniñ gidrokisidi (NaOH) tapmaq içün, natriy sulfat ($Na_2 SO_4$) ve bariy gidroksid ($Ba(OH)_2$) kibi daahafiyecilernen faydalanmaq kerek. Bu reaksiya aşağıdaki kibi olur:\n\n$$\nNa_2 SO_4 + Ba(OH)_2 \\rightarrow 2NaOH + BaSO_4\n$$\n\nBu reaksiyada, bariy sulfat ($BaSO_4$) çökelti olarak ayrılır ve natriy gidroksid (NaOH) eriyikte qalır.",
+        "answer": "D",
+        "system": "Sual: Angi şingenlikke eñ çoq himik elementleri kire?\nA) $P Cl_5$\nB) $Mn_2 O_7$\nC) $S_8$\nD) $HNO_3$\n\nCevap: D\n\nSual: Ortofosfat ekşilikniñ molâr massasını (g/mol) belgileñiz.\nA)  98\nB)  96\nC)  88\nD)  86\n\nCevap: A\n\nSual: Metall elementlerde proton raqamları nasıl sıradan ibaret ola?\nA)  12; 16; 18\nB)  4; 11; 26\nC)  9; 14; 19\nD)  2; 15; 30\n\nCevap: B\n\nSual: He qadar neytron ve elektron nuklidde $[37]Cl$?\nA) 20 neytron, 17 elektron\nB) 20 neytron, 37 elektron\nC) 17 neytron, 20 elektron\nD) 17 neytron, 17 elektron\n\nCevap: A\n\nSual: Himik bağnen olğan ion şekilinen şingenlikni körsetiñiz.\nA)  Fe\nB) $NH_3$\nC) $N_2$\nD) $CaCl_2$\n\nCevap: D\n\n",
+        "input": "Sual: Natriyniñ gidrokisidi tapmaq içün nası daahafiyecilernen faydalanmaq kerek?\nA) $NaNO_3$ ve $Cu(OH)_2$\nB) $NaNO_3$ ve $Ba(OH)_2$\nC) $Na_2 SO_4$ ve $Cu(OH)_2$\nD) $Na_2 SO_4$ ve $Ba(OH)_2$\n\nCevap: "
+    }
+]
