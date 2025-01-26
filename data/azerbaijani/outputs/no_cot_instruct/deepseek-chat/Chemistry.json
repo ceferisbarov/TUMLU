@@ -1,0 +1,1402 @@
+[
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Hansı sırada yalnız bərk aqreqat halda olan qeyri-metallar verilmişdir?",
+        "choices": [
+            "S, P, C, J",
+            "C, H, Li, K",
+            "Br, Cl, O, S",
+            "N, O, J, Br"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Hansı sırada yalnız bərk aqreqat halda olan qeyri-metallar verilmişdir?\nA) S, P, C, J\nB) C, H, Li, K\nC) Br, Cl, O, S\nD) N, O, J, Br\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Metan molekulu haqqında deyilənlərdən hansılar doğrudur?I. müstəvi quruluşa malikdirII. C- atomu ətrafında 4 cüt rabitə elektronları yerləşirIII. C- atomu sp3 -hibridləşmiş haldadırIV. tetraedrik quruluşa malikdirIV. C-H rabitəsi (C) -sp3 - 1S (H) orbitallarının örtülməsi nəticəsində əmələ gəlir",
+        "choices": [
+            "I,II,III",
+            "III,IV",
+            "I,III,V",
+            "II,III,IV, V"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Metan molekulu haqqında deyilənlərdən hansılar doğrudur?I. müstəvi quruluşa malikdirII. C- atomu ətrafında 4 cüt rabitə elektronları yerləşirIII. C- atomu sp3 -hibridləşmiş haldadırIV. tetraedrik quruluşa malikdirIV. C-H rabitəsi (C) -sp3 - 1S (H) orbitallarının örtülməsi nəticəsində əmələ gəlir\nA) I,II,III\nB) III,IV\nC) I,III,V\nD) II,III,IV, V\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Oksigenin allotropik şəkildəyişmələrindən birinin havaya görə nisbi sıxlığı 1.665-dir.Bu qazın molekulunda neçə oksigen atomu var?",
+        "choices": [
+            "4",
+            "8",
+            "1",
+            "3"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Oksigenin allotropik şəkildəyişmələrindən birinin havaya görə nisbi sıxlığı 1.665-dir.Bu qazın molekulunda neçə oksigen atomu var?\nA) 4\nB) 8\nC) 1\nD) 3\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Bir elementin beş atomunun kütləsi 1 a.K.V.-dən 160 dəfə ağırdır. Bu elementin bir molunun kütləsi neçə qramdır?",
+        "choices": [
+            "80q",
+            "32q",
+            "40q",
+            "24q"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Bir elementin beş atomunun kütləsi 1 a.K.V.-dən 160 dəfə ağırdır. Bu elementin bir molunun kütləsi neçə qramdır?\nA) 80q\nB) 32q\nC) 40q\nD) 24q\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Hidrogen elementinin latınca adı, kimyəvi işarəsi nədir?",
+        "choices": [
+            "hidrogenium,H",
+            "hidrogen, h20",
+            "halium, H",
+            "hidro, H2O"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Hidrogen elementinin latınca adı, kimyəvi işarəsi nədir?\nA) hidrogenium,H\nB) hidrogen, h20\nC) halium, H\nD) hidro, H2O\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Közərmiş kömür üzərindən su buxarı keçirdikdə nə alınır?",
+        "choices": [
+            "karbon qazı",
+            "azot qazı",
+            "Su qazı",
+            "generator qazı"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Közərmiş kömür üzərindən su buxarı keçirdikdə nə alınır?\nA) karbon qazı\nB) azot qazı\nC) Su qazı\nD) generator qazı\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Daha sadə maddələrdən mürəkkəb maddələrin alınması necə adlanır?",
+        "choices": [
+            "Sintez",
+            "Kataliz",
+            "Piroliz",
+            "Analiz"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Daha sadə maddələrdən mürəkkəb maddələrin alınması necə adlanır?\nA) Sintez\nB) Kataliz\nC) Piroliz\nD) Analiz\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Bu və ya digər molekulun tərkibinə oksigenin hansı miqdarı daxil ola bilməz? Ar(O)=16",
+        "choices": [
+            "16",
+            "32",
+            "96",
+            "40"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Bu və ya digər molekulun tərkibinə oksigenin hansı miqdarı daxil ola bilməz? Ar(O)=16\nA) 16\nB) 32\nC) 96\nD) 40\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Valentlik anlayışı ilk dəfə elmə neçənci ildə gətirilib?",
+        "choices": [
+            "1921-ci",
+            "1852-ci",
+            "1842-ci",
+            "1901-ci"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Valentlik anlayışı ilk dəfə elmə neçənci ildə gətirilib?\nA) 1921-ci\nB) 1852-ci\nC) 1842-ci\nD) 1901-ci\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "C10H22 molekulunda σ rabitələrin ümumi sayını tapın.",
+        "choices": [
+            "35",
+            "31",
+            "44",
+            "20"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: C10H22 molekulunda σ rabitələrin ümumi sayını tapın.\nA) 35\nB) 31\nC) 44\nD) 20\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Ozonun hidrogenə görə sıxlığı neçədir?",
+        "choices": [
+            "24",
+            "8",
+            "16",
+            "48"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Ozonun hidrogenə görə sıxlığı neçədir?\nA) 24\nB) 8\nC) 16\nD) 48\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Oksigenlə qarşılıqlı təsirdə olmayan metalları göstərin:",
+        "choices": [
+            "Al, Ag",
+            "Cu, Ag",
+            "Pt, Au",
+            "Zn, Pt"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Oksigenlə qarşılıqlı təsirdə olmayan metalları göstərin:\nA) Al, Ag\nB) Cu, Ag\nC) Pt, Au\nD) Zn, Pt\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "200 qr 10%-li məhluldan 40%-li məhlul almaq üçün ona nə qədər 50 %-li məhlul əlavə edilməlidir?",
+        "choices": [
+            "400",
+            "200",
+            "100",
+            "600"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: 200 qr 10%-li məhluldan 40%-li məhlul almaq üçün ona nə qədər 50 %-li məhlul əlavə edilməlidir?\nA) 400\nB) 200\nC) 100\nD) 600\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Valentlik anlayışı ilk dəfə elmə kim tərəfindən gətirilib?",
+        "choices": [
+            "Piyer Küri",
+            "Mariya Küri",
+            "Mendeleyev",
+            "E.Frankland"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Valentlik anlayışı ilk dəfə elmə kim tərəfindən gətirilib?\nA) Piyer Küri\nB) Mariya Küri\nC) Mendeleyev\nD) E.Frankland\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Taxta maddə yoxsa cisimdir?",
+        "choices": [
+            "Maddə",
+            "Metaldır",
+            "Cisim",
+            "Hər ikisi"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Taxta maddə yoxsa cisimdir?\nA) Maddə\nB) Metaldır\nC) Cisim\nD) Hər ikisi\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Kütlə payı 10% olan 200q kalium-xlorid məhlulundakı duzun kütləsini müəyyən edin.",
+        "choices": [
+            "180",
+            "20",
+            "10",
+            "50"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Kütlə payı 10% olan 200q kalium-xlorid məhlulundakı duzun kütləsini müəyyən edin.\nA) 180\nB) 20\nC) 10\nD) 50\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Hansı maddə üçün adi şəraitdə ərimə anlayışı doğru deyil?",
+        "choices": [
+            "kalium",
+            "natrium",
+            "kalsium",
+            "brom"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Hansı maddə üçün adi şəraitdə ərimə anlayışı doğru deyil?\nA) kalium\nB) natrium\nC) kalsium\nD) brom\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Hansı maddəni alüminium qabda saxlamaq olmaz?",
+        "choices": [
+            "KOH",
+            "C2H5OH",
+            "Zn(OH)2",
+            "NaCl"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Hansı maddəni alüminium qabda saxlamaq olmaz?\nA) KOH\nB) C2H5OH\nC) Zn(OH)2\nD) NaCl\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Hansı sabit 2 valentli elementdir?",
+        "choices": [
+            "Al",
+            "K",
+            "Li",
+            "Ca"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Hansı sabit 2 valentli elementdir?\nA) Al\nB) K\nC) Li\nD) Ca\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Suda həll olan əsaslara nə deyilir?",
+        "choices": [
+            "qələvi",
+            "amfoter",
+            "yoxdur",
+            "ikiqat"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Suda həll olan əsaslara nə deyilir?\nA) qələvi\nB) amfoter\nC) yoxdur\nD) ikiqat\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Aşağıdakılardan hansı saf maddədir?",
+        "choices": [
+            "Oksigen",
+            "Şəkər",
+            "Dəniz suyu",
+            "Bürünc"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Aşağıdakılardan hansı saf maddədir?\nA) Oksigen\nB) Şəkər\nC) Dəniz suyu\nD) Bürünc\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "8M NaOH məhlulu almaq üçün 400 ml 2M NaOH məhlulundan neçə qram su buxarlandırmaq lazımdır?",
+        "choices": [
+            "250",
+            "150",
+            "300",
+            "200"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: 8M NaOH məhlulu almaq üçün 400 ml 2M NaOH məhlulundan neçə qram su buxarlandırmaq lazımdır?\nA) 250\nB) 150\nC) 300\nD) 200\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Hələlik elmə məlum olan kimyəvi elementlərin sayı neçədir?",
+        "choices": [
+            "110",
+            "130",
+            "153",
+            "132"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Hələlik elmə məlum olan kimyəvi elementlərin sayı neçədir?\nA) 110\nB) 130\nC) 153\nD) 132\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "650 qr suyun üzərinə neçə qram duz əlavə etmək lazımdır ki 20%-li məhlul almaq olar?",
+        "choices": [
+            "160",
+            "162.5",
+            "150",
+            "200"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: 650 qr suyun üzərinə neçə qram duz əlavə etmək lazımdır ki 20%-li məhlul almaq olar?\nA) 160\nB) 162.5\nC) 150\nD) 200\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Kütlə payı 10% olan 200q kalium-xlorid məhlulundakı suyun kütləsini müəyyən edin",
+        "choices": [
+            "160",
+            "180",
+            "20",
+            "90"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Kütlə payı 10% olan 200q kalium-xlorid məhlulundakı suyun kütləsini müəyyən edin\nA) 160\nB) 180\nC) 20\nD) 90\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Qeyri metalları göstərin:",
+        "choices": [
+            "N, F, Ca",
+            "Cl, P, S",
+            "K, Cl, H",
+            "Na, Cl, O"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Qeyri metalları göstərin:\nA) N, F, Ca\nB) Cl, P, S\nC) K, Cl, H\nD) Na, Cl, O\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Sabit valentli elementləri göstərin",
+        "choices": [
+            "N,Ca",
+            "C,Na,Mg,",
+            "K,Zn,Ni",
+            "Ca,Ba,Al"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Sabit valentli elementləri göstərin\nA) N,Ca\nB) C,Na,Mg,\nC) K,Zn,Ni\nD) Ca,Ba,Al\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Hansı maddənin köməyi ilə misi sink qarışığından təmizləmək olar?",
+        "choices": [
+            "NaCl",
+            "HNO3(duru)",
+            "Na2SO4",
+            "NaOH"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Hansı maddənin köməyi ilə misi sink qarışığından təmizləmək olar?\nA) NaCl\nB) HNO3(duru)\nC) Na2SO4\nD) NaOH\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Reaksiya tənliyində sol tərəfdəki əmsallar cəmini müəyyən edin H2S O2=S H2O",
+        "choices": [
+            "5",
+            "2",
+            "4",
+            "3"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Reaksiya tənliyində sol tərəfdəki əmsallar cəmini müəyyən edin H2S O2=S H2O\nA) 5\nB) 2\nC) 4\nD) 3\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Aşağıdakılardan hansı suda həll olmur?",
+        "choices": [
+            "NO2",
+            "FEO",
+            "SO3",
+            "WO3"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Aşağıdakılardan hansı suda həll olmur?\nA) NO2\nB) FEO\nC) SO3\nD) WO3\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Aromatik karbohidrogen deyil",
+        "choices": [
+            "Benzol",
+            "Metil etil benzol",
+            "Metilbenzol",
+            "Metil"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Aromatik karbohidrogen deyil\nA) Benzol\nB) Metil etil benzol\nC) Metilbenzol\nD) Metil\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Molyar kütləsi 54 qram olan alkin molekulunda neytron sayını müəyyən edin",
+        "choices": [
+            "8",
+            "24",
+            "30",
+            "6"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Molyar kütləsi 54 qram olan alkin molekulunda neytron sayını müəyyən edin\nA) 8\nB) 24\nC) 30\nD) 6\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Hidogenə görə nisbi sıxlığı 8, 5-ə bərabər olan qazın 0, 2 molu neçə qramdır?",
+        "choices": [
+            "1, 4",
+            "2.8",
+            "3, 4",
+            "3, 8"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Hidogenə görə nisbi sıxlığı 8, 5-ə bərabər olan qazın 0, 2 molu neçə qramdır?\nA) 1, 4\nB) 2.8\nC) 3, 4\nD) 3, 8\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Benzoy turşusunun duzlarını qələvi ilə qızdırdıqda hansı üzvi maddə alınar?",
+        "choices": [
+            "Benzol",
+            "Metilbenzol",
+            "Tsikloheksan",
+            "Naftalin"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Benzoy turşusunun duzlarını qələvi ilə qızdırdıqda hansı üzvi maddə alınar?\nA) Benzol\nB) Metilbenzol\nC) Tsikloheksan\nD) Naftalin\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Üzvi birləşmələrin tərkibinə mütləq hansı element daxil olmalıdır?",
+        "choices": [
+            "N",
+            "H",
+            "O",
+            "C"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Üzvi birləşmələrin tərkibinə mütləq hansı element daxil olmalıdır?\nA) N\nB) H\nC) O\nD) C\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Yanma istiliyi 400 kC/mol olan X maddəsinin 16.8 qramının yanmasından 120 kC istilik ayrılır. X-in nisbi atom kütləsini hesablayın",
+        "choices": [
+            "65",
+            "31",
+            "55",
+            "56"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Yanma istiliyi 400 kC/mol olan X maddəsinin 16.8 qramının yanmasından 120 kC istilik ayrılır. X-in nisbi atom kütləsini hesablayın\nA) 65\nB) 31\nC) 55\nD) 56\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Havanın orta molekul kütləsi neçə qram/mol-dur?",
+        "choices": [
+            "28",
+            "32",
+            "29",
+            "100"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Havanın orta molekul kütləsi neçə qram/mol-dur?\nA) 28\nB) 32\nC) 29\nD) 100\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Tarazlıqda olan sistem üçün hansı ifadə doğrudur?I.yaranmış tarazlıq halında sistemdəki maddələrin qatılıqları dəyişmirII.Temperaturun artması tarazlığı ekzotermik reaksiya istiqamətinə yönəldir.III. Temperaturun azalması tarazlığı ekzotermik reaksiya istiqamətinə yönəldir.",
+        "choices": [
+            "yalnız II",
+            "yalnız II",
+            "I,II",
+            "I,III"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Tarazlıqda olan sistem üçün hansı ifadə doğrudur?I.yaranmış tarazlıq halında sistemdəki maddələrin qatılıqları dəyişmirII.Temperaturun artması tarazlığı ekzotermik reaksiya istiqamətinə yönəldir.III. Temperaturun azalması tarazlığı ekzotermik reaksiya istiqamətinə yönəldir.\nA) yalnız II\nB) yalnız II\nC) I,II\nD) I,III\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Üzvi birləşmələrin kimyəvi quruluş nəzəriyyəsinin yaradılmasında həlledici rol hansı alimə mənsubdur?",
+        "choices": [
+            "E.Frankland",
+            "A.S.Kuper",
+            "Ş.F.Jerar",
+            "A.M.Butlerov"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Üzvi birləşmələrin kimyəvi quruluş nəzəriyyəsinin yaradılmasında həlledici rol hansı alimə mənsubdur?\nA) E.Frankland\nB) A.S.Kuper\nC) Ş.F.Jerar\nD) A.M.Butlerov\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Hansı sırada yalnız bərk aqreqat halda olan qeyri-metallar verilib?",
+        "choices": [
+            "Br, Cl, O, S",
+            "S, P, C, J",
+            "C, H, Li, K",
+            "N, O, J, Br"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Hansı sırada yalnız bərk aqreqat halda olan qeyri-metallar verilib?\nA) Br, Cl, O, S\nB) S, P, C, J\nC) C, H, Li, K\nD) N, O, J, Br\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Kataliz ilk vaxtlarda hansı növ reaksiyaların timsalında öyrənilirdi?",
+        "choices": [
+            "birləşmə",
+            "heterogen",
+            "parçalanma",
+            "dönər"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Kataliz ilk vaxtlarda hansı növ reaksiyaların timsalında öyrənilirdi?\nA) birləşmə\nB) heterogen\nC) parçalanma\nD) dönər\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "200 qr 30%-li məhlula neçə qr su əlavə etmək lazımdır ki, 20%-li məhlul alınsın?",
+        "choices": [
+            "200",
+            "220",
+            "100",
+            "250"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: 200 qr 30%-li məhlula neçə qr su əlavə etmək lazımdır ki, 20%-li məhlul alınsın?\nA) 200\nB) 220\nC) 100\nD) 250\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Suda yaxşı həll olan bərk maddəni ayırmaq üçün hansı üsuldan istifadə olunur?",
+        "choices": [
+            "buxarlandırma",
+            "filtrləmə",
+            "süzmə",
+            "kristallaşdırma"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Suda yaxşı həll olan bərk maddəni ayırmaq üçün hansı üsuldan istifadə olunur?\nA) buxarlandırma\nB) filtrləmə\nC) süzmə\nD) kristallaşdırma\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "1 mol aren molekulu yanan zaman ayrılan suyu mol sayı n-3-ə bərabər olarsa aren molekulunda karbon atomlarının sayının müəyyən edin",
+        "choices": [
+            "n+6",
+            "n",
+            "n-3",
+            "n-2"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: 1 mol aren molekulu yanan zaman ayrılan suyu mol sayı n-3-ə bərabər olarsa aren molekulunda karbon atomlarının sayının müəyyən edin\nA) n+6\nB) n\nC) n-3\nD) n-2\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Tsikloalkanlarada siqma rabitənin sayı necə tapılır?",
+        "choices": [
+            "4n",
+            "8n",
+            "2n",
+            "3n"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Tsikloalkanlarada siqma rabitənin sayı necə tapılır?\nA) 4n\nB) 8n\nC) 2n\nD) 3n\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Y elementinin 15 elektronu və 16 neytronu olduğunu bilərək XHYO3 birləşməsindəki X elementini müəyyən edin. Mr(XHYO3)=104",
+        "choices": [
+            "Zn",
+            "Mg",
+            "Cu",
+            "Fe"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Y elementinin 15 elektronu və 16 neytronu olduğunu bilərək XHYO3 birləşməsindəki X elementini müəyyən edin. Mr(XHYO3)=104\nA) Zn\nB) Mg\nC) Cu\nD) Fe\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "5M NaOH məhlulu hazırlamaq üçün 500 ml 4M NaOH məhlulundan neçə qram su buxarlandırmaq lazımdır?",
+        "choices": [
+            "250",
+            "100",
+            "300",
+            "200"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: 5M NaOH məhlulu hazırlamaq üçün 500 ml 4M NaOH məhlulundan neçə qram su buxarlandırmaq lazımdır?\nA) 250\nB) 100\nC) 300\nD) 200\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "İstilik effektinə görə kimyəvi reaksiyalar hansı qruplara bölünür?",
+        "choices": [
+            "Dönər və dönməyən reaksiyalar",
+            "Endotermik və ekzotermik reaksiyalar",
+            "Protolitik və oksidləşmə-reduksiya reaksiyaları",
+            "Qazlar və məhlullar arasında gedən reaksiyalar"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: İstilik effektinə görə kimyəvi reaksiyalar hansı qruplara bölünür?\nA) Dönər və dönməyən reaksiyalar\nB) Endotermik və ekzotermik reaksiyalar\nC) Protolitik və oksidləşmə-reduksiya reaksiyaları\nD) Qazlar və məhlullar arasında gedən reaksiyalar\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Temperaturun artması hansı maddənin həllolmasını artırar?",
+        "choices": [
+            "CO2",
+            "KNO3",
+            "SO2",
+            "BaSO4"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Temperaturun artması hansı maddənin həllolmasını artırar?\nA) CO2\nB) KNO3\nC) SO2\nD) BaSO4\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Hansı birləşmələr üzvi birləşmələrə aid deyil?I.Karbonun oksidləriII.Karbonun hidrogenli birləşmələriIII.Karbonat turşusuIV.Karbonat turşusunun duzları",
+        "choices": [
+            "III",
+            "I, III, IV",
+            "III, IV",
+            "I"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Hansı birləşmələr üzvi birləşmələrə aid deyil?I.Karbonun oksidləriII.Karbonun hidrogenli birləşmələriIII.Karbonat turşusuIV.Karbonat turşusunun duzları\nA) III\nB) I, III, IV\nC) III, IV\nD) I\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "300ml 4M NaOH məhlulu üzərinə 200 ml su əlavə etsək məhlul neçə molyar olar?",
+        "choices": [
+            "4.4",
+            "0.5",
+            "2",
+            "2.4"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: 300ml 4M NaOH məhlulu üzərinə 200 ml su əlavə etsək məhlul neçə molyar olar?\nA) 4.4\nB) 0.5\nC) 2\nD) 2.4\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Oksigen neçənci qrupda yerləşir?",
+        "choices": [
+            "4",
+            "7",
+            "6",
+            "5"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Oksigen neçənci qrupda yerləşir?\nA) 4\nB) 7\nC) 6\nD) 5\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Həllolma əmsalı hansı vahidlə ifadə olunur?",
+        "choices": [
+            "mol/kq",
+            "q/l",
+            "mol/l",
+            "kq/l"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Həllolma əmsalı hansı vahidlə ifadə olunur?\nA) mol/kq\nB) q/l\nC) mol/l\nD) kq/l\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Etilenin kimyəvi formulunu göstərin:",
+        "choices": [
+            "C2H2",
+            "C2H8",
+            "C2H4",
+            "C2H6"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Etilenin kimyəvi formulunu göstərin:\nA) C2H2\nB) C2H8\nC) C2H4\nD) C2H6\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Neytral atom elektron alaraq: 1. Aniona çevrilir2. Radiusu artır 3. Oksidləşir Hansı ifadə doğrudur?",
+        "choices": [
+            "1,2",
+            "2,3",
+            "yalnız 3",
+            "yalnız 2"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Neytral atom elektron alaraq: 1. Aniona çevrilir2. Radiusu artır 3. Oksidləşir Hansı ifadə doğrudur?\nA) 1,2\nB) 2,3\nC) yalnız 3\nD) yalnız 2\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Üzvi birləşmələr haqqında deyilənlərdən hansı doğrudur?I.Qızdırıldıqda parçalanırII.Yalnız canlı orqanizmlərdə əmələ gəlirIII.Əksəriyyəti yandıqda CO2 və H2O əmələ gəlirIV, yalnız qaz və maye halda olurlar",
+        "choices": [
+            "I, IV",
+            "I, III, IV",
+            "II, III",
+            "I, III"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Üzvi birləşmələr haqqında deyilənlərdən hansı doğrudur?I.Qızdırıldıqda parçalanırII.Yalnız canlı orqanizmlərdə əmələ gəlirIII.Əksəriyyəti yandıqda CO2 və H2O əmələ gəlirIV, yalnız qaz və maye halda olurlar\nA) I, IV\nB) I, III, IV\nC) II, III\nD) I, III\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Reagent birləşmələrin dəyişmə tipinə görə kimyəvi reaksiyaların təsnifatına aşağıdakılardan hansı daxil deyil?",
+        "choices": [
+            "mübadilə",
+            "əvəzetmə",
+            "turşu-əsas",
+            "parçalanma"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Reagent birləşmələrin dəyişmə tipinə görə kimyəvi reaksiyaların təsnifatına aşağıdakılardan hansı daxil deyil?\nA) mübadilə\nB) əvəzetmə\nC) turşu-əsas\nD) parçalanma\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Avoqadro qanunun riyazi ifadəsi necədir?",
+        "choices": [
+            "ν=V/VA",
+            "ν=N/NA",
+            "ν=m/mA",
+            "ν=V/N"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Avoqadro qanunun riyazi ifadəsi necədir?\nA) ν=V/VA\nB) ν=N/NA\nC) ν=m/mA\nD) ν=V/N\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Hansı sıradakı maddələrin hamısının həcmi normal şəraitdə 22, 4 l deyil?",
+        "choices": [
+            "Ca.Cl, C",
+            "n, o, h",
+            "p, o, n",
+            "Fe, P, C"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Hansı sıradakı maddələrin hamısının həcmi normal şəraitdə 22, 4 l deyil?\nA) Ca.Cl, C\nB) n, o, h\nC) p, o, n\nD) Fe, P, C\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Karbon yarımqrupu elementləri hansı element ailəsinə mənsubdur?",
+        "choices": [
+            "d,f",
+            "f",
+            "p",
+            "d"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Karbon yarımqrupu elementləri hansı element ailəsinə mənsubdur?\nA) d,f\nB) f\nC) p\nD) d\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "396 q suda 160 q SO3 həll etdikdə alınan məhlulda 1 mol H2SO4-ə neçə mol su düşər?",
+        "choices": [
+            "1mol",
+            "2 mol",
+            "10 mol",
+            "20 mol"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: 396 q suda 160 q SO3 həll etdikdə alınan məhlulda 1 mol H2SO4-ə neçə mol su düşər?\nA) 1mol\nB) 2 mol\nC) 10 mol\nD) 20 mol\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Hansı kimyəvi maddə deyil?",
+        "choices": [
+            "oksigen",
+            "elektron",
+            "xörək duzu",
+            "su"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Hansı kimyəvi maddə deyil?\nA) oksigen\nB) elektron\nC) xörək duzu\nD) su\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "3 hissəyə bölünmüş şüşə qabda X maddəsinin aşağıdakı göstərilən qaydada məhlulları hazırlanmışdır.\nI hissədə 20q X və 180q su\nII.50q X və 150q su\nIII.80q X və 120q su\nArakəsmə götürüldükdən sonra məhlulda X maddəsinin kütlə payını tapın",
+        "choices": [
+            "15",
+            "20",
+            "25",
+            "10"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: 3 hissəyə bölünmüş şüşə qabda X maddəsinin aşağıdakı göstərilən qaydada məhlulları hazırlanmışdır.\nI hissədə 20q X və 180q su\nII.50q X və 150q su\nIII.80q X və 120q su\nArakəsmə götürüldükdən sonra məhlulda X maddəsinin kütlə payını tapın\nA) 15\nB) 20\nC) 25\nD) 10\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Fiziki cisimlər nədən ibarətdirsə, onlar ... Adlanır. Cümləsində nöqtələrin yerində nə olmalıdır?",
+        "choices": [
+            "Saf",
+            "Xassə",
+            "Maddə",
+            "Cisim"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Fiziki cisimlər nədən ibarətdirsə, onlar ... Adlanır. Cümləsində nöqtələrin yerində nə olmalıdır?\nA) Saf\nB) Xassə\nC) Maddə\nD) Cisim\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Hansı alkandan başlayaraq doymuş karbohidrogenlərdə izomerlik hadisəsi müşahidə olunur?",
+        "choices": [
+            "C3H8",
+            "C4H10",
+            "CH4",
+            "C5H12"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Hansı alkandan başlayaraq doymuş karbohidrogenlərdə izomerlik hadisəsi müşahidə olunur?\nA) C3H8\nB) C4H10\nC) CH4\nD) C5H12\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Bəsit maddəni göstərin",
+        "choices": [
+            "sementit",
+            "su",
+            "xörək duzu",
+            "oksigen"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Bəsit maddəni göstərin\nA) sementit\nB) su\nC) xörək duzu\nD) oksigen\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Havanın tərkibində hansı qazın miqdari daha çoxdur?",
+        "choices": [
+            "hidrogen qazı",
+            "oksigen",
+            "karbon qazı",
+            "azot qazı"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Havanın tərkibində hansı qazın miqdari daha çoxdur?\nA) hidrogen qazı\nB) oksigen\nC) karbon qazı\nD) azot qazı\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Hansı reaksiya gedə bilməz?",
+        "choices": [
+            "Fe + O2",
+            "Ca + O2",
+            "Au + O2",
+            "K + O2"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Hansı reaksiya gedə bilməz?\nA) Fe + O2\nB) Ca + O2\nC) Au + O2\nD) K + O2\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Tsikloalkanların siniflərarası izomeri?",
+        "choices": [
+            "alkadienlər",
+            "alkenlər",
+            "alkinlər",
+            "arenlər"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Tsikloalkanların siniflərarası izomeri?\nA) alkadienlər\nB) alkenlər\nC) alkinlər\nD) arenlər\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Hansı halda karbon yarımqrupu elementlərinin baş oksidinin formulu göstərilmişdir?",
+        "choices": [
+            "RO2",
+            "RO3",
+            "R2O3",
+            "RO5"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Hansı halda karbon yarımqrupu elementlərinin baş oksidinin formulu göstərilmişdir?\nA) RO2\nB) RO3\nC) R2O3\nD) RO5\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Hidrogenə görə nisbi sıxlığı 22 olan oksigen və ozondan ibarət qaz qarışığının ozona görə həcm payını %-lə tapın",
+        "choices": [
+            "20",
+            "35",
+            "50",
+            "75"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Hidrogenə görə nisbi sıxlığı 22 olan oksigen və ozondan ibarət qaz qarışığının ozona görə həcm payını %-lə tapın\nA) 20\nB) 35\nC) 50\nD) 75\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "11.2q KOH-i suda həll edərək 200 ml məhlul alınmışdır. Məhlulun molyar qatılığını hesablayın. Mr(KOH) =56",
+        "choices": [
+            "0.5",
+            "1.5",
+            "1",
+            "2"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: 11.2q KOH-i suda həll edərək 200 ml məhlul alınmışdır. Məhlulun molyar qatılığını hesablayın. Mr(KOH) =56\nA) 0.5\nB) 1.5\nC) 1\nD) 2\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Mendeleyevin dövrü elementlər cədvəli neçə qrupdan ibarətdir",
+        "choices": [
+            "qrup yoxdur",
+            "2",
+            "5",
+            "8"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Mendeleyevin dövrü elementlər cədvəli neçə qrupdan ibarətdir\nA) qrup yoxdur\nB) 2\nC) 5\nD) 8\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Benzolun kimyəvi formulunu göstərin:",
+        "choices": [
+            "C6H12",
+            "CH4",
+            "C3H8",
+            "C6H6"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Benzolun kimyəvi formulunu göstərin:\nA) C6H12\nB) CH4\nC) C3H8\nD) C6H6\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Hansı element sabit valentlidir?",
+        "choices": [
+            "N",
+            "P",
+            "Na",
+            "Cr"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Hansı element sabit valentlidir?\nA) N\nB) P\nC) Na\nD) Cr\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "İdeal qazın molyar həcmi nə qədərdir?",
+        "choices": [
+            "20.4 litr",
+            "21.4 litr",
+            "24.4 litr",
+            "22.4 litr"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: İdeal qazın molyar həcmi nə qədərdir?\nA) 20.4 litr\nB) 21.4 litr\nC) 24.4 litr\nD) 22.4 litr\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Yer qabığında ən geniş yayılmış element hansıdır?",
+        "choices": [
+            "N",
+            "O",
+            "Na",
+            "S"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Yer qabığında ən geniş yayılmış element hansıdır?\nA) N\nB) O\nC) Na\nD) S\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "16q X birləşməsi 200 ml məhlulda 2M məhlul əmələ gətirir.X birləşməsinin nisbi molekul kütləsini tapın.",
+        "choices": [
+            "142",
+            "174",
+            "40",
+            "74"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: 16q X birləşməsi 200 ml məhlulda 2M məhlul əmələ gətirir.X birləşməsinin nisbi molekul kütləsini tapın.\nA) 142\nB) 174\nC) 40\nD) 74\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "8M NaOH məhlulu almaq üçün 400 ml 2M NaOH məhlulundan neçə qr su buxarlandırmaq lazımdır?",
+        "choices": [
+            "300",
+            "150",
+            "100",
+            "200"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: 8M NaOH məhlulu almaq üçün 400 ml 2M NaOH məhlulundan neçə qr su buxarlandırmaq lazımdır?\nA) 300\nB) 150\nC) 100\nD) 200\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Hansı maddə molekulyar quruluşludur?",
+        "choices": [
+            "oksigen",
+            "qum",
+            "almaz",
+            "qrafit"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Hansı maddə molekulyar quruluşludur?\nA) oksigen\nB) qum\nC) almaz\nD) qrafit\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Na2CO3 birləşməsində element atomlarının say nisbətini göstərin",
+        "choices": [
+            "2:1:3",
+            "2:1:1",
+            "2:2:3",
+            "1:1:1"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Na2CO3 birləşməsində element atomlarının say nisbətini göstərin\nA) 2:1:3\nB) 2:1:1\nC) 2:2:3\nD) 1:1:1\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Reaksiyada iştirak edən fazaların sayına görə neçə növ kimyəvi reaksiyalar var?",
+        "choices": [
+            "5",
+            "2",
+            "6",
+            "4"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Reaksiyada iştirak edən fazaların sayına görə neçə növ kimyəvi reaksiyalar var?\nA) 5\nB) 2\nC) 6\nD) 4\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "SO3 molekulunda oksigenin kütlə payını (%)-lə tapın.",
+        "choices": [
+            "60",
+            "66",
+            "32",
+            "40"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: SO3 molekulunda oksigenin kütlə payını (%)-lə tapın.\nA) 60\nB) 66\nC) 32\nD) 40\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Nisbi molekulyar kütləsinin vahidi nədir?",
+        "choices": [
+            "1 q",
+            "yoxdur",
+            "1 N",
+            "1 kq"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Nisbi molekulyar kütləsinin vahidi nədir?\nA) 1 q\nB) yoxdur\nC) 1 N\nD) 1 kq\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Prosesin dönərliyinə görə neçə növ kimyəvi reaksiyalar var?",
+        "choices": [
+            "5",
+            "3",
+            "6",
+            "2"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Prosesin dönərliyinə görə neçə növ kimyəvi reaksiyalar var?\nA) 5\nB) 3\nC) 6\nD) 2\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Çay sodasının kimyəvi formulunu göstərin",
+        "choices": [
+            "Cavabların heç biri doğru deyil",
+            "Zn2CO3",
+            "Ca2CO3",
+            "NaHCO3"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Çay sodasının kimyəvi formulunu göstərin\nA) Cavabların heç biri doğru deyil\nB) Zn2CO3\nC) Ca2CO3\nD) NaHCO3\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Alkinlərin ilk nümayəndəsində neçə karbon atomu var?",
+        "choices": [
+            "2",
+            "1",
+            "3",
+            "4"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Alkinlərin ilk nümayəndəsində neçə karbon atomu var?\nA) 2\nB) 1\nC) 3\nD) 4\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Dispers latıncadan tərcümədə nə deməkdir?",
+        "choices": [
+            "eynilik",
+            "fərqlilik",
+            "dəyişilmə",
+            "səpələnmə"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Dispers latıncadan tərcümədə nə deməkdir?\nA) eynilik\nB) fərqlilik\nC) dəyişilmə\nD) səpələnmə\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "55 Mn atomunda neçə neytron var?",
+        "choices": [
+            "80",
+            "55",
+            "30",
+            "32"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: 55 Mn atomunda neçə neytron var?\nA) 80\nB) 55\nC) 30\nD) 32\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "128 q kükürd qazında neçə qram kükürd elementi olur?",
+        "choices": [
+            "49 q",
+            "108 q",
+            "15 q",
+            "64 q"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: 128 q kükürd qazında neçə qram kükürd elementi olur?\nA) 49 q\nB) 108 q\nC) 15 q\nD) 64 q\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Hansı mürəkkəb maddədir?",
+        "choices": [
+            "ammonyak",
+            "qrafit",
+            "almaz",
+            "kükürd"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Hansı mürəkkəb maddədir?\nA) ammonyak\nB) qrafit\nC) almaz\nD) kükürd\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "22.4l hidrogen xlorid suda həll edilərək 500 ml məhlul hazırlanmışdır. Məhlulun molyar qatılığını hesablayın.",
+        "choices": [
+            "4",
+            "5",
+            "2",
+            "3"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: 22.4l hidrogen xlorid suda həll edilərək 500 ml məhlul hazırlanmışdır. Məhlulun molyar qatılığını hesablayın.\nA) 4\nB) 5\nC) 2\nD) 3\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "C14H30 molekulunda neçə σ C-H rabitəsi mövcuddur?",
+        "choices": [
+            "32",
+            "30",
+            "16",
+            "28"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: C14H30 molekulunda neçə σ C-H rabitəsi mövcuddur?\nA) 32\nB) 30\nC) 16\nD) 28\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Hansı maddənin normal halda tutduğu həcm 22.4 I-dir",
+        "choices": [
+            "S",
+            "CO2",
+            "su",
+            "pirit"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Hansı maddənin normal halda tutduğu həcm 22.4 I-dir\nA) S\nB) CO2\nC) su\nD) pirit\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "30 q etanın həcmi neçə litrdir",
+        "choices": [
+            "33.6",
+            "5.6",
+            "22.4",
+            "44.8"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: 30 q etanın həcmi neçə litrdir\nA) 33.6\nB) 5.6\nC) 22.4\nD) 44.8\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Naməlum qazın hidrogenə görə sıxlığı 22-dir. Bu qazın 22.4 litri neçə qramdır?",
+        "choices": [
+            "44 qram",
+            "42 qram",
+            "15 qram",
+            "46 qram"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Naməlum qazın hidrogenə görə sıxlığı 22-dir. Bu qazın 22.4 litri neçə qramdır?\nA) 44 qram\nB) 42 qram\nC) 15 qram\nD) 46 qram\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Avaqadro qanunu maddənin hansı aqreqat halı üçün ödənilir?",
+        "choices": [
+            "bərk",
+            "qaz və bərk",
+            "qaz",
+            "maye"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Avaqadro qanunu maddənin hansı aqreqat halı üçün ödənilir?\nA) bərk\nB) qaz və bərk\nC) qaz\nD) maye\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Bir mol Kalsium bir mol hidrogendən neçə dəfə ağırdır?",
+        "choices": [
+            "15",
+            "20",
+            "10",
+            "30"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Bir mol Kalsium bir mol hidrogendən neçə dəfə ağırdır?\nA) 15\nB) 20\nC) 10\nD) 30\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Havanın həcmcə neçə faizi oksigendir?",
+        "choices": [
+            "0.04",
+            "21",
+            "19",
+            "23"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Havanın həcmcə neçə faizi oksigendir?\nA) 0.04\nB) 21\nC) 19\nD) 23\n\nCavab: "
+    },
+    {
+        "description": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "question": "Kataliz sözü hansı dildən götürülüb?",
+        "choices": [
+            "yunan",
+            "fransız",
+            "ingilis",
+            "latın"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Sual: 1 mol kalsium-hidroksid saxlayan məhlula işərisində 1 mol xlorid turşusu saxlayan məhlul əlavə etdikdə hansı duz alınar?\nA) turş\nB) normal\nC) əsasi\nD) qarışıq\n\nCavab: C\n\nSual: Potaşın kimyəvi formulunu göstərin\nA) Ca2CO3\nB) Na2CO3\nC) K2CO3\nD) Zn2CO3\n\nCavab: C\n\nSual: Kalsiumla oksigenin reaksiyasından 224 q CaO alınmışsa, neçə qram kalsium reaksiyaya daxil olmuşdur?\nA) 40\nB) 160\nC) 200\nD) 80\n\nCavab: B\n\nSual: Benzolun 16 hidrogen atomu olan homoloqunun tərkibində neçə karbon atomu var?\nA) 11\nB) 10\nC) 8\nD) 7\n\nCavab: A\n\nSual: 200 q 60%-li NaOH məhluluna 100 q su əlavə edildi. Alınan məhlulun qatılığını (%-lə) müəyyən edin.\nA) 20%\nB) 10%\nC) 30%\nD) 40%\n\nCavab: D\n\n",
+        "input": "Sual: Kataliz sözü hansı dildən götürülüb?\nA) yunan\nB) fransız\nC) ingilis\nD) latın\n\nCavab: "
+    }
+]

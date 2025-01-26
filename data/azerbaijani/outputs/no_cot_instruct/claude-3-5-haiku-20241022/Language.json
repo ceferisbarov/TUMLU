@@ -1,0 +1,1402 @@
+[
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Biri eyni zamanda həm çoxmənalı həm də omonim söz kimi işlənə bilmir:",
+        "choices": [
+            "Yay",
+            "Tut",
+            "Üz",
+            "Baş"
+        ],
+        "output": "Cavab: B (Tut)\n\nƏsaslandırma:\n- \"Yay\" sözü həm mövsüm, həm də silah kimi işlənə bilir (çoxmənalı)\n- \"Üz\" sözü həm bədən üzvü, həm də hərəkət kimi işlənə bilir (çoxmənalı)\n- \"Baş\" sözü həm bədən üzvü, həm də rəhbər mənasında işlənir (çoxmənalı)\n- \"Tut\" sözü isə yalnız bir mənada işlənir (bitki, meyvə), ona görə nə çoxmənalı, nə də omonim söz kimi işlənə bilmir.\n\nOna görə cavab B (Tut) variantıdır.",
+        "answer": "D",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Biri eyni zamanda həm çoxmənalı həm də omonim söz kimi işlənə bilmir:\nA) Yay\nB) Tut\nC) Üz\nD) Baş\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Inkar fellər başqa necə düzəlir?",
+        "choices": [
+            "-ma2",
+            "deyil",
+            "-mı4",
+            "olmaz"
+        ],
+        "output": "Cavab: A\n\nİnkar fellər adətən \"-ma2\" şəkilçisi vasitəsilə düzəlir. Bu şəkilçi felin kökünə artırılaraq həmin felin inkar formasını yaradır. Məsələn:\n\n- oxu + ma = oxuma\n- gəl + mə = gəlmə\n- yaz + ma = yazma\n\nDigər variantlar düzgün deyil:\n- \"deyil\" inkar əvəzliyi kimi işlənir\n- \"-mı4\" sual şəkilçisidir\n- \"olmaz\" modal sözdür\n\nOna görə də düzgün cavab A variantıdır: \"-ma2\" şəkilçisi ilə inkar fellər düzəlir.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Inkar fellər başqa necə düzəlir?\nA) -ma2\nB) deyil\nC) -mı4\nD) olmaz\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Sintaktik üsulla azaltma dərəcəli sifətlər yaradan sözlərdən biri kimi verilə bilməz",
+        "choices": [
+            "Daha",
+            "Az",
+            "Açıq",
+            "Kəm"
+        ],
+        "output": "Sual: Sintaktik üsulla azaltma dərəcəli sifətlər yaradan sözlərdən biri kimi verilə bilməz\n\nCavab: C) Açıq\n\nƏsaslandırma:\n- \"Daha\" və \"Az\" sözləri sintaktik üsulla azaltma dərəcəli sifətlər yaratmaq üçün istifadə olunur.\n- \"Kəm\" sözü də azaltma dərəcəsini bildirən söz kimi işlənə bilir.\n- \"Açıq\" sözü isə sifət olsa da, azaltma dərəcəsini bildirən söz deyil.\n\nOna görə də \"Açıq\" sintaktik üsulla azaltma dərəcəli sifətlər yaradan sözlərdən biri kimi verilə bilməz.",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Sintaktik üsulla azaltma dərəcəli sifətlər yaradan sözlərdən biri kimi verilə bilməz\nA) Daha\nB) Az\nC) Açıq\nD) Kəm\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Hansı köməkçi nitq hissəsi sözlərə qoşularaq müxtəlif məna çalarlıqları əmələ gətirir?",
+        "choices": [
+            "qoşma",
+            "nida",
+            "bağlayıcı",
+            "ədat"
+        ],
+        "output": "Cavab: A) qoşma\n\nİzahat: Qoşmalar köməkçi nitq hissəsidir və sözlərə qoşularaq onların qrammatik əlaqəsini və müxtəlif məna çalarlıqlarını yaradır. Məsələn, \"üçün\", \"kimi\", \"ilə\", \"görə\" kimi qoşmalar sözlərin arasındakı münasibəti bildirir və onlara müxtəlif məna çalarları verir.\n\nDigər köməkçi nitq hissələri isə:\n- Bağlayıcılar sözləri və cümlə üzvlərini əlaqələndirir\n- Nidalar hiss-həyəcanı bildirir\n- Ədatlar sözlərə müxtəlif çalarlıqlar verir\n\nOna görə də cavab A) qoşmadır.",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Hansı köməkçi nitq hissəsi sözlərə qoşularaq müxtəlif məna çalarlıqları əmələ gətirir?\nA) qoşma\nB) nida\nC) bağlayıcı\nD) ədat\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Bunlardan hansı əsas nitq hissələrindən biri deyil?",
+        "choices": [
+            "İsim",
+            "Əvəzlik",
+            "Ədat",
+            "Sifət"
+        ],
+        "output": "Sual: Bunlardan hansı əsas nitq hissələrindən biri deyil?\nA) İsim\nB) Əvəzlik\nC) Ədat\nD) Sifət\n\nCavab: C\n\nƏsas nitq hissələri bunlardır:\n1. İsim\n2. Sifət\n3. Say\n4. Əvəzlik\n5. Fel\n\nƏdat isə köməkçi nitq hissəsidir, ona görə də cavab C-dir.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Bunlardan hansı əsas nitq hissələrindən biri deyil?\nA) İsim\nB) Əvəzlik\nC) Ədat\nD) Sifət\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Vurğu qəbul etməyən şəkilçilər",
+        "choices": [
+            "da",
+            "an",
+            "casina",
+            "in"
+        ],
+        "output": "Cavab: A\n\nAçıqlama:\n- \"da\" şəkilçisi vurğu qəbul etməyən şəkilçilərdəndir.\n- Vurğu qəbul etməyən şəkilçilər sözdə vurğunun yerini dəyişdirmir.\n- Digər variantlar (an, casina, in) isə ya vurğu qəbul edən şəkilçilərdir, ya da düzgün deyil.\n\nSual: Vurğu qəbul etməyən şəkilçilər dedikdə, həmin şəkilçilərin sözdə vurğunun yerini dəyişdirməməsi nəzərdə tutulur.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Vurğu qəbul etməyən şəkilçilər\nA) da\nB) an\nC) casina\nD) in\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Biri ahəng qanunu pozulmuş əsl Azərbaycan sözüdür:",
+        "choices": [
+            "İnqilab",
+            "İldırım",
+            "Vəsait",
+            "Səadət"
+        ],
+        "output": "Cavab: A\n\nİzah: \n- İnqilab sözü ərəb mənşəli alınma sözdür\n- Ahəng qanununa tabe deyil\n- Digər variantlar Azərbaycan dilinin ahəng qanununa uyğundur:\n  * İldırım - düzgün ahəngli Azərbaycan sözü\n  * Vəsait - düzgün ahəngli alınma söz\n  * Səadət - düzgün ahəngli Azərbaycan sözü\n\nOna görə də \"İnqilab\" sözü ahəng qanunu pozulmuş sözdür.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Biri ahəng qanunu pozulmuş əsl Azərbaycan sözüdür:\nA) İnqilab\nB) İldırım\nC) Vəsait\nD) Səadət\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Vurğunun yerini dəyişməklə mənası dəyişən sözü göstərin.",
+        "choices": [
+            "Hərdən",
+            "Bəzən",
+            "Almaniya",
+            "Amerika"
+        ],
+        "output": "Cavab: A) Hərdən\n\nAçıqlama:\n\"Hərdən\" sözündə vurğunun yerini dəyişdikdə mənası dəyişir:\n- HƏRdən (bəzən, ara-sıra)\n- HərDƏN (qəzəblənmə, hirslənmə mənasında)\n\nDigər variantlarda vurğunun yeri dəyişdikdə söz mənasını dəyişmir:\n- Bəzən\n- Almaniya\n- Amerika\n\nOna görə də düzgün cavab A) Hərdən variantıdır.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Vurğunun yerini dəyişməklə mənası dəyişən sözü göstərin.\nA) Hərdən\nB) Bəzən\nC) Almaniya\nD) Amerika\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Sifətin çoxaltma dərəcəsinə aid olan sözü seçin:",
+        "choices": [
+            "isti",
+            "açıq qırmızı",
+            "qaraşın",
+            "zorbaca"
+        ],
+        "output": "Cavab: D\n\nİzah: Sifətin çoxaltma dərəcəsi sifətin əlamətini bir qədər artıq, şiddətli göstərən formadır. Bunun üçün -ca, -cə, -ça, -çə şəkilçilərindən istifadə olunur. \n\nMəsələn:\n- \"Zorbaca\" sözü \"zorba\" sifətindən düzəlib, çoxaltma dərəcəsini bildirir.\n- \"İsti\" (A variantı) sadə sifətdir\n- \"Açıq qırmızı\" (B variantı) mürəkkəb sifətdir\n- \"Qaraşın\" (C variantı) sadə sifətdir\n\nOna görə də doğru cavab D variantıdır.",
+        "answer": "D",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Sifətin çoxaltma dərəcəsinə aid olan sözü seçin:\nA) isti\nB) açıq qırmızı\nC) qaraşın\nD) zorbaca\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Hansı toplu isim istisna olmaqla digərləri -lar; -lər şəkilçisini qəbul edir?",
+        "choices": [
+            "Dəstə",
+            "Camaat",
+            "Xalq",
+            "Alay"
+        ],
+        "output": "Cavab: B) Camaat\n\nİzah:\n- Camaat toplu isimdir və çoxluq bildirir, lakin -lar; -lər şəkilçisini qəbul etmir.\n- Digər sadalanan sözlər (-lar; -lər şəkilçisini qəbul edən sözlərdir):\n  * Dəstə - dəstələr\n  * Xalq - xalqlar\n  * Alay - alaylar\n\nToplu isimlər ümumiyyətlə təkdə işlənir və çoxluq bildirdiyindən çoxluq şəkilçisi qəbul etmir.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Hansı toplu isim istisna olmaqla digərləri -lar; -lər şəkilçisini qəbul edir?\nA) Dəstə\nB) Camaat\nC) Xalq\nD) Alay\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Verilənlərdən biri əsas nitq hissələrinə aid deyil:",
+        "choices": [
+            "əvəzlik",
+            "sifət",
+            "bağlayıcı",
+            "fel"
+        ],
+        "output": "Cavab: C (bağlayıcı)\n\nƏsas nitq hissələri bunlardır:\n1. İsim\n2. Sifət\n3. Fel\n4. Zərf\n5. Əvəzlik\n\nBağlayıcı köməkçi nitq hissəsidir, əsas nitq hissəsi deyil. Bağlayıcılar sözləri və cümlə üzvlərini bir-birinə bağlayır.\n\nƏsas nitq hissələri verilən variantlarda sıralanan isim, sifət, fel və əvəzlikdir. Bağlayıcı isə köməkçi nitq hissəsi olduğundan cavab C-dir.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Verilənlərdən biri əsas nitq hissələrinə aid deyil:\nA) əvəzlik\nB) sifət\nC) bağlayıcı\nD) fel\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Bağlayıcıların quruluşca neçə növü var?",
+        "choices": [
+            "4",
+            "3",
+            "2",
+            "5"
+        ],
+        "output": "Cavab: B (3)\n\nBağlayıcıların quruluşca 3 növü var:\n\n1. Sadə bağlayıcılar (həm, və, ya, ki, ancaq)\n2. Düzəltmə bağlayıcılar (elə ki, ona görə ki, baxmayaraq ki)\n3. Mürəkkəb bağlayıcılar (həm...həm də, ya...ya da)\n\nBu cavab dilçilik qaydalarına əsasən doğrudur.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Bağlayıcıların quruluşca neçə növü var?\nA) 4\nB) 3\nC) 2\nD) 5\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Felin zamanları özünü felin hansı şəklində göstərir?",
+        "choices": [
+            "şərt",
+            "xəbər",
+            "əmr",
+            "arzu"
+        ],
+        "output": "Cavab: B (xəbər)\n\nFelin zamanları əsasən xəbər şəklində özünü göstərir. Xəbər şəkli felin baş verən, baş vermiş və ya baş verəcək hərəkəti ifadə etməsinə xidmət edir. Felin zamanları (keçmiş, indiki, gələcək) məhz xəbər şəklinin daxilində müəyyənləşir.\n\nXəbər şəklinin əsas xüsusiyyətləri:\n1. Hərəkətin real baş verməsini bildirir\n2. Zamanları əhatə edir\n3. Danışanın faktik məlumatını ifadə edir\n\nDigər şəkillər (şərt, əmr, arzu) isə hərəkətin müxtəlif aspektlərini göstərir, lakin zamanları birbaşa əks etdirmir.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Felin zamanları özünü felin hansı şəklində göstərir?\nA) şərt\nB) xəbər\nC) əmr\nD) arzu\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "İsmin hansı halı xəbər olmur?",
+        "choices": [
+            "yönlük",
+            "yiyəlik",
+            "tamamlıq",
+            "Təsirlik"
+        ],
+        "output": "Cavab: B (yiyəlik)\n\nİzah: İsmin yiyəlik halı heç vaxt xəbər ola bilməz. Xəbər adətən mübtəda ilə uzlaşan, cümlədə baş üzv rolunu oynayan söz olur. Yiyəlik hal isə mənsubiyyət, aid olma münasibətini bildirir.\n\nMəsələn:\n- \"Kitabın\" - yiyəlik hal\n- \"Kitab masanın üstündədir\" - burada \"kitab\" mübtəda, \"masanın\" isə yiyəlik haldadır\n\nOna görə də yiyəlik hal xəbər ola bilməz.",
+        "answer": "D",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: İsmin hansı halı xəbər olmur?\nA) yönlük\nB) yiyəlik\nC) tamamlıq\nD) Təsirlik\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Felin qarşılıq növü bu şəkilçilərdən biri ilə düzəlir:",
+        "choices": [
+            "-t",
+            "-ıl",
+            "-Iş",
+            "-dır"
+        ],
+        "output": "Cavab: C\n\nFelin qarşılıq növü -ış/-iş/-uş/-üş şəkilçiləri ilə düzəlir. Qarşılıq növ iki və ya daha çox subyektin bir-biri ilə qarşılıqlı əlaqəsini bildirir. Məsələn:\n- Gülüşmək\n- Öpüşmək\n- Danışışmaq\n- Görüşmək\n\nDigər variantlar:\nA) -t: Məchul növ şəkilçisidir\nB) -ıl: Qayıdış növ şəkilçisidir\nD) -dır: Təsirli növ şəkilçisidir",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Felin qarşılıq növü bu şəkilçilərdən biri ilə düzəlir:\nA) -t\nB) -ıl\nC) -Iş\nD) -dır\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Hansı konkret isimdən mücərrəd isim düzəltmək olar?",
+        "choices": [
+            "itburnu",
+            "meydança",
+            "yazıçı",
+            "ürək"
+        ],
+        "output": "Sual: Hansı konkret isimdən mücərrəd isim düzəltmək olar?\n\nCavab: D) ürək\n\nAçıqlama:\n- Konkret isimlər maddi, əl ilə toxunula bilən əşyaları bildirir.\n- Mücərrəd isimlər isə hiss, duyğu, keyfiyyət kimi maddi olmayan anlayışları ifadə edir.\n- \"Ürək\" konkret bir orqandır, ancaq \"ürəklilik\", \"ürəksizlik\" kimi mücərrəd isimlər düzəltmək mümkündür.\n- Digər variantlar:\n  A) \"İtburnu\" - konkret bitki\n  B) \"Meydança\" - konkret yer\n  C) \"Yazıçı\" - konkret peşə sahibi\n\nOna görə də düzgün cavab D) ürəkdir.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Hansı konkret isimdən mücərrəd isim düzəltmək olar?\nA) itburnu\nB) meydança\nC) yazıçı\nD) ürək\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Vacib şəkli hansı şəkilçilərlə düzəlir?",
+        "choices": [
+            "_ da də",
+            "-a ə",
+            "-malı məli",
+            "-maq mək"
+        ],
+        "output": "Cavab: C\n\nİzah: Vacib şəkli -malı/-məli şəkilçiləri ilə düzəlir. Bu şəkilçi feilə əlavə edilərək hərəkətin zərurətini, vacib olduğunu bildirir. Məsələn:\n\n- Oxumalısan (oxumaq lazımdır)\n- Getməlisən (getmək vacibdir)\n- Yazmalıyam (yazmaq məcburiyyətindəyəm)\n\nDigər variantların izahı:\nA) -da/-də yerlik hal şəkilçisidir\nB) -a/-ə yönlük hal şəkilçisidir\nD) -maq/-mək məsdər şəkilçisidir\n\nOna görə də düzgün cavab C variantıdır.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Vacib şəkli hansı şəkilçilərlə düzəlir?\nA) _ da də\nB) -a ə\nC) -malı məli\nD) -maq mək\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Köməkçi nitq hissələrindən biri sual intonasiyası yaradır",
+        "choices": [
+            "Həqiqətən",
+            "Ən",
+            "Məgər",
+            "Ura"
+        ],
+        "output": "Cavab: C\n\nSual: Köməkçi nitq hissələrindən biri sual intonasiyası yaradan \"Məgər\" sözüdür. Bu söz cümləyə sual çaları qatır və danışanın təəccübünü, heyrətini ifadə edir.\n\nMəsələn:\n- Məgər sən bunu bilmirsən?\n- Məgər bu qədər çətin idi?\n\nDigər variantlar:\nA) Həqiqətən - təsdiq bildirən sözdür\nB) Ən - dərəcə bildirən köməkçi sözdür\nD) Ura - həyəcan bildirən nidadır\n\nOna görə də düzgün cavab C variantıdır.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Köməkçi nitq hissələrindən biri sual intonasiyası yaradır\nA) Həqiqətən\nB) Ən\nC) Məgər\nD) Ura\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Biri ahəng qanununa tabedir;",
+        "choices": [
+            "Fidan",
+            "Leyla",
+            "Ruqiyyə",
+            "Əli"
+        ],
+        "output": "Cavab: D (Əli)\n\nAçıqlama:\nAhəng qanunu Azərbaycan dilinin əsas qrammatik qanunlarından biridir. Bu qanuna görə, sözlərdə saitlər bir-birinə uyğun olmalıdır. Yəni, sözdəki saitlər ya hamısı qalın, ya da hamısı incə olmalıdır.\n\nVerilən variantlardan:\n- Fidan - qalın saitli sözdür\n- Leyla - incə saitli sözdür\n- Ruqiyyə - incə saitli sözdür\n- Əli - incə saitli sözdür\n\nLakin \"Əli\" adı ahəng qanununa tam uyğun gəlir, çünki bütün saitləri incədir.\n\nOna görə də düzgün cavab D bəndidir (Əli).",
+        "answer": "D",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Biri ahəng qanununa tabedir;\nA) Fidan\nB) Leyla\nC) Ruqiyyə\nD) Əli\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Bunlardan hansı tərzi-hərəkət zərfidir?",
+        "choices": [
+            "Xeyirxah",
+            "Xeyli",
+            "Sakitcə",
+            "İnsan"
+        ],
+        "output": "Cavab: C) Sakitcə\n\nAçıqlama:\nTərzi-hərəkət zərfləri hərəkətin necə yerinə yetirilməsini bildirir. \"Sakitcə\" sözü hərəkətin sakit şəkildə icra olunduğunu göstərir. Bu, tipik tərzi-hərəkət zərfidir.\n\nDigər variantların izahı:\nA) Xeyirxah - sifətdir\nB) Xeyli - miqdar zərfidir\nD) İnsan - isimdir\n\nOna görə də düzgün cavab C) Sakitcə-dir.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Bunlardan hansı tərzi-hərəkət zərfidir?\nA) Xeyirxah\nB) Xeyli\nC) Sakitcə\nD) İnsan\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "İsmin hansı halının xüsusi şəkilçisi yoxdur?",
+        "choices": [
+            "Yerlik",
+            "Təsirlik",
+            "Adlıq",
+            "Yönlük"
+        ],
+        "output": "Cavab: C (Adlıq hal)\n\nİzah: \n- Adlıq hal ismin əsas halıdır\n- Digər hallarda (-da, -a, -ı, -dan kimi) xüsusi şəkilçilər olduğu halda\n- Adlıq halda heç bir şəkilçi olmur\n- Söz olduğu kimi qalır\n- Suallara \"kim?\" və \"nə?\" suallarına cavab verir\n\nMəsələn:\n- Kitab (adlıq hal)\n- Kitabı (təsirlik hal)\n- Kitabda (yerlik hal)\n- Kitaba (yönlük hal)\n\nOna görə də cavab C bəndidir - Adlıq halın xüsusi şəkilçisi yoxdur.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: İsmin hansı halının xüsusi şəkilçisi yoxdur?\nA) Yerlik\nB) Təsirlik\nC) Adlıq\nD) Yönlük\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Hansı say yazılışından fərqli tələffüz edilir:",
+        "choices": [
+            "yetmiş",
+            "əlli beş",
+            "on beş",
+            "qırx"
+        ],
+        "output": "Cavab: B (əlli beş)\n\nƏlli beş sözü yazılışından fərqli tələffüz edilir. Belə ki, bu söz yazıldığı kimi \"əlli beş\" deyil, \"əllibəş\" kimi tələffüz olunur.\n\nDigər variantlar isə yazılışı ilə tələffüzü eyni olan saylardır:\n- Yetmiş - yazılışı və tələffüzü eynidir\n- On beş - yazılışı və tələffüzü eynidir\n- Qırx - yazılışı və tələffüzü eynidir\n\nOna görə də cavab B variantıdır.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Hansı say yazılışından fərqli tələffüz edilir:\nA) yetmiş\nB) əlli beş\nC) on beş\nD) qırx\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Hansı söz ahəng qanununa tabe deyil?",
+        "choices": [
+            "karandaş",
+            "ömür",
+            "kitab",
+            "yazı"
+        ],
+        "output": "Cavab: A) karandaş\n\nİzah: Karandaş sözü ərəb mənşəli alınma söz olduğu üçün Azərbaycan dilinin ahəng qanununa tabe deyil. Digər sözlər (ömür, kitab, yazı) Azərbaycan dilinin ahəng qanununa uyğundur.\n\nAhəng qanunu Azərbaycan dilinin əsas qrammatik qanunlarından biridir. Bu qanuna görə, sözlərdə saitlər bir-birinə uyğun olmalıdır. Alınma sözlər isə öz mənşəyinə görə bu qanuna tabe olmaya bilər.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Hansı söz ahəng qanununa tabe deyil?\nA) karandaş\nB) ömür\nC) kitab\nD) yazı\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Sözlərdən biri ümumişlək deyil:",
+        "choices": [
+            "qeysi",
+            "arzu",
+            "ayaq",
+            "arı"
+        ],
+        "output": "Cavab: A\n\nİzah: \n- \"Qeysi\" xüsusi işlənən, dar mənalı söz olduğu üçün ümumişlək deyil.\n- \"Arzu\", \"ayaq\" və \"arı\" sözləri geniş işlənən, hamı tərəfindən başa düşülən ümumişlək sözlərdir.\n\nÜmumişlək sözlər dilin lüğət fonduna daxil olan, hamı tərəfindən başa düşülən, geniş yayılmış sözlərdir.",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Sözlərdən biri ümumişlək deyil:\nA) qeysi\nB) arzu\nC) ayaq\nD) arı\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Bunlardan hansı mürəkkəb addır?",
+        "choices": [
+            "Cavanşir",
+            "dəvəquşu",
+            "Şəki xanlığı",
+            "ayaqqabı"
+        ],
+        "output": "Cavab: B) dəvəquşu\n\nİzah: Mürəkkəb ad iki və ya daha çox sözün birləşməsindən əmələ gələn addır. Verilən variantlardan \"dəvəquşu\" iki sözün (dəvə + quşu) birləşməsindən əmələ gəlmiş mürəkkəb addır. Digər variantlar sadə və ya mürəkkəb söz deyil:\n\n- Cavanşir - şəxs adı\n- Şəki xanlığı - söz birləşməsi\n- Ayaqqabı - sadə söz\n\nOna görə də düzgün cavab B) dəvəquşudur.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Bunlardan hansı mürəkkəb addır?\nA) Cavanşir\nB) dəvəquşu\nC) Şəki xanlığı\nD) ayaqqabı\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Məsdər feldən başqa hansı nitq hissəsinin xüsusiyyətlərini daşıyır?",
+        "choices": [
+            "ismin",
+            "əvəzliyin",
+            "sayın",
+            "sifətin"
+        ],
+        "output": "Cavab: A) ismin\n\nİzah: Məsdər fel kökündən düzəlir, lakin ismin bir sıra xüsusiyyətlərini də daşıyır. Belə ki:\n\n1. Məsdər isim kimi hal şəkilçiləri qəbul edə bilir (oxumağa, oxumaqdan, oxumaqda və s.)\n\n2. Məsdər isim kimi cümlədə mübtəda, tamamlıq və s. vəzifələrdə işlənə bilir\n\n3. Məsdərin sonunda -maq/-mək şəkilçisi olur ki, bu da isim düzəldən şəkilçidir\n\n4. Məsdər isim kimi təyin oluna bilir\n\nOna görə də məsdər həm fel, həm də ismin xüsusiyyətlərini özündə birləşdirir. Lakin sualda məhdən başqa hansı nitq hissəsinin xüsusiyyətlərini daşıyır sualı qoyulduğundan cavab A) ismin olur.",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Məsdər feldən başqa hansı nitq hissəsinin xüsusiyyətlərini daşıyır?\nA) ismin\nB) əvəzliyin\nC) sayın\nD) sifətin\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "İqtisadiyyat inkişaf etdikcə nələr yaranır?",
+        "choices": [
+            "terminlər",
+            "ümumişlək sözlər",
+            "dialektlər",
+            "neologizmlər"
+        ],
+        "output": "Cavab: A) terminlər\n\nİzahat: İqtisadiyyat inkişaf etdikcə yeni iqtisadi anlayışlar, konsepsiyalar və proseslər meydana gəlir. Bu yeni anlayışları ifadə etmək üçün müvafiq terminlər yaranır. Terminlər elmi və professional sahələrdə konkret anlayışları dəqiq ifadə edən xüsusi söz və ifadələrdir. İqtisadiyyatın inkişafı ilə əlaqədar olaraq, yeni iqtisadi terminlər də formalaşır.\n\nMəsələn:\n- Qloballaşma\n- Startap\n- İnnovasiya\n- Marketinq\n- Menecment\n\nBu terminlər iqtisadiyyatın müxtəlif sahələrini əks etdirən yeni anlayışlardır.",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: İqtisadiyyat inkişaf etdikcə nələr yaranır?\nA) terminlər\nB) ümumişlək sözlər\nC) dialektlər\nD) neologizmlər\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Adlıq haldan başqa hansı haldır ki, adlıq halın sualına cavab verir?",
+        "choices": [
+            "Yönlük",
+            "Çıxışlıq",
+            "Yiyəlik,təsirlik",
+            "Yönlük,yerlik"
+        ],
+        "output": "Cavab: C) Yiyəlik, təsirlik\n\nİzah:\nAdlıq hal (nominativ) kim? nə? suallarına cavab verir. Yiyəlik hal (genitiv) və təsirlik hal (akkuzativ) də adlıq halın suallarına cavab verə bilir. \n\n- Yiyəlik hal: kimin? nəyin? suallarına cavab verir\n- Təsirlik hal: kimi? nəyi? suallarına cavab verir\n\nMəsələn:\n- Kitab (adlıq hal)\n- Kitabın (yiyəlik hal)\n- Kitabı (təsirlik hal)\n\nOna görə də cavab C bəndidir - yiyəlik və təsirlik hallar adlıq halın suallarına cavab verə bilir.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Adlıq haldan başqa hansı haldır ki, adlıq halın sualına cavab verir?\nA) Yönlük\nB) Çıxışlıq\nC) Yiyəlik,təsirlik\nD) Yönlük,yerlik\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Düzgün tələffüz qaydaları hansı terminlə ifadə olunur?",
+        "choices": [
+            "orfoepiya",
+            "əlifba",
+            "leksika",
+            "orfoqrafiya"
+        ],
+        "output": "Cavab: A) orfoepiya\n\nOrfoepiya dilin tələffüz normalarını, sözlərin düzgün səslənməsini öyrənən dilçilik bölməsidir. Bu, dilin fonetik qayda-qanunlarına əsasən sözlərin düzgün tələffüzünü əhatə edir.\n\nDigər variantların izahı:\nB) Əlifba - hərflərin müəyyən ardıcıllıqla düzülüşü deməkdir\nC) Leksika - sözlərin lüğət tərkibi, söz ehtiyatı deməkdir\nD) Orfoqrafiya - yazılış qaydaları ilə bağlıdır\n\nOna görə də düzgün cavab A) orfoepiya variantıdır.",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Düzgün tələffüz qaydaları hansı terminlə ifadə olunur?\nA) orfoepiya\nB) əlifba\nC) leksika\nD) orfoqrafiya\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Mürəkkəb fellər neçə yollarla yaranır?",
+        "choices": [
+            "6",
+            "5",
+            "4",
+            "8"
+        ],
+        "output": "Mürəkkəb fellər 4 yolla yaranır:\n\n1. Köməkçi fellərlə\n2. Söz birləşmələri ilə\n3. Təkrarla\n4. Qoşmalarla\n\nOna görə də düzgün cavab C) 4-dür.\n\nSual: Mürəkkəb fellər neçə yollarla yaranır?\nA) 6\nB) 5\nC) 4\nD) 8\n\nCavab: C",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Mürəkkəb fellər neçə yollarla yaranır?\nA) 6\nB) 5\nC) 4\nD) 8\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Bunlardan hansılar birləşdirmə bağlayıcısıdır?",
+        "choices": [
+            "həm ,həm də",
+            "və, ilə",
+            "amma",
+            "ya, ya da"
+        ],
+        "output": "Cavab: A\n\nSual: Bunlardan hansılar birləşdirmə bağlayıcısıdır?\nA) həm ,həm də\nB) və, ilə\nC) amma\nD) ya, ya da\n\nDüzgün cavab A-dır. \"Həm, həm də\" birləşdirmə bağlayıcısıdır. Bu bağlayıcı eyni növ üzvləri və ya cümlə üzvlərini birləşdirir.\n\nMəsələn:\n- Həm kitab oxuyur, həm də yazı yazır.\n- Həm müəllim, həm də şair idi.\n\nDigər variantlar:\nB) \"Və, ilə\" - sadə birləşdirmə bağlayıcıları\nC) \"Amma\" - qarşılaşdırma bağlayıcısı\nD) \"Ya, ya da\" - seçmə bağlayıcısı",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Bunlardan hansılar birləşdirmə bağlayıcısıdır?\nA) həm ,həm də\nB) və, ilə\nC) amma\nD) ya, ya da\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Modal sözün məna növlərinin hansında vergül qoyulmur?",
+        "choices": [
+            "Fikrin mənbəyi",
+            "Bənzətmə və müqayisə",
+            "Nəticə",
+            "Əminlik"
+        ],
+        "output": "Cavab: D (Əminlik)\n\nModal sözlərin müxtəlif məna növləri vardır. Əminlik bildirən modal sözlərdən sonra vergül qoyulmur. Məsələn:\n\n- Əlbəttə ki, bu iş görüləcəkdir.\n- Sözsüz ki, o gələcəkdir.\n\nDigər məna növlərindən sonra isə vergül qoyulur:\n\n- Fikrin mənbəyi: Məsələn, mənim fikrimcə, bu düzgün deyil.\n- Bənzətmə və müqayisə: Məsələn, güya ki, hər şey qaydasındadır.\n- Nəticə: Deməli, bu iş baş tutmayacaq.\n\nOna görə də cavab D (Əminlik) variantıdır.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Modal sözün məna növlərinin hansında vergül qoyulmur?\nA) Fikrin mənbəyi\nB) Bənzətmə və müqayisə\nC) Nəticə\nD) Əminlik\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Sayların hansının əvvəlində lap, ən sözləri artırmaq olar?",
+        "choices": [
+            "iki",
+            "beş",
+            "on",
+            "az"
+        ],
+        "output": "Cavab: D (az)\n\nAçıqlama:\n\"Lap az\", \"ən az\" kimi ifadələr işlənə bilər. Digər saylarda isə bu cür işlənmə qrammatik cəhətdən düzgün deyil. Məsələn, \"lap iki\" və ya \"ən beş\" kimi ifadələr qrammatik cəhətdən düzgün deyil.\n\nSualın cavabı D (az) variantıdır.",
+        "answer": "D",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Sayların hansının əvvəlində lap, ən sözləri artırmaq olar?\nA) iki\nB) beş\nC) on\nD) az\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Dilimizə quruluşca sadə olan neçə müəyyən miqdar sayı var?",
+        "choices": [
+            "15",
+            "50",
+            "23",
+            "3"
+        ],
+        "output": "Cavab: D (3)\n\nAzərbaycan dilində quruluşca sadə olan müəyyən miqdar sayları 3-dür:\n1. Bir\n2. İki\n3. Üç\n\nDigər bütün müəyyən miqdar sayları (dörd, beş, altı, yeddi və s.) düzəltmə sayılardır.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Dilimizə quruluşca sadə olan neçə müəyyən miqdar sayı var?\nA) 15\nB) 50\nC) 23\nD) 3\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Müəllimlik necə isimdir?",
+        "choices": [
+            "toplu",
+            "mücərrəd",
+            "xüsusi",
+            "cəm"
+        ],
+        "output": "Cavab: B (mücərrəd)\n\nİzah: Müəllimlik peşə, sənət, vəzifə bildirən mücərrəd isimdir. Mücərrəd isimlər konkret əşya və ya varlıq deyil, anlayış, hal, keyfiyyət, hərəkət bildirən sözlərdir. Müəllimlik də bu qəbildəndir - konkret bir şəxs deyil, peşə anlayışını ifadə edir.\n\nMücərrəd isimlər adətən:\n- Peşə\n- Sənət\n- Vəzifə\n- Keyfiyyət\n- Hal\n- Hərəkət bildirən sözlərdir\n\nMəsələn: müəllimlik, həkimlik, rəhbərlik, dostluq, sevgi və s.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Müəllimlik necə isimdir?\nA) toplu\nB) mücərrəd\nC) xüsusi\nD) cəm\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Sözlərin mənşəyini nəzərə alaraq məntiqi ardıcıllığı tamamlayın. neologizm, əlifba, vurğu, sinonim, fel, ...",
+        "choices": [
+            "bağlayıcı",
+            "Sintaksis",
+            "ədat",
+            "intonasiya"
+        ],
+        "output": "Bu sualın həlli üçün sözlərin mənşəyini və dilçilik terminlərinin ardıcıllığını nəzərə almaq lazımdır.\n\nVerilən sözlər:\n- neologizm (yeni söz)\n- əlifba (hərflər sistemi)\n- vurğu (fonetik hadisə)\n- sinonim (leksik anlayış)\n- fel (morfoloji kateqoriya)\n\nSadalanan terminlər dilçiliyin müxtəlif sahələrinə aid olan terminlərdir. Ardıcıllıq fonetika, leksikologiya, morfologiya istiqamətindədir.\n\nHəmin ardıcıllığa uyğun olaraq növbəti termin sintaksis ola bilər.\n\nOna görə də cavab: B) Sintaksis\n\nCavabın əsaslandırılması:\n- Neologizm (leksikologiya)\n- Əlifba (fonetika)\n- Vurğu (fonetika)\n- Sinonim (leksikologiya)\n- Fel (morfologiya)\n- Sintaksis (cümlə quruluşu)",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Sözlərin mənşəyini nəzərə alaraq məntiqi ardıcıllığı tamamlayın. neologizm, əlifba, vurğu, sinonim, fel, ...\nA) bağlayıcı\nB) Sintaksis\nC) ədat\nD) intonasiya\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Sifət isimdən qabaq yoxsa sonra işlənir?",
+        "choices": [
+            "Sonra",
+            "Qabaq",
+            "Ortasında",
+            "Əlaqəsi heç yoxdur"
+        ],
+        "output": "Cavab: B (Qabaq)\n\nAzərbaycan dilində sifət adətən ismin qarşısında, yəni ismdən əvvəl işlənir. Məsələn:\n- Qırmızı alma\n- Böyük ev\n- Gözəl qız\n\nBu qayda Azərbaycan dilinin sintaktik quruluşunun əsas xüsusiyyətlərindən biridir.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Sifət isimdən qabaq yoxsa sonra işlənir?\nA) Sonra\nB) Qabaq\nC) Ortasında\nD) Əlaqəsi heç yoxdur\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Hansı kar samitin cingiltili qarşılığı yoxdur?",
+        "choices": [
+            "L",
+            "H",
+            "J",
+            "K"
+        ],
+        "output": "Cavab: D (K)\n\nAçıqlama:\nAzərbaycan dilinin samitlər sistemində k samiti kar samitdir və onun cingiltili qarşılığı (g) mövcuddur. Lakin digər samitlərin də kar və cingiltili qarşılıqları vardır:\n\n- p (kar) - b (cingiltili)\n- t (kar) - d (cingiltili)\n- s (kar) - z (cingiltili)\n\nK samitinin cingiltili qarşılığı olan g samiti olduğu üçün, bu sualın cavabı D bəndidir.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Hansı kar samitin cingiltili qarşılığı yoxdur?\nA) L\nB) H\nC) J\nD) K\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Biri sifətdən düzəlmiş feldir:",
+        "choices": [
+            "Sözləş",
+            "Bədbinləş",
+            "Vidalaş",
+            "Dilləş"
+        ],
+        "output": "Cavab: B\n\nAçıqlama:\n- \"Bədbinləş\" sifətdən düzəlmiş feldir. \"Bədbinləşmək\" o deməkdir ki, biri bədbinlik keçirir, kədərlənir.\n- Digər variantlar:\n  - \"Sözləş\" - isim əsaslı fel\n  - \"Vidalaş\" - isim əsaslı fel\n  - \"Dilləş\" - isim əsaslı fel\n\nSifətdən düzəlmiş fel nümunəsi kimi \"bədbinləş\" düzgün cavabdır.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Biri sifətdən düzəlmiş feldir:\nA) Sözləş\nB) Bədbinləş\nC) Vidalaş\nD) Dilləş\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "İsimlərdən birinin kökü sifətdir:",
+        "choices": [
+            "qışlaq",
+            "önlük",
+            "müəllimlik",
+            "yaylaq"
+        ],
+        "output": "Cavab: B (önlük)\n\nAçıqlama:\n- \"Önlük\" sözünün kökü olan \"ön\" sifətdir.\n- Digər sözlərin kökləri isə:\n  * \"Qışlaq\" - \"qış\" isimdir\n  * \"Müəllimlik\" - \"müəllim\" isimdir\n  * \"Yaylaq\" - \"yay\" isimdir\n\nOna görə də \"önlük\" sözünün kökü sifət olduğundan düzgün cavab B bəndidir.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: İsimlərdən birinin kökü sifətdir:\nA) qışlaq\nB) önlük\nC) müəllimlik\nD) yaylaq\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Hansı feli cümlədə işlətsəniz həmin cümlənin mübtədası olmayacaq?",
+        "choices": [
+            "bildirildi",
+            "yazışdı",
+            "kömək edildi",
+            "göründü"
+        ],
+        "output": "Cavab: C) kömək edildi\n\nAçıqlama:\nMəchul növ fellərdə mübtəda olmur. Məchul növ felin əsas xüsusiyyəti budur ki, hərəkəti kim yerinə yetirir bilinmir. \"Kömək edildi\" felində hərəkəti kim etdiyi göstərilmir, ona görə də bu cümlənin mübtədası olmayacaq.\n\nDigər variantların izahı:\nA) \"Bildirildi\" - məchul feldir, mübtəda olmaz\nB) \"Yazışdı\" - qarşılıq-birgəlik feldir, mübtədası olacaq\nD) \"Göründü\" - qayıdış felidir, mübtədası olacaq\n\nOna görə də düzgün cavab C variantıdır.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Hansı feli cümlədə işlətsəniz həmin cümlənin mübtədası olmayacaq?\nA) bildirildi\nB) yazışdı\nC) kömək edildi\nD) göründü\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Xırdaca sözü sifətin hansı dərəcəsindədir:",
+        "choices": [
+            "azaltma",
+            "çoxaltma",
+            "adi",
+            "yüksəltmə"
+        ],
+        "output": "Cavab: A\n\nAçıqlama:\n\"Xırdaca\" sözü sifətin azaltma dərəcəsini ifadə edir. Azaltma dərəcəsi kiçiltmə, zəifləmə mənasını verən sifət formasıdır. Bu formada söz həmin əlamətə malik olduğunu, lakin az dərəcədə göstərir.\n\nMəsələn:\n- Xırdaca (çox kiçik)\n- Nazikcə (çox nazik)\n- Yumşaqca (bir qədər yumşaq)\n\nBu cür sözlər azaltma dərəcəsinin tipik nümunələridir.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Xırdaca sözü sifətin hansı dərəcəsindədir:\nA) azaltma\nB) çoxaltma\nC) adi\nD) yüksəltmə\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Hansı nümunədə isim mənsubiyyətə görə dəyişmişdir",
+        "choices": [
+            "hissim",
+            "vərəqdən",
+            "evdədir",
+            "oğulam"
+        ],
+        "output": "Cavab: A\n\nİzah: \n\"Hissim\" sözündə isim mənsubiyyət şəkilçisi qəbul etmişdir. Burada \"his\" kökünə məxsusluq bildirən \"-im\" şəkilçisi artırılmışdır. \n\nDigər variantların izahı:\nB) \"Vərəqdən\" - hal şəkilçisi qəbul etmişdir\nC) \"Evdədir\" - yerlik hal şəkilçisi və xəbərlik şəkilçisi var\nD) \"Oğulam\" - xəbərlik şəkilçisi var\n\nMənsubiyyət şəkilçiləri sözə aid olduğunu, məxsusluğunu bildirir. Məsələn:\n- kitabım (1-ci şəxs təkdə)\n- kitabın (2-ci şəxs təkdə)\n- kitabı (3-cü şəxs təkdə)\n\nOna görə də düzgün cavab A variantıdır.",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Hansı nümunədə isim mənsubiyyətə görə dəyişmişdir\nA) hissim\nB) vərəqdən\nC) evdədir\nD) oğulam\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Vurğunun yerini dəyişməklə mənası dəyişən sözü göstərin:",
+        "choices": [
+            "axın",
+            "direktor",
+            "tərtəmiz",
+            "dərya"
+        ],
+        "output": "Cavab: B) direktor\n\nİzahat: \"Direktor\" sözündə vurğunun yeri dəyişdikdə sözün mənası dəyişir:\n- DiREKtor (vurğu ikinci hecada) - rəhbər, müdir\n- DirEKtor (vurğu üçüncü hecada) - başqa məna kəsb edir\n\nDigər variantlarda vurğunun yeri dəyişdikdə sözün mənası dəyişmir:\n- axın\n- tərtəmiz\n- dərya\n\nOna görə də düzgün cavab B) direktor variantıdır.",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Vurğunun yerini dəyişməklə mənası dəyişən sözü göstərin:\nA) axın\nB) direktor\nC) tərtəmiz\nD) dərya\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Mürəkkəb sözlərdən biri tərzi-hərəkət zərfidir:",
+        "choices": [
+            "qovhaqov",
+            "yanbayan",
+            "cürbəcür",
+            "vurhavur"
+        ],
+        "output": "Cavab: C\n\nİzah: \n- \"Cürbəcür\" tərzi-hərəkət zərfidirsə, digər variantlar müxtəlif növ söz birləşmələridir:\n- \"Qovhaqov\" - təqlidi söz\n- \"Yanbayan\" - yanaşı mənasında söz birləşməsi\n- \"Vurhavur\" - təqlidi söz\n\nTərzi-hərəkət zərfləri hərəkətin necə yerinə yetirilməsini bildirir. \"Cürbəcür\" də məhz bu qəbildəndir, müxtəlif şəkildə, növbənöv mənasını verir.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Mürəkkəb sözlərdən biri tərzi-hərəkət zərfidir:\nA) qovhaqov\nB) yanbayan\nC) cürbəcür\nD) vurhavur\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Görməyəsiniz sözü felin hansı şəklindədir?",
+        "choices": [
+            "arzu",
+            "lazım",
+            "əmr",
+            "vacib"
+        ],
+        "output": "Cavab: A\n\nAçıqlama:\n\"Görməyəsiniz\" sözü felin arzu şəklindədir. Arzu şəklinin əsas əlaməti \"-a/-ə\" şəkilçisidir. Bu formada fel arzunu, istəyi bildirir. Məsələn, \"Sən də görməyəsən\", \"Kaş görməyəsən\" kimi ifadələrdə arzu şəkli özünü göstərir.\n\nArzu şəklinin əsas xüsusiyyətləri:\n- Şəxsə görə dəyişir\n- Arzunu, istəyi bildirir\n- Şəkilçisi -a/-ə şəklindədir\n\nOna görə də \"Görməyəsiniz\" sözü felin arzu şəklidir.",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Görməyəsiniz sözü felin hansı şəklindədir?\nA) arzu\nB) lazım\nC) əmr\nD) vacib\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Aşağıdakılardan hansı cümlədə başqa nitq hissələrini əvəz edir?",
+        "choices": [
+            "say",
+            "əvəzlik",
+            "fel",
+            "sifət"
+        ],
+        "output": "Cavab: B (əvəzlik)\n\nƏvəzlik digər nitq hissələrinin yerini əvəz edə bilən söz növüdür. Məsələn:\n- O kitabı oxuyur. (əvəzlik ismin yerini əvəz edir)\n- Bu gözəldir. (əvəzlik sifətin yerini əvəz edir)\n- Hansı gedəcək? (əvəzlik felin yerini əvəz edə bilir)\n\nOna görə də əvəzlik başqa nitq hissələrini əvəz edə bilən söz növüdür.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Aşağıdakılardan hansı cümlədə başqa nitq hissələrini əvəz edir?\nA) say\nB) əvəzlik\nC) fel\nD) sifət\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Qeyri təyini söz birləşməsini tapın",
+        "choices": [
+            "Daş ürək",
+            "Səndən qabaq",
+            "Ev qapısı",
+            "Dağdan uca"
+        ],
+        "output": "Cavab: B) Səndən qabaq\n\nAçıqlama:\nQeyri-təyini söz birləşməsi əvəzlik və zərflə qurulur. \"Səndən qabaq\" birləşməsi əvəzlik (səndən) və zərfdən (qabaq) ibarət olduğu üçün qeyri-təyini söz birləşməsidir.\n\nDigər variantların izahı:\nA) Daş ürək - təyini söz birləşməsi\nC) Ev qapısı - təyini söz birləşməsi\nD) Dağdan uca - zərflik budaq cümləsi",
+        "answer": "D",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Qeyri təyini söz birləşməsini tapın\nA) Daş ürək\nB) Səndən qabaq\nC) Ev qapısı\nD) Dağdan uca\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Hansı bənddə yalnız toplu isimlər verilib?",
+        "choices": [
+            "meşə, camaat",
+            "camaat, ilxı",
+            "xalq, yaşıl",
+            "kitab, sürü"
+        ],
+        "output": "Cavab: B\n\nToplu isimlər müəyyən bir çoxluğu, qrupu, yığını bildirən isimlərdir. Verilən cavab variantlarında:\n\nA) \"meşə\" adi isimdir, \"camaat\" toplu isimdir.\nB) \"camaat\" və \"ilxı\" hər ikisi toplu isimdir.\nC) \"xalq\" toplu isimdir, \"yaşıl\" sifətdir.\nD) \"kitab\" adi isimdir, \"sürü\" toplu isimdir.\n\nOna görə də B variantı düzgün cavabdır, çünki bu variantda yalnız toplu isimlər (\"camaat\" və \"ilxı\") verilmişdir.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Hansı bənddə yalnız toplu isimlər verilib?\nA) meşə, camaat\nB) camaat, ilxı\nC) xalq, yaşıl\nD) kitab, sürü\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Sifətin biri feldən düzəldilmişdir.",
+        "choices": [
+            "kefcil",
+            "əzgin",
+            "dadlı",
+            "əzabkeş"
+        ],
+        "output": "Cavab: B\n\nAçıqlama:\n- \"Əzgin\" sifəti feldən düzəlmiş sifətdir. Bu söz \"əzmək\" felindən yaranmışdır.\n- \"Kefcil\" sifəti isim əsaslı sözdür\n- \"Dadlı\" sifəti isim əsaslı sözdür\n- \"Əzabkeş\" sifəti isim əsaslı sözdür\n\nOna görə də düzgün cavab B bəndidir.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Sifətin biri feldən düzəldilmişdir.\nA) kefcil\nB) əzgin\nC) dadlı\nD) əzabkeş\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Hansı bənddə işarə əvəzliyi verilmişdir?",
+        "choices": [
+            "Kimsə",
+            "Bütün",
+            "Elə",
+            "Mən"
+        ],
+        "output": "Cavab: C\n\nAçıqlama:\n\"Elə\" işarə əvəzliyidir. İşarə əvəzlikləri müəyyən bir əşyaya, şəxsə və ya anlayışa işarə edən əvəzliklərdir. \"Elə\" sözü də bu qəbildəndir.\n\nDigər variantların izahı:\nA) \"Kimsə\" qeyri-müəyyən əvəzlikdir\nB) \"Bütün\" kəmiyyət bildirən sözdür\nD) \"Mən\" şəxs əvəzliyidir",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Hansı bənddə işarə əvəzliyi verilmişdir?\nA) Kimsə\nB) Bütün\nC) Elə\nD) Mən\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Hansı mürəkkəb addır?",
+        "choices": [
+            "heç biri",
+            "Səməd",
+            "çalışqan",
+            "yağsız"
+        ],
+        "output": "Sual: Hansı mürəkkəb addır?\n\nCavab: A) heç biri\n\nİzah: Mürəkkəb ad iki və ya daha çox sözün birləşməsindən əmələ gələn addır. Verilmiş variantlardan:\n\n- \"Səməd\" sadə addır\n- \"çalışqan\" sifətdir\n- \"yağsız\" düzəltmə sözdür\n- \"heç biri\" isə söz birləşməsidir\n\nOna görə də düzgün cavab A) heç biridir.",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Hansı mürəkkəb addır?\nA) heç biri\nB) Səməd\nC) çalışqan\nD) yağsız\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Tərkibində yalnız dodaqlanan qalın saitlər işlənən sözü göstərin.",
+        "choices": [
+            "Ürək",
+            "Qoşun",
+            "Kitab",
+            "Kömür"
+        ],
+        "output": "Cavab: D (Kömür)\n\nSözün tərkibindəki saitlər:\n- ö (dodaqlanan qalın sait)\n- ü (dodaqlanan incə sait)\n\nDigər sözlərin saitləri:\n- Ürək: ü (dodaqlanan incə sait), ə (dodaqlanmayan incə sait)\n- Qoşun: o (dodaqlanan qalın sait), u (dodaqlanan qalın sait)\n- Kitab: i (dodaqlanmayan incə sait), a (dodaqlanmayan qalın sait)\n\nYalnız \"Kömür\" sözündə tərkibdə dodaqlanan qalın sait (ö) vardır.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Tərkibində yalnız dodaqlanan qalın saitlər işlənən sözü göstərin.\nA) Ürək\nB) Qoşun\nC) Kitab\nD) Kömür\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Məlum növün neçə əlaməti olur?",
+        "choices": [
+            "6",
+            "7",
+            "1",
+            "3"
+        ],
+        "output": "Cavab: C\n\nMəlum növ fellərin əsas əlaməti 1 ədəddir. Məlum növ felin ən sadə formasıdır. Bu növdə fel birbaşa subyekt tərəfindən icra olunur və heç bir əlavə qrammatik əlamət tələb olunmur.\n\nMəsələn:\n- Oxuyur\n- Yazır\n- Gəlir\n\nBu cür fellərdə heç bir əlavə şəkilçi və ya dəyişiklik olmur, fel birbaşa subyektin hərəkətini bildirir.",
+        "answer": "D",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Məlum növün neçə əlaməti olur?\nA) 6\nB) 7\nC) 1\nD) 3\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Biri ahəng qanununa tabedir?",
+        "choices": [
+            "Atəş",
+            "Kitab",
+            "Mişar",
+            "Vurğu"
+        ],
+        "output": "Cavab: A\n\nAçıqlama:\n\"Atəş\" sözü Azərbaycan dilinin ahəng qanununa tabedir. Belə ki, sözün sonundakı \"ş\" səsindən əvvəlki \"ə\" saitinin qarşısında yenə də incə saitli şəkilçi işlənir. Məsələn, \"Atəşdə\", \"Atəşə\" kimi.\n\nDigər variantlara gəldikdə:\n- \"Kitab\" ərəb mənşəli söz olduğundan ahəng qanununa tam olaraq tabe deyil.\n- \"Mişar\" alınma sözdür.\n- \"Vurğu\" isə qrammatik termin olub, ahəng qanunu ilə əlaqəsi yoxdur.\n\nOna görə də düzgün cavab A variantıdır.",
+        "answer": "D",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Biri ahəng qanununa tabedir?\nA) Atəş\nB) Kitab\nC) Mişar\nD) Vurğu\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Sifət kim sualına cavab verərsə, hansı xüsusiyyəti daşıyar?",
+        "choices": [
+            "İsimə aid olar",
+            "Təyin olur",
+            "Miqdar bildirir",
+            "İsimləşər"
+        ],
+        "output": "Cavab: B\n\nSifət kim sualına cavab verərsə, təyin olur. Sifət əşyanın, şəxsin keyfiyyətini, xüsusiyyətini bildirən söz növüdür. Məsələn:\n\n- Ağıllı adam (kim? - ağıllı)\n- Gözəl qız (kim? - gözəl)\n- Qırmızı alma (nə? - qırmızı)\n\nSifət ismin keyfiyyətini, əlamətini bildirir və adətən kim? nə? suallarına cavab verir. Əsas xüsusiyyəti təyinedici olmaqdır.\n\nDigər variantların izahı:\nA) İsimə aid olmaq - yanlışdır\nC) Miqdar bildirmək - sayların funksiyasıdır\nD) İsimləşmək - sifətin başqa bir xüsusiyyətidir\n\nOna görə də düzgün cavab B variantıdır.",
+        "answer": "D",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Sifət kim sualına cavab verərsə, hansı xüsusiyyəti daşıyar?\nA) İsimə aid olar\nB) Təyin olur\nC) Miqdar bildirir\nD) İsimləşər\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Danışanın hiss və həyəcanını ifadə edən nitq hissəsinə nə deyilir?",
+        "choices": [
+            "Qoşma",
+            "Nida",
+            "Zərf",
+            "Ədat"
+        ],
+        "output": "Cavab: B) Nida\n\nİzah: Nida danışanın müxtəlif hiss-həyəcanını, emosional vəziyyətini ifadə edən nitq hissəsidir. Nidalar sevinc, kədər, təəccüb, qəzəb, çağırış kimi duyğuları bildirən sözlərdir. Məsələn: \"Ah!\", \"Vay!\", \"Ey!\", \"Of!\" və s.\n\nNidalar cümlədə müstəqil üzvlük funksiyası daşımır, yalnız danışanın emosional münasibətini bildirir.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Danışanın hiss və həyəcanını ifadə edən nitq hissəsinə nə deyilir?\nA) Qoşma\nB) Nida\nC) Zərf\nD) Ədat\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Hansı söz ahəng qanununa tabe deyil?",
+        "choices": [
+            "qardaş",
+            "yağış",
+            "mahir",
+            "qayçı"
+        ],
+        "output": "Cavab: C\n\nİzah: \n- Ahəng qanunu Azərbaycan dilinin əsas qrammatik qanunlarından biridir. Bu qanuna görə, sözlərdə saitlər bir-birinə uyğun olmalıdır.\n\n- \"Mahir\" sözü ərəb mənşəli olduğu üçün ahəng qanununa tabe deyil. Bu söz dilimizə başqa dildən keçdiyi üçün özünəməxsus tələffüzə malikdir.\n\n- Digər variantlar:\n  * \"Qardaş\" - ahəng qanununa tabe olan Azərbaycan sözüdür\n  * \"Yağış\" - ahəng qanununa tabe olan Azərbaycan sözüdür\n  * \"Qayçı\" - ahəng qanununa tabe olan Azərbaycan sözüdür\n\nOna görə də \"mahir\" sözü ahəng qanununa tabe olmayan sözdür.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Hansı söz ahəng qanununa tabe deyil?\nA) qardaş\nB) yağış\nC) mahir\nD) qayçı\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Biri feldən düzəlmiş feldir:",
+        "choices": [
+            "göyərmək",
+            "otarmaq",
+            "qoparmaq",
+            "közərmək"
+        ],
+        "output": "Cavab: A\n\nAçıqlama:\n- \"Göyərmək\" - \"göy\" kökündən düzəlmiş feldir\n- \"Otarmaq\" - \"ot\" ismindən düzəlmiş feldir\n- \"Qoparmaq\" - \"qopar\" felindən düzəlmiş feldir\n- \"Commons\" - \"köz\" ismindən düzəlmiş feldir\n\nOna görə də, \"göyərmək\" feldən düzəlmiş feldir.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Biri feldən düzəlmiş feldir:\nA) göyərmək\nB) otarmaq\nC) qoparmaq\nD) közərmək\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Biri sadə sözdür?",
+        "choices": [
+            "ilahi",
+            "əzabkeş",
+            "laməkan",
+            "çatla"
+        ],
+        "output": "Cavab: D (çatla)\n\nAçıqlama:\n- \"İlahi\" mürəkkəb sözdür\n- \"Əzabkeş\" düzəltmə sözdür\n- \"Laməkan\" mürəkkəb sözdür\n- \"Çatla\" sadə sözdür\n\nSadə söz dedikdə, kökündən başqa heç bir şəkilçi qəbul etməyən söz nəzərdə tutulur. \"Çatla\" sözü məhz belə bir sözdür.",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Biri sadə sözdür?\nA) ilahi\nB) əzabkeş\nC) laməkan\nD) çatla\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Tabeli mürəkkəb cümlənin ən azı neçə qrammatik əsası olur?",
+        "choices": [
+            "4",
+            "5",
+            "2",
+            "1"
+        ],
+        "output": "Cavab: C\n\nTabeli mürəkkəb cümlənin ən azı 2 qrammatik əsası olur. Bu cümlə tipində bir əsas (baş) cümlə və bir və ya bir neçə budaq cümlə olur. Baş cümlə ilə budaq cümlə arasında tabe münasibəti mövcud olur.\n\nMəsələn:\n\"Mən bilirəm ki, sən çox çalışqan tələbəsən\" - bu cümlədə 2 qrammatik əsas var:\n1. \"Mən bilirəm\" (baş cümlə)\n2. \"sən çox çalışqan tələbəsən\" (budaq cümlə)\n\nOna görə də cavab C bəndidir - 2 qrammatik əsas.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Tabeli mürəkkəb cümlənin ən azı neçə qrammatik əsası olur?\nA) 4\nB) 5\nC) 2\nD) 1\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Mübtəda rolunda çıxış edən o, bu əvəzliklərindən sonra hansı köməkçi nitq hissəsi gələrsə mübtədadan sonra vergül qoyular?",
+        "choices": [
+            "qoşma",
+            "modal söz",
+            "bağlayıcı",
+            "nida"
+        ],
+        "output": "Cavab: B (modal söz)\n\nƏtraflı izah:\n- Mübtəda rolunda çıxış edən \"o\", \"bu\" əvəzliklərindən sonra modal söz gəldikdə mübtədadan sonra vergül qoyulur.\n- Modal sözlər cümlədə danışanın münasibətini, hisslərini bildirən sözlərdir.\n- Məsələn: \"O, əlbəttə, gələcəkdir\" cümləsində \"əlbəttə\" modal söz olduğu üçün vergül qoyulur.\n\nDigər variantların izahı:\n- Qoşma: Söz birləşmələrini əmələ gətirən köməkçi nitq hissəsidir.\n- Bağlayıcı: Sözləri və cümlə üzvlərini bir-birinə bağlayan köməkçi nitq hissəsidir.\n- Nida: Hiss və həyəcanı bildirən sözdür.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Mübtəda rolunda çıxış edən o, bu əvəzliklərindən sonra hansı köməkçi nitq hissəsi gələrsə mübtədadan sonra vergül qoyular?\nA) qoşma\nB) modal söz\nC) bağlayıcı\nD) nida\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Sözlərdən biri səhv yazılıb:",
+        "choices": [
+            "Tətbiq",
+            "Teorem",
+            "Təvəqqi",
+            "Tərtib"
+        ],
+        "output": "Cavab: C\n\nİzah: \n- Tətbiq - düzgün yazılış\n- Teorem - düzgün yazılış\n- Təvəqqi - səhv yazılış (düzgün yazılış \"Təvəqqe\" olmalıdır)\n- Tərtib - düzgün yazılış\n\nOna görə də siyahıdakı sözlərdən \"Təvəqqi\" səhv yazılıb.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Sözlərdən biri səhv yazılıb:\nA) Tətbiq\nB) Teorem\nC) Təvəqqi\nD) Tərtib\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Şərt şəklinin şəkilçisi;",
+        "choices": [
+            "-sa,-sə",
+            "-a,-ə",
+            "-ma,-mə",
+            "-ya,-yə"
+        ],
+        "output": "Cavab: A\n\nŞərt şəklinin şəkilçisi -sa, -sə-dir. Bu şəkilçi sözün sonuna artırılaraq şərt bildirir. Məsələn:\n- Gəlsə (gəlsə)\n- Yazsa (yazsa)\n- Oxusa (oxusa)\n\nQeyd edim ki, bu şəkilçi sözün sonundakı son saitə və son samitə görə dəyişir (yumşaq və ya sərt tələffüz olunur).",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Şərt şəklinin şəkilçisi;\nA) -sa,-sə\nB) -a,-ə\nC) -ma,-mə\nD) -ya,-yə\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Aşağıdakılardan hansı sadə isimdir?",
+        "choices": [
+            "düşüncə",
+            "bilik",
+            "sürü",
+            "səbət"
+        ],
+        "output": "Cavab: C) sürü\n\nAçıqlama:\nSadə isim dedikdə, heç bir şəkilçi qəbul etmədən, ilkin formada olan söz nəzərdə tutulur. \"Sürü\" sözü sadə isimdir, heç bir əlavə şəkilçi almamışdır.\n\nDigər variantların izahı:\nA) düşüncə - düşün (kök) + cə (şəkilçi) - düzəltmə isimdir\nB) bilik - bil (kök) + lik (şəkilçi) - düzəltmə isimdir\nD) səbət - alınma sözdür, sadə isim deyil\n\nOna görə də düzgün cavab C) sürü variantıdır.",
+        "answer": "D",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Aşağıdakılardan hansı sadə isimdir?\nA) düşüncə\nB) bilik\nC) sürü\nD) səbət\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Modal sözlər cümlədə nə kimi işlənir?",
+        "choices": [
+            "Zərflik",
+            "Ara sözlər",
+            "Təyin",
+            "Xitab"
+        ],
+        "output": "Modal sözlər cümlədə ara sözlər kimi işlənir.\n\nCavab: B\n\nƏtraflı izah:\n- Modal sözlər danışanın hadisəyə, faktlara münasibətini bildirən sözlərdir.\n- Onlar cümlənin qrammatik quruluşuna təsir etmir.\n- Cümlədə əsasən ara sözü kimi çıxış edir.\n- Məsələn: \"Güman ki, bu gün yağış yağacaq\" - cümləsində \"güman ki\" modal sözdür.\n\nSual: Modal sözlər cümlədə ara sözlər kimi işlənir.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Modal sözlər cümlədə nə kimi işlənir?\nA) Zərflik\nB) Ara sözlər\nC) Təyin\nD) Xitab\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Buradakı fellərin zamanlarını işlənmə ardıcıllığı ilə göstərin. 1. keçmiş zaman2. gələcək zaman3. indiki zamanDemərəm, Məcnunam, çölə düşmüşəm,Ya sellərə dönmüş gözlərimdə su.Ancaq çox yerlərə aparır məniSizi bircə dəfə görmək arzusu.",
+        "choices": [
+            "3,1,2",
+            "2,3,1",
+            "2,1,3",
+            "1,2,3"
+        ],
+        "output": "Bu sualın həlli üçün misradakı fellərin zamanlarını ardıcıllıqla təhlil edək:\n\n1. \"Demərəm\" - indiki zaman (şərt şəklinin indiki zamanı)\n2. \"Məcnunam\" - indiki zaman\n3. \"Düşmüşəm\" - nəqli keçmiş zaman\n4. \"Aparır\" - indiki zaman\n5. \"Görmək\" - məsdər (zaman deyil)\n\nVerilən variantlara əsasən, zamanların ardıcıllığı:\n\nA) 3, 1, 2 - indiki zaman, keçmiş zaman, indiki zaman\n\nCavab: A\n\nSual: Buradakı fellərin zamanlarını işlənmə ardıcıllığı ilə göstərin. 1. keçmiş zaman2. gələcək zaman3. indiki zamanDemərəm, Məcnunam, çölə düşmüşəm,Ya sellərə dönmüş gözlərimdə su.Ancaq çox yerlərə aparır məniSizi bircə dəfə görmək arzusu.\n\nCavab: A",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Buradakı fellərin zamanlarını işlənmə ardıcıllığı ilə göstərin. 1. keçmiş zaman2. gələcək zaman3. indiki zamanDemərəm, Məcnunam, çölə düşmüşəm,Ya sellərə dönmüş gözlərimdə su.Ancaq çox yerlərə aparır məniSizi bircə dəfə görmək arzusu.\nA) 3,1,2\nB) 2,3,1\nC) 2,1,3\nD) 1,2,3\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Hansı sait boğaz samitidir",
+        "choices": [
+            "h",
+            "ş, s, m, l",
+            "n, m, f, q",
+            "l, m, n, r"
+        ],
+        "output": "Sual: Hansı sait boğaz samitidir?\n\nBu sualda səhv var. Sait boğaz samiti anlayışı düzgün deyil. Saitlər və samitlər fərqli fonetik kateqoriyalardır:\n\n- Saitlər səs çıxararkən ağız boşluğunda maneəsiz keçən səslərdir.\n- Samitlər isə səs çıxararkən ağız boşluğunda müəyyən maneə yaradan səslərdir.\n\nVerilən cavab variantlarında da boğaz samiti yoxdur. Ona görə də bu sualın düzgün cavabı yoxdur.\n\nƏgər sual \"Hansı səs boğaz samiti hesab olunur?\" şəklində qoyulsaydı, cavab \"h\" olardı.",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Hansı sait boğaz samitidir\nA) h\nB) ş, s, m, l\nC) n, m, f, q\nD) l, m, n, r\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Hansı sözü həm mənsubiyyət şəkilçili, həm də mənsubiyyət şəkilçisiz söz kimi düşünmək olar?",
+        "choices": [
+            "qələmim",
+            "taleyim",
+            "dərdim",
+            "bağçam"
+        ],
+        "output": "Bu suala cavab vermək üçün sözlərin mənasını və quruluşunu nəzərdən keçirək:\n\nA) qələmim - bu söz mütləq mənsubiyyət şəkilçilidir (qələm + im)\n\nB) taleyim - bu söz həm mənsubiyyət şəkilçili, həm də şəkilçisiz işlənə bilər\n- Mənsubiyyət şəkilçili: Mənim taleyim belə imiş\n- Şəkilçisiz: Tale insanın əlindədir\n\nC) dərdim - bu söz daha çox mənsubiyyət şəkilçili işlənir (dərd + im)\n\nD) bağçam - bu söz əsasən mənsubiyyət şəkilçili işlənir (bağça + m)\n\nDoğru cavab B-dir (taleyim). Bu söz həm mənsubiyyət şəkilçili, həm də mənsubiyyət şəkilçisiz işlənə bilər.\n\nCavab: B",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Hansı sözü həm mənsubiyyət şəkilçili, həm də mənsubiyyət şəkilçisiz söz kimi düşünmək olar?\nA) qələmim\nB) taleyim\nC) dərdim\nD) bağçam\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Bunlardan hansı tabelilik bağlayıcısıdır?",
+        "choices": [
+            "lakin",
+            "çünki",
+            "amma",
+            "ancaq"
+        ],
+        "output": "Cavab: B (çünki)\n\nAçıqlama:\n- \"Çünki\" tabelilik bağlayıcısıdır. O, tabeli mürəkkəb cümlənin səbəb budaq cümləsini əsas cümləyə bağlayır.\n\nDigər variantlar:\n- \"Lakin\", \"amma\", \"ancaq\" əmaqli bağlayıcılardır, yəni tabesizlik bağlayıcılarıdır.\n\nNümunə:\n- Çünki hava yağışlı idi, gəzməyə çıxmadıq.\n- O, yorğun olduğuna görə, çünki evə getdi.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Bunlardan hansı tabelilik bağlayıcısıdır?\nA) lakin\nB) çünki\nC) amma\nD) ancaq\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Biri eyni zamanda həm çoxmənalı, həm də omonim söz deyil?",
+        "choices": [
+            "Bas",
+            "Üz",
+            "Tut",
+            "Boğaz"
+        ],
+        "output": "Cavab: B (Üz)\n\nƏtraflı izah:\n- \"Bas\" sözü çoxmənalı sözdür (məsələn, basmaq, basınmaq, baş vermək)\n- \"Tut\" sözü həm çoxmənalı, həm də omonim sözdür\n- \"Boğaz\" sözü çoxmənalı sözdür\n- \"Üz\" sözü isə eyni zamanda həm çoxmənalı, həm də omonim söz deyil. Ona görə də cavab B variantıdır.\n\n\"Üz\" sözünün müxtəlif mənaları:\n1. İnsanın üz hissəsi\n2. Səthin üst tərəfi\n3. Üzmək (hərəkət)\n\nBu mənalar bir-biri ilə əlaqəlidir, ona görə \"Üz\" sözü tam mənada çoxmənalı və ya omonim hesab edilmir.",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Biri eyni zamanda həm çoxmənalı, həm də omonim söz deyil?\nA) Bas\nB) Üz\nC) Tut\nD) Boğaz\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Felin necə məna növü var?",
+        "choices": [
+            "7",
+            "8",
+            "6",
+            "4"
+        ],
+        "output": "Cavab: C\n\nFelin 6 məna növü vardır:\n\n1. Məlum növ\n2. Məchul növ\n3. Qayıdış növ\n4. Qarşılıq-birgəlik növ\n5. Törəmə növ\n6. Icbar növ\n\nBu növlər felin mənasını və işləndiyini müxtəlif cür dəyişdirir.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Felin necə məna növü var?\nA) 7\nB) 8\nC) 6\nD) 4\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Hansı sifət həcm bildirir?",
+        "choices": [
+            "xırda",
+            "buynuzvari",
+            "dairəvi",
+            "yumru"
+        ],
+        "output": "Cavab: D (yumru)\n\nSual: Hansı sifət həcm bildirir? sualına cavab olaraq \"yumru\" sifəti həcm bildirən sifətdir. Həcm bildirən sifətlər əşyanın formasını, ölçüsünü göstərən sifətlərdir. \"Yumru\" sifəti də əşyanın dairəvi, topavari formasını bildirən sifətdir.\n\nDigər variantlara nəzər salsaq:\nA) \"Xırda\" - ölçü bildirən sifətdir\nB) \"Buynuzvari\" - forma bildirən sifətdir\nC) \"Dairəvi\" - forma bildirən sifətdir\nD) \"Yumru\" - həcm bildirən sifətdir\n\nOna görə də düzgün cavab D variantıdır.",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Hansı sifət həcm bildirir?\nA) xırda\nB) buynuzvari\nC) dairəvi\nD) yumru\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Fərdi üslubun təzahürünə ən az imkan yaradan üslub hansıdır?",
+        "choices": [
+            "publisistik",
+            "bədii",
+            "elmi",
+            "rəsmi-işgüzar"
+        ],
+        "output": "Cavab: D) Rəsmi-işgüzar üslub\n\nİzahat:\nRəsmi-işgüzar üslub daha çox standart, qəlibləşmiş ifadələrdən istifadə edilən bir üslubdur. Bu üslubda:\n\n1. Dil maksimum dəqiq, aydın və qısa olmalıdır\n2. Emosional ifadələrə yer verilmir\n3. Şəxsi fərdi üslub demək olar ki, yoxdur\n4. Sənədləşdirmə, rəsmi yazışmalar üçün nəzərdə tutulub\n5. Standart formullar, klişelər üstünlük təşkil edir\n\nDigər üslublarla müqayisədə rəsmi-işgüzar üslub fərdi yaradıcılığa ən az imkan verən üslubdur. Buna görə də cavab D bəndidir.",
+        "answer": "D",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Fərdi üslubun təzahürünə ən az imkan yaradan üslub hansıdır?\nA) publisistik\nB) bədii\nC) elmi\nD) rəsmi-işgüzar\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Felin lazım şəklinin şəkilçisi hansıdır?",
+        "choices": [
+            "-ma, -mə",
+            "-malı, -məli",
+            "-ası, -əsi",
+            "-dır, -dir"
+        ],
+        "output": "Cavab: B\n\nFelin lazım şəklinin şəkilçisi -malı, -məli şəkilçisidir. Bu şəkilçi feilə əlavə olunduqda hərəkətin zəruriliyi, vacibliyi bildirilir. Məsələn:\n- Oxumalısan\n- Getməlisən\n- Yazmalıyam\n\nQeyd edim ki, digər variantların izahı belədir:\nA) -ma, -mə inkar şəkilçisidir\nC) -ası, -əsi təsirlik şəkli üçün istifadə olunur\nD) -dır, -dir xəbərlik şəkilçisidir",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Felin lazım şəklinin şəkilçisi hansıdır?\nA) -ma, -mə\nB) -malı, -məli\nC) -ası, -əsi\nD) -dır, -dir\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Sözlərdən hansını həm sadə, həm də düzəltmə fel kimi düşünmək olar?",
+        "choices": [
+            "saxlamaq",
+            "yaxalamaq",
+            "anlamaq",
+            "yırğalamaq"
+        ],
+        "output": "Bu suala cavab vermək üçün sözlərin kökünə və yaranma prosesinə diqqət yetirmək lazımdır.\n\nA) saxlamaq - bu söz \"sax\" kökündən düzəlmiş feldir. \"Sax\" kökü müstəqil mənada işlənmir, ona görə bu fel düzəltmə feldir.\n\nB) yaxalamaq - \"yaxala\" kökü \"yaxalamaq\" felindən əmələ gəlib, düzəltmə feldir.\n\nC) anlamaq - \"an\" kökü müstəqil mənada işlənə bilir (başa düşmək, dərk etmək mənasında), həm də fel kimi işlənə bilir. Ona görə bu fel həm sadə, həm də düzəltmə fel kimi qəbul edilə bilər.\n\nD) yırğalamaq - bu fel düzəltmə feldir, \"yırğa\" kökü müstəqil mənada işlənmir.\n\nBeləliklə, düzgün cavab C) anlamaq variantıdır.\n\nCavab: C",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Sözlərdən hansını həm sadə, həm də düzəltmə fel kimi düşünmək olar?\nA) saxlamaq\nB) yaxalamaq\nC) anlamaq\nD) yırğalamaq\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Təəccüb bildirən nidalar hansılardır?",
+        "choices": [
+            "bəh-bəh",
+            "ay can-ay can",
+            "paho, oxqay",
+            "bıy, ah"
+        ],
+        "output": "Sual: Təəccüb bildirən nidalar hansılardır?\n\nDüzgün cavab: A) bəh-bəh\n\nİzah:\n- \"Bəh-bəh\" təəccüb, heyrət bildirən nidadır\n- \"Ay can-ay can\" daha çox sevinc, məmnunluq bildirir\n- \"Paho, oxqay\" təəccüb bildirmir\n- \"Bıy, ah\" təəssüf, kədər bildirən nidadır\n\nOna görə də təəccüb bildirən nida \"bəh-bəh\"dir.",
+        "answer": "D",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Təəccüb bildirən nidalar hansılardır?\nA) bəh-bəh\nB) ay can-ay can\nC) paho, oxqay\nD) bıy, ah\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Bunlardan hansı dodaqlanandır?",
+        "choices": [
+            "Ə",
+            "I",
+            "O",
+            "A"
+        ],
+        "output": "Cavab: C (O)\n\nDodaqlanan saitlər o, u, ö, ü saitləridir. Verilmiş variantlardan \"o\" dodaqlanan saitdir.\n\nƏtraflı izah:\n- Dodaqlanan saitlər ağızın dodaqlarının yuvarlaqlaşması ilə tələffüz olunur\n- o, u, ö, ü dodaqlanan saitlərdir\n- a, ə, i, e dodaqlanmayan saitlərdir\n\nOna görə də cavab C variantıdır - \"o\" dodaqlanan saitdir.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Bunlardan hansı dodaqlanandır?\nA) Ə\nB) I\nC) O\nD) A\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Fel hansı nitq hissəsi ilə ifadə olunur?",
+        "choices": [
+            "Mübtəda",
+            "Tamamlıq",
+            "Xəbər",
+            "Fel özü nitq hissəsidir"
+        ],
+        "output": "Cavab: D\n\nFel özü nitq hissəsidir. Fel hərəkət, hal-vəziyyət, iş-hərəkətin icra olunmasını bildirən nitq hissəsidir. Məsələn, \"oxumaq\", \"getmək\", \"sevmək\" və s. fellərdir.\n\nDigər variantlara gəldikdə:\nA) Mübtəda - isim, əvəzlik və ya söz birləşməsi ilə ifadə olunur\nB) Tamamlıq - cümlədə əsas hərəkətə məruz qalan əşyanı bildirir\nC) Xəbər - cümlədə mübtədaya aid olan hərəkət və ya əlaməti bildirir\n\nOna görə də düzgün cavab D variantıdır.",
+        "answer": "D",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Fel hansı nitq hissəsi ilə ifadə olunur?\nA) Mübtəda\nB) Tamamlıq\nC) Xəbər\nD) Fel özü nitq hissəsidir\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Aşağıdakı şəkilçilərdən biri feli bağlama şəkilçisi deyil",
+        "choices": [
+            "-ar...-maz",
+            "-madan",
+            "-diq",
+            "-inca"
+        ],
+        "output": "Cavab: C\n\nAçıqlama:\n- -ar...-maz: feli bağlama şəkilçisidir\n- -madan: feli bağlama şəkilçisidir\n- -diq: sifətəoxşar feli bağlama şəkilçisidir\n- -inca: feli bağlama şəkilçisidir\n\nSual şəkilçilərin növünü müəyyən etməyə yönəlmişdir. Verilən variantlardan C bəndi (-diq) feli bağlama şəkilçisi deyil, sifətəoxşar feli bağlama şəkilçisidir. Ona görə də cavab C bəndidir.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Aşağıdakı şəkilçilərdən biri feli bağlama şəkilçisi deyil\nA) -ar...-maz\nB) -madan\nC) -diq\nD) -inca\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Hansı şəkildə hərəkətin zamanı dəqiq göstərilir?",
+        "choices": [
+            "Vacib",
+            "Xəbər",
+            "Arzu",
+            "Lazım"
+        ],
+        "output": "Cavab: B (Xəbər)\n\nXəbər şəklində hərəkətin zamanı dəqiq göstərilir. Xəbər şəkli feilin baş verən, keçmiş və gələcək zamanlarda icra olunduğunu bildirir. Məsələn:\n- Mən dünən kitab oxudum. (keçmiş zaman)\n- O, indi dərs oxuyur. (indiki zaman)\n- Sabah evə gedəcəyəm. (gələcək zaman)\n\nDigər şəkillər isə hərəkətin icra olunma ehtimalını, zərurətini və ya arzusunu bildirir:\n- Vacib şəkli: hərəkətin icra olunmalı olduğunu göstərir\n- Arzu şəkli: hərəkətin arzulandığını bildirir\n- Lazım şəkli: hərəkətin zəruri olduğunu göstərir",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Hansı şəkildə hərəkətin zamanı dəqiq göstərilir?\nA) Vacib\nB) Xəbər\nC) Arzu\nD) Lazım\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Hansı sırada qalın saitlərin hamısı işlənib?",
+        "choices": [
+            "şəkil, yazı",
+            "kitab, dəftər",
+            "odun, qalın",
+            "stol, stul"
+        ],
+        "output": "Cavab: C\n\nAçıqlama:\n\"Odun\" və \"qalın\" sözlərinin hamısında qalın saitlər (o, a) işlənib. Digər variantlarda qalın saitlərin hamısı yoxdur.\n\nQalın saitlər: a, ı, o, u\nİncə saitlər: ə, i, ö, ü\n\nMəsələn:\n- \"Odun\" sözündə \"o\" qalın saitdir\n- \"Qalın\" sözündə \"a\" qalın saitdir\n\nDigər variantlarda:\n- \"Şəkil, yazı\" - incə saitlər var\n- \"Kitab, dəftər\" - qarışıq saitlər var\n- \"Stol, stul\" - qarışıq saitlər var\n\nOna görə də düzgün cavab C variantıdır.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Hansı sırada qalın saitlərin hamısı işlənib?\nA) şəkil, yazı\nB) kitab, dəftər\nC) odun, qalın\nD) stol, stul\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Bunlardan biri leksik şəkilçi deyil?",
+        "choices": [
+            "-im",
+            "-la",
+            "-las",
+            "-imsa"
+        ],
+        "output": "Cavab: D\n\nAçıqlama:\n- -im: leksik şəkilçidir (məsələn, əmək-im, iş-im)\n- -la: leksik şəkilçidir (məsələn, göz-lə, təmiz-lə)\n- -las: leksik şəkilçidir (məsələn, dost-las)\n- -imsa: qrammatik şəkilçidir\n\nOna görə də siyahıdan -imsa leksik şəkilçi deyil.\n\nSual: Leksik şəkilçilər sözün leksik mənasını dəyişir, qrammatik şəkilçilər isə sözün qrammatik funksiyasını dəyişir.",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Bunlardan biri leksik şəkilçi deyil?\nA) -im\nB) -la\nC) -las\nD) -imsa\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Birinci növ təyini söz birləşmələrindən biri sintaktik təhlil zamanı parçalanmır: 1. Yaşıl yarpaq; 2. Orta əsrlər; 3. Beş kitab; 4. Ana Vətən; 5. Yaxşı yoldaş",
+        "choices": [
+            "Yaxşı yoldaş",
+            "Beş kitab",
+            "Orta əsrlər",
+            "Yaşıl yarpaq"
+        ],
+        "output": "Cavab: C) Orta əsrlər\n\nAçıqlama:\nBirinci növ təyini söz birləşmələri iki hissədən ibarət olur: təyin edən (sifət) və təyin olunan (isim). Sintaktik təhlil zamanı bu birləşmələr adətən iki hissəyə ayrılır. \n\nLakin \"Orta əsrlər\" birləşməsi xüsusi bir termindir və bir tam kimi qəbul edilir. Bu səbəbdən sintaktik təhlil zamanı parçalanmır. \n\nDigər variantlar isə adi birinci növ təyini söz birləşmələridir və sintaktik təhlil zamanı asanlıqla parçalana bilər:\n- Yaşıl yarpaq\n- Beş kitab\n- Yaxşı yoldaş\n- Ana Vətən\n\nOna görə də düzgün cavab C) Orta əsrlər variantıdır.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Birinci növ təyini söz birləşmələrindən biri sintaktik təhlil zamanı parçalanmır: 1. Yaşıl yarpaq; 2. Orta əsrlər; 3. Beş kitab; 4. Ana Vətən; 5. Yaxşı yoldaş\nA) Yaxşı yoldaş\nB) Beş kitab\nC) Orta əsrlər\nD) Yaşıl yarpaq\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Biri türk mənşəli saydır:",
+        "choices": [
+            "milyard",
+            "həştad",
+            "min",
+            "milyon"
+        ],
+        "output": "Cavab: C (min)\n\nAçıqlama:\n- \"Min\" türk mənşəli sözdür\n- \"Milyard\", \"milyon\" alınma sözlərdir\n- \"Həştad\" (səksən) fars mənşəli sözdür\n\nSual türk mənşəli sayı soruşduğu üçün düzgün cavab \"min\" sözüdür.",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Biri türk mənşəli saydır:\nA) milyard\nB) həştad\nC) min\nD) milyon\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Felin indiki zamanı hansı şəkilçilərlə düzəlir?",
+        "choices": [
+            "Mış miş muş müş",
+            "ır ir ur ür",
+            "Dı di du dü",
+            "Acaq əcək"
+        ],
+        "output": "Cavab: B\n\nFelin indiki zamanı -ır, -ir, -ur, -ür şəkilçiləri ilə düzəlir. Məsələn:\n- Yazır (yazır)\n- Gəlir (gəlir)\n- Oxuyur (oxuyur)\n- Görür (görür)\n\nBu şəkilçilər sözün kökünə artırılaraq indiki zaman formasını yaradır.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Felin indiki zamanı hansı şəkilçilərlə düzəlir?\nA) Mış miş muş müş\nB) ır ir ur ür\nC) Dı di du dü\nD) Acaq əcək\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Nidalar quruluşca neçə cür olur?",
+        "choices": [
+            "5",
+            "6",
+            "2",
+            "3"
+        ],
+        "output": "Cavab: C\n\nNidalar quruluşca 2 cür olur:\n1. Sadə nidalar (bir sözdən ibarət olan nidalar)\n2. Düzəltmə nidalar (söz əsasında düzəldilən nidalar)\n\nMəsələn:\n- Sadə nidalar: \"Ah!\", \"Vay!\", \"Of!\"\n- Düzəltmə nidalar: \"Yaşa!\", \"Alqış!\", \"Yazıq!\"",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Nidalar quruluşca neçə cür olur?\nA) 5\nB) 6\nC) 2\nD) 3\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Fellərdən birinin vurğusunu dəyişməklə mənası dəyişmir:",
+        "choices": [
+            "yardır",
+            "ovdur",
+            "aldır",
+            "baxdır"
+        ],
+        "output": "Cavab: C\n\nİzah: \n\"Aldır\" felinin vurğusunu dəyişdikdə onun mənası dəyişmir. Bu fel \"aldırmaq\" felindən əmələ gəlmişdir və vurğunun yeri dəyişsə də, felin mənası eyni qalır.\n\nDigər variantlarda isə:\n- \"Yardır\" - vurğu dəyişərsə, mənası dəyişə bilər\n- \"Ovdur\" - vurğu dəyişərsə, mənası dəyişə bilər\n- \"Baxdır\" - vurğu dəyişərsə, mənası dəyişə bilər\n\nOna görə də düzgün cavab \"C\" variantıdır.",
+        "answer": "D",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Fellərdən birinin vurğusunu dəyişməklə mənası dəyişmir:\nA) yardır\nB) ovdur\nC) aldır\nD) baxdır\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Bağlayıcı ilə omonim olan qoşmanı göstərin.",
+        "choices": [
+            "-ca2",
+            "-dək",
+            "-la2",
+            "-can2"
+        ],
+        "output": "Cavab: B (-dək)\n\nAçıqlama:\n\"-dək\" qoşması həm qoşma, həm də bağlayıcı kimi işlənə bilir. Məsələn:\n- Qoşma kimi: Bakıya qədər (yerə görə)\n- Bağlayıcı kimi: Gəldi qədər, sevindi\n\nOna görə də \"-dək\" omonim xüsusiyyətə malik olan qoşmadır.\n\nDigər variantlar:\nA) \"-ca2\" yalnız şəkilçidir\nC) \"-la2\" qoşmadır\nD) \"-can2\" şəkilçidir\n\nCavab: B",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Bağlayıcı ilə omonim olan qoşmanı göstərin.\nA) -ca2\nB) -dək\nC) -la2\nD) -can2\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Hansı sxem vasitəsiz nitqə uyğundur?",
+        "choices": [
+            "\"v\"m",
+            "m, -V",
+            "M:V:m",
+            "M:\"V!\"-m"
+        ],
+        "output": "Cavab: D\n\nVasitəsiz nitqin ümumi sxemi adətən belə olur: M: \"V\" - m\n\nBurada:\nM - müəllif\nV - vasitəsiz nitq (birbaşa söylənən cümlə)\nm - müəllif sözü\n\nMəsələn: Müəllim dedi: \"Dərsə hazır olun!\" - o, ciddi şəkildə bildirdi.\n\nVerilən cavab variantları içərisində D variantı (M:\"V!\"-m) bu sxemə ən yaxın olanıdır. Burada \"!\" işarəsi də nitqin emosional çalarını göstərir.\n\nDigər variantlar ya tam yanlışdır, ya da vasitəsiz nitqin sxeminə uyğun gəlmir.",
+        "answer": "D",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Hansı sxem vasitəsiz nitqə uyğundur?\nA) \"v\"m\nB) m, -V\nC) M:V:m\nD) M:\"V!\"-m\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Biri sual əvəzliyi deyil?",
+        "choices": [
+            "Necə",
+            "Axı",
+            "Hansı",
+            "Nə vaxt"
+        ],
+        "output": "Sual: Biri sual əvəzliyi deyil?\nA) Necə\nB) Axı\nC) Hansı\nD) Nə vaxt\n\nCavab: B\n\nAçıqlama:\n- Necə - sual əvəzliyidir\n- Hansı - sual əvəzliyidir\n- Nə vaxt - sual əvəzliyidir\n- Axı - bağlayıcı və ya modal sözdür, sual əvəzliyi deyil\n\nOna görə də cavab B-dir (Axı).",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Biri sual əvəzliyi deyil?\nA) Necə\nB) Axı\nC) Hansı\nD) Nə vaxt\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "İsmin neçə halı həm müəyyən,həm də qeyri-müəyyən ola bilər?",
+        "choices": [
+            "2",
+            "1",
+            "4",
+            "5"
+        ],
+        "output": "Cavab: A (2)\n\nİzah: Azərbaycan dilində ismin 6 halı var: \n1. Adlıq hal\n2. Yiyəlik hal\n3. Yönlük hal\n4. Təsirlik hal\n5. Yerlik hal\n6. Çıxışlıq hal\n\nBunlardan yiyəlik hal (məs: kitabın) və təsirlik hal (məs: kitabı) həm müəyyən, həm də qeyri-müəyyən ola bilər. Ona görə də cavab 2-dir.\n\nMəsələn:\n- Müəyyən: Kitabın rəngi (konkret kitab)\n- Qeyri-müəyyən: Kitabın rəngi (ümumi kitab)\n\nOna görə də düzgün cavab A bəndidir.",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: İsmin neçə halı həm müəyyən,həm də qeyri-müəyyən ola bilər?\nA) 2\nB) 1\nC) 4\nD) 5\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Bu sözlərdən biri mətn daxilində termin kimi işlənə bilər:",
+        "choices": [
+            "gah",
+            "gec",
+            "gen",
+            "gün"
+        ],
+        "output": "Cavab: C (gen)\n\nİzahat:\n- \"Gen\" termini biologiyada irsi məlumatların daşıyıcısı kimi işlənə bilər. \n- Digər sözlər (gah, gec, gün) ümumi leksik vahidlərdir.\n- \"Gen\" elmi termin kimi mətn daxilində istifadə oluna bilər.\n\nMəsələn: \"Gen mutasiyası orqanizmin inkişafına təsir edə bilər.\"\n\nDigər variantların izahı:\n- \"Gah\" zaman zərfi\n- \"Gec\" zaman zərfi\n- \"Gün\" isim\n- \"Gen\" isə elmi termin kimi də işlənə bilər",
+        "answer": "C",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Bu sözlərdən biri mətn daxilində termin kimi işlənə bilər:\nA) gah\nB) gec\nC) gen\nD) gün\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Hansı sözdə bitişdirici samit işlənib?",
+        "choices": [
+            "Səlimin",
+            "körpünün",
+            "körpülərin",
+            "əlcəyin"
+        ],
+        "output": "Cavab: A\n\nSəlimin sözündə \"m\" bitişdirici samit kimi işlənir. Bitişdirici samitlər mürəkkəb sözlərdə və söz birləşmələrində sözləri bir-birinə bağlamaq üçün işlənən samitlərdir. Bu misalda \"Səlim\" şəxs adının yiyəlik halında işlənməsi zamanı bitişdirici \"m\" samiti ortaya çıxır.\n\nDigər variantlarda:\nB) körpünün - bitişdirici samit yoxdur\nC) körpülərin - bitişdirici samit yoxdur\nD) əlcəyin - bitişdirici samit yoxdur",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Hansı sözdə bitişdirici samit işlənib?\nA) Səlimin\nB) körpünün\nC) körpülərin\nD) əlcəyin\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Fel hansı cümlə üzvü ilə ifadə olunur?",
+        "choices": [
+            "Təyin",
+            "Zərflik",
+            "Tamamlıq",
+            "Xəbər"
+        ],
+        "output": "Cavab: D\n\nFel cümlənin xəbər üzvü ilə ifadə olunur. Xəbər cümlədə baş üzv hesab olunur və əsasən fel, yaxud fel formasında olan söz tərəfindən ifadə edilir. Fel hərəkət, hal-vəziyyət, proses bildirən söz olub, cümlədə baş üzv kimi çıxış edir.\n\nSualın digər variantları yanlışdır:\n- Təyin sifətlə ifadə olunur\n- Zərflik zərflə ifadə olunur\n- Tamamlıq isə adlıq, yönlük, təsirlik kimi hallarda olan isimlərlə ifadə olunur",
+        "answer": "D",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Fel hansı cümlə üzvü ilə ifadə olunur?\nA) Təyin\nB) Zərflik\nC) Tamamlıq\nD) Xəbər\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Biri ümumi isim deyil:",
+        "choices": [
+            "Çay",
+            "Pərviz",
+            "ölkə",
+            "Şəhər"
+        ],
+        "output": "Cavab: B (Pərviz)\n\nAçıqlama:\n- Ümumi isimlər ümumi anlayışları, əşyaları, varlıqları bildirən söz növüdür.\n- Xüsusi isimlər isə konkret bir varlığa, şəxsə, yerə aid olan söz növüdür.\n- Pərviz şəxs adı olduğu üçün xüsusi isimdir.\n- Digər variantlar (Çay, ölkə, Şəhər) ümumi isimlərdir.\n\nOna görə də cavab B variantıdır - Pərviz.",
+        "answer": "B",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Biri ümumi isim deyil:\nA) Çay\nB) Pərviz\nC) ölkə\nD) Şəhər\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Aşağıdakı suallardan hansı təsdiqdədir",
+        "choices": [
+            "Verəndə",
+            "Oxumayanda",
+            "Bilməyəndə",
+            "Düzəltməyəndə"
+        ],
+        "output": "Cavab: A\n\nSual: Aşağıdakı suallardan hansı təsdiqdədir, yəni müsbət məzmunludur. Verilən variantlardan \"Verəndə\" sözü təsdiq formasındadır. Digər variantlar inkar formasındadır (oxumayanda, bilməyəndə, düzəltməyəndə).\n\nQrammatik izah:\n- \"Verəndə\" - təsdiq formasında olan şərt budaq cümləsidir\n- \"Oxumayanda\" - inkar formasında şərt budaq cümləsidir\n- \"Bilməyəndə\" - inkar formasında şərt budaq cümləsidir\n- \"Düzəltməyəndə\" - inkar formasında şərt budaq cümləsidir\n\nOna görə də cavab A variantıdır.",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Aşağıdakı suallardan hansı təsdiqdədir\nA) Verəndə\nB) Oxumayanda\nC) Bilməyəndə\nD) Düzəltməyəndə\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Hansı sözdə vurğu son hecaya düşmür.",
+        "choices": [
+            "feyxoa",
+            "siqnal",
+            "nurani",
+            "məktəb"
+        ],
+        "output": "Cavab: B) siqnal\n\nAçıqlama:\n- Azərbaycan dilinin vurğu qaydalarına görə, adətən vurğu sözün son hecasına düşür.\n- Lakin bəzi alınma sözlərdə vurğu müxtəlif hecalara düşə bilir.\n- \"Siqnal\" sözündə vurğu ikinci hecadadır (siq-NAL), son hecaya düşmür.\n- Digər variantlarda:\n  * feyxoa - son hecada vurğu\n  * nurani - son hecada vurğu\n  * məktəb - son hecada vurğu\n\nOna görə də düzgün cavab B) siqnal variantıdır.",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Hansı sözdə vurğu son hecaya düşmür.\nA) feyxoa\nB) siqnal\nC) nurani\nD) məktəb\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Aşağıdakılardan hansı cümlənin baş üzvüdür:",
+        "choices": [
+            "mübtəda",
+            "təyin",
+            "tamamlıq",
+            "modal söz"
+        ],
+        "output": "Cavab: A) mübtəda\n\nİzah: Cümlənin baş üzvləri mübtəda və xəbərdir. Mübtəda cümlənin baş üzvlərindən biridir ki, iş, hal və ya hərəkətin kimə aid olduğunu bildirir. Məsələn, \"Tələbə dərsə gedir\" cümləsində \"tələbə\" mübtədadır.\n\nDigər variantların izahı:\nB) Təyin - cümlə üzvü, sifət və ya ismi izah edən sözdür\nC) Tamamlıq - felə aid olan əşyanı bildirən ikinci dərəcəli üzvdür\nD) Modal söz - cümləyə müəyyən münasibət bildirən sözdür\n\nOna görə də düzgün cavab A) mübtədadır.",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Aşağıdakılardan hansı cümlənin baş üzvüdür:\nA) mübtəda\nB) təyin\nC) tamamlıq\nD) modal söz\n\nCavab: "
+    },
+    {
+        "description": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "question": "Qoşmalardan biri səbəb-məqsəd mənasını ifadə edir:",
+        "choices": [
+            "ötrü",
+            "tək",
+            "sonra",
+            "kimi"
+        ],
+        "output": "Cavab: A\n\nQoşmalardan \"ötrü\" səbəb-məqsəd mənasını ifadə edir. Məsələn:\n- Oxumaq ötrü kitab aldım.\n- Səni ötrü darıxıram.\n\nBu cümlələrdə \"ötrü\" qoşması səbəb-məqsəd mənasını bildirir.\n\nDigər variantlar:\n- \"tək\" - bərabərlik, oxşarlıq\n- \"sonra\" - zaman\n- \"kimi\" - bənzətmə, müqayisə",
+        "answer": "A",
+        "system": "Sual: Sifətin neçə müqayisə dərəcəsi var?\nA) 3\nB) 2\nC) 9\nD) 5\n\nCavab: A\n\nSual: Qrammatika hansı yerlərə ayrılır?\nA) Fonetika və Morfologiya\nB) Morfologiya və Sintaksis\nC) Fonetika və Leksikologiya\nD) Leksikologiya və Fonetika\n\nCavab: B\n\nSual: Gülüşmək hansı növ feldir?\nA) qarşılıq-birgəlik\nB) məchul\nC) məlum\nD) qayıdış\n\nCavab: A\n\nSual: Biri alınma söz deyil.\nA) mədəniyyət\nB) Allah\nC) ana\nD) futbol\n\nCavab: C\n\nSual: Arzu şəklinin şəkilçisi:\nA) a ə\nB) ma mə\nC) maq mək\nD) yoxdur\n\nCavab: A\n\n",
+        "input": "Sual: Qoşmalardan biri səbəb-məqsəd mənasını ifadə edir:\nA) ötrü\nB) tək\nC) sonra\nD) kimi\n\nCavab: "
+    }
+]
