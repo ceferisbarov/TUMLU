@@ -10,32 +10,16 @@ import google.generativeai as genai
 from tqdm import tqdm
 from dotenv import load_dotenv
 
-from utils import shuffle_choices, FEW_SHOT_PROMPTS, TEST_PROMPTS, format_question
+from utils import MODEL_NAMES, FEW_SHOT_PROMPTS, TEST_PROMPTS, ANSWER_DICT, format_question, shuffle_choices
 
 load_dotenv(".env")
-MODEL_NAMES = [
-    # "claude-3-5-sonnet-v2@20241022", # testing claude@Vertex AI vs claude@Anthropic
-    # "claude-3-5-haiku@20241022", # testing claude@Vertex AI vs claude@Anthropic
-    "claude-3-5-sonnet-20241022",
-    "claude-3-5-haiku-20241022",
-    "gpt-4o-2024-11-20",
-    "Qwen/Qwen2.5-7B-Instruct",
-    "Qwen/Qwen2.5-72B-Instruct",
-    "meta-llama/Meta-Llama-3.1-8B-Instruct",
-    "meta-llama/Meta-Llama-3.1-70B-Instruct",
-    "meta-llama/Llama-3.3-70B-Instruct",
-    "gemini-1.5-flash",
-    # "gemini-2.0-flash-exp", # very low rate limits, ignore
-    "gemini-1.5-pro",
-    "google/gemma-2-27b-it",
-    "google/gemma-2-9b-it",
-]
 
 TEMPERATURE = 0.0
 MAX_TOKENS = 1024
 TOP_P = 1.0
 TEST_COUNT = 100
 LANGUAGE = "uzbek"
+ANSWER_KEYWORD = ANSWER_DICT[LANGUAGE]
 SUBJECT_LIST_TEST = glob(f"data/{LANGUAGE}/test/*.jsonl")  # CHANGE LANGUAGE HERE
 SUBJECT_DICT = {}
 FEW_SHOT_PROMPT = FEW_SHOT_PROMPTS[LANGUAGE]
@@ -153,7 +137,7 @@ for MODEL_NAME in MODEL_NAMES:
                         temperature=TEMPERATURE,
                         max_tokens=MAX_TOKENS,
                         top_p=TOP_P,
-                        stop=["\n\Savol:"],
+                        stop=[f"\n\{ANSWER_KEYWORD}:"],
                     )
                     output = response.choices[0].message.content.strip()
 

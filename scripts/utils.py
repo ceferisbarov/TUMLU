@@ -1,6 +1,35 @@
 import re
 import random
 
+LANGUAGES = [
+    "azerbaijani",
+    "crimean-tatar",
+    "karakalpak",
+    "kazakh",
+    "tatar",
+    "turkish",
+    "uzbek",
+    "uyghur",
+]
+
+MODEL_NAMES = [
+    # "claude-3-5-sonnet-v2@20241022", # testing claude@Vertex AI vs claude@Anthropic
+    # "claude-3-5-haiku@20241022", # testing claude@Vertex AI vs claude@Anthropic
+    "claude-3-5-sonnet-20241022",
+    "claude-3-5-haiku-20241022",
+    "gpt-4o-2024-11-20",
+    "Qwen/Qwen2.5-7B-Instruct",
+    "Qwen/Qwen2.5-72B-Instruct",
+    "meta-llama/Meta-Llama-3.1-8B-Instruct",
+    "meta-llama/Meta-Llama-3.1-70B-Instruct",
+    "meta-llama/Llama-3.3-70B-Instruct",
+    "gemini-1.5-flash",
+    # "gemini-2.0-flash-exp", # very low rate limits, ignore
+    "gemini-1.5-pro",
+    "google/gemma-2-27b-it",
+    "google/gemma-2-9b-it",
+]
+
 FEW_SHOT_PROMPTS = {
     "crimean-tatar": """Sual: {question}\n{choices}\n\nCevap: {answer}\n\n""",
     "uzbek": """Savol: {question}\n{choices}\n\nJavob: {answer}\n\n""",
@@ -9,6 +38,7 @@ FEW_SHOT_PROMPTS = {
     "karakalpak": """Soraw: {question}\n{choices}\n\nJuwap: {answer}\n\n""",
     "turkish": """Soru: {question}\n{choices}\n\nCevap: {answer}\n\n""",
     "uyghur": """سوئال: {question}\n{choices}\n\nجاۋاب: {answer}\n\n""",
+    "azerbaijani": """Sual: {question}\n{choices}\n\nCavab: {answer}\n\n""",
 }
 
 TEST_PROMPTS = {
@@ -19,9 +49,10 @@ TEST_PROMPTS = {
     "karakalpak": """Soraw: {question}\n{choices}\n\nJuwap: """,
     "turkish": """Soru: {question}\n{choices}\n\nCevap: """,
     "uyghur": """سوئال: {question}\n{choices}\n\nجاۋاب: """,
+    "azerbaijani": """Sual: {question}\n{choices}\n\nCavab: """,
 }
 
-KEYWORD_DICT = {
+ANSWER_DICT = {
     "uzbek": "Javob",
     "crimean-tatar": "Cevap",
     "tatar": "Җавап",
@@ -29,8 +60,19 @@ KEYWORD_DICT = {
     "karakalpak": "Juwap",
     "turkish": "Cevap",
     "uyghur": "جاۋاب",
+    "azerbaijani": "Cavab",
 }
 
+QUESTION_DICT = {
+    "uzbek": "Javob",
+    "crimean-tatar": "Cevap",
+    "tatar": "Җавап",
+    "kazakh": "Жауап",
+    "karakalpak": "Juwap",
+    "turkish": "Cevap",
+    "uyghur": "جاۋاب",
+    "azerbaijani": "Sual",
+}
 
 def shuffle_choices(options, answer):
     """
@@ -83,7 +125,7 @@ def find_matching_pattern(text, language):
     text = text.replace("С", "C")
     text = text.replace("Д", "D")
 
-    word = KEYWORD_DICT[language]
+    word = ANSWER_DICT[language]
     patterns = {
         "A": [r"A\)", rf"{word}: A", rf"{word} A\)", r"\*\*A\*\*"],
         "B": [r"B\)", rf"{word}: B", rf"{word} B\)", r"\*\*B\*\*"],
