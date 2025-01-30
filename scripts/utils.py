@@ -28,7 +28,7 @@ MODEL_NAMES = [
     "gemini-1.5-pro",
     "google/gemma-2-27b-it",
     "google/gemma-2-9b-it",
-    "deepseek-chat"
+    "deepseek-chat",
 ]
 
 FEW_SHOT_PROMPTS = {
@@ -82,25 +82,39 @@ SOLUTION_DICT = {
     "uzbek": "yechim",
     "crimean-tatar": "irinti",
     "tatar": "чишелеш",
-    "kazak": "шешім",
+    "kazakh": "шешім",
     "turkish": "çözüm",
     "uyghur": "ھهل",
-    "azerbaijani": "həll"
+    "azerbaijani": "həll",
 }
 
 
 def format_fewshot_prompt(language, question, choices, answer=None):
     template = "{question_keyword.title()}: {question}\n{choices}\n{answer_keyword.title()}: {answer}"
-    template_no_answer = "{question_keyword.title()}: {question}\n{choices}\n{answer_keyword.title()}: "
+    template_no_answer = (
+        "{question_keyword.title()}: {question}\n{choices}\n{answer_keyword.title()}: "
+    )
     choices_text = "\n".join(
         f"{chr(65 + i)}) {choice}" for i, choice in enumerate(choices)
     )
     question_keyword = QUESTION_DICT[language]
     answer_keyword = ANSWER_DICT[language]
     if answer:
-        return template.format(question_keyword=question_keyword, question=question, choices=choices_text, answer_keyword=answer_keyword.title(), answer=answer)
+        return template.format(
+            question_keyword=question_keyword,
+            question=question,
+            choices=choices_text,
+            answer_keyword=answer_keyword.title(),
+            answer=answer,
+        )
 
-    return template_no_answer.format(question_keyword=question_keyword, question=question, choices=choices_text, answer_keyword=answer_keyword.title())
+    return template_no_answer.format(
+        question_keyword=question_keyword,
+        question=question,
+        choices=choices_text,
+        answer_keyword=answer_keyword.title(),
+    )
+
 
 def format_CoT_prompt(language, question, choices, solution=None):
     """
@@ -108,17 +122,33 @@ def format_CoT_prompt(language, question, choices, solution=None):
     format and return the template.
     answer argument is necessary for FEW_SHOT_PROMPTS but not for TEST_PROMPTS.
     """
-    template = "{question_keyword}: {question}\n{choices}\n{solution_keyword}: {solution}"
-    template_no_solution = "{question_keyword}: {question}\n{choices}\n{solution_keyword}: "
+    template = (
+        "{question_keyword}: {question}\n{choices}\n{solution_keyword}: {solution}"
+    )
+    template_no_solution = (
+        "{question_keyword}: {question}\n{choices}\n{solution_keyword}: "
+    )
     choices_text = "\n".join(
         f"{chr(65 + i)}) {choice}" for i, choice in enumerate(choices)
     )
     question_keyword = QUESTION_DICT[language]
     solution_keyword = SOLUTION_DICT[language]
     if solution:
-        return template.format(question_keyword=question_keyword.title(), question=question, choices=choices_text, solution_keyword=solution_keyword.title(), solution=solution)
+        return template.format(
+            question_keyword=question_keyword.title(),
+            question=question,
+            choices=choices_text,
+            solution_keyword=solution_keyword.title(),
+            solution=solution,
+        )
 
-    return template_no_solution.format(question_keyword=question_keyword.title(), question=question, choices=choices_text, solution_keyword=solution_keyword.title())
+    return template_no_solution.format(
+        question_keyword=question_keyword.title(),
+        question=question,
+        choices=choices_text,
+        solution_keyword=solution_keyword.title(),
+    )
+
 
 def shuffle_choices(options, answer):
     """
@@ -174,7 +204,16 @@ def find_matching_pattern(text, language):
 
     word = ANSWER_DICT[language]
     patterns = {
-        "A": [r"A\)", rf"{word}: A", rf"{word.lower()}: A", rf"{word} A\)", rf"{word.lower()} A\)", r"\*\*A\*\*"],
+        "A": [
+            r"A\)",
+            rf"{word}: A",
+            rf"{word.lower()}: A",
+            rf"{word} A\)",
+            rf"{word.lower()} A\)",
+            rf"{word} A ",
+            rf"{word.lower()} A ",
+            r"\*\*A\*\*",
+        ],
         "B": [r"B\)", rf"{word}: B", rf"{word} B\)", r"\*\*B\*\*"],
         "C": [r"C\)", rf"{word}: C", rf"{word} C\)", r"\*\*C\*\*"],
         "D": [r"D\)", rf"{word}: D", rf"{word} D\)", r"\*\*D\*\*"],
@@ -198,6 +237,15 @@ def get_acc(data, language, normalize=False):
 
     if len(data):
         if normalize:
-            return sum(map(lambda x: int(x["prediction"] == x["answer"]) * len(x["choices"]) / 4, filtered_data)) / len(filtered_data)
-        return sum(map(lambda x: int(x["prediction"] == x["answer"]), filtered_data)) / len(filtered_data)
+            return sum(
+                map(
+                    lambda x: int(x["prediction"] == x["answer"])
+                    * len(x["choices"])
+                    / 4,
+                    filtered_data,
+                )
+            ) / len(filtered_data)
+        return sum(
+            map(lambda x: int(x["prediction"] == x["answer"]), filtered_data)
+        ) / len(filtered_data)
     return 0
