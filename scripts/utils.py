@@ -196,6 +196,8 @@ def find_matching_pattern(text, language):
     """
     Given an LLM output, matches it to A, B, C, or D.
     """
+    text = re.sub(r'\s+', ' ', text)
+    text = text.replace("*", "")
     text = text.replace("А", "A")
     text = text.replace("В", "B")
     text = text.replace("Б", "B")
@@ -212,11 +214,34 @@ def find_matching_pattern(text, language):
             rf"{word.lower()} A\)",
             rf"{word} A ",
             rf"{word.lower()} A ",
-            r"\*\*A\*\*",
         ],
-        "B": [r"B\)", rf"{word}: B", rf"{word} B\)", r"\*\*B\*\*"],
-        "C": [r"C\)", rf"{word}: C", rf"{word} C\)", r"\*\*C\*\*"],
-        "D": [r"D\)", rf"{word}: D", rf"{word} D\)", r"\*\*D\*\*"],
+        "B": [
+            r"B\)",
+            rf"{word}: B",
+            rf"{word.lower()}: B",
+            rf"{word} B\)",
+            rf"{word.lower()} B\)",
+            rf"{word} B ",
+            rf"{word.lower()} B ",
+        ],
+        "C": [
+            r"C\)",
+            rf"{word}: C",
+            rf"{word.lower()}: C",
+            rf"{word} C\)",
+            rf"{word.lower()} C\)",
+            rf"{word} C ",
+            rf"{word.lower()} C ",
+        ],
+        "D": [
+            r"D\)",
+            rf"{word}: D",
+            rf"{word.lower()}: D",
+            rf"{word} D\)",
+            rf"{word.lower()} D\)",
+            rf"{word} D ",
+            rf"{word.lower()} D ",
+        ],
     }
 
     for letter, letter_patterns in patterns.items():
