@@ -68,13 +68,13 @@ ANSWER_DICT = {
 }
 
 QUESTION_DICT = {
-    "uzbek": "Javob",
-    "crimean-tatar": "Cevap",
-    "tatar": "Җавап",
-    "kazakh": "Жауап",
-    "karakalpak": "Juwap",
-    "turkish": "Cevap",
-    "uyghur": "جاۋاب",
+    "uzbek": "Savol",
+    "crimean-tatar": "Sual",
+    "tatar": "Сорау",
+    "kazakh": "Сұрақ",
+    "karakalpak": "Soraw",
+    "turkish": "Soru",
+    "uyghur": "سوئال",
     "azerbaijani": "Sual",
 }
 
