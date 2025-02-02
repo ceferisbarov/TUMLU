@@ -15,9 +15,9 @@ LANGUAGES = [
 MODEL_NAMES = [
     # "claude-3-5-sonnet-v2@20241022", # testing claude@Vertex AI vs claude@Anthropic
     # "claude-3-5-haiku@20241022", # testing claude@Vertex AI vs claude@Anthropic
+    "gpt-4o-2024-11-20",
     "claude-3-5-sonnet-20241022",
     "claude-3-5-haiku-20241022",
-    "gpt-4o-2024-11-20",
     "Qwen/Qwen2.5-7B-Instruct",
     "Qwen/Qwen2.5-72B-Instruct",
     "meta-llama/Meta-Llama-3.1-8B-Instruct",
@@ -35,8 +35,10 @@ FEW_SHOT_PROMPTS = {
     "crimean-tatar": """Sual: {question}\n{choices}\n\nCevap: {answer}\n\n""",
     "crimean-tatar-cyrillic": """Суаль: {question}\n{choices}\n\nДжевап: {answer}\n\n""",
     "uzbek": """Savol: {question}\n{choices}\n\nJavob: {answer}\n\n""",
+    "uzbek-cyrillic": """Савол: {question}\n{choices}\n\nЖавоб: {answer}\n\n """,
     "tatar": """Сорау: {question}\n{choices}\n\nҖавап: {answer}\n\n""",
     "kazakh": """Сұрақ: {question}\n{choices}\n\nЖауап: {answer}\n\n""",
+    "kazakh-latin": """Suraq: {question}\n{choices}\n\nJawap: {answer}\n\n""",
     "karakalpak": """Soraw: {question}\n{choices}\n\nJuwap: {answer}\n\n""",
     "turkish": """Soru: {question}\n{choices}\n\nCevap: {answer}\n\n""",
     "uyghur": """سوئال: {question}\n{choices}\n\nجاۋاب: {answer}\n\n""",
@@ -47,8 +49,10 @@ TEST_PROMPTS = {
     "crimean-tatar": """Sual: {question}\n{choices}\n\nCevap: """,
     "crimean-tatar-cyrillic": """Суаль: {question}\n{choices}\n\nДжевап: """,
     "uzbek": """Savol: {question}\n{choices}\n\nJavob: """,
+    "uzbek-cyrillic": """Савол: {question}\n{choices}\n\nЖавоб: """,
     "tatar": """Сорау: {question}\n{choices}\n\nҖавап: """,
     "kazakh": """Сұрақ: {question}\n{choices}\n\nЖауап: """,
+    "kazakh-latin": """Suraq: {question}\n{choices}\n\nJawap: """,
     "karakalpak": """Soraw: {question}\n{choices}\n\nJuwap: """,
     "turkish": """Soru: {question}\n{choices}\n\nCevap: """,
     "uyghur": """سوئال: {question}\n{choices}\n\nجاۋاب: """,
@@ -57,10 +61,12 @@ TEST_PROMPTS = {
 
 ANSWER_DICT = {
     "uzbek": "Javob",
+    "uzbek-cyrillic": "Жавоб",
     "crimean-tatar": "Cevap",
     "crimean-tatar-cyrillic": "Джевап",
     "tatar": "Җавап",
     "kazakh": "Жауап",
+    "kazakh-latin": "Jawap",
     "karakalpak": "Juwap",
     "turkish": "Cevap",
     "uyghur": "جاۋاب",
@@ -69,9 +75,11 @@ ANSWER_DICT = {
 
 QUESTION_DICT = {
     "uzbek": "Savol",
+    "uzbek-cyrillic": "Савол",
     "crimean-tatar": "Sual",
     "tatar": "Сорау",
     "kazakh": "Сұрақ",
+    "kazakh-latin": "Suraq",
     "karakalpak": "Soraw",
     "turkish": "Soru",
     "uyghur": "سوئال",
@@ -80,9 +88,11 @@ QUESTION_DICT = {
 
 SOLUTION_DICT = {
     "uzbek": "yechim",
+    "uzbek-cyrillic": "ечим",
     "crimean-tatar": "irinti",
     "tatar": "чишелеш",
     "kazakh": "шешім",
+    "kazakh-latin": "şeşim",
     "turkish": "çözüm",
     "uyghur": "ھهل",
     "azerbaijani": "həll",
