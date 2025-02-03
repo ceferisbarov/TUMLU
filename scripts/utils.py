@@ -16,18 +16,18 @@ MODEL_NAMES = [
     # "claude-3-5-sonnet-v2@20241022", # testing claude@Vertex AI vs claude@Anthropic
     # "claude-3-5-haiku@20241022", # testing claude@Vertex AI vs claude@Anthropic
     "gpt-4o-2024-11-20",
-    "claude-3-5-sonnet-20241022",
-    "claude-3-5-haiku-20241022",
-    "Qwen/Qwen2.5-7B-Instruct",
-    "Qwen/Qwen2.5-72B-Instruct",
-    "meta-llama/Meta-Llama-3.1-8B-Instruct",
-    "meta-llama/Meta-Llama-3.1-70B-Instruct",
-    "meta-llama/Llama-3.3-70B-Instruct",
+    "google/gemma-2-27b-it",
+    "google/gemma-2-9b-it",
     "gemini-1.5-flash",
     # "gemini-2.0-flash-exp", # very low rate limits, ignore
     "gemini-1.5-pro",
-    "google/gemma-2-27b-it",
-    "google/gemma-2-9b-it",
+    "meta-llama/Meta-Llama-3.1-8B-Instruct",
+    "meta-llama/Meta-Llama-3.1-70B-Instruct",
+    "meta-llama/Llama-3.3-70B-Instruct",
+    "Qwen/Qwen2.5-7B-Instruct",
+    "Qwen/Qwen2.5-72B-Instruct",
+    "claude-3-5-sonnet-20241022",
+    "claude-3-5-haiku-20241022",
     "deepseek-chat",
 ]
 
@@ -217,47 +217,52 @@ def find_matching_pattern(text, language):
     word = ANSWER_DICT[language]
     patterns = {
         "A": [
-            r"A\)",
             rf"{word}: A",
             rf"{word.lower()}: A",
             rf"{word} A\)",
             rf"{word.lower()} A\)",
             rf"{word} A ",
             rf"{word.lower()} A ",
+            r"A\)",
         ],
         "B": [
-            r"B\)",
             rf"{word}: B",
             rf"{word.lower()}: B",
             rf"{word} B\)",
             rf"{word.lower()} B\)",
             rf"{word} B ",
             rf"{word.lower()} B ",
+            r"B\)",
         ],
         "C": [
-            r"C\)",
             rf"{word}: C",
             rf"{word.lower()}: C",
             rf"{word} C\)",
             rf"{word.lower()} C\)",
             rf"{word} C ",
             rf"{word.lower()} C ",
+            r"C\)",
         ],
         "D": [
-            r"D\)",
             rf"{word}: D",
             rf"{word.lower()}: D",
             rf"{word} D\)",
             rf"{word.lower()} D\)",
             rf"{word} D ",
             rf"{word.lower()} D ",
+            r"D\)",
         ],
     }
 
-    for letter, letter_patterns in patterns.items():
-        for pattern in letter_patterns:
-            if re.search(pattern, text):
-                return letter
+    for i in range(len(patterns["A"])):
+        if re.search(patterns["A"][i], text):
+            return "A"
+        if re.search(patterns["B"][i], text):
+            return "B"
+        if re.search(patterns["C"][i], text):
+            return "C"
+        if re.search(patterns["D"][i], text):
+            return "D"
 
     return None
 
