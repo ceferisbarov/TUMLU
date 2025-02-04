@@ -12,3 +12,12 @@ data/*/*
 !data/*/test/
 !data/*/outputs/
 !data/*/create_json.py
+
+# DMS store files
+.dms/
+*.dms
+dms_store/
+
+# macOS system files
+.DS_Store
+**/.DS_Store
