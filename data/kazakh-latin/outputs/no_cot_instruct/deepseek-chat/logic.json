@@ -1,0 +1,1388 @@
+[
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "3968, 63, 8, 3, ?",
+        "choices": [
+            "4",
+            "2",
+            "5",
+            "1"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 3968, 63, 8, 3, ?\nA) 4\nB) 2\nC) 5\nD) 1\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Sūraq belgılerinıñ ornyna qajetti sandardy qoiyñyz.\n\n\n\n16\n15\n17\n14\n?\n\n\n32\n33\n31\n34\n?",
+        "choices": [
+            "30, 18",
+            "17, 36",
+            "14, 30",
+            "18, 30"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Sūraq belgılerinıñ ornyna qajetti sandardy qoiyñyz.\n\n\n\n16\n15\n17\n14\n?\n\n\n32\n33\n31\n34\n?\nA) 30, 18\nB) 17, 36\nC) 14, 30\nD) 18, 30\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Sūraq belgısinıñ ornyna tiisti sandy qoiyñyz.\n\n\n\n2\n4\n3\n\n\n4\n8\n6\n\n\n1\n5\n?",
+        "choices": [
+            "3",
+            "6",
+            "4",
+            "8"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Sūraq belgısinıñ ornyna tiisti sandy qoiyñyz.\n\n\n\n2\n4\n3\n\n\n4\n8\n6\n\n\n1\n5\n?\nA) 3\nB) 6\nC) 4\nD) 8\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "A+B=?\n\n\n\n2\n6\nA\n12\n\n\n3\n5\n2\n15\n\n\n1\n7\n6\nB\n\n\n2\n5\n3\n10",
+        "choices": [
+            "14",
+            "11",
+            "15",
+            "19"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: A+B=?\n\n\n\n2\n6\nA\n12\n\n\n3\n5\n2\n15\n\n\n1\n7\n6\nB\n\n\n2\n5\n3\n10\nA) 14\nB) 11\nC) 15\nD) 19\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Sūraq belgısinıñ ornyna tiisti sandy qoiyñyz:\n\n       51 ( 36 ) 45\n       77 (  ?  ) 65",
+        "choices": [
+            "99",
+            "64",
+            "144",
+            "12"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Sūraq belgısinıñ ornyna tiisti sandy qoiyñyz:\n\n       51 ( 36 ) 45\n       77 (  ?  ) 65\nA) 99\nB) 64\nC) 144\nD) 12\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "+\nA\nB\nC\n\n\nA\n6\n \n \n\n\nB\nD\n12\n2E\n\n\nC\n \n \n8\n\n\n\n\n⇒\n {D+E\\over 2}=?",
+        "choices": [
+            "8",
+            "4,5",
+            "7",
+            "6,7"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: +\nA\nB\nC\n\n\nA\n6\n \n \n\n\nB\nD\n12\n2E\n\n\nC\n \n \n8\n\n\n\n\n⇒\n {D+E\\over 2}=?\nA) 8\nB) 4,5\nC) 7\nD) 6,7\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Amaldy oryndañyz:\n (1+{1 \\over 3})(1+{1 \\over 4})....(1+{1 \\over 11})",
+        "choices": [
+            "101,5",
+            "7,5",
+            "4",
+            "8,7"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Amaldy oryndañyz:\n (1+{1 \\over 3})(1+{1 \\over 4})....(1+{1 \\over 11})\nA) 101,5\nB) 7,5\nC) 4\nD) 8,7\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "1 + 4 = 5\n\t\t\t2 + 5 = 12\n\t\t\t3 + 6 = 21\n\t\t\t5 + 4 = ?",
+        "choices": [
+            "25",
+            "33",
+            "27",
+            "30"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 1 + 4 = 5\n\t\t\t2 + 5 = 12\n\t\t\t3 + 6 = 21\n\t\t\t5 + 4 = ?\nA) 25\nB) 33\nC) 27\nD) 30\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "a-ny tabyñdar:\n 1+{2 \\over {1 + {2 \\over 1 + {2 \\over \\vdots}}}} = a",
+        "choices": [
+            "1",
+            "5",
+            "2",
+            "4"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: a-ny tabyñdar:\n 1+{2 \\over {1 + {2 \\over 1 + {2 \\over \\vdots}}}} = a\nA) 1\nB) 5\nC) 2\nD) 4\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "2 + 2 = 6\n\t\t\t3 + 3 = 11\n\t\t\t4 + 4 = 18\n\t\t\t6 + 6 = ?",
+        "choices": [
+            "40",
+            "44",
+            "38",
+            "33"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 2 + 2 = 6\n\t\t\t3 + 3 = 11\n\t\t\t4 + 4 = 18\n\t\t\t6 + 6 = ?\nA) 40\nB) 44\nC) 38\nD) 33\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "11 x 11 = 4\n\t\t\t22 x 22 = 16\n\t\t\t33 x 33 = ?",
+        "choices": [
+            "27",
+            "72",
+            "36",
+            "12"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 11 x 11 = 4\n\t\t\t22 x 22 = 16\n\t\t\t33 x 33 = ?\nA) 27\nB) 72\nC) 36\nD) 12\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Jüzdiñ jartysyn jartyğa bölgende neşe bolady?",
+        "choices": [
+            "75",
+            "25",
+            "100",
+            "125"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Jüzdiñ jartysyn jartyğa bölgende neşe bolady?\nA) 75\nB) 25\nC) 100\nD) 125\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Tömendegi tūjyrymdardyñ dūrysyn anyqtañyz.",
+        "choices": [
+            "Bes jalğan tūjyrym berilgen",
+            "Tört jalğan tūjyrym berilgen",
+            "Eki jalğan tūjyrym berilgen",
+            "Üş jalğan tūjyrym berilgen"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Tömendegi tūjyrymdardyñ dūrysyn anyqtañyz.\nA) Bes jalğan tūjyrym berilgen\nB) Tört jalğan tūjyrym berilgen\nC) Eki jalğan tūjyrym berilgen\nD) Üş jalğan tūjyrym berilgen\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Eger kitaptyñ qūny dollar jäne jarty kitap tūrsa, kitaptyñ bağasy qanşa?",
+        "choices": [
+            "4",
+            "2",
+            "3",
+            "1,5"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Eger kitaptyñ qūny dollar jäne jarty kitap tūrsa, kitaptyñ bağasy qanşa?\nA) 4\nB) 2\nC) 3\nD) 1,5\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Eger qalğan täulıktıñ bölıgı ötken uaqyttan ekı ese ülken bolsa, qazır uaqyt qanşa?",
+        "choices": [
+            "12:00",
+            "07:15",
+            "08:00",
+            "06:30"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Eger qalğan täulıktıñ bölıgı ötken uaqyttan ekı ese ülken bolsa, qazır uaqyt qanşa?\nA) 12:00\nB) 07:15\nC) 08:00\nD) 06:30\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Merekelık üstelde 7 şyraq janyp tūr. Olardyñ 3-yi öşırildi. Biraz uaqyttan keiin qanşa şyraq qalady?",
+        "choices": [
+            "2",
+            "3",
+            "7",
+            "5"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Merekelık üstelde 7 şyraq janyp tūr. Olardyñ 3-yi öşırildi. Biraz uaqyttan keiin qanşa şyraq qalady?\nA) 2\nB) 3\nC) 7\nD) 5\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "9 bırdei tiyn bar, bıraq bıri basqalarynan jeñıl. Jeñıl tiyndy anyqtau üşın tarazyda eñ az qanşa ret ölşey kerek? Tarazy - kädımgı ekı kesemen.",
+        "choices": [
+            "8",
+            "3",
+            "2",
+            "4"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 9 bırdei tiyn bar, bıraq bıri basqalarynan jeñıl. Jeñıl tiyndy anyqtau üşın tarazyda eñ az qanşa ret ölşey kerek? Tarazy - kädımgı ekı kesemen.\nA) 8\nB) 3\nC) 2\nD) 4\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Kezekte 4 adam tūr. Semen, Boris pen Maşanyñ arasynda. Maşa basqa eki adamnynyñ aldynda, Dima Maşanynyñ aldynda.Kezekte kim birinşi, ekinşi, üşinşi jäne törtinşi tūrğanyn anyqtañyz.",
+        "choices": [
+            "DMSB",
+            "BDMS",
+            "SMBD",
+            "BDSM"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Kezekte 4 adam tūr. Semen, Boris pen Maşanyñ arasynda. Maşa basqa eki adamnynyñ aldynda, Dima Maşanynyñ aldynda.Kezekte kim birinşi, ekinşi, üşinşi jäne törtinşi tūrğanyn anyqtañyz.\nA) DMSB\nB) BDMS\nC) SMBD\nD) BDSM\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Ekı dos kezdestı. Bıreuı: «Meniñ ämianymdy al, onda sen qanşa taba alsañ, sonşa qosyp, mağan ber», - deidı. Dosy däl solai jasady. Ekınşısi: «Al endi sen meniñ ämianymda qanşa qalsa sonşa mağan ber», - deidı. Dosy aitqanyn jasady. Nätijesınde ämianda birinşisinde 7 funt, ekınşısinde 6 funt boldy. Alğaşynda ärqaisysynda qanşa aqşa boldy?",
+        "choices": [
+            "birinşisinde 5 fynt, ekinşisinde 8 fynt",
+            "birinşisinde 2 fynt, ekinşisinde 8 fynt",
+            "birinşisinde 7 fynt, ekinşisinde 6 fynt",
+            "birinşisinde 8 fynt, ekinşisinde 2 fynt"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Ekı dos kezdestı. Bıreuı: «Meniñ ämianymdy al, onda sen qanşa taba alsañ, sonşa qosyp, mağan ber», - deidı. Dosy däl solai jasady. Ekınşısi: «Al endi sen meniñ ämianymda qanşa qalsa sonşa mağan ber», - deidı. Dosy aitqanyn jasady. Nätijesınde ämianda birinşisinde 7 funt, ekınşısinde 6 funt boldy. Alğaşynda ärqaisysynda qanşa aqşa boldy?\nA) birinşisinde 5 fynt, ekinşisinde 8 fynt\nB) birinşisinde 2 fynt, ekinşisinde 8 fynt\nC) birinşisinde 7 fynt, ekinşisinde 6 fynt\nD) birinşisinde 8 fynt, ekinşisinde 2 fynt\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "P - 2 = Q + 2 = X - 3 = Y + 4 = Z - 5 ekeni belgili.\nBelgısızderdıñ eñ kişisin tabyñyz.",
+        "choices": [
+            "Z",
+            "Y",
+            "P",
+            "X"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: P - 2 = Q + 2 = X - 3 = Y + 4 = Z - 5 ekeni belgili.\nBelgısızderdıñ eñ kişisin tabyñyz.\nA) Z\nB) Y\nC) P\nD) X\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "15 paraq aq qağaz boldy. Keibıreuleri 4 bölıkke bölıngende, paraqtar sany 33 boldy. Qanşa paraq bölındı?",
+        "choices": [
+            "8",
+            "18",
+            "9",
+            "6"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 15 paraq aq qağaz boldy. Keibıreuleri 4 bölıkke bölıngende, paraqtar sany 33 boldy. Qanşa paraq bölındı?\nA) 8\nB) 18\nC) 9\nD) 6\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "8809 = 6\n\t\t\t6666 = 4\n\t\t\t1111 = 0\n\t\t\t7756 = 1\n\t\t\t7662 = 2\n\t\t\t1234 = 0\n\t\t\t0000 = 4\n\t\t\t2581 = ?",
+        "choices": [
+            "5",
+            "4",
+            "2",
+            "3"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 8809 = 6\n\t\t\t6666 = 4\n\t\t\t1111 = 0\n\t\t\t7756 = 1\n\t\t\t7662 = 2\n\t\t\t1234 = 0\n\t\t\t0000 = 4\n\t\t\t2581 = ?\nA) 5\nB) 4\nC) 2\nD) 3\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "2, 4, 9, 11, 16, ?",
+        "choices": [
+            "18",
+            "21",
+            "23",
+            "17"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 2, 4, 9, 11, 16, ?\nA) 18\nB) 21\nC) 23\nD) 17\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "60, 30, 20, 15, 12, ?",
+        "choices": [
+            "3",
+            "7",
+            "5",
+            "10"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 60, 30, 20, 15, 12, ?\nA) 3\nB) 7\nC) 5\nD) 10\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "1, 1, 2, 3, 5, 8, ?",
+        "choices": [
+            "13",
+            "17",
+            "40",
+            "10"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 1, 1, 2, 3, 5, 8, ?\nA) 13\nB) 17\nC) 40\nD) 10\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "4\n5\n6\n7\n8\n9\n\n\n61\n52\n63\n94\n46\n?",
+        "choices": [
+            "26",
+            "38",
+            "18",
+            "12"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 4\n5\n6\n7\n8\n9\n\n\n61\n52\n63\n94\n46\n?\nA) 26\nB) 38\nC) 18\nD) 12\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "-2, 4, -12, 48, -240,  ?",
+        "choices": [
+            "1000",
+            "1200",
+            "-1200",
+            "1440"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: -2, 4, -12, 48, -240,  ?\nA) 1000\nB) 1200\nC) -1200\nD) 1440\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "77, 49, 36, 18, ?",
+        "choices": [
+            "12",
+            "10",
+            "9",
+            "8"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 77, 49, 36, 18, ?\nA) 12\nB) 10\nC) 9\nD) 8\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "5, 11, 23, ?, 95, 191",
+        "choices": [
+            "47",
+            "50",
+            "42",
+            "45"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 5, 11, 23, ?, 95, 191\nA) 47\nB) 50\nC) 42\nD) 45\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "65536, 256, 16, ?",
+        "choices": [
+            "1",
+            "4",
+            "7",
+            "3"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 65536, 256, 16, ?\nA) 1\nB) 4\nC) 7\nD) 3\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Artyğyn tabyñyz. \n3647, 2536, 5869, 6957, 1425, 4758",
+        "choices": [
+            "4758",
+            "2536",
+            "6957",
+            "3647"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Artyğyn tabyñyz. \n3647, 2536, 5869, 6957, 1425, 4758\nA) 4758\nB) 2536\nC) 6957\nD) 3647\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "10, 30, 32, 96, 98, 294, 296, ?, ?",
+        "choices": [
+            "828, 850",
+            "828, 840",
+            "888, 890",
+            "778, 840"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 10, 30, 32, 96, 98, 294, 296, ?, ?\nA) 828, 850\nB) 828, 840\nC) 888, 890\nD) 778, 840\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "27, 54, ?, 108, 135, 162, 189",
+        "choices": [
+            "81",
+            "79",
+            "78",
+            "66"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 27, 54, ?, 108, 135, 162, 189\nA) 81\nB) 79\nC) 78\nD) 66\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "100, 93, 79, 58, ?",
+        "choices": [
+            "33",
+            "30",
+            "50",
+            "32"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 100, 93, 79, 58, ?\nA) 33\nB) 30\nC) 50\nD) 32\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Erlan 123456789101112131415…20142015 sanynan jūp oryndağy sifrlardy öşirdi; şyqqan sannan tağy jūp oryndağy sifrlardy öşirdi. Erlan mümkin bolğanşa osylai jalğastyrdy. Soñynda qandai sifr qaldy?",
+        "choices": [
+            "8",
+            "5",
+            "7",
+            "1"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Erlan 123456789101112131415…20142015 sanynan jūp oryndağy sifrlardy öşirdi; şyqqan sannan tağy jūp oryndağy sifrlardy öşirdi. Erlan mümkin bolğanşa osylai jalğastyrdy. Soñynda qandai sifr qaldy?\nA) 8\nB) 5\nC) 7\nD) 1\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Vazada 20 jemis (alma jäne almūrt) bar. 10 jemısten eñ keminde bıreuı alma, al 12 jemıstiñ eñ keminde bıreyi almūrt. Vazada qanşa alma bar?",
+        "choices": [
+            "11",
+            "6",
+            "13",
+            "12"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Vazada 20 jemis (alma jäne almūrt) bar. 10 jemısten eñ keminde bıreuı alma, al 12 jemıstiñ eñ keminde bıreyi almūrt. Vazada qanşa alma bar?\nA) 11\nB) 6\nC) 13\nD) 12\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Tek jaman adamdar ötirik aitady nemese ūrlaidy. Katä - jaqsy.\nTömendegilerdiñ qaisysy dūrys?",
+        "choices": [
+            "Katä ūrlamaidy",
+            "Katä aldaidy jäne ūrlaidy",
+            "Katä aldaidy",
+            "Katä ūrlaidy"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Tek jaman adamdar ötirik aitady nemese ūrlaidy. Katä - jaqsy.\nTömendegilerdiñ qaisysy dūrys?\nA) Katä ūrlamaidy\nB) Katä aldaidy jäne ūrlaidy\nC) Katä aldaidy\nD) Katä ūrlaidy\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "2,  4,  8,  10,  20,  22,  ?,  ?",
+        "choices": [
+            "44,  46",
+            "24,  48",
+            "48,  64",
+            "44,  88"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 2,  4,  8,  10,  20,  22,  ?,  ?\nA) 44,  46\nB) 24,  48\nC) 48,  64\nD) 44,  88\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "10 @ (3 # 6) = 13\n5 @ (2 # 1) = 4\n7 @ (9 # 3) = ?",
+        "choices": [
+            "1",
+            "4",
+            "12",
+            "7"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 10 @ (3 # 6) = 13\n5 @ (2 # 1) = 4\n7 @ (9 # 3) = ?\nA) 1\nB) 4\nC) 12\nD) 7\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "AB + AB*2 = B9;      A+B=?",
+        "choices": [
+            "6",
+            "4",
+            "2",
+            "9"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: AB + AB*2 = B9;      A+B=?\nA) 6\nB) 4\nC) 2\nD) 9\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "a     c     e     ?     i",
+        "choices": [
+            "h",
+            "g",
+            "f",
+            "b"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: a     c     e     ?     i\nA) h\nB) g\nC) f\nD) b\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "2\n4\n10\n\n\n8\n3\n14\n\n\n5\n5\n?",
+        "choices": [
+            "15",
+            "20",
+            "12",
+            "16"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 2\n4\n10\n\n\n8\n3\n14\n\n\n5\n5\n?\nA) 15\nB) 20\nC) 12\nD) 16\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "3\n4\n4\n13\n\n\n8\n7\n7\n41\n\n\n5\n6\n9\n?",
+        "choices": [
+            "49",
+            "34",
+            "45",
+            "27"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 3\n4\n4\n13\n\n\n8\n7\n7\n41\n\n\n5\n6\n9\n?\nA) 49\nB) 34\nC) 45\nD) 27\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "h   g   ?   e   d",
+        "choices": [
+            "c",
+            "i",
+            "f",
+            "k"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: h   g   ?   e   d\nA) c\nB) i\nC) f\nD) k\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "c   c   d   ?   e   f   g   g   h",
+        "choices": [
+            "d",
+            "f",
+            "e",
+            "f"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: c   c   d   ?   e   f   g   g   h\nA) d\nB) f\nC) e\nD) f\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "a   z   b   ?   c   x",
+        "choices": [
+            "a",
+            "x",
+            "d",
+            "y"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: a   z   b   ?   c   x\nA) a\nB) x\nC) d\nD) y\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "f   g   e   h   d   i   c   ?",
+        "choices": [
+            "q",
+            "j",
+            "k",
+            "b"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: f   g   e   h   d   i   c   ?\nA) q\nB) j\nC) k\nD) b\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "6 & 5 = 111\n7 & 4 = 311\n8 & 2 = 610\n9 & 5 = ?",
+        "choices": [
+            "515",
+            "950",
+            "414",
+            "315"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 6 & 5 = 111\n7 & 4 = 311\n8 & 2 = 610\n9 & 5 = ?\nA) 515\nB) 950\nC) 414\nD) 315\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "60, 30, 20, 15, ?",
+        "choices": [
+            "16",
+            "12",
+            "14",
+            "8"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 60, 30, 20, 15, ?\nA) 16\nB) 12\nC) 14\nD) 8\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "5, 8, 6, 9, 7, 10, 8, ?",
+        "choices": [
+            "12",
+            "14",
+            "10",
+            "11"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 5, 8, 6, 9, 7, 10, 8, ?\nA) 12\nB) 14\nC) 10\nD) 11\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "b+d = ?\n            \\begin{array}{r}\n&abc\\\\\n+\\!\\!\\!\\!\\!\\!&d4\\\\\n\\hline\n&212\n\\end{array}",
+        "choices": [
+            "11",
+            "2",
+            "10",
+            "12"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: b+d = ?\n            \\begin{array}{r}\n&abc\\\\\n+\\!\\!\\!\\!\\!\\!&d4\\\\\n\\hline\n&212\n\\end{array}\nA) 11\nB) 2\nC) 10\nD) 12\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "EKIM = ?\n\n\n\nLEKE\n\t\t\tEKIM\n\t\t\tELEK\n\t\t\tILIK\n\t\t\tELIM\n\n ⇒\n\n4146\n\t\t\t2126\n\t\t\t2643\n\t\t\t1262\n\t\t\t2143",
+        "choices": [
+            "2143",
+            "4146",
+            "1262",
+            "2643"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: EKIM = ?\n\n\n\nLEKE\n\t\t\tEKIM\n\t\t\tELEK\n\t\t\tILIK\n\t\t\tELIM\n\n ⇒\n\n4146\n\t\t\t2126\n\t\t\t2643\n\t\t\t1262\n\t\t\t2143\nA) 2143\nB) 4146\nC) 1262\nD) 2643\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "x+y = ?\n                 \\begin{array}{r} &243\\\\ *\\!\\!\\!\\!\\!\\!&xy\\\\ \\hline &.~.9\\\\ +&486~~\\\\ \\hline &.~.~.~. \\end{array}",
+        "choices": [
+            "6",
+            "5",
+            "3",
+            "8"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: x+y = ?\n                 \\begin{array}{r} &243\\\\ *\\!\\!\\!\\!\\!\\!&xy\\\\ \\hline &.~.9\\\\ +&486~~\\\\ \\hline &.~.~.~. \\end{array}\nA) 6\nB) 5\nC) 3\nD) 8\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "R * S = ?\n           {RRR - SSS \\over RRR + SSS} = {2 \\over 5}",
+        "choices": [
+            "14",
+            "16",
+            "18",
+            "21"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: R * S = ?\n           {RRR - SSS \\over RRR + SSS} = {2 \\over 5}\nA) 14\nB) 16\nC) 18\nD) 21\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "KANI = ?\n\n\n\nGANI\n\t\t\tTANI\n\t\t\tSANI\n\t\t\tKANI\n\t\t\tZAKI\n\n ⇒\n\n3261\n\t\t\t4261\n\t\t\t9261\n\t\t\t7261\n\t\t\t5231",
+        "choices": [
+            "9261",
+            "4261",
+            "5231",
+            "3261"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: KANI = ?\n\n\n\nGANI\n\t\t\tTANI\n\t\t\tSANI\n\t\t\tKANI\n\t\t\tZAKI\n\n ⇒\n\n3261\n\t\t\t4261\n\t\t\t9261\n\t\t\t7261\n\t\t\t5231\nA) 9261\nB) 4261\nC) 5231\nD) 3261\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "k-l = ?\n            \\begin{array}{r} &kl9\\\\ -\\!\\!\\!\\!\\!\\!&lkl\\\\ \\hline &1k3 \\end{array}",
+        "choices": [
+            "2",
+            "5",
+            "6",
+            "3"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: k-l = ?\n            \\begin{array}{r} &kl9\\\\ -\\!\\!\\!\\!\\!\\!&lkl\\\\ \\hline &1k3 \\end{array}\nA) 2\nB) 5\nC) 6\nD) 3\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "a*b=? \n \\begin{array}{r} &abba\\\\ *\\!\\!\\!\\!\\!\\!&a5\\\\ \\hline & bb55 \\\\ +&abba\\space\\space & \\\\ \\hline & 2b865  \\end{array}",
+        "choices": [
+            "8",
+            "0",
+            "9",
+            "10"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: a*b=? \n \\begin{array}{r} &abba\\\\ *\\!\\!\\!\\!\\!\\!&a5\\\\ \\hline & bb55 \\\\ +&abba\\space\\space & \\\\ \\hline & 2b865  \\end{array}\nA) 8\nB) 0\nC) 9\nD) 10\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "11 + 22 = 5\n13 + 24 = 11\n22 + 17 = ?",
+        "choices": [
+            "11",
+            "10",
+            "13",
+            "2"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 11 + 22 = 5\n13 + 24 = 11\n22 + 17 = ?\nA) 11\nB) 10\nC) 13\nD) 2\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Artyq sandy tabyñyz:\n\n586  478 472 244 2542 113",
+        "choices": [
+            "244",
+            "478",
+            "472",
+            "2542"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Artyq sandy tabyñyz:\n\n586  478 472 244 2542 113\nA) 244\nB) 478\nC) 472\nD) 2542\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Ūştalmağan altybūryşty qaryndaştyñ qanşa betı bar?",
+        "choices": [
+            "6",
+            "7",
+            "8",
+            "2"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Ūştalmağan altybūryşty qaryndaştyñ qanşa betı bar?\nA) 6\nB) 7\nC) 8\nD) 2\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Artyq sandy tabyñyz: 36, 26, 24, 16, 12, 13, 8, 6, 2",
+        "choices": [
+            "13",
+            "26",
+            "8",
+            "12"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Artyq sandy tabyñyz: 36, 26, 24, 16, 12, 13, 8, 6, 2\nA) 13\nB) 26\nC) 8\nD) 12\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Köbeitudıñ soñğy sifryn tabyñyz: 13*14*15*16*17*18*19",
+        "choices": [
+            "0",
+            "8",
+            "2",
+            "1"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Köbeitudıñ soñğy sifryn tabyñyz: 13*14*15*16*17*18*19\nA) 0\nB) 8\nC) 2\nD) 1\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Sūraq belgılerınıñ ornyna jauaptardyñ qaisysy säikes keledı?\nABCCCAABBCCAAA????",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Sūraq belgılerınıñ ornyna jauaptardyñ qaisysy säikes keledı?\nABCCCAABBCCAAA????\nA) \nB) \nC) \nD) \n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "4 2 ? 4 8 6 10",
+        "choices": [
+            "5",
+            "6",
+            "7",
+            "2"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 4 2 ? 4 8 6 10\nA) 5\nB) 6\nC) 7\nD) 2\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "0, 3, 8, 15, ?",
+        "choices": [
+            "17",
+            "35",
+            "45",
+            "24"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 0, 3, 8, 15, ?\nA) 17\nB) 35\nC) 45\nD) 24\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Mektepte 5 sportşynyñ qatysuymen jarys öttı, barlyğy är türlı oryndarğa ie boldy. Kelesı künı olardyñ ärqaisysynan neşınşı bolyp kelgendıgı sūraldy. Olar 1-den 5-ke deiıngı nömırdı atady. Jauaptardyñ qosyndysy 22 boldy. Eñ az qanşasy ötırık aitty?",
+        "choices": [
+            "2",
+            "3",
+            "5",
+            "1"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Mektepte 5 sportşynyñ qatysuymen jarys öttı, barlyğy är türlı oryndarğa ie boldy. Kelesı künı olardyñ ärqaisysynan neşınşı bolyp kelgendıgı sūraldy. Olar 1-den 5-ke deiıngı nömırdı atady. Jauaptardyñ qosyndysy 22 boldy. Eñ az qanşasy ötırık aitty?\nA) 2\nB) 3\nC) 5\nD) 1\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "5 studenttıñ ekeuı ärqaşan ötırık aitady, al üşeuı ärqaşan şyndyqty aitady. Olardyñ ärqaisysy synaqtan öttı. Ärbırı testten kımnıñ ötıp-ötpegenın bıledı. Olar kelesı mälımdemeler jasady.\nA: «V testten ötpedı»\nB: «S testten ötpedı»\nC: «A testten ötpedı»\nD: «E testten ötpedı»\nE: «D testten ötpedı»\nOlardyñ qanşasy testten  öttı?",
+        "choices": [
+            "5",
+            "3",
+            "2",
+            "4"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 5 studenttıñ ekeuı ärqaşan ötırık aitady, al üşeuı ärqaşan şyndyqty aitady. Olardyñ ärqaisysy synaqtan öttı. Ärbırı testten kımnıñ ötıp-ötpegenın bıledı. Olar kelesı mälımdemeler jasady.\nA: «V testten ötpedı»\nB: «S testten ötpedı»\nC: «A testten ötpedı»\nD: «E testten ötpedı»\nE: «D testten ötpedı»\nOlardyñ qanşasy testten  öttı?\nA) 5\nB) 3\nC) 2\nD) 4\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Altynmen toltyrylğan sandyqtyñ salmağy 42 kg, jartylai altynmen toltyrylğan sandyqtyñ salmağy 22 kg. Bos sandyqtyñ salmağy qanşa?",
+        "choices": [
+            "4",
+            "2",
+            "5",
+            "1"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Altynmen toltyrylğan sandyqtyñ salmağy 42 kg, jartylai altynmen toltyrylğan sandyqtyñ salmağy 22 kg. Bos sandyqtyñ salmağy qanşa?\nA) 4\nB) 2\nC) 5\nD) 1\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "A + BB + A = CCC. A-ny tabyñyz.",
+        "choices": [
+            "9",
+            "3",
+            "6",
+            "1"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: A + BB + A = CCC. A-ny tabyñyz.\nA) 9\nB) 3\nC) 6\nD) 1\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "A qalasynyñ tūrğyndary tek şyndyqty aitady, V qalasynyñ tūrğyndary tek ötırık aitady, al S qalasynyñ tūrğyndary kezekpen şyndyq pen ötırık aitady (iağni, olardyñ aitqan ekı mälımdemesınıñ bırı şyn, ekınşısı ötırık). Ört söndıru bölımıne telefon arqyly: «Bızde ört boldy, tez kelıñız!» «Qaida?» - dep sūrady kezekşı. Olar oğan: “S qalasyna”, - dep jauap berdı. Ört söndıru kölıgı qai qalağa baruy kerek? Ört qai qalada?",
+        "choices": [
+            "CS qalasynda",
+            "AA qalasynda jäne BB qalasynda",
+            "AA qalasynda",
+            "BV qalasynda"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: A qalasynyñ tūrğyndary tek şyndyqty aitady, V qalasynyñ tūrğyndary tek ötırık aitady, al S qalasynyñ tūrğyndary kezekpen şyndyq pen ötırık aitady (iağni, olardyñ aitqan ekı mälımdemesınıñ bırı şyn, ekınşısı ötırık). Ört söndıru bölımıne telefon arqyly: «Bızde ört boldy, tez kelıñız!» «Qaida?» - dep sūrady kezekşı. Olar oğan: “S qalasyna”, - dep jauap berdı. Ört söndıru kölıgı qai qalağa baruy kerek? Ört qai qalada?\nA) CS qalasynda\nB) AA qalasynda jäne BB qalasynda\nC) AA qalasynda\nD) BV qalasynda\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "11 oiynşy tenis oinady. Oiynnan ūtylğan adam ketıp qalady. Qanşalyqty köp oiynşy 2 oiyn ūtuy mümkın?",
+        "choices": [
+            "5",
+            "1",
+            "3",
+            "4"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 11 oiynşy tenis oinady. Oiynnan ūtylğan adam ketıp qalady. Qanşalyqty köp oiynşy 2 oiyn ūtuy mümkın?\nA) 5\nB) 1\nC) 3\nD) 4\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Mektep ashanasynda juuğa arnalğan 4 kran bar. Ärbırı jabyq nemese aşyq bola alady. Ashanada su ağyzudyñ qanşa joly bar?",
+        "choices": [
+            "8",
+            "10",
+            "4",
+            "16"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Mektep ashanasynda juuğa arnalğan 4 kran bar. Ärbırı jabyq nemese aşyq bola alady. Ashanada su ağyzudyñ qanşa joly bar?\nA) 8\nB) 10\nC) 4\nD) 16\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Üş bala bırneşe nan kestı. Olar 4 ret kesıp 8 bölık nan aldy. Basynda neşe nan boldy?",
+        "choices": [
+            "8",
+            "4",
+            "2",
+            "3"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Üş bala bırneşe nan kestı. Olar 4 ret kesıp 8 bölık nan aldy. Basynda neşe nan boldy?\nA) 8\nB) 4\nC) 2\nD) 3\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "101, 212, 323, 434, ?",
+        "choices": [
+            "545",
+            "454",
+            "535",
+            "555"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 101, 212, 323, 434, ?\nA) 545\nB) 454\nC) 535\nD) 555\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "13, 23, 43, 83, 163, ?",
+        "choices": [
+            "323",
+            "335",
+            "567",
+            "355"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 13, 23, 43, 83, 163, ?\nA) 323\nB) 335\nC) 567\nD) 355\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Sifrlarynyñ köbeitındısı 6-ğa teñ bolatyn qanşa alty tañbaly san bar?",
+        "choices": [
+            "55",
+            "24",
+            "6",
+            "36"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Sifrlarynyñ köbeitındısı 6-ğa teñ bolatyn qanşa alty tañbaly san bar?\nA) 55\nB) 24\nC) 6\nD) 36\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Tızbektıñ alğaşqy 12 sany körsetılgen, alğaşqy 155 sanynyñ qosyndysyn tabyñyz. \n0, 3, 2, 1, 0, 3, 2, 1, 0, 3, 2, 1, ...",
+        "choices": [
+            "358",
+            "183",
+            "208",
+            "233"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Tızbektıñ alğaşqy 12 sany körsetılgen, alğaşqy 155 sanynyñ qosyndysyn tabyñyz. \n0, 3, 2, 1, 0, 3, 2, 1, 0, 3, 2, 1, ...\nA) 358\nB) 183\nC) 208\nD) 233\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "5, 8, 14, 26, 50, ?",
+        "choices": [
+            "67",
+            "74",
+            "109",
+            "98"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 5, 8, 14, 26, 50, ?\nA) 67\nB) 74\nC) 109\nD) 98\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "A, V jäne S sifrlarynan kūralatyn eñ ülken sandy tabyñyz.\n \\begin{array}{r} &4\\;AB\\\\ +\\!\\!\\!\\!\\!\\!&C\\;2\\;7\\\\ \\hline &7\\; 7\\; 7 \\end{array}",
+        "choices": [
+            "503",
+            "530",
+            "53",
+            "350"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: A, V jäne S sifrlarynan kūralatyn eñ ülken sandy tabyñyz.\n \\begin{array}{r} &4\\;AB\\\\ +\\!\\!\\!\\!\\!\\!&C\\;2\\;7\\\\ \\hline &7\\; 7\\; 7 \\end{array}\nA) 503\nB) 530\nC) 53\nD) 350\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Är türlı üş 2 tañbaly sandardyñ arifmetikalyq ortasy 33-ke ten bolsa, üş sannyñ ışınde eñ ülken bola alatyn sandy tabyñyz.",
+        "choices": [
+            "89",
+            "91",
+            "78",
+            "99"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Är türlı üş 2 tañbaly sandardyñ arifmetikalyq ortasy 33-ke ten bolsa, üş sannyñ ışınde eñ ülken bola alatyn sandy tabyñyz.\nA) 89\nB) 91\nC) 78\nD) 99\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Tömendegı sandar belgılı bır ereje boiynşa jazylğan. Logikalyq tızbektı būzatyn sandy tabyñyz. \n10, 30, 11, 28, 13, 23, 16, 18, 20, 10, 25",
+        "choices": [
+            "23",
+            "16",
+            "11",
+            "25"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Tömendegı sandar belgılı bır ereje boiynşa jazylğan. Logikalyq tızbektı būzatyn sandy tabyñyz. \n10, 30, 11, 28, 13, 23, 16, 18, 20, 10, 25\nA) 23\nB) 16\nC) 11\nD) 25\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "1402A sany 3-ke qaldyqsyz bölınedı. A-nyñ ornyna säikes keletın neşe türlı sifr bar?",
+        "choices": [
+            "1",
+            "9",
+            "3",
+            "2"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 1402A sany 3-ke qaldyqsyz bölınedı. A-nyñ ornyna säikes keletın neşe türlı sifr bar?\nA) 1\nB) 9\nC) 3\nD) 2\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "4H3Y sany 3, 9 jäne 2 sandaryna qaldyqsyz bölınedı. H-tı tabyñyz.",
+        "choices": [
+            "5",
+            "2",
+            "1",
+            "3"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 4H3Y sany 3, 9 jäne 2 sandaryna qaldyqsyz bölınedı. H-tı tabyñyz.\nA) 5\nB) 2\nC) 1\nD) 3\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "10^100  + 100^200 + 1000^150  örnegınıñ soñy neşe nölmen aiaqtalady?",
+        "choices": [
+            "150",
+            "201",
+            "100",
+            "450"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 10^100  + 100^200 + 1000^150  örnegınıñ soñy neşe nölmen aiaqtalady?\nA) 150\nB) 201\nC) 100\nD) 450\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "10^28 + 10^10 + 10^15 örnegınıñ jauaby neşe tañbaly san?",
+        "choices": [
+            "29",
+            "10",
+            "53",
+            "15"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: 10^28 + 10^10 + 10^15 örnegınıñ jauaby neşe tañbaly san?\nA) 29\nB) 10\nC) 53\nD) 15\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "A+3 = B-6 = C-4 = D+7 = E+5. Belgısızderdı ösu retımen ornalastyryñyz.",
+        "choices": [
+            ", A, C, E, B",
+            ", B, C, D, E",
+            ", E, A, C, B",
+            ", D, A, C, B"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: A+3 = B-6 = C-4 = D+7 = E+5. Belgısızderdı ösu retımen ornalastyryñyz.\nA) , A, C, E, B\nB) , B, C, D, E\nC) , E, A, C, B\nD) , D, A, C, B\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Tızbektıñ alğaşqy 11 sany körsetılgen, alğaşqy 203 sanynyñ qosyndysyn tabyñyz.\n5, 2, 0, 1, 5, 2, 0, 3, 5, 2, 0",
+        "choices": [
+            "290",
+            "430",
+            "2033",
+            "507"
+        ],
+        "output": "[INVALID]",
+        "answer": "D",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Tızbektıñ alğaşqy 11 sany körsetılgen, alğaşqy 203 sanynyñ qosyndysyn tabyñyz.\n5, 2, 0, 1, 5, 2, 0, 3, 5, 2, 0\nA) 290\nB) 430\nC) 2033\nD) 507\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Qorapta sary, qyzyl jäne jasyl doptar bar. Doptardyñ 1/3-ı sary, kalganynyñ 3/4-ı qyzyl. Jasyl doptardyñ qatynasyn tabyñyz.",
+        "choices": [
+            "1/3",
+            "2/3",
+            "1/6",
+            "1/2"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Qorapta sary, qyzyl jäne jasyl doptar bar. Doptardyñ 1/3-ı sary, kalganynyñ 3/4-ı qyzyl. Jasyl doptardyñ qatynasyn tabyñyz.\nA) 1/3\nB) 2/3\nC) 1/6\nD) 1/2\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Amiralidıñ aqşasy Mansūrdyñ aqşasynan 35 teñgege artyq. Amirali aqşasynyñ bır bölıgın Mansūrğa berdı. Endı Amiralidıñ aqşasy Mansūrdyñ aqşasynan 41 teñgege kem. Amirali Mansūrğa qanşa aqşa berdı?",
+        "choices": [
+            "38",
+            "76",
+            "41",
+            "6"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Amiralidıñ aqşasy Mansūrdyñ aqşasynan 35 teñgege artyq. Amirali aqşasynyñ bır bölıgın Mansūrğa berdı. Endı Amiralidıñ aqşasy Mansūrdyñ aqşasynan 41 teñgege kem. Amirali Mansūrğa qanşa aqşa berdı?\nA) 38\nB) 76\nC) 41\nD) 6\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Ūzyndyğy 18 metr jıp 3 bölıkke bölındı. Bırınşı bölık ekınşıge qarağanda 2 ese ūzyn, al ekınşı bölık üşınşı bölıkke qarağanda 3 ese ūzyn. Ekınşı bölıktıñ ūzyndyğyn tabyñyz.",
+        "choices": [
+            "10,8",
+            "7,2",
+            "5,4",
+            "3,6"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Ūzyndyğy 18 metr jıp 3 bölıkke bölındı. Bırınşı bölık ekınşıge qarağanda 2 ese ūzyn, al ekınşı bölık üşınşı bölıkke qarağanda 3 ese ūzyn. Ekınşı bölıktıñ ūzyndyğyn tabyñyz.\nA) 10,8\nB) 7,2\nC) 5,4\nD) 3,6\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "B, E, Ü, T, B, ?",
+        "choices": [
+            "",
+            "T",
+            "",
+            "J"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: B, E, Ü, T, B, ?\nA) \nB) T\nC) \nD) J\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Ahmed şkaftan eskı anyqtamany aldy, bıraq anyqtamanyñ bır bölıgı bölınıp jerge tüsıp qaldy.\nBölıktıñ bırınşı betı 213, al soñğy betı sol sandardan tūrady bıraq basqa tärtıppen ornalasqan. Tüsıp qalğan bölık qanşa betten tūrady?",
+        "choices": [
+            "109",
+            "2",
+            "100",
+            "108"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Ahmed şkaftan eskı anyqtamany aldy, bıraq anyqtamanyñ bır bölıgı bölınıp jerge tüsıp qaldy.\nBölıktıñ bırınşı betı 213, al soñğy betı sol sandardan tūrady bıraq basqa tärtıppen ornalasqan. Tüsıp qalğan bölık qanşa betten tūrady?\nA) 109\nB) 2\nC) 100\nD) 108\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Almas lift pen sekundomerdı qoldanudy üirendı. Lift bırınşı qabattan törtınşı qabatqa 12 sekundta köterılse, bırınşı qabattan on altynşy qabatqa köterıluge qanşa uaqyt kerek?",
+        "choices": [
+            "5 minut",
+            "56 sekund",
+            "1 minut",
+            "64 sekund"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Almas lift pen sekundomerdı qoldanudy üirendı. Lift bırınşı qabattan törtınşı qabatqa 12 sekundta köterılse, bırınşı qabattan on altynşy qabatqa köterıluge qanşa uaqyt kerek?\nA) 5 minut\nB) 56 sekund\nC) 1 minut\nD) 64 sekund\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "a, E, i, ?",
+        "choices": [
+            "H",
+            "j",
+            "M",
+            "K"
+        ],
+        "output": "[INVALID]",
+        "answer": "C",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: a, E, i, ?\nA) H\nB) j\nC) M\nD) K\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Pakette eki türli kämpit bar. Kem degende 2 birdei kämpit boly üşin, paketten qaramai neşe kämpit alu kerek?",
+        "choices": [
+            "2",
+            "3",
+            "6",
+            "4"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Pakette eki türli kämpit bar. Kem degende 2 birdei kämpit boly üşin, paketten qaramai neşe kämpit alu kerek?\nA) 2\nB) 3\nC) 6\nD) 4\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Bes balyqşy bes kün ışınde bes balyq jese, on balyqşy qanşa künde on balyqty jeidı?",
+        "choices": [
+            "2",
+            "5",
+            "7",
+            "10"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Bes balyqşy bes kün ışınde bes balyq jese, on balyqşy qanşa künde on balyqty jeidı?\nA) 2\nB) 5\nC) 7\nD) 10\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Aqylbek  pen Armanda bırdei mölşerde jazu däpterleri bar. Aqylbek Armanğa ekı däpter berdı. Armannyñ däpterleri Aqylbektikinen qanşağa köp?",
+        "choices": [
+            "4",
+            "2",
+            "1",
+            "3"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Aqylbek  pen Armanda bırdei mölşerde jazu däpterleri bar. Aqylbek Armanğa ekı däpter berdı. Armannyñ däpterleri Aqylbektikinen qanşağa köp?\nA) 4\nB) 2\nC) 1\nD) 3\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Almastyñ banktegı şottynda $500 bar. Bank tranzaksialardyñ tek ekı türıne ğana rūqsat beredı: $300 alu nemese $198 saly. Almasta basqa aqşa joq bolsa, şotynan aluğa bolatyn maksimaldy soma qandai?",
+        "choices": [
+            "402",
+            "198",
+            "300",
+            "498"
+        ],
+        "output": "[INVALID]",
+        "answer": "A",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Almastyñ banktegı şottynda $500 bar. Bank tranzaksialardyñ tek ekı türıne ğana rūqsat beredı: $300 alu nemese $198 saly. Almasta basqa aqşa joq bolsa, şotynan aluğa bolatyn maksimaldy soma qandai?\nA) 402\nB) 198\nC) 300\nD) 498\n\nJawap: "
+    },
+    {
+        "description": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "question": "Qalalyq keñeste ötken sailauda 7 partiağa 22 410 dauys berıldı. Bir partia basqalarynan köp dauys jinağan bolsa, ol partia qanşalyqty az dauyspen jeñiske jetken bolyy mümkın?",
+        "choices": [
+            "2410",
+            "3203",
+            "22410",
+            "3202"
+        ],
+        "output": "[INVALID]",
+        "answer": "B",
+        "system": "Suraq: Üşbūryştyñ qabyrğalar ūzyndyğy bütın sandar. Bır qabyrğasy 7-ke, al ekınşısı 2-ge teñ. Üşınşı qabyrğanyñ ūzyndyğy neşege teñ?\nA) 6\nB) 9\nC) 4\nD) 2\n\nJawap: A\n\nSuraq: Eger ASTANA => ESKENE bolsa, onda ALMATY => ?\nA) İSKANO\nB) ESTİLO\nC) PATERİ\nD) ELMEKO\n\nJawap: D\n\nSuraq: Alty adamnan tūratyn komandada kapitan men onyñ orynbasary qanşa jolmen sailana alady?\nA) 6\nB) 15\nC) 30\nD) 9\n\nJawap: C\n\nSuraq: Jäşıkte 70 şar bar: 20 qyzyl, 20 kök, 20 sary, qalğandary qara jäne aq. Kem degende 10 birdei tüsti şar boly üşin, jäşıkten qaramai eñ az qanşa şar alu kerek?\nA) 47\nB) 20\nC) 38\nD) 30\n\nJawap: C\n\nSuraq: Qoi men tauyqtyñ 36 basy men 100 aiaqtary bar. Qoi sany qanşa?\nA) 22\nB) 18\nC) 14\nD) 12\n\nJawap: C\n\n",
+        "input": "Suraq: Qalalyq keñeste ötken sailauda 7 partiağa 22 410 dauys berıldı. Bir partia basqalarynan köp dauys jinağan bolsa, ol partia qanşalyqty az dauyspen jeñiske jetken bolyy mümkın?\nA) 2410\nB) 3203\nC) 22410\nD) 3202\n\nJawap: "
+    }
+]
