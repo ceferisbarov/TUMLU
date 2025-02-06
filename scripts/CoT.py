@@ -10,16 +10,23 @@ import google.generativeai as genai
 from tqdm import tqdm
 from dotenv import load_dotenv
 
-from utils import MODEL_NAMES, FEW_SHOT_PROMPTS, TEST_PROMPTS, format_fewshot_prompt, format_CoT_prompt, shuffle_choices
+from utils import (
+    MODEL_NAMES,
+    FEW_SHOT_PROMPTS,
+    TEST_PROMPTS,
+    format_fewshot_prompt,
+    format_CoT_prompt,
+    shuffle_choices,
+)
 
 load_dotenv(".env")
 
-METHOD="CoT" # or "fewshot"
+METHOD = "CoT"  # or "fewshot"
 TEMPERATURE = 0.0
 MAX_TOKENS = 1024
 TOP_P = 1.0
 TEST_COUNT = 100
-LANGUAGE = "azerbaijani"
+LANGUAGE = "turkish"
 SUBJECT_LIST_TEST = glob(f"data/{LANGUAGE}/test/*.jsonl")
 SUBJECT_DICT = {}
 
@@ -38,6 +45,12 @@ for MODEL_NAME in MODEL_NAMES:
 
     elif "gemini" in MODEL_NAME:
         genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+
+    elif MODEL_NAME == "deepseek-chat":
+        client = OpenAI(
+            api_key=os.environ["DEEPSEEK_API_KEY"], base_url="https://api.deepseek.com/"
+        )
+
     elif "qwen" in MODEL_NAME.lower() or "llama" in MODEL_NAME.lower():
         client = OpenAI(
             api_key=os.environ["DEEPINFRA_API_KEY"],
@@ -94,7 +107,7 @@ for MODEL_NAME in MODEL_NAMES:
         problem_indexes = []
         output_dicts = []
         system = content["dev"]
-        print("Subject: ", subject)
+        print("Subject: ", subject, ", Model: ", MODEL_NAME)
         for q in tqdm(doc[:TEST_COUNT]):
             shuffled_choices, shuffled_answer = shuffle_choices(
                 q["choices"], q["answer"]

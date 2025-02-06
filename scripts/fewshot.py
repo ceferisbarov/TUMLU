@@ -10,7 +10,14 @@ import google.generativeai as genai
 from tqdm import tqdm
 from dotenv import load_dotenv
 
-from utils import MODEL_NAMES, FEW_SHOT_PROMPTS, TEST_PROMPTS, ANSWER_DICT, format_question, shuffle_choices
+from utils import (
+    MODEL_NAMES,
+    FEW_SHOT_PROMPTS,
+    TEST_PROMPTS,
+    ANSWER_DICT,
+    format_question,
+    shuffle_choices,
+)
 
 load_dotenv(".env")
 
@@ -30,10 +37,9 @@ for MODEL_NAME in MODEL_NAMES:
 
     if MODEL_NAME == "gpt-4o-2024-11-20":
         client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
-    elif MODEL_NAME == "deepsek-chat":
+    elif MODEL_NAME == "deepseek-chat":
         client = OpenAI(
-            api_key=os.environ["DEEPSEEK_API_KEY"],
-            base_url="https://api.deepseek.com/"
+            api_key=os.environ["DEEPSEEK_API_KEY"], base_url="https://api.deepseek.com/"
         )
     elif "claude" in MODEL_NAME:
         client = Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
@@ -93,7 +99,7 @@ for MODEL_NAME in MODEL_NAMES:
         problem_indexes = []
         output_dicts = []
         system = content["dev"]
-        print("Subject: ", subject)
+        print("Subject: ", subject, ", Model: ", MODEL_NAME)
         for q in tqdm(doc[:TEST_COUNT]):
             shuffled_choices, shuffled_answer = shuffle_choices(
                 q["choices"], q["answer"]

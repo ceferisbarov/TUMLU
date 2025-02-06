@@ -28,7 +28,7 @@ MODEL_NAMES = [
     "Qwen/Qwen2.5-72B-Instruct",
     "claude-3-5-sonnet-20241022",
     "claude-3-5-haiku-20241022",
-    "deepseek-chat",
+    # "deepseek-chat",
 ]
 
 FEW_SHOT_PROMPTS = {
@@ -206,7 +206,7 @@ def find_matching_pattern(text, language):
     """
     Given an LLM output, matches it to A, B, C, or D.
     """
-    text = re.sub(r'\s+', ' ', text)
+    text = re.sub(r"\s+", " ", text)
     text = text.replace("*", "")
     text = text.replace("А", "A")
     text = text.replace("В", "B")
