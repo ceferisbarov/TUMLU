@@ -2,58 +2,185 @@ import os
 import json
 from itertools import product
 import pandas as pd
+from typing import Dict, List, Optional
+from pathlib import Path
 
 from utils import LANGUAGES, MODEL_NAMES, get_acc
 
-results = pd.DataFrame({"language": [], "model": [], "subject": [], "accuracy": []})
-for pair in product(LANGUAGES, MODEL_NAMES):
-    #  print(pair)
-    language, model = pair
-    base_path = f"data/{language}/outputs/no_cot_instruct/{model}/"
-
-    if not os.path.exists(base_path):
-        continue
-    for subject in os.listdir(base_path):
-        path = base_path + subject
-        if not os.path.exists(path):
-            results.loc[results.shape[0] + 1] = (language, model, subject.lower(), None)
-            continue
-
-        with open(path, "r") as f:
-            data = json.load(f)
-        accuracy = 100 * round(get_acc(data, language), 4)
-        results.loc[results.shape[0] + 1] = (language, model, subject.lower(), accuracy)
-
-
-output_dir = 'results'
-if not os.path.exists(output_dir):
-    os.makedirs(output_dir)
-
-results.to_csv(os.path.join(output_dir, "results.csv"), index=False)
-
-
-# Convert accuracy to numeric, coercing errors to NaN
-results['accuracy'] = pd.to_numeric(results['accuracy'], errors='coerce')
-
-# Process data for each language
-for language in results['language'].unique():
-    print(f"\n=== {language.upper()} ===")
+def load_and_process_data(
+    base_dir: str,
+    languages: list[str],
+    model_names: list[str],
+    get_acc_fn
+) -> pd.DataFrame:
+    """
+    Load and process model evaluation data from the specified directory structure.
     
-    # Create a table with subject-specific scores and overall stats
-    lang_data = results[results['language'] == language].pivot(
-        index='model',
-        columns='subject',
-        values='accuracy'
+    Args:
+        base_dir: Root directory containing the data
+        languages: List of language codes to process
+        model_names: List of model names to evaluate
+        get_acc_fn: Function to calculate accuracy from raw data
+        
+    Returns:
+        DataFrame containing processed results
+    """
+    results = []
+    
+    for language, model in product(languages, model_names):
+        base_path = Path(base_dir) / language / "outputs/no_cot_instruct" / model
+        
+        if not base_path.exists():
+            continue
+            
+        for subject_file in base_path.iterdir():
+            subject = subject_file.name.lower().replace('.json', '')  # This is line we changed
+
+            try:
+                if not subject_file.is_file():
+                    results.append({
+                        "language": language,
+                        "model": model,
+                        "subject": subject,
+                        "accuracy": None
+                    })
+                    continue
+                    
+                data = json.loads(subject_file.read_text())
+                accuracy = 100 * round(get_acc_fn(data, language), 4)
+                
+                results.append({
+                    "language": language,
+                    "model": model,
+                    "subject": subject,
+                    "accuracy": accuracy
+                })
+                
+            except Exception as e:
+                print(f"Error processing {subject_file}: {str(e)}")
+                continue
+    
+    return pd.DataFrame(results)
+
+def generate_language_statistics(
+    results: pd.DataFrame,
+    output_dir: str
+) -> dict[str, pd.DataFrame]:
+    """
+    Generate and save statistics for each language.
+    
+    Args:
+        results: DataFrame containing the processed results
+        output_dir: Directory to save the output statistics
+        
+    Returns:
+        Dictionary mapping language codes to their statistics DataFrames
+    """
+    Path(output_dir).mkdir(exist_ok=True)
+    language_stats = {}
+    
+    for language in results['language'].unique():
+        # print(f"\n=== {language.upper()} ===")
+        
+        # Create pivot table with subject-specific scores
+        lang_data = results[results['language'] == language].pivot(
+            index='model',
+            columns='subject',
+            values='accuracy'
+        )
+        
+        # Add summary statistics
+        lang_data['mean'] = lang_data.mean(axis=1).round(2)
+        lang_data['std'] = lang_data.std(axis=1).round(2)
+        
+        # Sort by mean score
+        lang_data = lang_data.sort_values('mean', ascending=False)
+        
+        # Print and save results
+        # print("\nResults (including subject scores and overall statistics):")
+        # print(lang_data.round(2))
+        
+        output_path = Path(output_dir) / f'{language}_stats.csv'
+        lang_data.to_csv(output_path)
+        print(f"Saved statistics for {language} at {output_path}")
+        
+        language_stats[language] = lang_data
+        
+    return language_stats
+
+
+def generate_model_tables(
+    results: pd.DataFrame,
+    output_dir: str
+) -> None:
+    """
+    Generate CSV tables for each model showing performance across languages and subjects.
+    
+    Args:
+        results: DataFrame containing the processed results
+        output_dir: Directory to save the CSV tables
+    """
+    tables_dir = Path(output_dir)
+    tables_dir.mkdir(exist_ok=True)
+    
+    # Get unique subjects and sort them
+    subjects = sorted(results['subject'].unique())
+    
+    for model in results['model'].unique():
+        # Create pivot table for this model
+        model_data = results[results['model'] == model].pivot(
+            index='language',
+            columns='subject',
+            values='accuracy'
+        )
+        
+        # Round values
+        model_data = model_data.round(2)
+        
+        # Calculate mean for each language
+        model_data['mean'] = model_data.mean(axis=1).round(2)
+        
+        # Calculate mean for each subject
+        means = model_data.mean().round(2)
+        model_data.loc['mean'] = means
+        
+        # Save to CSV
+        model_filename = model.lower().replace('/', '_')
+        output_path = tables_dir / f"{model_filename}_table.csv"
+        model_data.to_csv(output_path)
+        print(f"Generated table for {model} at {output_path}")
+
+
+
+def main():
+    # Configuration
+    base_dir = "data"
+    output_dir = "results"
+
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+    
+    # Load results
+    results = load_and_process_data(
+        base_dir=base_dir,
+        languages=LANGUAGES,
+        model_names=MODEL_NAMES,
+        get_acc_fn=get_acc
     )
     
-    # Add mean and std columns
-    lang_data['mean'] = lang_data.mean(axis=1).round(2)  # Calculate mean across all subjects
-    lang_data['std'] = lang_data.std(axis=1).round(2)    # Calculate standard deviation across all subjects
+    # Save overall results
+    results.to_csv(Path(output_dir) / "results.csv", index=False)
     
-    # sort by mean
-    lang_data = lang_data.sort_values('mean', ascending=False)
+    # Convert accuracy to numeric, handling errors
+    results['accuracy'] = pd.to_numeric(results['accuracy'], errors='coerce')
+    
+    # Generate per-language statistics
+    language_stats = generate_language_statistics(results, output_dir + "/language_stats")
+    
+    # Generate LaTeX tables
+    generate_model_tables(results, output_dir + "/model_stats")
 
-    # Print and save results
-    print("\nResults (including subject scores and overall statistics):")
-    print(lang_data.round(2))
-    lang_data.to_csv(os.path.join(output_dir, f'{language}_stats.csv'))
+    return results, language_stats
+
+if __name__ == "__main__":
+    main()
