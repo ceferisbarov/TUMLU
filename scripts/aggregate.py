@@ -46,7 +46,7 @@ def load_and_process_data(
                     })
                     continue
                     
-                data = json.loads(subject_file.read_text())
+                data = json.loads(subject_file.read_text(encoding="utf-8"))
                 accuracy = 100 * round(get_acc_fn(data, language), 4)
                 
                 results.append({
@@ -150,7 +150,153 @@ def generate_model_tables(
         model_data.to_csv(output_path)
         print(f"Generated table for {model} at {output_path}")
 
+def generate_latex_per_language(results, output_dir = "results\\tables\\language") -> None:
+    """
+    Generate LaTeX tables for each language showing accuracy scores per subject.
 
+    Args:
+        results (pd.DataFrame): DataFrame containing processed results.
+        output_dir (str): Directory to save LaTeX tables.
+    """
+    tables_dir = Path(output_dir)
+    tables_dir.mkdir(parents=True, exist_ok=True)
+
+    for language in results['language'].unique():
+        lang_data = results[results['language'] == language].pivot(
+            index='model',
+            columns='subject',
+            values='accuracy'
+        )
+
+        lang_data = lang_data.sort_index(axis=1)  # Sort subjects (columns) alphabetically
+        lang_data = lang_data.sort_index(axis=0)  # Sort models (index) alphabetically
+        lang_data.fillna('-', inplace=True) # fill none values wit '-'
+
+        latex_template = """\\begin{table*}
+\\centering
+\\begin{tabular}{l<cols>}
+\\hline
+\\textbf{Model} & <subjects>\\\\
+\\hline
+<data> \\\\
+\\hline
+\\end{tabular}
+\\caption{<caption>}
+\\label{tab:<tag>}
+\\end{table*}"""
+
+        # declaring centered cols
+        num_columns = len(lang_data.columns)
+        cols = 'c'*num_columns
+        latex_template = latex_template.replace("<cols>", cols)
+
+        # putting subject names as header
+        column_names = lang_data.columns.tolist()
+        column_names = ['\\textbf{'+i.capitalize()+'}' for i in column_names]
+        subjects = ' & '.join(column_names)
+        latex_template = latex_template.replace("<subjects>", subjects)
+
+        # put data in its place
+        rows = lang_data.values.tolist()
+        model_names = lang_data.index.tolist()
+        for i in range(len(rows)):
+            row = rows[i]
+            model = model_names[i]
+            row = [model.capitalize()] + [f'{acc:.2f}' if not isinstance(acc, str) else acc for acc in row]
+            row = ' & '.join(row)
+            rows[i] = row
+        data = ' \\\\\n'.join(rows)
+        latex_template = latex_template.replace("<data>", data)
+
+        # putting the caption
+        caption=f"Accuracy scores for {language.upper()} models across subjects."
+        latex_template = latex_template.replace("<caption>", caption)
+
+        # putting the tag
+        tag = f"{language}_accuracy"
+        latex_template = latex_template.replace("<tag>", tag)
+
+        # Save to file
+        output_path = tables_dir / f"{language}.tex"
+        with open(output_path, "w") as f:
+            f.write(latex_template)
+
+        print(f"Generated LaTeX table for {language} at {output_path}")
+
+def generate_latex_per_model(results, output_dir = "results\\tables\\model") -> None:
+    """
+    Generate LaTeX tables for each language showing accuracy scores per subject.
+
+    Args:
+        results (pd.DataFrame): DataFrame containing processed results.
+        output_dir (str): Directory to save LaTeX tables.
+    """
+    tables_dir = Path(output_dir)
+    tables_dir.mkdir(parents=True, exist_ok=True)
+
+    for model in results['model'].unique():
+        # Create pivot table for this model
+        model_data = results[results['model'] == model].pivot(
+            index='language',
+            columns='subject',
+            values='accuracy'
+        )
+
+        model_data = model_data.sort_index(axis=1)  # Sort subjects (columns) alphabetically
+        model_data = model_data.sort_index(axis=0)  # Sort languages (index) alphabetically
+        model_data.fillna('-', inplace=True) # fill none values wit '-'
+
+        latex_template = """\\begin{table*}
+\\centering
+\\begin{tabular}{l<cols>}
+\\hline
+\\textbf{Languages} & <subjects>\\\\
+\\hline
+<data> \\\\
+\\hline
+\\end{tabular}
+\\caption{<caption>}
+\\label{tab:<tag>}
+\\end{table*}"""
+
+        # declaring centered cols
+        num_columns = len(model_data.columns)
+        cols = 'c'*num_columns
+        latex_template = latex_template.replace("<cols>", cols)
+
+        # putting subject names as header
+        column_names = model_data.columns.tolist()
+        column_names = ['\\textbf{'+i.capitalize()+'}' for i in column_names]
+        subjects = ' & '.join(column_names)
+        latex_template = latex_template.replace("<subjects>", subjects)
+
+        # put data in its place
+        rows = model_data.values.tolist()
+        lang_names = model_data.index.tolist()
+        for i in range(len(rows)):
+            row = rows[i]
+            lang = lang_names[i]
+            row = [lang.capitalize()] + [f'{acc:.2f}' if not isinstance(acc, str) else acc for acc in row]
+            row = ' & '.join(row)
+            rows[i] = row
+        data = ' \\\\\n'.join(rows)
+        latex_template = latex_template.replace("<data>", data)
+
+        # putting the caption
+        caption=f"Accuracy scores for {model.upper()} model across languages."
+        latex_template = latex_template.replace("<caption>", caption)
+
+        # putting the tag
+        tag = f"{model}_accuracy"
+        latex_template = latex_template.replace("<tag>", tag)
+
+        # Save to file
+        model_filename = model.lower().replace('/', '_')
+        output_path = tables_dir / f"{model_filename}.tex"
+        with open(output_path, "w") as f:
+            f.write(latex_template)
+
+        print(f"Generated LaTeX table for {model} at {output_path}")
 
 def main():
     # Configuration
@@ -177,8 +323,12 @@ def main():
     # Generate per-language statistics
     language_stats = generate_language_statistics(results, output_dir + "/language_stats")
     
-    # Generate LaTeX tables
+    # Generate model tables in csv
     generate_model_tables(results, output_dir + "/model_stats")
+
+    # Generate LaTeX tables
+    generate_latex_per_language(results)
+    generate_latex_per_model(results)
 
     return results, language_stats
 
