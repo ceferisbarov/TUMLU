@@ -150,6 +150,32 @@ def generate_model_tables(
         model_data.to_csv(output_path)
         print(f"Generated table for {model} at {output_path}")
 
+def clean(results):
+
+    subject_dict = {
+        "Logic": ["logic"],
+        "Maths": ["math", "maths", "mathematics"],
+        "Physics": ["phsyics", "physics"],
+        "Chemistry": ["chemistry"],
+        "Biology": ["biology"],
+        "Geography": ["geography"],
+        "History": ["history of russia", "history", "history-of-kazakhstan"],
+        "Native L&L": ["turkish_language_and_literature", "uyghur_literature&grammar", "kazakh", "language", "language & literature", "language and literature"],
+        "Human and Society": ["human & society"],
+        "Philosophy": ["philosophy"],
+        "Religion and Ethics": ["religion_and_ethics"]
+    }
+
+    subjects_to_skip = ["computer science", "world-history", "Logic", "Religion and Ethics", "Human and Society", "Philosophy"]
+
+    # Replacing subject names
+    results["subject"] = results["subject"].replace({v: k for k, values in subject_dict.items() for v in values})
+
+    # Dropping rows with subjects in subjects_to_skip
+    results = results[~results["subject"].isin(subjects_to_skip)]
+
+    return results
+
 def generate_latex_per_language(results, output_dir) -> None:
     """
     Generate LaTeX tables for each language showing accuracy scores per subject.
@@ -158,6 +184,9 @@ def generate_latex_per_language(results, output_dir) -> None:
         results (pd.DataFrame): DataFrame containing processed results.
         output_dir (str): Directory to save LaTeX tables.
     """
+
+    results = clean(results)
+
     tables_dir = Path(output_dir)
     tables_dir.mkdir(parents=True, exist_ok=True)
 
@@ -192,7 +221,7 @@ def generate_latex_per_language(results, output_dir) -> None:
 
         # putting subject names as header
         column_names = lang_data.columns.tolist()
-        column_names = ['\\textbf{'+i.capitalize()+'}' for i in column_names]
+        column_names = ['\\textbf{'+i+'}' for i in column_names]
         subjects = ' & '.join(column_names)
         latex_template = latex_template.replace("<subjects>", subjects)
 
@@ -231,6 +260,9 @@ def generate_latex_per_model(results, output_dir) -> None:
         results (pd.DataFrame): DataFrame containing processed results.
         output_dir (str): Directory to save LaTeX tables.
     """
+
+    results = clean(results)
+
     tables_dir = Path(output_dir)
     tables_dir.mkdir(parents=True, exist_ok=True)
 
@@ -266,7 +298,7 @@ def generate_latex_per_model(results, output_dir) -> None:
 
         # putting subject names as header
         column_names = model_data.columns.tolist()
-        column_names = ['\\textbf{'+i.capitalize()+'}' for i in column_names]
+        column_names = ['\\textbf{'+i+'}' for i in column_names]
         subjects = ' & '.join(column_names)
         latex_template = latex_template.replace("<subjects>", subjects)
 
@@ -327,10 +359,10 @@ def main():
     generate_model_tables(results, output_dir + "/model_stats")
 
     # Generate LaTeX tables
-    language_tables_path = os.path.join("results", "tables", "language")
+    language_tables_path = os.path.join(output_dir, "tables", "language")
     generate_latex_per_language(results, language_tables_path)
 
-    model_tables_path = os.path.join("results", "tables", "model")
+    model_tables_path = os.path.join(output_dir, "tables", "model")
     generate_latex_per_model(results, model_tables_path)
 
     return results, language_stats
