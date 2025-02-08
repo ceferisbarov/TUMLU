@@ -46,7 +46,7 @@ def load_and_process_data(
                     })
                     continue
                     
-                data = json.loads(subject_file.read_text())
+                data = json.loads(subject_file.read_text(encoding="utf-8"))
                 accuracy = 100 * round(get_acc_fn(data, language), 4)
                 
                 results.append({
@@ -170,6 +170,7 @@ def generate_latex_per_language(results, output_dir = "results\\tables\\language
 
         lang_data = lang_data.sort_index(axis=1)  # Sort subjects (columns) alphabetically
         lang_data = lang_data.sort_index(axis=0)  # Sort models (index) alphabetically
+        lang_data.fillna('-', inplace=True) # fill none values wit '-'
 
         latex_template = """\\begin{table*}
 \\centering
@@ -201,7 +202,7 @@ def generate_latex_per_language(results, output_dir = "results\\tables\\language
         for i in range(len(rows)):
             row = rows[i]
             model = model_names[i]
-            row = [model.capitalize()] + [f'{acc:.2f}' for acc in row]
+            row = [model.capitalize()] + [f'{acc:.2f}' if not isinstance(acc, str) else acc for acc in row]
             row = ' & '.join(row)
             rows[i] = row
         data = ' \\\\\n'.join(rows)
@@ -243,6 +244,7 @@ def generate_latex_per_model(results, output_dir = "results\\tables\\model") -> 
 
         model_data = model_data.sort_index(axis=1)  # Sort subjects (columns) alphabetically
         model_data = model_data.sort_index(axis=0)  # Sort languages (index) alphabetically
+        model_data.fillna('-', inplace=True) # fill none values wit '-'
 
         latex_template = """\\begin{table*}
 \\centering
@@ -274,7 +276,7 @@ def generate_latex_per_model(results, output_dir = "results\\tables\\model") -> 
         for i in range(len(rows)):
             row = rows[i]
             lang = lang_names[i]
-            row = [lang.capitalize()] + [f'{acc:.2f}' for acc in row]
+            row = [lang.capitalize()] + [f'{acc:.2f}' if not isinstance(acc, str) else acc for acc in row]
             row = ' & '.join(row)
             rows[i] = row
         data = ' \\\\\n'.join(rows)
