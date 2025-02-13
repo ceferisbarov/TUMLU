@@ -1,4 +1,4 @@
-# TurkicMMLU: A Unified and Native Language Understanding Benchmark for Turkic Languages
+# TUMLU: A Unified and Native Language Understanding Benchmark for Turkic Languages
 
 This repo contains the code and data necessary to replicate results of TurkicMMLU paper. Dataset is hosted on [Hugging Face](https://huggingface.co/datasets/allmalab/TurkicMMLU) by aLLMA Lab. **Please, don't submit access requeset with a temporary email.** We approve requests within a day. If delayed, feel free to remind us via email. 
 
@@ -34,6 +34,7 @@ ANTHROPIC_API_KEY=""
 TOGETHER_API_KEY=""
 GEMINI_API_KEY=""
 DEEPINFRA_API_KEY=""
+DEEPSEEK_API_KEY="" # if you also want to test deepseek models
 ```
 
 Run `scripts/fewshot.py` from the base folder to run 5-shot benchmarks. You need to specify models and languages from within the script. If anybody wants to create friendly CLI with Fire, PRs are welcome!
@@ -46,14 +47,18 @@ All issues and PRs are welcome! We are particularly grateful for any feedback on
 Our team consists of the following people, in alphabetical order:
 
 - Abdullatif Köksal
+- Amina Alisheva11
 - Anar Rzayev
+- Ariana Kenbayeva
 - Arofat Akhundjanova
 - Dmitry Gaynullin
-- Duyghu Ataman
+- Duygu Ataman
+- Ilshat Saetov
 - Jafar Isbarov
 - Kavsar Huseynova
 - Mammad Hajili
 - Osman Tursun
+- Rinat Kharisov
 - Samir Rustamov
 - Saule Belginova
 
