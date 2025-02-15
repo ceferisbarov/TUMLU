@@ -1,6 +1,6 @@
 # TUMLU: A Unified and Native Language Understanding Benchmark for Turkic Languages
 
-This repo contains the code and data necessary to replicate results of TurkicMMLU paper. Dataset is hosted on [Hugging Face](https://huggingface.co/datasets/allmalab/TurkicMMLU) by aLLMA Lab. **Please, don't submit access requeset with a temporary email.** We approve requests within a day. If delayed, feel free to remind us via email. 
+This repo contains the code and data necessary to replicate results of TUMLU paper. All experimental results are stored in `data/<LANGUAGE>/outputs` folders. You can analyze those without rerunning the same experiments.
 
 ## Dataset
 TurkicMMLU spans 8 Turkic languages, with plans to add more.
@@ -39,7 +39,7 @@ DEEPSEEK_API_KEY="" # if you also want to test deepseek models
 
 Run `scripts/fewshot.py` from the base folder to run 5-shot benchmarks. You need to specify models and languages from within the script. If anybody wants to create friendly CLI with Fire, PRs are welcome!
 
-All results are stored in `data` directory. `scripts/evaluate.py` can be used to print accuracy of a single language-model combination. `scripts/aggregate.py` creates a CSV file containing all language-model-subject combinations.
+All results are stored in `data` directory. `scripts/evaluate.py` can be used to print accuracy of a single language-model combination. `scripts/aggregate.py` creates CSV files and LaTeX tables containing all language-model-subject combinations.
 
 ## Contributions
 All issues and PRs are welcome! We are particularly grateful for any feedback on data quality, even if it is a simple typo that we have missed.
