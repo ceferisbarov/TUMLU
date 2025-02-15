@@ -11,6 +11,6 @@ for subject in list(set(subjects)):
     Dataset.from_dict(subset[:5]).to_json(
         f"./data/tatar/dev/{subject}.jsonl", force_ascii=False
     )
-    Dataset.from_dict(subset[5:]).to_json(
+    Dataset.from_dict(subset[5:105]).to_json(
         f"./data/tatar/test/{subject}.jsonl", force_ascii=False
     )
