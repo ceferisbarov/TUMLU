@@ -1,6 +1,6 @@
 # TUMLU: A Unified and Native Language Understanding Benchmark for Turkic Languages
 
-This repo contains the code and data necessary to replicate results of TUMLU paper. All experimental results are stored in `data/<LANGUAGE>/outputs` folders. You can analyze those without rerunning the same experiments.
+This repo contains the code and data necessary to replicate results of [TUMLU paper](https://arxiv.org/abs/2502.11020). All experimental results are stored in `data/<LANGUAGE>/outputs` folders. You can analyze those without rerunning the same experiments.
 
 ## Dataset
 TurkicMMLU spans 8 Turkic languages, with plans to add more.
