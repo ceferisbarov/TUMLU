@@ -47,10 +47,11 @@ All issues and PRs are welcome! We are particularly grateful for any feedback on
 Our team consists of the following people, in alphabetical order:
 
 - Abdullatif Köksal
-- Amina Alisheva11
+- Amina Alisheva
 - Anar Rzayev
 - Ariana Kenbayeva
 - Arofat Akhundjanova
+- Aizirek Turdubaeva
 - Dmitry Gaynullin
 - Duygu Ataman
 - Ilshat Saetov
@@ -65,7 +66,13 @@ Our team consists of the following people, in alphabetical order:
 ## Citation
 If you use this dataset or code in your work, please, cite us:
 ```bib
-{
-    placeholder
+@misc{isbarov2025tumluunifiednativelanguage,
+    title={TUMLU: A Unified and Native Language Understanding Benchmark for Turkic Languages}, 
+    author={Jafar Isbarov and Arofat Akhundjanova and Mammad Hajili and Kavsar Huseynova and Dmitry Gaynullin and Anar Rzayev and Osman Tursun and Ilshat Saetov and Rinat Kharisov and Saule Belginova and Ariana Kenbayeva and Amina Alisheva and Aizirek Turdubaeva and Abdullatif Köksal and Samir Rustamov and Duygu Ataman},
+    year={2025},
+    eprint={2502.11020},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL},
+    url={https://arxiv.org/abs/2502.11020}, 
 }
 ```
