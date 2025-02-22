@@ -1,6 +1,6 @@
 # TUMLU: A Unified and Native Language Understanding Benchmark for Turkic Languages
 
-This repo contains the code and data necessary to replicate results of [TUMLU paper](https://arxiv.org/abs/2502.11020). All experimental results are stored in `data/<LANGUAGE>/outputs` folders. You can analyze those without rerunning the same experiments.
+This repo contains the code and data necessary to replicate results of [TUMLU paper](https://arxiv.org/abs/2502.11020). TUMLU-mini dataset is located in `data/<LANGUAGE>/test` folders. All experimental results are stored in `data/<LANGUAGE>/outputs` folders. You can analyze those without rerunning the same experiments. 
 
 ## Dataset
 TurkicMMLU spans 8 Turkic languages, with plans to add more.
@@ -34,7 +34,7 @@ All questions are at middle- and high-school level. All questions are native, i.
 | Qwen2.5 7B        | 42.1 | 48.0 | 42.6 | 37.2 | 45.0 | 40.5 | 55.6 | 33.4 | 34.6 |
 | Llama 3.1 8B      | 40.1 | 48.4 | 35.7 | 33.4 | 46.4 | 44.1 | 47.7 | 35.0 | 29.9 |
 
-# 5-shot chain-of-thought results
+### 5-shot chain-of-thought results
 | Model | Mean | aze | kaz | tur | uzb |
 |-------|------|-----|-----|-----|-----|
 | Claude 3.5 Sonnet | 83.0 | **87.1 (+2.7)** | **84.1 (+1.1)** | **87.9 (+2.1)** | **72.9 (+3.7)** |
@@ -103,7 +103,7 @@ Our team consists of the following people, in alphabetical order:
 If you use this dataset or code in your work, please, cite us:
 ```bib
 @misc{isbarov2025tumluunifiednativelanguage,
-    title={TUMLU: A Unified and Native Language Understanding Benchmark for Turkic Languages}, 
+    title={{TUMLU: A Unified and Native Language Understanding Benchmark for Turkic Languages}}, 
     author={Jafar Isbarov and Arofat Akhundjanova and Mammad Hajili and Kavsar Huseynova and Dmitry Gaynullin and Anar Rzayev and Osman Tursun and Ilshat Saetov and Rinat Kharisov and Saule Belginova and Ariana Kenbayeva and Amina Alisheva and Aizirek Turdubaeva and Abdullatif Köksal and Samir Rustamov and Duygu Ataman},
     year={2025},
     eprint={2502.11020},
