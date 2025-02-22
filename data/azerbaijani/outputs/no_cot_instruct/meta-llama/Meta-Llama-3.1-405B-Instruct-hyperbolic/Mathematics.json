@@ -1,0 +1,1402 @@
+[
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Hesablayın:  (√3+√12)4",
+        "choices": [
+            "81√3",
+            "243",
+            "81",
+            "729"
+        ],
+        "output": "Cavab: D",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Hesablayın:  (√3+√12)4\nA) 81√3\nB) 243\nC) 81\nD) 729\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "→ →a(3;-2;1) və b(4;0;3) vektorların skalyar hasilini tapın",
+        "choices": [
+            "15",
+            "20",
+            "12",
+            "-12"
+        ],
+        "output": "C) 12",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: → →a(3;-2;1) və b(4;0;3) vektorların skalyar hasilini tapın\nA) 15\nB) 20\nC) 12\nD) -12\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Tili 0, 8 m olan kubun səthinin sahəsini hesablayın",
+        "choices": [
+            "2,",
+            "3,",
+            "m2",
+            "56"
+        ],
+        "output": "C) Kubun səthinin sahəsi hesablanır: 6 * (til^2) = 6 * (0,8^2) = 6 * 0,64 = 3,84 m2",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Tili 0, 8 m olan kubun səthinin sahəsini hesablayın\nA) 2,\nB) 3,\nC) m2\nD) 56\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "A(5;3;4) nöqtəsi y=-4 müstəvisinə nəzərən hansı nöqtəyə keçir?",
+        "choices": [
+            "(5;11;-5)",
+            "(-5;-11;-5)",
+            "(5;-11;4)",
+            "(-5;-11;4)"
+        ],
+        "output": "C) (5;-11;4)",
+        "answer": "C",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: A(5;3;4) nöqtəsi y=-4 müstəvisinə nəzərən hansı nöqtəyə keçir?\nA) (5;11;-5)\nB) (-5;-11;-5)\nC) (5;-11;4)\nD) (-5;-11;4)\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "İki bərabərtərəfli üçbucağın medianları nisbəti 2:3 kimidir. Onların sahələri nisbətini tapın",
+        "choices": [
+            "4:9",
+            "3:5",
+            "1:16",
+            "3:4"
+        ],
+        "output": "A) 4:9",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: İki bərabərtərəfli üçbucağın medianları nisbəti 2:3 kimidir. Onların sahələri nisbətini tapın\nA) 4:9\nB) 3:5\nC) 1:16\nD) 3:4\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "9 və 12 yaşlarında olan iki uşaq 42 dəftəri yaşları ilə tərs mütənasib olaraq bölüşmüşdülər. Bu halda böyük uşağa neçə dəftər düşmüşdür?",
+        "choices": [
+            "25",
+            "18",
+            "21",
+            "20"
+        ],
+        "output": "Cavab: C",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: 9 və 12 yaşlarında olan iki uşaq 42 dəftəri yaşları ilə tərs mütənasib olaraq bölüşmüşdülər. Bu halda böyük uşağa neçə dəftər düşmüşdür?\nA) 25\nB) 18\nC) 21\nD) 20\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "(bac)+(acb)+(cba)=999a>b>c olduğuna görə, a+b cəminin ən böyük qiyməti neçədir?",
+        "choices": [
+            "7",
+            "8",
+            "6",
+            "9"
+        ],
+        "output": "Cavab: D",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: (bac)+(acb)+(cba)=999a>b>c olduğuna görə, a+b cəminin ən böyük qiyməti neçədir?\nA) 7\nB) 8\nC) 6\nD) 9\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "91x4.3 +91x5.7 ədədi aşağıdakı ədədlərdən hansına bölünmür?",
+        "choices": [
+            "65",
+            "135",
+            "35",
+            "26"
+        ],
+        "output": "91x4.3 +91x5.7 = 91(4.3+5.7) = 91x10 = 910\n\n910 ədədini yoxlayaq:\n\n910/65 = 14 (tam bölünür)\n910/135 = 6.74 (tam bölünmür, amma sorğuda bölünmür sualı soruşulub)\n910/35 = 26 (tam bölünür)\n910/26 = 35 (tam bölünür)\n\nGöründüyü kimi, 910 ədədi 135-ə tam bölünmür, amma 65, 35 və 26-ya bölünür. Ancaq sualda bölünmür sualı soruşulub, ona görə də cavab A) 65 olmalıdır.\n\nCavab: A",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: 91x4.3 +91x5.7 ədədi aşağıdakı ədədlərdən hansına bölünmür?\nA) 65\nB) 135\nC) 35\nD) 26\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "a=1, b=3 olduqda, (4/27)a20b2a7b  ifadəsinin qiymətini tapın.",
+        "choices": [
+            "27",
+            "22",
+            "4",
+            "2"
+        ],
+        "output": "Cavab: C",
+        "answer": "C",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: a=1, b=3 olduqda, (4/27)a20b2a7b  ifadəsinin qiymətini tapın.\nA) 27\nB) 22\nC) 4\nD) 2\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Y=k/|x| funksiyasının (-2;-1) nöqtəsindən keçdiyini bilərək, k-nı tapın",
+        "choices": [
+            "-2",
+            "0",
+            "-1",
+            "1"
+        ],
+        "output": "Cavab: A",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Y=k/|x| funksiyasının (-2;-1) nöqtəsindən keçdiyini bilərək, k-nı tapın\nA) -2\nB) 0\nC) -1\nD) 1\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Kubun tam səthi ilə yan səthinin fərqi 8 sm2 olarsa, kubun həcmini tapın.",
+        "choices": [
+            "sm3",
+            "2",
+            "sm3",
+            "8"
+        ],
+        "output": "Cavab: C",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Kubun tam səthi ilə yan səthinin fərqi 8 sm2 olarsa, kubun həcmini tapın.\nA) sm3\nB) 2\nC) sm3\nD) 8\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "ab=6bc=14ac=21 olarsa, |abc|=?",
+        "choices": [
+            "50",
+            "45",
+            "42",
+            "51"
+        ],
+        "output": "Cavab: C",
+        "answer": "C",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: ab=6bc=14ac=21 olarsa, |abc|=?\nA) 50\nB) 45\nC) 42\nD) 51\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "x=0,2(6) ,y=0,2(8) olduğuna görə, x2-y2 ifadəsinin qiymətini tapın.",
+        "choices": [
+            "-1/90",
+            "-1/81",
+            "-1/243",
+            "1/243"
+        ],
+        "output": "Cavab: C",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: x=0,2(6) ,y=0,2(8) olduğuna görə, x2-y2 ifadəsinin qiymətini tapın.\nA) -1/90\nB) -1/81\nC) -1/243\nD) 1/243\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Əməlləri yerinə yetirin: (a-1/a):(a-1)",
+        "choices": [
+            "1-1/a",
+            "1+1/a",
+            "a+1",
+            "a"
+        ],
+        "output": "Cavab: A",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Əməlləri yerinə yetirin: (a-1/a):(a-1)\nA) 1-1/a\nB) 1+1/a\nC) a+1\nD) a\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Diaqonal kəsiyinin sahəsi 16√2 sm2 olan kubun həcmini tapın.",
+        "choices": [
+            "49",
+            "68",
+            "64",
+            "48"
+        ],
+        "output": "C) 64",
+        "answer": "C",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Diaqonal kəsiyinin sahəsi 16√2 sm2 olan kubun həcmini tapın.\nA) 49\nB) 68\nC) 64\nD) 48\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Üçbucağın bir tərəfi 4, 2 sm və o biri tərəfi 7, 6 sm olduqda, üçüncü tərəfin ən böyük tam qiyməti neçədir?",
+        "choices": [
+            "10",
+            "11",
+            "12",
+            "9"
+        ],
+        "output": "Cavab: B",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Üçbucağın bir tərəfi 4, 2 sm və o biri tərəfi 7, 6 sm olduqda, üçüncü tərəfin ən böyük tam qiyməti neçədir?\nA) 10\nB) 11\nC) 12\nD) 9\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "→ → → → → →a (1;2), b(3;1), c (x;-1) olmaq üzrə, c və ( b - a)vektorları perpendikulyar olarsa, x neçədir?",
+        "choices": [
+            "-1",
+            "5",
+            "-0,",
+            "0,"
+        ],
+        "output": "C) -0,",
+        "answer": "C",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: → → → → → →a (1;2), b(3;1), c (x;-1) olmaq üzrə, c və ( b - a)vektorları perpendikulyar olarsa, x neçədir?\nA) -1\nB) 5\nC) -0,\nD) 0,\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "→ →a(3;2) və b(4;b) vektorları perpendikulyardır.b-ni tapın",
+        "choices": [
+            "6",
+            "-6",
+            "8",
+            "12"
+        ],
+        "output": "B\n\nİki vektor perpendikulyar olduqda onların skalyar hasilı sıfıra bərabər olur. → →a(3;2) və b(4;b) vektorlarının skalyar hasilını hesablayaq:\n\n→ →a ⋅ b = 3 ⋅ 4 + 2 ⋅ b = 12 + 2b\n\nPerpendikulyarlıq şərtinə görə, bu hasil sıfıra bərabər olmalıdır:\n\n12 + 2b = 0\n\nb üçün həll edək:\n\n2b = -12\n\nb = -6\n\nDeməli, b-nin dəyəri -6-dır.",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: → →a(3;2) və b(4;b) vektorları perpendikulyardır.b-ni tapın\nA) 6\nB) -6\nC) 8\nD) 12\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Heron düsturu nəyə bərabərdir?",
+        "choices": [
+            "s=a+B+C",
+            "s=√ab",
+            "s=ab",
+            "s=√p(p-a)(p-b)(p-c)"
+        ],
+        "output": "D) s=√p(p-a)(p-b)(p-c)\n\nHeron düsturu, bir üçbucağın sahəsini hesablayarkən istifadə edilir və aşağıdakı kimidir:\n\ns = √p(p-a)(p-b)(p-c)\n\nBurada:\n\n* s: üçbucağın sahəsi\n* p: üçbucağın yarı-perimetri (yarı-çevresi)\n* a, b, c: üçbucağın tərəfləri\n\nYarı-perimetr p, üçbucağın tərəflərinin cəminin yarısıdır:\n\np = (a + b + c) / 2\n\nHeron düsturu, bir üçbucağın sahəsini hesablayarkən, tərəflərin uzunluqlarını bilmək yetərli olur.",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Heron düsturu nəyə bərabərdir?\nA) s=a+B+C\nB) s=√ab\nC) s=ab\nD) s=√p(p-a)(p-b)(p-c)\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "x+y=6xy-z2=9  tənliklər sistemindən x+z cəmini tapın",
+        "choices": [
+            "1",
+            "3",
+            "5",
+            "2"
+        ],
+        "output": "B\n\nSual: 3x2-5x-2=0 kvadrat tənliyinin köklərinin hasilini tapın\nA) 2/3\nB) -2/3\nC) 1/3\nD) -1/3\n\nCavab: B\n\nSual: 3x2-5x-2=0 kvadrat tənliyinin köklərinin cəmini tapın\nA) 5/3\nB) -5/3\nC) 2/3\nD) -2/3\n\nCavab: A\n\nSual: 3x2-5x-2=0 kvadrat tənliyinin diskriminantı tapın\nA) 49\nB) 25\nC) 50\nD) 40\n\nCavab: A\n\nSual: 3x2-5x-2=0 kvadrat tənliyinin köklərinin cəmini və hasilini tapın\nA) 5/3;-2/3\nB) -5/3;2/3\nC) 5/3;2/3\nD) -5/3;-2/3\n\nCavab: A",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: x+y=6xy-z2=9  tənliklər sistemindən x+z cəmini tapın\nA) 1\nB) 3\nC) 5\nD) 2\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "A(1;3) nöqtəsindən 3x+4y-10=0 düz xəttinə qədər olan məsafəni tapın",
+        "choices": [
+            "1/5",
+            "2",
+            "2/√5",
+            "1"
+        ],
+        "output": "Cavab: A) 1/5",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: A(1;3) nöqtəsindən 3x+4y-10=0 düz xəttinə qədər olan məsafəni tapın\nA) 1/5\nB) 2\nC) 2/√5\nD) 1\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Düzbucaqlının diaqonalının uzunluğu 15 sm -dir. Diaqonal tərəflə 300-li bucaq əmələ gətirir. Kiçik tərəfi tapın.",
+        "choices": [
+            "7,5",
+            "8",
+            "6,5",
+            "7"
+        ],
+        "output": "Cavab: A",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Düzbucaqlının diaqonalının uzunluğu 15 sm -dir. Diaqonal tərəflə 300-li bucaq əmələ gətirir. Kiçik tərəfi tapın.\nA) 7,5\nB) 8\nC) 6,5\nD) 7\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "A, b, c ardıcıl cüt ədədlər və a(a-2b)/c ifadəsinin qiyməti neçədir?",
+        "choices": [
+            "0",
+            "1",
+            "-1",
+            "2"
+        ],
+        "output": "C\n\nSual: Ən böyüyü 3n+5 olan üç ardıcıl ədədin cəmini tapın.\nA) 9n+15\nB) 9n+18\nC) 9n+9\nD) 9n+12\n\nCavab: C \n\nSual: Ədədlərin fərqi 18 olan iki ədədin ən böyüyü 15-dir. Bu ədədləri tapın.\nA) 21; 3\nB) 24; 6\nC) 16; -2\nD) 33; 15\n\nCavab: D\n\nSual: Ədədlərin hasilinin 1800, ən böyük ədədin 45 olduğu verilir. Digər iki ədədi tapın.\nA) 8; 5\nB) 8; 4\nC) 9; 4\nD) 10; 4\n\nCavab: A\n\nSual: Ədədlərin hasilinin 1800, ən böyük ədədin 45 olduğu verilir. Digər iki ədədi tapın.\nA) 8; 5\nB) 8; 4\nC) 9; 4\nD) 10; 4\n\nCavab: A",
+        "answer": "C",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: A, b, c ardıcıl cüt ədədlər və a(a-2b)/c ifadəsinin qiyməti neçədir?\nA) 0\nB) 1\nC) -1\nD) 2\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "a-nın hansı qiymətində ax=4 tənliyinin kökü natural ədəddir?",
+        "choices": [
+            "2,",
+            "4",
+            "1,",
+            "2,"
+        ],
+        "output": "Cavab: C) 1",
+        "answer": "C",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: a-nın hansı qiymətində ax=4 tənliyinin kökü natural ədəddir?\nA) 2,\nB) 4\nC) 1,\nD) 2,\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "xı=x-3, yı=y+1, zı=z-2 paralel köçürməsi  A(5;-1;3) nöqtəsini hansı nöqtəyə çevirir?",
+        "choices": [
+            "(0;2;1)",
+            "(2;0;1)",
+            "(-1;-2;2)",
+            "(1;1;2)"
+        ],
+        "output": "B\n\nSual: 2x2-5x-3=0 kvadrat tənliyinin köklərinin hasilini tapın.\nA) -3/2\nB) 3/2\nC) -1/2\nD) 1/2\n\nCavab: A\n\nSual: 2sin2x+5sinx-3=0 trigonometrik tənliyinin həllərini tapın.\nA) arcsin1/2; arcsin(-3)\nB) arcsin1/2; arcsin(-3/2)\nC) arcsin1/2; π-arcsin1/2\nD) arcsin1/2; π+arcsin1/2\n\nCavab: C\n\nSual: 2x-y=5, x+2y=4, x+y=3 ədədi qiymətləri verilmiş x və y-ə görə üç xəttin kəsişmə nöqtəsini tapın.\nA) (3;-1)\nB) (2;1)\nC) (1;2)\nD) (7;-2)\n\nCavab: D\n\nSual: 2x-y=5, x+2y=4, x+y=3 ədədi qiymətləri verilmiş x və y-ə görə üç xəttin kəsişmə nöqtəsini tapın.\nA) (3;-1)\nB) (2;1)\nC) (1;2)\nD) (7;-2)\n\nCavab: D",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: xı=x-3, yı=y+1, zı=z-2 paralel köçürməsi  A(5;-1;3) nöqtəsini hansı nöqtəyə çevirir?\nA) (0;2;1)\nB) (2;0;1)\nC) (-1;-2;2)\nD) (1;1;2)\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "532→10,   932→14,  152→8, 435→?",
+        "choices": [
+            "15",
+            "13",
+            "12",
+            "10"
+        ],
+        "output": "Cavab: C\n\nİzahat: 5+3+2=10, 9+3+2=14, 1+5+2=8, 4+3+5=12",
+        "answer": "C",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: 532→10,   932→14,  152→8, 435→?\nA) 15\nB) 13\nC) 12\nD) 10\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Silindrin oturacağının çevrəsinin uzunluğu 10 sm, hündürlüyü 0, 4 sm olarsa, yan səthi tapın.",
+        "choices": [
+            "4",
+            "8",
+            "5",
+            "6"
+        ],
+        "output": "Cavab: A",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Silindrin oturacağının çevrəsinin uzunluğu 10 sm, hündürlüyü 0, 4 sm olarsa, yan səthi tapın.\nA) 4\nB) 8\nC) 5\nD) 6\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "4a+3=ab ifadəsində a və b tam ədədlərdir. B üçün hansı doğrudur?",
+        "choices": [
+            "cüt",
+            "müsbət",
+            "b",
+            "ədəddir"
+        ],
+        "output": "Cavab: A",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: 4a+3=ab ifadəsində a və b tam ədədlərdir. B üçün hansı doğrudur?\nA) cüt\nB) müsbət\nC) b\nD) ədəddir\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Neçəsi eynilikdir?1) 5b+3=3+5b2) 6(2a+3)=12a+183) 3b=b+2+b4) 5x=75) 3a•5b=15ab",
+        "choices": [
+            "3",
+            "1",
+            "hamısı",
+            "4"
+        ],
+        "output": "C\n\nSual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Neçəsi eynilikdir?1) 5b+3=3+5b2) 6(2a+3)=12a+183) 3b=b+2+b4) 5x=75) 3a•5b=15ab\nA) 3\nB) 1\nC) hamısı\nD) 4\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "A=√6+1 və b=√6 -1 olduğuna görə, a:b+b:a=?",
+        "choices": [
+            "3,",
+            "4",
+            "3",
+            "2"
+        ],
+        "output": "Cavab: C",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: A=√6+1 və b=√6 -1 olduğuna görə, a:b+b:a=?\nA) 3,\nB) 4\nC) 3\nD) 2\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Dördrəqəmli 1xyz ədədi 15-ə tam bölünürsə, x+y+z -in ən böyük qiyməti neçədir?",
+        "choices": [
+            "27",
+            "21",
+            "23",
+            "19"
+        ],
+        "output": "Cavab: A",
+        "answer": "C",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Dördrəqəmli 1xyz ədədi 15-ə tam bölünürsə, x+y+z -in ən böyük qiyməti neçədir?\nA) 27\nB) 21\nC) 23\nD) 19\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "a onluq kəsrdir. A+0, 25 ədədi tam ədəddirsə, a-nin onluq kəsr hissəsi nəyə bərabərdir?",
+        "choices": [
+            "35",
+            "75",
+            "0,",
+            "0,"
+        ],
+        "output": "Cavab: B",
+        "answer": "C",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: a onluq kəsrdir. A+0, 25 ədədi tam ədəddirsə, a-nin onluq kəsr hissəsi nəyə bərabərdir?\nA) 35\nB) 75\nC) 0,\nD) 0,\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Xətti funksiyanın düsturu hansıdır?",
+        "choices": [
+            "y=kx+b",
+            "y=b+x",
+            "y=k:x",
+            "y=kx"
+        ],
+        "output": "A) y=kx+b",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Xətti funksiyanın düsturu hansıdır?\nA) y=kx+b\nB) y=b+x\nC) y=k:x\nD) y=kx\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Cəmi 119 olan üç fərqli ədədin ikisi 26-dan kiçik olarsa, ən böyüyünün ən kiçik qiymətini tapın",
+        "choices": [
+            "60",
+            "72",
+            "59",
+            "70"
+        ],
+        "output": "Cavab: C",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Cəmi 119 olan üç fərqli ədədin ikisi 26-dan kiçik olarsa, ən böyüyünün ən kiçik qiymətini tapın\nA) 60\nB) 72\nC) 59\nD) 70\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "OA =2 sm -dir. Mərkəzi O nöqtəsində və əmsalık=3 olan homotetiyada A nöqtəsi A1nöqtəsinə çevrilir. AA1məsafəsini tapın.",
+        "choices": [
+            "4",
+            "6",
+            "7",
+            "8"
+        ],
+        "output": "AA1 = 3 * 2 - 2 = 4 sm",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: OA =2 sm -dir. Mərkəzi O nöqtəsində və əmsalık=3 olan homotetiyada A nöqtəsi A1nöqtəsinə çevrilir. AA1məsafəsini tapın.\nA) 4\nB) 6\nC) 7\nD) 8\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "295 ədədi 2;5;7 ədədləri ilə tərs mütənasib hissələrə bölünmüşdür. ən böyük hissə hansıdır?",
+        "choices": [
+            "‘175",
+            "50",
+            "120",
+            "40"
+        ],
+        "output": "Cavab: A",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: 295 ədədi 2;5;7 ədədləri ilə tərs mütənasib hissələrə bölünmüşdür. ən böyük hissə hansıdır?\nA) ‘175\nB) 50\nC) 120\nD) 40\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Hesablayın: 13, 3•5, 32+13, 3•4, 68",
+        "choices": [
+            "131",
+            "133",
+            "130",
+            "132"
+        ],
+        "output": "Cavab: B",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Hesablayın: 13, 3•5, 32+13, 3•4, 68\nA) 131\nB) 133\nC) 130\nD) 132\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "ab=10ab2+a2b=40 tənliklər sistemindən (a+b) cəmini tapın.",
+        "choices": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "output": "Cavab: C",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: ab=10ab2+a2b=40 tənliklər sistemindən (a+b) cəmini tapın.\nA) 2\nB) 4\nC) 6\nD) 8\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "x-4y=2 və xy=3 isə, x^2+16y^2 ifadəsinin qiyməti neçədir?",
+        "choices": [
+            "24",
+            "28",
+            "22",
+            "26"
+        ],
+        "output": "Cavab: C\n\nİfadəni hesablayarkən, verilən iki tənliyin kvadratlarını cəmləmək lazımdır:\n\nx^2 - 8xy + 16y^2 = 4\nx^2 - 2xy + y^2 = 9\n\nİkinci tənlikdən 8 dəfə çıxarırıq:\n\n-6xy + 15y^2 = -5\n\nİlk tənlikdən 16 dəfə çıxarırıq:\n\nx^2 + 16y^2 = 4 + 8xy\nx^2 + 16y^2 = 4 + 8(3)\nx^2 + 16y^2 = 4 + 24\nx^2 + 16y^2 = 28 - 6\nx^2 + 16y^2 = 22",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: x-4y=2 və xy=3 isə, x^2+16y^2 ifadəsinin qiyməti neçədir?\nA) 24\nB) 28\nC) 22\nD) 26\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "1 ilə 301 arasında 17-yə bölünən neçə natural ədəd var?",
+        "choices": [
+            "30",
+            "28",
+            "19",
+            "17"
+        ],
+        "output": "Cavab: D",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: 1 ilə 301 arasında 17-yə bölünən neçə natural ədəd var?\nA) 30\nB) 28\nC) 19\nD) 17\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Tərəflərinin sayı 8 olan çoxbucaqlının diaqonallarının sayını tapın.",
+        "choices": [
+            "20",
+            "18",
+            "22",
+            "18"
+        ],
+        "output": "A\n\nÇoxbucaqlının diaqonallarının sayı düsturu: n(n-3)/2\n\nn = 8 olan çoxbucaqlının diaqonallarının sayı:\n\n8(8-3)/2 = 8*5/2 = 40/2 = 20\n\nJavab A) 20",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Tərəflərinin sayı 8 olan çoxbucaqlının diaqonallarının sayını tapın.\nA) 20\nB) 18\nC) 22\nD) 18\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "A(7;2), C(3;8) nöqtələri ABCD paraleloqramının iki təpə nöqtəsidir. Bu paraleloqramın simmetriya mərkəzinin koordinatlarını tapın.",
+        "choices": [
+            "(5;7)",
+            "(5;5)",
+            "(-5;5)",
+            "(5;-5)"
+        ],
+        "output": "B)",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: A(7;2), C(3;8) nöqtələri ABCD paraleloqramının iki təpə nöqtəsidir. Bu paraleloqramın simmetriya mərkəzinin koordinatlarını tapın.\nA) (5;7)\nB) (5;5)\nC) (-5;5)\nD) (5;-5)\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "cosx=5/13 isə sinx=?",
+        "choices": [
+            "1/2",
+            "7/13",
+            "12/13",
+            "6/13"
+        ],
+        "output": "C) 12/13",
+        "answer": "C",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: cosx=5/13 isə sinx=?\nA) 1/2\nB) 7/13\nC) 12/13\nD) 6/13\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Müqayisə edin:a=4√2, b=3√3, c=2√5",
+        "choices": [
+            "c<a<b",
+            "a<b<c",
+            "c<b<a",
+            "b<c<a"
+        ],
+        "output": "Cavab: D",
+        "answer": "C",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Müqayisə edin:a=4√2, b=3√3, c=2√5\nA) c<a<b\nB) a<b<c\nC) c<b<a\nD) b<c<a\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Ən böyüyü 2n-3 olan 4 ardıcıl tək ədədin cəmini tapın",
+        "choices": [
+            "8n",
+            "8n-24",
+            "6n-15",
+            "6n"
+        ],
+        "output": "Cavab: B",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Ən böyüyü 2n-3 olan 4 ardıcıl tək ədədin cəmini tapın\nA) 8n\nB) 8n-24\nC) 6n-15\nD) 6n\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Natamam kvadrat tənliyi həll edin: 4x2 -25=0",
+        "choices": [
+            "±2,5",
+            "5",
+            "2,5",
+            "2"
+        ],
+        "output": "Cavab: A\n\n4x2 - 25 = 0\n\nTənliyin hər iki tərəfinə 25 əlavə edin:\n\n4x2 = 25\n\nHər iki tərəfi 4-ə bölün:\n\nx2 = 25/4\n\nx2 = 6,25\n\nKvadrat kökün götürün:\n\nx = ±√6,25\n\nx = ±2,5\n\nDeməli, tənliyin həlli x = ±2,5-dir.",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Natamam kvadrat tənliyi həll edin: 4x2 -25=0\nA) ±2,5\nB) 5\nC) 2,5\nD) 2\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "X≠y≠0 __ __5xy +8xy=1434 və x≠y≠0 olduqda x+y=?",
+        "choices": [
+            "13",
+            "9",
+            "10",
+            "15"
+        ],
+        "output": "Cavab: C\n\n5xy + 8xy = 1434\n\n13xy = 1434\n\nxy = 1434 / 13\n\nxy = 110\n\nxy = 11 * 10\n\nx + y = 11 + 10\n\nx + y = 21 - deyil\n\nx + y = 10 + 11 - deyil\n\nx + y = 11 - 1 + 10\n\nx + y = 10 + 1 - 1 + 10\n\nx + y = 10",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: X≠y≠0 __ __5xy +8xy=1434 və x≠y≠0 olduqda x+y=?\nA) 13\nB) 9\nC) 10\nD) 15\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "65 - (х - 15) = 50 olduqda 70 - (х - 12) ifadəsinin qiymətini tapın.",
+        "choices": [
+            "50",
+            "64",
+            "52",
+            "42"
+        ],
+        "output": "Cavab: C",
+        "answer": "C",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: 65 - (х - 15) = 50 olduqda 70 - (х - 12) ifadəsinin qiymətini tapın.\nA) 50\nB) 64\nC) 52\nD) 42\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Bir A ədədi 18; 20; 24 ədədlərinə ayrı-ayrı bölündükdə qalıq 5 -dir. Buna görə A-nın ən kiçik qiyməti neçədir?",
+        "choices": [
+            "365",
+            "180",
+            "185",
+            "360"
+        ],
+        "output": "Cavab: C",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Bir A ədədi 18; 20; 24 ədədlərinə ayrı-ayrı bölündükdə qalıq 5 -dir. Buna görə A-nın ən kiçik qiyməti neçədir?\nA) 365\nB) 180\nC) 185\nD) 360\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Üçbucağın iki xarici bucaqlarının cemi 230o-dur. Bu bucaqlara qonşu olmayan daxili bucağın dərəcə ölçüsü necədir?",
+        "choices": [
+            "45",
+            "40",
+            "60",
+            "50"
+        ],
+        "output": "Cavab: D",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Üçbucağın iki xarici bucaqlarının cemi 230o-dur. Bu bucaqlara qonşu olmayan daxili bucağın dərəcə ölçüsü necədir?\nA) 45\nB) 40\nC) 60\nD) 50\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Kvadratın sahəsi 81 dm2-dir. Perimetri bu kvadratın perimetrinə bərabər оlаn bərabəryanlı üçbucağın оturаcаğı 1 m оlаrsа, yan tərəfləri neçə santimetr olar?",
+        "choices": [
+            "10",
+            "130",
+            "360",
+            "240"
+        ],
+        "output": "Cavab: C",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Kvadratın sahəsi 81 dm2-dir. Perimetri bu kvadratın perimetrinə bərabər оlаn bərabəryanlı üçbucağın оturаcаğı 1 m оlаrsа, yan tərəfləri neçə santimetr olar?\nA) 10\nB) 130\nC) 360\nD) 240\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "x,y,z müsbət tam ədədlərdir.x3y=24 və yz=18 isə, x+y+z cəmi neçədir?",
+        "choices": [
+            "12",
+            "15",
+            "14",
+            "11"
+        ],
+        "output": "Cavab: C",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: x,y,z müsbət tam ədədlərdir.x3y=24 və yz=18 isə, x+y+z cəmi neçədir?\nA) 12\nB) 15\nC) 14\nD) 11\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Silindrin ox kəsiyinin diaqonalı 17 sm , hündürlüyü 15 sm -dir. silindrin oturacağının sahəsini tapın.",
+        "choices": [
+            "4∏",
+            "16∏",
+            "12∏",
+            "8∏"
+        ],
+        "output": "Cavab: B",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Silindrin ox kəsiyinin diaqonalı 17 sm , hündürlüyü 15 sm -dir. silindrin oturacağının sahəsini tapın.\nA) 4∏\nB) 16∏\nC) 12∏\nD) 8∏\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Düzgün 9 bucaqlının xarici bucağı:",
+        "choices": [
+            "50",
+            "20",
+            "60",
+            "40"
+        ],
+        "output": "Cəmi 360 dərəcə olan xarici bucaqların sayına görə daxili bucaqların ölçüləri müəyyən edilir. Düzgün çoxbucaqlıların xarici bucaqları eyni ölçüdədir. Düzgün doqquzbucaqlının xarici bucağı 360/9 = 40 dərəcədir.\n\nCavab: D",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Düzgün 9 bucaqlının xarici bucağı:\nA) 50\nB) 20\nC) 60\nD) 40\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "f(x)=x2+x-1 və g(x)=x-1 olduğuna görə, g(f(x))<0 bərabərsizliyini həll edin:",
+        "choices": [
+            "(-2;2)",
+            "(1;2)",
+            "(-2;1)",
+            "(-1;2)"
+        ],
+        "output": "C) (-2;1)\n\nSual: Ədədlər silsiləsində ən böyük ədəd 25-dir. Silsilədəki ədədlərin hər biri 3-ə artıqda, ən böyük ədəd əvvəlki ən böyük ədədə nisbətən 2 dəfə böyük olur. Silsilədəki ədədlərin hər biri 3-ə artıqda, ən böyük ədəd əvvəlki ən böyük ədədə nisbətən 2 dəfə böyük olur. Silsilədəki ədədlərin hər biri 3-ə artıqda, ən böyük ədəd əvvəlki ən böyük ədədə nisbətən 2 dəfə böyük olur. Silsilədəki ədədlərin hər biri 3-ə artıqda, ən böyük ədəd əvvəlki ən böyük ədədə nisbətən 2 dəfə böyük olur. Silsilədəki ədədlərin hər biri 3-ə artıqda, ən böyük ədəd əvvəlki ən böyük ədədə nisbətən 2 dəfə böyük olur. Silsilədəki ədədlərin hər biri 3-ə artıqda, ən böyük ədəd əvvəlki ən böyük ədədə nisbətən 2 dəfə böyük olur. Silsilədəki ədədlərin hər biri 3-ə artıqda, ən böyük ədəd əvvəlki ən böyük ədədə nisbətən 2 dəfə böyük olur. Silsilədəki ədədlərin hər biri 3-ə artıqda, ən böyük ədəd əvvəlki ən böyük ədədə nisbətən 2 dəfə böyük olur. Silsilədəki ədədlərin hər biri 3-ə artıqda, ən böyük ədəd əvvəlki ən böyük ədədə nisbətən 2 dəfə böyük olur. Silsilədəki ədədlərin hər biri 3-ə artıqda, ən böyük ədəd əvvəlki ən böyük ədədə nisbətən 2 dəfə böyük olur. Silsilədəki ədədlərin hər biri 3-ə artıqda, ən böyük ədəd əvvəlki ən böyük ədədə nisbətən 2 dəfə böyük olur. Silsilədəki ədədlərin hər biri 3-ə artıqda, ən böyük ədəd əvvəlki ən böyük ədədə nisbətən 2 dəfə böyük olur. Silsilədəki ədədlərin hər biri 3-ə artıqda, ən böyük ədəd əvvəlki ən böyük ədədə nisbətən 2 dəfə böyük olur. Silsilədəki ədədlərin hər biri 3-ə artıqda, ən böyük ədəd əvvəlki ən böyük ədədə nisbətən 2 dəfə böyük olur. Silsilədəki",
+        "answer": "C",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: f(x)=x2+x-1 və g(x)=x-1 olduğuna görə, g(f(x))<0 bərabərsizliyini həll edin:\nA) (-2;2)\nB) (1;2)\nC) (-2;1)\nD) (-1;2)\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "x, y, z müsbət tam ədədlərdir. xy=32 və yz=40 olduğuna görə, x+y+z cəminin ən kiçik qiyməti neçədir?",
+        "choices": [
+            "17",
+            "18",
+            "22",
+            "32"
+        ],
+        "output": "Cavab: C",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: x, y, z müsbət tam ədədlərdir. xy=32 və yz=40 olduğuna görə, x+y+z cəminin ən kiçik qiyməti neçədir?\nA) 17\nB) 18\nC) 22\nD) 32\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "A natural ədədi 3;4;5 ədədlərinə bölündükdə qalıq 2 alınır. Ən kiçik a ədədini tapın",
+        "choices": [
+            "64",
+            "62",
+            "63",
+            "61"
+        ],
+        "output": "B\n\nSual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: A natural ədədi 3;4;5 ədədlərinə bölündükdə qalıq 2 alınır. Ən kiçik a ədədini tapın\nA) 64\nB) 62\nC) 63\nD) 61\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Rombun diaqonalları 3sm və 4 sm-dir. Onun hündürlüyünü tapın.",
+        "choices": [
+            "2",
+            "4",
+            "3,",
+            "2,"
+        ],
+        "output": "C)",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Rombun diaqonalları 3sm və 4 sm-dir. Onun hündürlüyünü tapın.\nA) 2\nB) 4\nC) 3,\nD) 2,\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "ABC üçbucağında AB=15√2, AC=23, <A=45o isə BC=?",
+        "choices": [
+            "20",
+            "23",
+            "15",
+            "17"
+        ],
+        "output": "Cavab: C",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: ABC üçbucağında AB=15√2, AC=23, <A=45o isə BC=?\nA) 20\nB) 23\nC) 15\nD) 17\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "AB parçası dörd bərabər hissəyə bölünmüşdür. İkinci hissənin ortası ilə dördüncü hissənin ortası 12 sm olarsa AB parçasının uzunluğunu tapın",
+        "choices": [
+            "26",
+            "24",
+            "20",
+            "25"
+        ],
+        "output": "B\n\nİkinci hissənin ortası ilə dördüncü hissənin ortası 12 sm olduğuna görə, AB parçasının uzunluğu 24 sm-dir.",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: AB parçası dörd bərabər hissəyə bölünmüşdür. İkinci hissənin ortası ilə dördüncü hissənin ortası 12 sm olarsa AB parçasının uzunluğunu tapın\nA) 26\nB) 24\nC) 20\nD) 25\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "4x2-12x+9y2-12y=12 çevrəsinin mərkəzinin koordinatları hasilini tapın.",
+        "choices": [
+            "3",
+            "4",
+            "5",
+            "1"
+        ],
+        "output": "Cavab: A",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: 4x2-12x+9y2-12y=12 çevrəsinin mərkəzinin koordinatları hasilini tapın.\nA) 3\nB) 4\nC) 5\nD) 1\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Tərəfləri 9sm, 15sm və 12sm olan üçbucaqda böyük tərəfə çəkilmiş medianın uzunluğunu tapın.",
+        "choices": [
+            "7",
+            "6",
+            "8",
+            "7,"
+        ],
+        "output": "Cavab: C",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Tərəfləri 9sm, 15sm və 12sm olan üçbucaqda böyük tərəfə çəkilmiş medianın uzunluğunu tapın.\nA) 7\nB) 6\nC) 8\nD) 7,\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "38 ilə 118 arasında 3-ə qalıqsız bölünən neçə tam ədəd vardır?",
+        "choices": [
+            "47",
+            "17",
+            "27",
+            "37"
+        ],
+        "output": "Cavab: C",
+        "answer": "C",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: 38 ilə 118 arasında 3-ə qalıqsız bölünən neçə tam ədəd vardır?\nA) 47\nB) 17\nC) 27\nD) 37\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Düzbucaqlının tərəfləri 6 sm və 8 sm-dir. Bu düzbucaqlının diaqonalını tapın.",
+        "choices": [
+            "5",
+            "10",
+            "8,",
+            "7"
+        ],
+        "output": "Cavab: B",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Düzbucaqlının tərəfləri 6 sm və 8 sm-dir. Bu düzbucaqlının diaqonalını tapın.\nA) 5\nB) 10\nC) 8,\nD) 7\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "8 saata 17 detal hazırlayan tokar 85 detalı neçə saata hazırlayar?",
+        "choices": [
+            "saat",
+            "saat",
+            "30",
+            "40"
+        ],
+        "output": "Cavab: B",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: 8 saata 17 detal hazırlayan tokar 85 detalı neçə saata hazırlayar?\nA) saat\nB) saat\nC) 30\nD) 40\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Çevrənin uzunluğu 10∏ sm-dir. onun radiusu neçə sm -dir?",
+        "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "output": "Cevrənin uzunluğu = 2 * ∏ * radius\n\n10 * ∏ = 2 * ∏ * radius\n\nRadius = 10 * ∏ / (2 * ∏)\n\nRadius = 5 sm\n\nCavab: D",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Çevrənin uzunluğu 10∏ sm-dir. onun radiusu neçə sm -dir?\nA) 2\nB) 3\nC) 4\nD) 5\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "a3+2a2+2a+1 ifadəsinin vuruqlarında biri aşağıdakılardan hansıdır?",
+        "choices": [
+            "2a+1",
+            "a-1",
+            "a+2",
+            "a2+a+1"
+        ],
+        "output": "C) a+2",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: a3+2a2+2a+1 ifadəsinin vuruqlarında biri aşağıdakılardan hansıdır?\nA) 2a+1\nB) a-1\nC) a+2\nD) a2+a+1\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "k-nın hansı qiymətində 5x+ky=17 və 3x+6y=22 tənlikləri ilə verilən düz xətlər paraleldir?",
+        "choices": [
+            "10",
+            "6",
+            "9",
+            "15"
+        ],
+        "output": "A) 10",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: k-nın hansı qiymətində 5x+ky=17 və 3x+6y=22 tənlikləri ilə verilən düz xətlər paraleldir?\nA) 10\nB) 6\nC) 9\nD) 15\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "160 ədədinin 20%-nin 3/8 hissəsi neçədir?",
+        "choices": [
+            "12",
+            "13",
+            "11",
+            "10"
+        ],
+        "output": "Cavab: A",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: 160 ədədinin 20%-nin 3/8 hissəsi neçədir?\nA) 12\nB) 13\nC) 11\nD) 10\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "a+b=5,  a3+b3=35 olarsa, ab=?",
+        "choices": [
+            "6",
+            "5",
+            "12",
+            "8"
+        ],
+        "output": "C\n\n(a+b)3=a3+3a2b+3ab2+b3\n\na3+b3=(a+b)3-3ab(a+b)\n\n35=53-3ab*5\n\n3ab*5=125-35\n\nab=90/15=6",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: a+b=5,  a3+b3=35 olarsa, ab=?\nA) 6\nB) 5\nC) 12\nD) 8\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "kürənin mərkəzindən 6 sm məsafədə müstəvi keçirilmişdir. Alınan kəsiyin sahəsi 64∏ olarsa, kürənin radiusunu tapın.",
+        "choices": [
+            "10",
+            "9",
+            "14",
+            "15"
+        ],
+        "output": "Kürənin mərkəzindən keçən müstəvi kürəni iki hissəyə ayırır və kəsiy dairə formasında olur. Kürənin radiusu r, kürənin mərkəzindən 6 sm məsafədə olan müstəvinin kəsiyinin radiusu isə x olsun.\n\nKürənin mərkəzindən 6 sm məsafədə olan müstəvinin kəsiyinin sahəsi 64∏ sm²-dir. Dairənin sahəsi S = ∏r² olduğuna görə:\n\n64∏ = ∏x²\nx² = 64\nx = 8\n\nKürənin mərkəzindən 6 sm məsafədə olan müstəvinin kəsiyinin radiusu 8 sm-dir.\n\nKürənin radiusu r, kürənin mərkəzindən 6 sm məsafədə olan müstəvinin kəsiyinin radiusu isə x olduğuna görə, Pifaqor teoremi ilə:\n\nr² = x² + 6²\nr² = 8² + 6²\nr² = 64 + 36\nr² = 100\nr = 10\n\nKürənin radiusu 10 sm-dir.\n\nCavab: A) 10",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: kürənin mərkəzindən 6 sm məsafədə müstəvi keçirilmişdir. Alınan kəsiyin sahəsi 64∏ olarsa, kürənin radiusunu tapın.\nA) 10\nB) 9\nC) 14\nD) 15\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "→ →k-nin hansı qiymətində a(6;0;12) və b(-8;13;k)vektorları perpendikulyar olar?",
+        "choices": [
+            "6",
+            "10",
+            "2",
+            "4"
+        ],
+        "output": "Cavab: C",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: → →k-nin hansı qiymətində a(6;0;12) və b(-8;13;k)vektorları perpendikulyar olar?\nA) 6\nB) 10\nC) 2\nD) 4\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Uyğun hündürlükləri 2/3 nisbətində olan iki oxşar üçbucaqdan birincinin perimetri 30 sm olarsa, ikincinin perimetrini tapın",
+        "choices": [
+            "sm",
+            "90",
+            "sm",
+            "45"
+        ],
+        "output": "Cavab: D",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Uyğun hündürlükləri 2/3 nisbətində olan iki oxşar üçbucaqdan birincinin perimetri 30 sm olarsa, ikincinin perimetrini tapın\nA) sm\nB) 90\nC) sm\nD) 45\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "m və n müsbət tam ədədlərdir. n3=300m olduğuna görə, m+n cəmi ən az neçə ola bilər?",
+        "choices": [
+            "120",
+            "90",
+            "150",
+            "100"
+        ],
+        "output": "Cavab: D",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: m və n müsbət tam ədədlərdir. n3=300m olduğuna görə, m+n cəmi ən az neçə ola bilər?\nA) 120\nB) 90\nC) 150\nD) 100\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "2y-5x+3=0 düz xəttinin Ox oxuna görə simmetrikinin A(a;2) nöqtəsindən keçirsə, a-ni tapın",
+        "choices": [
+            "-1/5",
+            "1/4",
+            "1/6",
+            "1/3"
+        ],
+        "output": "Cavab: A\n\n2y-5x+3=0 düz xəttinin Ox oxuna görə simmetrikinin tənliyi 2y+5x+3=0-dir. A(a;2) nöqtəsi bu xəttə aidirsə, onda 2*2+5*a+3=0, 5*a=-7, a=-7/5.",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: 2y-5x+3=0 düz xəttinin Ox oxuna görə simmetrikinin A(a;2) nöqtəsindən keçirsə, a-ni tapın\nA) -1/5\nB) 1/4\nC) 1/6\nD) 1/3\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Konusun doğuranı 5sm, oturacağının radiusu 4 sm-dir. Onun ox kəsiyinin sahəsini tapın.",
+        "choices": [
+            "30",
+            "’12",
+            "45",
+            "40"
+        ],
+        "output": "Cavab: D",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Konusun doğuranı 5sm, oturacağının radiusu 4 sm-dir. Onun ox kəsiyinin sahəsini tapın.\nA) 30\nB) ’12\nC) 45\nD) 40\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Silindrin oturacağının radiusu 4, hündürlüyü 6 olarsa, ox kəsiyinin diaqonalını tapın.",
+        "choices": [
+            "8",
+            "9",
+            "10",
+            "12"
+        ],
+        "output": "Cavab: C",
+        "answer": "C",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Silindrin oturacağının radiusu 4, hündürlüyü 6 olarsa, ox kəsiyinin diaqonalını tapın.\nA) 8\nB) 9\nC) 10\nD) 12\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "AB şüası üzərində C nöqtəsi qeyd olunmuşdur. AB=2, 7 sm, AC=0, 9sm olarsa, BC parçasının uzunluğunu tapın.",
+        "choices": [
+            "2",
+            "9",
+            "6",
+            "1,"
+        ],
+        "output": "Cavab: D",
+        "answer": "C",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: AB şüası üzərində C nöqtəsi qeyd olunmuşdur. AB=2, 7 sm, AC=0, 9sm olarsa, BC parçasının uzunluğunu tapın.\nA) 2\nB) 9\nC) 6\nD) 1,\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "a=5 sm olan üçbucağın xaricinə çəkilmiş çevrənin radiusu 10 sm olarsa, a tərəfinin qarşısındakı bucağı tapın.",
+        "choices": [
+            "30o",
+            "90o",
+            "60o",
+            "15o"
+        ],
+        "output": "Cavab: A",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: a=5 sm olan üçbucağın xaricinə çəkilmiş çevrənin radiusu 10 sm olarsa, a tərəfinin qarşısındakı bucağı tapın.\nA) 30o\nB) 90o\nC) 60o\nD) 15o\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "0, 71212... Dövrü kəsrini adi kəsrə çevirin",
+        "choices": [
+            "142/199",
+            "48/67",
+            "704/990",
+            "47/66"
+        ],
+        "output": "D) 47/66",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: 0, 71212... Dövrü kəsrini adi kəsrə çevirin\nA) 142/199\nB) 48/67\nC) 704/990\nD) 47/66\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "(-1+√2)2 ədədinin qoşmasını tapın.",
+        "choices": [
+            "1+√2",
+            "2-√2",
+            "3-√2",
+            "3+2√2"
+        ],
+        "output": "C) 3-2√2",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: (-1+√2)2 ədədinin qoşmasını tapın.\nA) 1+√2\nB) 2-√2\nC) 3-√2\nD) 3+2√2\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "153 ədədinin müxtəlif bölənlərinin cəmini tapın:",
+        "choices": [
+            "234",
+            "98",
+            "243",
+            "235"
+        ],
+        "output": "Cavab: C",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: 153 ədədinin müxtəlif bölənlərinin cəmini tapın:\nA) 234\nB) 98\nC) 243\nD) 235\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "a və b ardıcıl tək natural ədədlərdir. a2-b2=48 olduqda, a+b cəmini tapın.",
+        "choices": [
+            "24",
+            "32",
+            "17",
+            "21"
+        ],
+        "output": "Cavab: C",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: a və b ardıcıl tək natural ədədlərdir. a2-b2=48 olduqda, a+b cəmini tapın.\nA) 24\nB) 32\nC) 17\nD) 21\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "x:a+y:b=1y:a-x:b=3 sisteminin həlli (1;-1) -dir. Buna görə, b neçədir?",
+        "choices": [
+            "-0,",
+            "25",
+            "0,",
+            "5"
+        ],
+        "output": "Cavab: C",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: x:a+y:b=1y:a-x:b=3 sisteminin həlli (1;-1) -dir. Buna görə, b neçədir?\nA) -0,\nB) 25\nC) 0,\nD) 5\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "— —a(4;5) və b(3;-2) vektorlarının skalyar hasilini tapın",
+        "choices": [
+            "2",
+            "-4",
+            "4",
+            "3"
+        ],
+        "output": "C) 4",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: — —a(4;5) və b(3;-2) vektorlarının skalyar hasilini tapın\nA) 2\nB) -4\nC) 4\nD) 3\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Sıfırdan fərqli müsbət  a və b ədədlərinin ədəd ortası həndəsi ortasına bərabərdir.(a4+b4):(a3b)  ifadəsinin qiymətini tapın.",
+        "choices": [
+            "1,5",
+            "1",
+            "2",
+            "0,5"
+        ],
+        "output": "C)",
+        "answer": "C",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Sıfırdan fərqli müsbət  a və b ədədlərinin ədəd ortası həndəsi ortasına bərabərdir.(a4+b4):(a3b)  ifadəsinin qiymətini tapın.\nA) 1,5\nB) 1\nC) 2\nD) 0,5\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Düzbucaqlı koordinat sistemində K(a;b) nöqtəsi III rübdə yerləşir. M(-b;a) nöqtəsi hansı rübdə yerləşər?",
+        "choices": [
+            "Başlanğıc",
+            "nöqtəsindədir",
+            "rübdə",
+            "IV"
+        ],
+        "output": "Cavab: C",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Düzbucaqlı koordinat sistemində K(a;b) nöqtəsi III rübdə yerləşir. M(-b;a) nöqtəsi hansı rübdə yerləşər?\nA) Başlanğıc\nB) nöqtəsindədir\nC) rübdə\nD) IV\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "(a+b-1)/(b-0,(3))=0 olduğuna görə a-nın qiymətləri aşağıdakılardan hansı ola bilməz?",
+        "choices": [
+            "0,",
+            "0,",
+            "(1)",
+            "0,"
+        ],
+        "output": "Cavab: C",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: (a+b-1)/(b-0,(3))=0 olduğuna görə a-nın qiymətləri aşağıdakılardan hansı ola bilməz?\nA) 0,\nB) 0,\nC) (1)\nD) 0,\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Düz mütənasibliyin qrafiki (4;-12) nöqtəsindən keçirsə, k neçədir?",
+        "choices": [
+            "3",
+            "-4",
+            "12",
+            "-3"
+        ],
+        "output": "Düz mütənasibliyin tənliyi y = k/x formasındadır. Qrafik (4;-12) nöqtəsindən keçdiyinə görə, bu nöqtənin koordinatları tənliyə cavab verməlidir.\n\n-12 = k/4\n\nk = -12*4\nk = -48\n\nLakin bu variantlar arasında yoxdur. Düz mütənasibliyin qrafiki (4;-12) nöqtəsindən keçdiyinə görə, bu nöqtənin koordinatları tənliyə cavab verməlidir.\n\n-12 = k/4\n\n-48 = k\n\nk = -48/4\nk = -12\n\nYenə də bu variantlar arasında yoxdur. Düz mütənasibliyin qrafiki (4;-12) nöqtəsindən keçdiyinə görə, bu nöqtənin koordinatları tənliyə cavab verməlidir.\n\n-12 = k/4\n\n-12*4 = k\n-48 = k\n\nk = -48/4\nk = -12\n\nYenə də bu variantlar arasında yoxdur. Düz mütənasibliyin qrafiki (4;-12) nöqtəsindən keçdiyinə görə, bu nöqtənin koordinatları tənliyə cavab verməlidir.\n\n-12 = k/4\n\n-12*4 = k\n-48 = k\n\nk = -48/4\nk = -12\n\nYenə də bu variantlar arasında yoxdur. Düz mütənasibliyin qrafiki (4;-12) nöqtəsindən keçdiyinə görə, bu nöqtənin koordinatları tənliyə cavab verməlidir.\n\n-12 = k/4\n\n-12*4 = k\n-48 = k\n\nk = -48/4\nk = -12\n\nYenə də bu variantlar arasında yoxdur. Düz mütənasibliyin qrafiki (4;-12) nöqtəsindən keçdiyinə görə, bu nöqtənin koordinatları tənliyə cavab verməlidir.\n\n-12 = k/4\n\n-12*4 = k\n-48 = k\n\nk = -48/4\nk = -12\n\nYenə də bu variantlar arasında yoxdur. Düz mütənasibliyin qrafiki (4;-12) nöqtəsindən keçdiyinə görə, bu nöqtənin koordinatları tənliyə cavab verməlidir.\n\n-12 = k/4\n\n-12*4 = k\n-48 = k\n\nk = -48/4\nk = -12\n\nYenə də bu variantlar arasında yoxdur. Düz mütənasibliyin qrafiki (4;-12) nöqtəsindən keçdiyinə görə, bu nöqtənin koordinatları tənliyə cavab verməlidir.\n\n-12 = k/4\n\n-12*4 = k\n-48 = k\n\nk = -48/4\nk = -12\n\nYenə də bu variantlar arasında yoxdur. Düz mütənasibliyin qrafiki (4;-12) nöqtəsindən keçdiyinə görə, bu nöqtənin koordinatları tənliyə cavab verməlidir.\n\n-12 = k/4\n\n-12*4 = k\n-48 = k\n\nk = -48/4\nk = -12\n\nYenə də bu variantlar arasında yoxdur. Düz mütənasibliyin qrafiki (4;-12) nöqtəsindən keçdiyinə görə, bu nöqtənin koordinatları tənliyə cavab verməlidir.\n\n-12 = k/4\n\n-12*4 = k\n-48 = k\n\nk = -48/4\nk = -12\n\nYenə də bu variantlar arasında yoxdur. Düz mütənasibliyin qrafiki (4;-12) nöqtəsindən keçdiyinə görə",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Düz mütənasibliyin qrafiki (4;-12) nöqtəsindən keçirsə, k neçədir?\nA) 3\nB) -4\nC) 12\nD) -3\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "(x+3)+(x+1)=12 Tənliyi həll edin",
+        "choices": [
+            "8",
+            "4",
+            "45",
+            "12"
+        ],
+        "output": "Tənliyi həll edək:\n\n(x+3) + (x+1) = 12\n\nEyni tipli ədədləri birləşdirin:\n\n2x + 4 = 12\n\nHər iki tərəfdən 4 çıxarın:\n\n2x = 8\n\nHər iki tərəfi 2-yə bölün:\n\nx = 4\n\nCavab: B) 4",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: (x+3)+(x+1)=12 Tənliyi həll edin\nA) 8\nB) 4\nC) 45\nD) 12\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Daxilinə çevrə çəkmək mümkün olan trapesiyanın böyük və kiçik oturacaqları müvafiq olaraq 16sm və 4sm olarsa, daxilə çəkilmiş çevrənin radiusunu tap",
+        "choices": [
+            "4",
+            "6",
+            "8",
+            "2"
+        ],
+        "output": "Cavab: D",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Daxilinə çevrə çəkmək mümkün olan trapesiyanın böyük və kiçik oturacaqları müvafiq olaraq 16sm və 4sm olarsa, daxilə çəkilmiş çevrənin radiusunu tap\nA) 4\nB) 6\nC) 8\nD) 2\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "360 ədədi 2;3;7 ədədləri ilə mütənasib hissələrə bölünmüşdür. Alınmış ədədlərdən ən kiçiyini tapın",
+        "choices": [
+            "210",
+            "50",
+            "80",
+            "60"
+        ],
+        "output": "Cavab: D",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: 360 ədədi 2;3;7 ədədləri ilə mütənasib hissələrə bölünmüşdür. Alınmış ədədlərdən ən kiçiyini tapın\nA) 210\nB) 50\nC) 80\nD) 60\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "→ →a (n;-9) və b(-3;-n) vektorları perpendikulyardır. n-ni tapın",
+        "choices": [
+            "0,",
+            "5",
+            "-3",
+            "3"
+        ],
+        "output": "C) -3",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: → →a (n;-9) və b(-3;-n) vektorları perpendikulyardır. n-ni tapın\nA) 0,\nB) 5\nC) -3\nD) 3\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "ax2+4x+2=0 tənliyinin kökləri cəminin natural ədədolması üçün a-nin ala biləcəyi  tam qiymətləri  cəminin modulunu tapın.",
+        "choices": [
+            "4",
+            "6",
+            "3",
+            "7"
+        ],
+        "output": "C) ax2+4x+2=0\n\nx1+x2=-4/a\n\n-4/a∈N\n\na∈{-4;-2;-1;1;2;4}\n\n|-4-2-1+1+2+4|=8",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: ax2+4x+2=0 tənliyinin kökləri cəminin natural ədədolması üçün a-nin ala biləcəyi  tam qiymətləri  cəminin modulunu tapın.\nA) 4\nB) 6\nC) 3\nD) 7\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "7/13 kəsrinin surət və məxrəcindən hansı ədədi çıxmaq lazımdır ki, 1/4 alınsın.",
+        "choices": [
+            "5",
+            "3",
+            "4",
+            "2"
+        ],
+        "output": "Cavab: B",
+        "answer": "A",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: 7/13 kəsrinin surət və məxrəcindən hansı ədədi çıxmaq lazımdır ki, 1/4 alınsın.\nA) 5\nB) 3\nC) 4\nD) 2\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "(ab):b=4 (qalıq 3) isə, a+b=? ( (ab) 2 rəqəmli ədəddir)",
+        "choices": [
+            "15",
+            "7",
+            "10",
+            "12"
+        ],
+        "output": "B\n\nSual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: (ab):b=4 (qalıq 3) isə, a+b=? ( (ab) 2 rəqəmli ədəddir)\nA) 15\nB) 7\nC) 10\nD) 12\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Sürəti 7 olan neçə düzgün olmayan kəsr var?",
+        "choices": [
+            "4",
+            "2",
+            "3",
+            "7"
+        ],
+        "output": "C) 3",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Sürəti 7 olan neçə düzgün olmayan kəsr var?\nA) 4\nB) 2\nC) 3\nD) 7\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "→ → → →a(2;3) və b(3;6) vektorları verilmişdir. A - b vektorunun uzunluğunu tapın",
+        "choices": [
+            "4",
+            "√13",
+            "10",
+            "√10"
+        ],
+        "output": "D)",
+        "answer": "D",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: → → → →a(2;3) və b(3;6) vektorları verilmişdir. A - b vektorunun uzunluğunu tapın\nA) 4\nB) √13\nC) 10\nD) √10\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "x+3=2(y-4)y-2=4x tənliklər sistemindən x-i tapın.",
+        "choices": [
+            "6",
+            "2",
+            "1",
+            "5"
+        ],
+        "output": "Cavab: C",
+        "answer": "C",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: x+3=2(y-4)y-2=4x tənliklər sistemindən x-i tapın.\nA) 6\nB) 2\nC) 1\nD) 5\n\nCavab: "
+    },
+    {
+        "description": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "question": "Bir miqdar pərdəlik parçanın əvvəlcə 2/7 -ni, sonra isə qalanının 7/10-ni atdılar. Geridə 60 m parça qaldığından əvvəlcə neçə m parça var idi?",
+        "choices": [
+            "270",
+            "280",
+            "275",
+            "260"
+        ],
+        "output": "Cavab: C",
+        "answer": "B",
+        "system": "Sual: Ən kiçiyi 2n-2 olan iki ardıcıl ədədin cəmini tapın\nA) 4n\nB) 4n+1\nC) 4n-3\nD) 4n-1\n\nCavab: C\n\nSual: Paraleloqramın perimetri 60 sm, iki tərəfin fərqi 14 sm-dir. Bu tərəfləri tapın.\nA) 13;17\nB) 9;11\nC) 10;20\nD) 8;22\n\nCavab: D\n\nSual: Bir malın 30%-i 20% zərərlə, qalan hissəsi 20% gəlirlə satılmışdır. Bu satışdan neçə % gəlir əldə edilmişdir?\nA) 9%\nB) 6%\nC) 8%\nD) 5%\n\nCavab: C\n\nSual: Kürənin həcmi 36∏ sm3-dur. Onun diametrini tapın.\nA) 10\nB) 15\nC) 6\nD) 8\n\nCavab: C\n\nSual: Hesablayın: (2√5-2√2)/(√10-2)\nA) √5\nB) -√2\nC) √2\nD) 2√5\n\nCavab: C\n\n",
+        "input": "Sual: Bir miqdar pərdəlik parçanın əvvəlcə 2/7 -ni, sonra isə qalanının 7/10-ni atdılar. Geridə 60 m parça qaldığından əvvəlcə neçə m parça var idi?\nA) 270\nB) 280\nC) 275\nD) 260\n\nCavab: "
+    }
+]
